@@ -815,3 +815,4 @@
 2025-06-30T00:32:15+0000  docs: add usage examples
 2023-01-03T21:29:23+0000  chore: bump dependencies
 2023-01-04T05:21:22+0000  perf: avoid redundant allocations
+2023-01-04T07:19:46+0000  fix: guard against None in serializer
