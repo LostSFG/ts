@@ -843,3 +843,4 @@
 2023-01-04T03:36:50+0000  chore: remove dead code
 2023-01-04T09:05:42+0000  chore: update lockfile
 2023-01-07T09:02:30+0000  refactor: simplify control flow
+2023-01-07T10:34:47+0000  docs: add usage examples
