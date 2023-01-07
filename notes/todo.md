@@ -791,3 +791,4 @@
 2023-01-02T22:10:02+0000  chore: update lockfile
 2023-01-03T17:40:50+0000  chore: update lockfile
 2023-01-03T18:11:28+0000  test: add regression test for #142
+2023-01-07T09:28:55+0000  feat: cache computed values
