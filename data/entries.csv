@@ -797,3 +797,4 @@
 2025-06-26T09:29:31+0000  chore: bump dependencies
 2025-06-27T18:56:34+0000  docs: add usage examples
 2023-01-05T18:58:06+0000  docs: add usage examples
+2023-01-07T06:16:22+0000  perf: avoid redundant allocations
