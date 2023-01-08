@@ -4,3 +4,4 @@
 2023-01-02T20:35:19+0000  chore: update lockfile
 2023-01-05T11:18:00+0000  refactor: simplify control flow
 2023-01-05T14:55:19+0000  feat: cache computed values
+2023-01-08T09:51:42+0000  docs: add usage examples
