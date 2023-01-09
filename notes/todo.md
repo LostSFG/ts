@@ -5,3 +5,4 @@
 2023-01-05T12:21:52+0000  feat: support config file overrides
 2023-01-08T15:35:18+0000  chore: update lockfile
 2023-01-08T18:51:41+0000  test: cover edge case in parser
+2023-01-09T11:08:03+0000  chore: remove dead code
