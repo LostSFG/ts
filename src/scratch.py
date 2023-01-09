@@ -5,3 +5,4 @@
 2023-01-05T11:18:00+0000  refactor: simplify control flow
 2023-01-05T14:55:19+0000  feat: cache computed values
 2023-01-08T09:51:42+0000  docs: add usage examples
+2023-01-09T01:45:12+0000  perf: avoid redundant allocations
