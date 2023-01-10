@@ -800,3 +800,4 @@
 2023-01-07T06:16:22+0000  perf: avoid redundant allocations
 2023-01-09T05:49:37+0000  chore: update lockfile
 2023-01-09T12:49:27+0000  fix: handle empty response from upstream
+2023-01-10T22:38:20+0000  test: add regression test for #142
