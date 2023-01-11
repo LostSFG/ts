@@ -7,3 +7,4 @@
 2023-01-08T18:51:41+0000  test: cover edge case in parser
 2023-01-09T11:08:03+0000  chore: remove dead code
 2023-01-09T12:16:34+0000  feat: add retry with backoff
+2023-01-11T13:35:49+0000  fix: guard against None in serializer
