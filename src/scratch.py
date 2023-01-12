@@ -845,3 +845,4 @@
 2023-01-07T09:02:30+0000  refactor: simplify control flow
 2023-01-07T10:34:47+0000  docs: add usage examples
 2023-01-09T05:22:08+0000  feat: support config file overrides
+2023-01-12T00:55:02+0000  fix: guard against None in serializer
