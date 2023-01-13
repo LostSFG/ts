@@ -10,3 +10,4 @@
 2023-01-11T13:35:49+0000  fix: guard against None in serializer
 2023-01-11T18:51:28+0000  fix: typo in error message
 2023-01-13T04:46:51+0000  style: tidy up imports
+2023-01-13T13:51:40+0000  feat: support config file overrides
