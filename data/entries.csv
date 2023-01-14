@@ -6,3 +6,4 @@
 2023-01-10T19:03:45+0000  chore: update lockfile
 2023-01-13T02:11:18+0000  fix: correct timezone handling
 2023-01-13T03:43:26+0000  refactor: simplify control flow
+2023-01-14T16:34:30+0000  test: add regression test for #142
