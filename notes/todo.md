@@ -14,3 +14,4 @@
 2023-01-14T15:57:42+0000  fix: correct timezone handling
 2023-01-16T00:58:06+0000  build: pin toolchain version
 2023-01-16T03:48:45+0000  chore: remove dead code
+2023-01-16T11:11:16+0000  test: cover edge case in parser
