@@ -823,3 +823,4 @@
 2023-01-12T04:48:11+0000  style: tidy up imports
 2023-01-15T15:05:03+0000  test: cover edge case in parser
 2023-01-16T09:32:30+0000  feat: cache computed values
+2023-01-16T11:24:53+0000  chore: bump dependencies
