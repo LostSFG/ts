@@ -9,3 +9,4 @@
 2023-01-09T11:19:17+0000  style: tidy up imports
 2023-01-09T16:25:02+0000  style: tidy up imports
 2023-01-16T03:30:50+0000  feat: expose --verbose flag
+2023-01-16T15:12:39+0000  docs: add usage examples
