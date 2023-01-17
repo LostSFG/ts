@@ -847,3 +847,4 @@
 2023-01-09T05:22:08+0000  feat: support config file overrides
 2023-01-12T00:55:02+0000  fix: guard against None in serializer
 2023-01-17T05:29:06+0000  feat: expose --verbose flag
+2023-01-17T10:20:43+0000  refactor: extract helper for date parsing
