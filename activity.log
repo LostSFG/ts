@@ -6,3 +6,4 @@
 2023-01-09T12:58:50+0000  docs: clarify setup instructions
 2023-01-09T20:07:14+0000  fix: correct timezone handling
 2023-01-13T09:06:39+0000  test: cover edge case in parser
+2023-01-17T09:33:12+0000  refactor: simplify control flow
