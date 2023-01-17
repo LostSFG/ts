@@ -848,3 +848,4 @@
 2023-01-12T00:55:02+0000  fix: guard against None in serializer
 2023-01-17T05:29:06+0000  feat: expose --verbose flag
 2023-01-17T10:20:43+0000  refactor: extract helper for date parsing
+2023-01-17T14:44:34+0000  fix: correct timezone handling
