@@ -849,3 +849,4 @@
 2023-01-17T05:29:06+0000  feat: expose --verbose flag
 2023-01-17T10:20:43+0000  refactor: extract helper for date parsing
 2023-01-17T14:44:34+0000  fix: correct timezone handling
+2023-01-18T07:53:11+0000  test: cover edge case in parser
