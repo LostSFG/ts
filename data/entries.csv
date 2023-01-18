@@ -11,3 +11,4 @@
 2023-01-16T06:14:07+0000  style: tidy up imports
 2023-01-18T07:00:38+0000  feat: expose --verbose flag
 2023-01-18T07:14:55+0000  fix: handle empty response from upstream
+2023-01-18T21:53:45+0000  perf: avoid redundant allocations
