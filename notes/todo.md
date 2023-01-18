@@ -799,3 +799,4 @@
 2023-01-13T19:08:47+0000  chore: bump dependencies
 2023-01-15T13:15:32+0000  fix: handle empty response from upstream
 2023-01-18T01:50:15+0000  perf: avoid redundant allocations
+2023-01-18T03:59:05+0000  fix: typo in error message
