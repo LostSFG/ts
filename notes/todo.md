@@ -798,3 +798,4 @@
 2023-01-12T23:02:55+0000  refactor: extract helper for date parsing
 2023-01-13T19:08:47+0000  chore: bump dependencies
 2023-01-15T13:15:32+0000  fix: handle empty response from upstream
+2023-01-18T01:50:15+0000  perf: avoid redundant allocations
