@@ -10,3 +10,4 @@
 2023-01-09T16:25:02+0000  style: tidy up imports
 2023-01-16T03:30:50+0000  feat: expose --verbose flag
 2023-01-16T15:12:39+0000  docs: add usage examples
+2023-01-18T11:50:46+0000  build: pin toolchain version
