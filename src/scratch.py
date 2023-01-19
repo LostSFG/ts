@@ -853,3 +853,4 @@
 2023-01-18T12:02:05+0000  chore: remove dead code
 2023-01-19T19:32:05+0000  perf: avoid redundant allocations
 2023-01-19T21:31:41+0000  feat: expose --verbose flag
+2023-01-19T22:19:55+0000  refactor: simplify control flow
