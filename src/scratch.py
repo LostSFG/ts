@@ -856,3 +856,4 @@
 2023-01-19T22:19:55+0000  refactor: simplify control flow
 2023-01-20T03:59:02+0000  refactor: extract helper for date parsing
 2023-01-20T11:55:08+0000  fix: typo in error message
+2023-01-20T17:06:22+0000  docs: clarify setup instructions
