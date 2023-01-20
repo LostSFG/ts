@@ -855,3 +855,4 @@
 2023-01-19T21:31:41+0000  feat: expose --verbose flag
 2023-01-19T22:19:55+0000  refactor: simplify control flow
 2023-01-20T03:59:02+0000  refactor: extract helper for date parsing
+2023-01-20T11:55:08+0000  fix: typo in error message
