@@ -12,3 +12,4 @@
 2023-01-16T15:12:39+0000  docs: add usage examples
 2023-01-18T11:50:46+0000  build: pin toolchain version
 2023-01-20T00:05:45+0000  build: pin toolchain version
+2023-01-20T03:29:36+0000  fix: typo in error message
