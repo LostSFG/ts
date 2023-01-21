@@ -22,3 +22,4 @@
 2023-01-18T11:01:20+0000  refactor: extract helper for date parsing
 2023-01-18T22:49:55+0000  fix: guard against None in serializer
 2023-01-21T02:51:13+0000  build: pin toolchain version
+2023-01-21T12:43:23+0000  docs: add usage examples
