@@ -858,3 +858,4 @@
 2023-01-20T11:55:08+0000  fix: typo in error message
 2023-01-20T17:06:22+0000  docs: clarify setup instructions
 2023-01-20T18:29:53+0000  feat: support config file overrides
+2023-01-23T17:36:51+0000  feat: expose --verbose flag
