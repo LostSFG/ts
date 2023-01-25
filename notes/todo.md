@@ -803,3 +803,4 @@
 2023-01-18T09:28:25+0000  feat: add retry with backoff
 2023-01-19T18:44:11+0000  chore: update lockfile
 2023-01-20T06:10:59+0000  docs: add usage examples
+2023-01-25T15:45:22+0000  docs: add usage examples
