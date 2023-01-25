@@ -25,3 +25,4 @@
 2023-01-21T12:43:23+0000  docs: add usage examples
 2023-01-21T18:44:56+0000  chore: update lockfile
 2023-01-25T17:39:51+0000  feat: expose --verbose flag
+2023-01-25T19:36:14+0000  feat: cache computed values
