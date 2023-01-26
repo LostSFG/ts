@@ -860,3 +860,4 @@
 2023-01-20T18:29:53+0000  feat: support config file overrides
 2023-01-23T17:36:51+0000  feat: expose --verbose flag
 2023-01-24T07:49:32+0000  feat: support config file overrides
+2023-01-26T10:26:58+0000  refactor: simplify control flow
