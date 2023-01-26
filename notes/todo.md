@@ -806,3 +806,4 @@
 2023-01-25T15:45:22+0000  docs: add usage examples
 2023-01-26T14:07:44+0000  docs: add usage examples
 2023-01-26T16:35:48+0000  feat: cache computed values
+2023-01-26T20:29:26+0000  fix: handle empty response from upstream
