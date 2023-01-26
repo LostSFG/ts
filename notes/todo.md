@@ -804,3 +804,4 @@
 2023-01-19T18:44:11+0000  chore: update lockfile
 2023-01-20T06:10:59+0000  docs: add usage examples
 2023-01-25T15:45:22+0000  docs: add usage examples
+2023-01-26T14:07:44+0000  docs: add usage examples
