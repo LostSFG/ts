@@ -19,3 +19,4 @@
 2023-01-25T17:13:52+0000  style: tidy up imports
 2023-01-26T08:31:10+0000  fix: guard against None in serializer
 2023-01-27T03:58:50+0000  feat: support config file overrides
+2023-01-27T11:44:17+0000  perf: avoid redundant allocations
