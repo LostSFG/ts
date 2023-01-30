@@ -863,3 +863,4 @@
 2023-01-26T10:26:58+0000  refactor: simplify control flow
 2023-01-27T08:54:15+0000  fix: handle empty response from upstream
 2023-01-27T14:48:28+0000  feat: support config file overrides
+2023-01-30T17:27:17+0000  test: add regression test for #142
