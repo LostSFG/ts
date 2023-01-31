@@ -17,3 +17,4 @@
 2023-01-25T13:54:17+0000  refactor: simplify control flow
 2023-01-27T22:55:42+0000  refactor: simplify control flow
 2023-01-30T14:55:31+0000  chore: update lockfile
+2023-01-31T00:57:55+0000  feat: add retry with backoff
