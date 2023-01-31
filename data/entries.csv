@@ -28,3 +28,4 @@
 2023-01-30T10:56:01+0000  fix: typo in error message
 2023-01-30T11:04:34+0000  build: pin toolchain version
 2023-01-30T18:44:23+0000  refactor: simplify control flow
+2023-01-31T10:39:49+0000  refactor: simplify control flow
