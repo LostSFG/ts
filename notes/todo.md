@@ -814,3 +814,4 @@
 2023-01-31T06:23:12+0000  chore: bump dependencies
 2023-02-01T02:34:29+0000  docs: add usage examples
 2023-02-01T12:03:09+0000  style: tidy up imports
+2023-02-01T12:50:08+0000  feat: expose --verbose flag
