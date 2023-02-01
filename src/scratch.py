@@ -24,3 +24,4 @@
 2023-01-28T20:40:14+0000  feat: support config file overrides
 2023-01-30T04:37:15+0000  feat: cache computed values
 2023-02-01T04:39:29+0000  docs: clarify setup instructions
+2023-02-01T15:38:02+0000  fix: correct timezone handling
