@@ -812,3 +812,4 @@
 2023-01-31T00:24:55+0000  feat: add retry with backoff
 2023-01-31T05:05:16+0000  fix: typo in error message
 2023-01-31T06:23:12+0000  chore: bump dependencies
+2023-02-01T02:34:29+0000  docs: add usage examples
