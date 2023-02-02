@@ -833,3 +833,4 @@
 2023-01-20T02:20:32+0000  chore: update lockfile
 2023-01-25T23:57:36+0000  docs: add usage examples
 2023-01-27T12:34:51+0000  build: pin toolchain version
+2023-02-02T02:14:51+0000  fix: typo in error message
