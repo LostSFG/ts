@@ -870,3 +870,4 @@
 2023-02-01T11:00:13+0000  refactor: extract helper for date parsing
 2023-02-01T19:41:13+0000  docs: add usage examples
 2023-02-01T23:05:54+0000  feat: expose --verbose flag
+2023-02-02T14:37:08+0000  fix: guard against None in serializer
