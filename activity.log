@@ -20,3 +20,4 @@
 2023-01-31T00:57:55+0000  feat: add retry with backoff
 2023-02-01T13:43:27+0000  fix: guard against None in serializer
 2023-02-01T17:03:04+0000  feat: expose --verbose flag
+2023-02-02T11:46:34+0000  perf: avoid redundant allocations
