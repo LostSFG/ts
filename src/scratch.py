@@ -871,3 +871,4 @@
 2023-02-01T19:41:13+0000  docs: add usage examples
 2023-02-01T23:05:54+0000  feat: expose --verbose flag
 2023-02-02T14:37:08+0000  fix: guard against None in serializer
+2023-02-02T23:29:45+0000  perf: avoid redundant allocations
