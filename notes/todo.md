@@ -30,3 +30,4 @@
 2023-01-26T09:16:41+0000  feat: cache computed values
 2023-01-26T23:11:42+0000  docs: add usage examples
 2023-01-27T04:44:28+0000  feat: expose --verbose flag
+2023-02-03T18:37:07+0000  test: add regression test for #142
