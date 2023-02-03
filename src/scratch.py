@@ -28,3 +28,4 @@
 2023-02-02T01:01:14+0000  style: tidy up imports
 2023-02-02T09:51:15+0000  build: pin toolchain version
 2023-02-02T17:31:49+0000  chore: update lockfile
+2023-02-03T02:32:28+0000  docs: add usage examples
