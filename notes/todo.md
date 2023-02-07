@@ -31,3 +31,4 @@
 2023-01-26T23:11:42+0000  docs: add usage examples
 2023-01-27T04:44:28+0000  feat: expose --verbose flag
 2023-02-03T18:37:07+0000  test: add regression test for #142
+2023-02-07T02:28:43+0000  chore: bump dependencies
