@@ -836,3 +836,4 @@
 2023-02-02T02:14:51+0000  fix: typo in error message
 2023-02-02T09:14:41+0000  style: tidy up imports
 2023-02-02T18:41:04+0000  docs: add usage examples
+2023-02-07T00:57:23+0000  test: add regression test for #142
