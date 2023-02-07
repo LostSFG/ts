@@ -30,3 +30,4 @@
 2023-02-02T17:31:49+0000  chore: update lockfile
 2023-02-03T02:32:28+0000  docs: add usage examples
 2023-02-06T00:21:01+0000  feat: expose --verbose flag
+2023-02-07T02:36:55+0000  chore: bump dependencies
