@@ -34,3 +34,4 @@
 2023-02-07T02:28:43+0000  chore: bump dependencies
 2023-02-07T13:32:33+0000  fix: handle empty response from upstream
 2023-02-07T15:32:31+0000  fix: handle empty response from upstream
+2023-02-07T22:40:31+0000  docs: clarify setup instructions
