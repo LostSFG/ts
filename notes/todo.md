@@ -36,3 +36,4 @@
 2023-02-07T15:32:31+0000  fix: handle empty response from upstream
 2023-02-07T22:40:31+0000  docs: clarify setup instructions
 2023-02-08T08:43:48+0000  fix: typo in error message
+2023-02-08T11:46:17+0000  fix: typo in error message
