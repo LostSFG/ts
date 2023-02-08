@@ -873,3 +873,4 @@
 2023-02-02T14:37:08+0000  fix: guard against None in serializer
 2023-02-02T23:29:45+0000  perf: avoid redundant allocations
 2023-02-04T03:03:31+0000  perf: avoid redundant allocations
+2023-02-08T13:00:09+0000  refactor: extract helper for date parsing
