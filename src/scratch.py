@@ -33,3 +33,4 @@
 2023-02-07T02:36:55+0000  chore: bump dependencies
 2023-02-08T07:45:38+0000  test: cover edge case in parser
 2023-02-09T08:03:00+0000  test: add regression test for #142
+2023-02-09T10:32:37+0000  fix: correct timezone handling
