@@ -827,3 +827,4 @@
 2023-02-06T10:54:46+0000  perf: avoid redundant allocations
 2023-02-07T01:36:31+0000  chore: update lockfile
 2023-02-08T18:38:05+0000  test: cover edge case in parser
+2023-02-10T03:17:57+0000  refactor: simplify control flow
