@@ -876,3 +876,4 @@
 2023-02-08T13:00:09+0000  refactor: extract helper for date parsing
 2023-02-08T14:24:28+0000  build: pin toolchain version
 2023-02-10T22:46:29+0000  docs: clarify setup instructions
+2023-02-11T11:36:45+0000  fix: typo in error message
