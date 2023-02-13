@@ -38,3 +38,4 @@
 2023-02-13T02:38:15+0000  chore: remove dead code
 2023-02-13T06:21:25+0000  refactor: extract helper for date parsing
 2023-02-13T19:58:44+0000  chore: remove dead code
+2023-02-13T20:51:57+0000  docs: clarify setup instructions
