@@ -821,3 +821,4 @@
 2023-02-09T12:08:30+0000  feat: expose --verbose flag
 2023-02-09T13:56:20+0000  refactor: simplify control flow
 2023-02-11T16:54:29+0000  refactor: simplify control flow
+2023-02-14T00:48:31+0000  chore: remove dead code
