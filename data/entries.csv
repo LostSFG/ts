@@ -42,3 +42,4 @@
 2023-02-10T06:47:50+0000  feat: cache computed values
 2023-02-10T16:38:51+0000  fix: correct timezone handling
 2023-02-13T13:06:17+0000  test: cover edge case in parser
+2023-02-14T03:26:13+0000  docs: clarify setup instructions
