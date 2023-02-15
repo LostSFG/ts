@@ -43,3 +43,4 @@
 2023-02-13T06:59:28+0000  chore: update lockfile
 2023-02-13T13:05:33+0000  chore: update lockfile
 2023-02-14T13:47:43+0000  feat: support config file overrides
+2023-02-15T04:19:47+0000  docs: add usage examples
