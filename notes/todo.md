@@ -827,3 +827,4 @@
 2023-02-16T21:22:00+0000  fix: typo in error message
 2023-02-17T02:34:50+0000  chore: bump dependencies
 2023-02-17T06:23:17+0000  docs: clarify setup instructions
+2023-02-17T23:26:43+0000  docs: add usage examples
