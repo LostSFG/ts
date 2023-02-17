@@ -832,3 +832,4 @@
 2023-02-15T16:11:22+0000  refactor: extract helper for date parsing
 2023-02-16T17:08:37+0000  style: tidy up imports
 2023-02-16T20:58:45+0000  feat: support config file overrides
+2023-02-17T08:20:01+0000  perf: avoid redundant allocations
