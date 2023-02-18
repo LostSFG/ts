@@ -44,3 +44,4 @@
 2023-02-16T02:34:40+0000  feat: cache computed values
 2023-02-16T18:30:46+0000  docs: add usage examples
 2023-02-17T06:56:57+0000  fix: handle empty response from upstream
+2023-02-18T08:47:18+0000  test: add regression test for #142
