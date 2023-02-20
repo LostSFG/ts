@@ -47,3 +47,4 @@
 2023-02-17T16:35:22+0000  fix: correct timezone handling
 2023-02-18T08:25:51+0000  refactor: simplify control flow
 2023-02-18T14:55:15+0000  test: add regression test for #142
+2023-02-20T09:30:42+0000  feat: add retry with backoff
