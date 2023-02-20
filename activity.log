@@ -36,3 +36,4 @@
 2023-02-13T05:32:26+0000  test: add regression test for #142
 2023-02-17T12:24:16+0000  refactor: simplify control flow
 2023-02-18T19:57:56+0000  chore: bump dependencies
+2023-02-20T20:40:06+0000  fix: guard against None in serializer
