@@ -47,3 +47,4 @@
 2023-02-16T04:38:56+0000  fix: typo in error message
 2023-02-17T11:08:56+0000  refactor: extract helper for date parsing
 2023-02-21T06:46:43+0000  chore: remove dead code
+2023-02-21T17:15:16+0000  docs: clarify setup instructions
