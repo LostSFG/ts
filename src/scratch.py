@@ -879,3 +879,4 @@
 2023-02-11T11:36:45+0000  fix: typo in error message
 2023-02-15T06:15:51+0000  test: cover edge case in parser
 2023-02-15T23:43:16+0000  feat: support config file overrides
+2023-02-22T07:36:12+0000  fix: correct timezone handling
