@@ -830,3 +830,4 @@
 2023-02-17T23:26:43+0000  docs: add usage examples
 2023-02-19T08:54:58+0000  docs: clarify setup instructions
 2023-02-21T10:07:17+0000  feat: cache computed values
+2023-02-22T04:12:31+0000  feat: support config file overrides
