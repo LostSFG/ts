@@ -50,3 +50,4 @@
 2023-02-22T02:41:24+0000  fix: handle empty response from upstream
 2023-02-22T15:31:41+0000  feat: expose --verbose flag
 2023-02-23T10:07:42+0000  fix: correct timezone handling
+2023-02-23T16:06:21+0000  refactor: extract helper for date parsing
