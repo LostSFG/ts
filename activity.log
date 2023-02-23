@@ -41,3 +41,4 @@
 2023-02-21T10:27:12+0000  perf: avoid redundant allocations
 2023-02-22T06:21:18+0000  fix: guard against None in serializer
 2023-02-22T18:11:47+0000  docs: clarify setup instructions
+2023-02-23T11:59:02+0000  chore: update lockfile
