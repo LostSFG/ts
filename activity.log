@@ -852,3 +852,4 @@
 2023-02-23T08:38:29+0000  refactor: simplify control flow
 2023-02-23T18:15:51+0000  feat: expose --verbose flag
 2023-02-23T20:04:35+0000  feat: support config file overrides
+2023-02-23T21:35:28+0000  perf: avoid redundant allocations
