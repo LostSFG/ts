@@ -881,3 +881,4 @@
 2023-02-15T23:43:16+0000  feat: support config file overrides
 2023-02-22T07:36:12+0000  fix: correct timezone handling
 2023-02-23T02:48:24+0000  chore: update lockfile
+2023-02-23T16:21:15+0000  perf: avoid redundant allocations
