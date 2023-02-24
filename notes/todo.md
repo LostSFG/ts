@@ -833,3 +833,4 @@
 2023-02-22T04:12:31+0000  feat: support config file overrides
 2023-02-22T22:58:34+0000  chore: update lockfile
 2023-02-23T23:17:20+0000  chore: remove dead code
+2023-02-24T10:36:19+0000  test: add regression test for #142
