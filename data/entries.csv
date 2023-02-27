@@ -837,3 +837,4 @@
 2023-02-22T19:40:42+0000  build: pin toolchain version
 2023-02-23T17:02:11+0000  test: cover edge case in parser
 2023-02-26T09:31:41+0000  feat: add retry with backoff
+2023-02-27T22:17:09+0000  docs: add usage examples
