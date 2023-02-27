@@ -51,3 +51,4 @@
 2023-02-22T15:31:41+0000  feat: expose --verbose flag
 2023-02-23T10:07:42+0000  fix: correct timezone handling
 2023-02-23T16:06:21+0000  refactor: extract helper for date parsing
+2023-02-27T04:05:32+0000  fix: typo in error message
