@@ -837,3 +837,4 @@
 2023-02-26T04:21:20+0000  refactor: extract helper for date parsing
 2023-02-27T03:32:14+0000  build: pin toolchain version
 2023-02-27T15:27:06+0000  refactor: simplify control flow
+2023-02-28T13:19:02+0000  docs: add usage examples
