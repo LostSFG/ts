@@ -841,3 +841,4 @@
 2023-02-28T19:57:55+0000  build: pin toolchain version
 2023-03-01T14:15:04+0000  chore: update lockfile
 2023-03-01T20:46:32+0000  chore: bump dependencies
+2023-03-01T21:08:19+0000  test: cover edge case in parser
