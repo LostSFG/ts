@@ -887,3 +887,4 @@
 2023-02-27T07:18:11+0000  fix: typo in error message
 2023-02-27T23:43:47+0000  fix: guard against None in serializer
 2023-03-02T07:08:20+0000  docs: clarify setup instructions
+2023-03-02T07:08:45+0000  docs: clarify setup instructions
