@@ -55,3 +55,4 @@
 2023-02-27T10:15:42+0000  fix: correct timezone handling
 2023-02-27T20:32:06+0000  fix: correct timezone handling
 2023-03-01T15:20:28+0000  docs: clarify setup instructions
+2023-03-02T02:10:43+0000  fix: guard against None in serializer
