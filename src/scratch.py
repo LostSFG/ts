@@ -54,3 +54,4 @@
 2023-02-27T04:05:32+0000  fix: typo in error message
 2023-03-02T01:35:14+0000  feat: add retry with backoff
 2023-03-02T10:15:39+0000  refactor: simplify control flow
+2023-03-03T03:48:18+0000  docs: add usage examples
