@@ -845,3 +845,4 @@
 2023-03-02T22:12:54+0000  perf: avoid redundant allocations
 2023-03-02T23:35:21+0000  chore: bump dependencies
 2023-03-03T18:44:58+0000  fix: guard against None in serializer
+2023-03-04T19:38:31+0000  feat: expose --verbose flag
