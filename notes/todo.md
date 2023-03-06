@@ -57,3 +57,4 @@
 2023-03-01T15:20:28+0000  docs: clarify setup instructions
 2023-03-02T02:10:43+0000  fix: guard against None in serializer
 2023-03-03T09:06:37+0000  test: add regression test for #142
+2023-03-06T04:33:36+0000  feat: cache computed values
