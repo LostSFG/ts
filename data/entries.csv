@@ -65,3 +65,4 @@
 2023-03-03T03:58:04+0000  perf: avoid redundant allocations
 2023-03-06T16:47:24+0000  docs: clarify setup instructions
 2023-03-06T22:15:44+0000  chore: bump dependencies
+2023-03-07T11:25:21+0000  feat: add retry with backoff
