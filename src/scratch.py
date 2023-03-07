@@ -890,3 +890,4 @@
 2023-03-02T07:08:45+0000  docs: clarify setup instructions
 2023-03-05T04:03:29+0000  style: tidy up imports
 2023-03-06T13:36:17+0000  build: pin toolchain version
+2023-03-07T17:22:57+0000  chore: bump dependencies
