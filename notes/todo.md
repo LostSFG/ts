@@ -844,3 +844,4 @@
 2023-03-01T21:08:19+0000  test: cover edge case in parser
 2023-03-02T09:41:33+0000  chore: bump dependencies
 2023-03-02T10:49:13+0000  perf: avoid redundant allocations
+2023-03-07T00:42:07+0000  chore: remove dead code
