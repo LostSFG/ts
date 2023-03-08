@@ -59,3 +59,4 @@
 2023-03-03T09:06:37+0000  test: add regression test for #142
 2023-03-06T04:33:36+0000  feat: cache computed values
 2023-03-07T08:57:46+0000  perf: avoid redundant allocations
+2023-03-08T16:02:58+0000  build: pin toolchain version
