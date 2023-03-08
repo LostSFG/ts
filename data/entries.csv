@@ -848,3 +848,4 @@
 2023-03-04T19:38:31+0000  feat: expose --verbose flag
 2023-03-07T23:43:29+0000  feat: add retry with backoff
 2023-03-08T13:14:52+0000  style: tidy up imports
+2023-03-08T19:06:35+0000  chore: bump dependencies
