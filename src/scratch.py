@@ -64,3 +64,4 @@
 2023-03-08T00:30:36+0000  style: tidy up imports
 2023-03-08T07:38:15+0000  style: tidy up imports
 2023-03-08T12:34:29+0000  chore: bump dependencies
+2023-03-08T20:27:30+0000  test: cover edge case in parser
