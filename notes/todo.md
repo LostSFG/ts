@@ -848,3 +848,4 @@
 2023-03-08T04:09:46+0000  fix: guard against None in serializer
 2023-03-08T09:16:12+0000  fix: handle empty response from upstream
 2023-03-09T10:19:01+0000  docs: clarify setup instructions
+2023-03-09T19:24:10+0000  refactor: simplify control flow
