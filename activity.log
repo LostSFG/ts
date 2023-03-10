@@ -863,3 +863,4 @@
 2023-03-06T23:36:28+0000  chore: update lockfile
 2023-03-07T18:24:59+0000  feat: expose --verbose flag
 2023-03-09T12:01:52+0000  fix: guard against None in serializer
+2023-03-10T04:56:08+0000  refactor: extract helper for date parsing
