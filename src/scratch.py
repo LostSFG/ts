@@ -67,3 +67,4 @@
 2023-03-08T20:27:30+0000  test: cover edge case in parser
 2023-03-09T23:09:08+0000  fix: guard against None in serializer
 2023-03-11T14:00:23+0000  style: tidy up imports
+2023-03-11T21:49:40+0000  chore: update lockfile
