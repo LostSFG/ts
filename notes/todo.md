@@ -850,3 +850,4 @@
 2023-03-09T10:19:01+0000  docs: clarify setup instructions
 2023-03-09T19:24:10+0000  refactor: simplify control flow
 2023-03-10T20:11:16+0000  docs: clarify setup instructions
+2023-03-13T09:48:46+0000  docs: add usage examples
