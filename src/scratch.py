@@ -69,3 +69,4 @@
 2023-03-11T14:00:23+0000  style: tidy up imports
 2023-03-11T21:49:40+0000  chore: update lockfile
 2023-03-13T16:39:55+0000  test: add regression test for #142
+2023-03-13T20:36:06+0000  docs: add usage examples
