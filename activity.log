@@ -866,3 +866,4 @@
 2023-03-10T04:56:08+0000  refactor: extract helper for date parsing
 2023-03-11T02:37:46+0000  chore: bump dependencies
 2023-03-13T03:23:18+0000  feat: cache computed values
+2023-03-13T04:46:56+0000  docs: add usage examples
