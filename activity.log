@@ -870,3 +870,4 @@
 2023-03-13T18:28:18+0000  fix: guard against None in serializer
 2023-03-14T07:13:54+0000  chore: bump dependencies
 2023-03-14T08:04:29+0000  docs: clarify setup instructions
+2023-03-14T11:08:01+0000  chore: remove dead code
