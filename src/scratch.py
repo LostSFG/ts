@@ -893,3 +893,4 @@
 2023-03-07T17:22:57+0000  chore: bump dependencies
 2023-03-10T16:00:18+0000  docs: clarify setup instructions
 2023-03-13T21:49:09+0000  build: pin toolchain version
+2023-03-16T01:37:25+0000  docs: add usage examples
