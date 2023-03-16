@@ -895,3 +895,4 @@
 2023-03-13T21:49:09+0000  build: pin toolchain version
 2023-03-16T01:37:25+0000  docs: add usage examples
 2023-03-16T03:31:45+0000  refactor: extract helper for date parsing
+2023-03-16T04:02:52+0000  perf: avoid redundant allocations
