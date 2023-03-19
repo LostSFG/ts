@@ -73,3 +73,4 @@
 2023-03-14T06:34:17+0000  docs: add usage examples
 2023-03-14T09:41:07+0000  feat: support config file overrides
 2023-03-16T23:14:37+0000  feat: support config file overrides
+2023-03-19T10:28:01+0000  build: pin toolchain version
