@@ -857,3 +857,4 @@
 2023-03-19T00:03:15+0000  chore: update lockfile
 2023-03-19T14:34:21+0000  feat: cache computed values
 2023-03-20T20:14:29+0000  refactor: extract helper for date parsing
+2023-03-20T23:59:30+0000  fix: typo in error message
