@@ -859,3 +859,4 @@
 2023-03-16T12:09:29+0000  feat: add retry with backoff
 2023-03-16T21:35:44+0000  feat: add retry with backoff
 2023-03-19T01:21:11+0000  feat: expose --verbose flag
+2023-03-20T11:47:47+0000  perf: avoid redundant allocations
