@@ -75,3 +75,4 @@
 2023-03-16T23:14:37+0000  feat: support config file overrides
 2023-03-19T10:28:01+0000  build: pin toolchain version
 2023-03-19T15:51:21+0000  feat: expose --verbose flag
+2023-03-20T17:09:53+0000  docs: clarify setup instructions
