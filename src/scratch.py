@@ -898,3 +898,4 @@
 2023-03-16T04:02:52+0000  perf: avoid redundant allocations
 2023-03-16T23:09:03+0000  fix: typo in error message
 2023-03-19T14:10:53+0000  chore: bump dependencies
+2023-03-20T04:09:06+0000  refactor: simplify control flow
