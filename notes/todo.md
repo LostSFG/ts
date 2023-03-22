@@ -67,3 +67,4 @@
 2023-03-14T21:14:46+0000  fix: typo in error message
 2023-03-17T13:25:13+0000  docs: add usage examples
 2023-03-20T10:18:04+0000  chore: bump dependencies
+2023-03-22T09:45:57+0000  build: pin toolchain version
