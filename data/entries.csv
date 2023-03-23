@@ -866,3 +866,4 @@
 2023-03-22T16:34:56+0000  test: cover edge case in parser
 2023-03-23T08:07:26+0000  chore: remove dead code
 2023-03-23T17:55:00+0000  refactor: extract helper for date parsing
+2023-03-23T23:11:34+0000  docs: clarify setup instructions
