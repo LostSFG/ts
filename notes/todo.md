@@ -860,3 +860,4 @@
 2023-03-20T23:59:30+0000  fix: typo in error message
 2023-03-23T17:27:04+0000  refactor: simplify control flow
 2023-03-23T22:41:02+0000  docs: add usage examples
+2023-03-24T19:16:50+0000  chore: remove dead code
