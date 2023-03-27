@@ -84,3 +84,4 @@
 2023-03-23T07:05:43+0000  fix: correct timezone handling
 2023-03-23T19:37:52+0000  fix: guard against None in serializer
 2023-03-25T22:21:28+0000  docs: clarify setup instructions
+2023-03-27T03:08:27+0000  perf: avoid redundant allocations
