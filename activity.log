@@ -884,3 +884,4 @@
 2023-03-23T03:05:55+0000  docs: add usage examples
 2023-03-24T06:35:24+0000  chore: remove dead code
 2023-03-27T17:36:19+0000  perf: avoid redundant allocations
+2023-03-27T23:11:43+0000  fix: typo in error message
