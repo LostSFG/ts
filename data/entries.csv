@@ -80,3 +80,4 @@
 2023-03-23T08:47:10+0000  fix: guard against None in serializer
 2023-03-23T21:53:53+0000  docs: add usage examples
 2023-03-24T13:06:11+0000  feat: cache computed values
+2023-03-27T08:21:26+0000  feat: expose --verbose flag
