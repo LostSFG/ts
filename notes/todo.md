@@ -71,3 +71,4 @@
 2023-03-22T21:24:41+0000  chore: bump dependencies
 2023-03-23T10:55:37+0000  test: add regression test for #142
 2023-03-27T22:01:12+0000  refactor: extract helper for date parsing
+2023-03-28T07:49:50+0000  fix: handle empty response from upstream
