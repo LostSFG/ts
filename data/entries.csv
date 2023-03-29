@@ -872,3 +872,4 @@
 2023-03-27T14:51:02+0000  test: cover edge case in parser
 2023-03-28T02:58:56+0000  feat: expose --verbose flag
 2023-03-28T06:51:13+0000  fix: correct timezone handling
+2023-03-29T03:48:28+0000  feat: expose --verbose flag
