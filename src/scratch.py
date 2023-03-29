@@ -903,3 +903,4 @@
 2023-03-24T09:16:00+0000  fix: guard against None in serializer
 2023-03-24T16:18:36+0000  feat: cache computed values
 2023-03-28T20:56:02+0000  feat: support config file overrides
+2023-03-29T05:02:54+0000  chore: remove dead code
