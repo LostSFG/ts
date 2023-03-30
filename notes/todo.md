@@ -76,3 +76,4 @@
 2023-03-28T22:05:27+0000  fix: guard against None in serializer
 2023-03-29T21:31:33+0000  refactor: extract helper for date parsing
 2023-03-30T07:55:42+0000  docs: add usage examples
+2023-03-30T15:36:38+0000  chore: bump dependencies
