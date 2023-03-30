@@ -887,3 +887,4 @@
 2023-03-27T23:11:43+0000  fix: typo in error message
 2023-03-28T16:16:25+0000  test: add regression test for #142
 2023-03-30T14:30:43+0000  fix: correct timezone handling
+2023-03-30T23:54:33+0000  feat: expose --verbose flag
