@@ -905,3 +905,4 @@
 2023-03-28T20:56:02+0000  feat: support config file overrides
 2023-03-29T05:02:54+0000  chore: remove dead code
 2023-03-30T01:19:51+0000  test: cover edge case in parser
+2023-03-30T22:43:14+0000  fix: guard against None in serializer
