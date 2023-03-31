@@ -86,3 +86,4 @@
 2023-03-29T17:09:04+0000  fix: handle empty response from upstream
 2023-03-30T02:52:48+0000  fix: guard against None in serializer
 2023-03-30T11:12:00+0000  test: add regression test for #142
+2023-03-31T07:42:51+0000  fix: guard against None in serializer
