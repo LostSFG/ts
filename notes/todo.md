@@ -865,3 +865,4 @@
 2023-03-27T20:19:13+0000  test: cover edge case in parser
 2023-03-29T10:57:01+0000  build: pin toolchain version
 2023-03-30T14:04:26+0000  refactor: extract helper for date parsing
+2023-04-01T12:39:29+0000  fix: handle empty response from upstream
