@@ -907,3 +907,4 @@
 2023-03-30T01:19:51+0000  test: cover edge case in parser
 2023-03-30T22:43:14+0000  fix: guard against None in serializer
 2023-04-01T04:31:29+0000  chore: update lockfile
+2023-04-01T21:41:01+0000  build: pin toolchain version
