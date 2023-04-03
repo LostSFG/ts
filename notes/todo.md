@@ -78,3 +78,4 @@
 2023-03-30T07:55:42+0000  docs: add usage examples
 2023-03-30T15:36:38+0000  chore: bump dependencies
 2023-04-03T03:21:07+0000  refactor: simplify control flow
+2023-04-03T18:45:56+0000  fix: guard against None in serializer
