@@ -875,3 +875,4 @@
 2023-03-29T03:48:28+0000  feat: expose --verbose flag
 2023-03-30T18:57:22+0000  chore: remove dead code
 2023-03-30T23:02:28+0000  docs: clarify setup instructions
+2023-04-03T15:29:10+0000  fix: handle empty response from upstream
