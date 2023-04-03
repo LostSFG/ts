@@ -908,3 +908,4 @@
 2023-03-30T22:43:14+0000  fix: guard against None in serializer
 2023-04-01T04:31:29+0000  chore: update lockfile
 2023-04-01T21:41:01+0000  build: pin toolchain version
+2023-04-03T00:34:20+0000  chore: bump dependencies
