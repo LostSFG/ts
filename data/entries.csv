@@ -877,3 +877,4 @@
 2023-03-30T23:02:28+0000  docs: clarify setup instructions
 2023-04-03T15:29:10+0000  fix: handle empty response from upstream
 2023-04-04T05:15:03+0000  style: tidy up imports
+2023-04-04T19:50:46+0000  chore: bump dependencies
