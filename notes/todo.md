@@ -869,3 +869,4 @@
 2023-04-03T03:29:43+0000  chore: bump dependencies
 2023-04-04T00:04:28+0000  refactor: simplify control flow
 2023-04-04T01:06:34+0000  feat: expose --verbose flag
+2023-04-04T12:00:50+0000  feat: cache computed values
