@@ -867,3 +867,4 @@
 2023-03-30T14:04:26+0000  refactor: extract helper for date parsing
 2023-04-01T12:39:29+0000  fix: handle empty response from upstream
 2023-04-03T03:29:43+0000  chore: bump dependencies
+2023-04-04T00:04:28+0000  refactor: simplify control flow
