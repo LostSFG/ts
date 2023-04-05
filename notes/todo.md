@@ -79,3 +79,4 @@
 2023-03-30T15:36:38+0000  chore: bump dependencies
 2023-04-03T03:21:07+0000  refactor: simplify control flow
 2023-04-03T18:45:56+0000  fix: guard against None in serializer
+2023-04-05T12:33:06+0000  feat: expose --verbose flag
