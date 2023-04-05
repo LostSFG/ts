@@ -895,3 +895,4 @@
 2023-04-03T21:14:18+0000  fix: handle empty response from upstream
 2023-04-05T04:23:02+0000  docs: clarify setup instructions
 2023-04-05T07:19:07+0000  fix: correct timezone handling
+2023-04-05T15:26:01+0000  docs: add usage examples
