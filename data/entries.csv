@@ -94,3 +94,4 @@
 2023-04-05T23:06:27+0000  chore: update lockfile
 2023-04-05T23:11:55+0000  fix: typo in error message
 2023-04-06T02:45:36+0000  chore: bump dependencies
+2023-04-06T19:28:09+0000  refactor: simplify control flow
