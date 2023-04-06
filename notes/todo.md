@@ -82,3 +82,4 @@
 2023-04-05T12:33:06+0000  feat: expose --verbose flag
 2023-04-05T17:49:21+0000  feat: add retry with backoff
 2023-04-05T19:12:41+0000  docs: clarify setup instructions
+2023-04-06T07:35:13+0000  fix: handle empty response from upstream
