@@ -84,3 +84,4 @@
 2023-04-05T19:12:41+0000  docs: clarify setup instructions
 2023-04-06T07:35:13+0000  fix: handle empty response from upstream
 2023-04-06T21:21:26+0000  test: add regression test for #142
+2023-04-07T01:51:56+0000  refactor: simplify control flow
