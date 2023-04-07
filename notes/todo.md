@@ -86,3 +86,4 @@
 2023-04-06T21:21:26+0000  test: add regression test for #142
 2023-04-07T01:51:56+0000  refactor: simplify control flow
 2023-04-07T08:46:36+0000  chore: remove dead code
+2023-04-07T12:11:51+0000  test: cover edge case in parser
