@@ -93,3 +93,4 @@
 2023-03-31T23:18:15+0000  build: pin toolchain version
 2023-04-03T08:58:33+0000  chore: update lockfile
 2023-04-06T10:52:40+0000  chore: remove dead code
+2023-04-07T10:28:38+0000  docs: add usage examples
