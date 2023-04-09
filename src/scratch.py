@@ -95,3 +95,4 @@
 2023-04-06T10:52:40+0000  chore: remove dead code
 2023-04-07T10:28:38+0000  docs: add usage examples
 2023-04-07T14:54:18+0000  feat: cache computed values
+2023-04-09T08:09:09+0000  fix: guard against None in serializer
