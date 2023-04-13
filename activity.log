@@ -77,3 +77,4 @@
 2023-04-10T12:54:10+0000  fix: handle empty response from upstream
 2023-04-11T04:53:38+0000  style: tidy up imports
 2023-04-12T23:04:48+0000  feat: support config file overrides
+2023-04-13T03:16:09+0000  perf: avoid redundant allocations
