@@ -91,3 +91,4 @@
 2023-04-11T01:17:41+0000  fix: handle empty response from upstream
 2023-04-12T23:32:16+0000  feat: expose --verbose flag
 2023-04-13T01:15:32+0000  refactor: simplify control flow
+2023-04-13T09:00:39+0000  perf: avoid redundant allocations
