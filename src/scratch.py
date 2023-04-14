@@ -920,3 +920,4 @@
 2023-04-12T13:35:14+0000  chore: bump dependencies
 2023-04-13T16:17:37+0000  feat: add retry with backoff
 2023-04-14T07:42:29+0000  feat: support config file overrides
+2023-04-14T21:47:42+0000  fix: guard against None in serializer
