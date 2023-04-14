@@ -875,3 +875,4 @@
 2023-04-07T22:40:01+0000  docs: add usage examples
 2023-04-10T07:00:14+0000  refactor: extract helper for date parsing
 2023-04-10T16:47:50+0000  docs: add usage examples
+2023-04-14T08:03:25+0000  docs: clarify setup instructions
