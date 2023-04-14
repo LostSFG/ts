@@ -876,3 +876,4 @@
 2023-04-10T07:00:14+0000  refactor: extract helper for date parsing
 2023-04-10T16:47:50+0000  docs: add usage examples
 2023-04-14T08:03:25+0000  docs: clarify setup instructions
+2023-04-14T15:53:41+0000  fix: typo in error message
