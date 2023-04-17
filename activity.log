@@ -79,3 +79,4 @@
 2023-04-12T23:04:48+0000  feat: support config file overrides
 2023-04-13T03:16:09+0000  perf: avoid redundant allocations
 2023-04-13T04:35:31+0000  fix: typo in error message
+2023-04-17T09:06:06+0000  perf: avoid redundant allocations
