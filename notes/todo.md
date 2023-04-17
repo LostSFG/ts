@@ -93,3 +93,4 @@
 2023-04-13T01:15:32+0000  refactor: simplify control flow
 2023-04-13T09:00:39+0000  perf: avoid redundant allocations
 2023-04-15T01:28:28+0000  fix: guard against None in serializer
+2023-04-17T10:09:42+0000  build: pin toolchain version
