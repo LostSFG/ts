@@ -880,3 +880,4 @@
 2023-04-14T18:03:00+0000  fix: typo in error message
 2023-04-16T07:32:08+0000  style: tidy up imports
 2023-04-17T16:54:09+0000  feat: cache computed values
+2023-04-17T18:05:15+0000  test: cover edge case in parser
