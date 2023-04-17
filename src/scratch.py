@@ -101,3 +101,4 @@
 2023-04-10T00:23:27+0000  feat: cache computed values
 2023-04-12T23:38:44+0000  fix: handle empty response from upstream
 2023-04-13T23:43:36+0000  fix: guard against None in serializer
+2023-04-17T00:04:36+0000  test: cover edge case in parser
