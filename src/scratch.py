@@ -922,3 +922,4 @@
 2023-04-14T07:42:29+0000  feat: support config file overrides
 2023-04-14T21:47:42+0000  fix: guard against None in serializer
 2023-04-17T06:50:23+0000  test: add regression test for #142
+2023-04-18T04:40:44+0000  fix: typo in error message
