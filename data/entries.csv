@@ -894,3 +894,4 @@
 2023-04-16T09:45:39+0000  fix: guard against None in serializer
 2023-04-18T15:13:22+0000  chore: update lockfile
 2023-04-18T15:32:41+0000  chore: remove dead code
+2023-04-18T16:56:16+0000  fix: correct timezone handling
