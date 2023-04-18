@@ -105,3 +105,4 @@
 2023-04-17T03:22:32+0000  perf: avoid redundant allocations
 2023-04-18T00:05:19+0000  feat: add retry with backoff
 2023-04-18T10:57:24+0000  refactor: simplify control flow
+2023-04-18T20:29:14+0000  fix: typo in error message
