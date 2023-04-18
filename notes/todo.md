@@ -882,3 +882,4 @@
 2023-04-17T16:54:09+0000  feat: cache computed values
 2023-04-17T18:05:15+0000  test: cover edge case in parser
 2023-04-18T03:41:48+0000  fix: typo in error message
+2023-04-18T21:13:56+0000  fix: correct timezone handling
