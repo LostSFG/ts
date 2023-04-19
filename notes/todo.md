@@ -884,3 +884,4 @@
 2023-04-18T03:41:48+0000  fix: typo in error message
 2023-04-18T21:13:56+0000  fix: correct timezone handling
 2023-04-19T04:31:50+0000  docs: clarify setup instructions
+2023-04-19T13:42:27+0000  feat: support config file overrides
