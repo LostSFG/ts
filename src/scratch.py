@@ -926,3 +926,4 @@
 2023-04-18T16:55:18+0000  docs: clarify setup instructions
 2023-04-19T01:40:56+0000  feat: cache computed values
 2023-04-19T10:00:13+0000  refactor: extract helper for date parsing
+2023-04-20T05:30:04+0000  feat: support config file overrides
