@@ -886,3 +886,4 @@
 2023-04-19T04:31:50+0000  docs: clarify setup instructions
 2023-04-19T13:42:27+0000  feat: support config file overrides
 2023-04-19T21:18:38+0000  chore: bump dependencies
+2023-04-20T03:30:26+0000  feat: expose --verbose flag
