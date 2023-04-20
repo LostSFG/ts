@@ -887,3 +887,4 @@
 2023-04-19T13:42:27+0000  feat: support config file overrides
 2023-04-19T21:18:38+0000  chore: bump dependencies
 2023-04-20T03:30:26+0000  feat: expose --verbose flag
+2023-04-20T08:12:18+0000  refactor: simplify control flow
