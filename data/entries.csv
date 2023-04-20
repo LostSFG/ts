@@ -895,3 +895,4 @@
 2023-04-18T15:13:22+0000  chore: update lockfile
 2023-04-18T15:32:41+0000  chore: remove dead code
 2023-04-18T16:56:16+0000  fix: correct timezone handling
+2023-04-20T12:01:00+0000  perf: avoid redundant allocations
