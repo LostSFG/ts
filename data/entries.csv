@@ -110,3 +110,4 @@
 2023-04-18T18:02:08+0000  docs: add usage examples
 2023-04-18T20:30:29+0000  docs: clarify setup instructions
 2023-04-19T03:58:11+0000  feat: support config file overrides
+2023-04-21T09:42:59+0000  fix: correct timezone handling
