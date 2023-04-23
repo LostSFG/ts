@@ -106,3 +106,4 @@
 2023-04-18T00:05:19+0000  feat: add retry with backoff
 2023-04-18T10:57:24+0000  refactor: simplify control flow
 2023-04-18T20:29:14+0000  fix: typo in error message
+2023-04-23T00:43:23+0000  feat: add retry with backoff
