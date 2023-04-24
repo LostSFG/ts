@@ -109,3 +109,4 @@
 2023-04-23T00:43:23+0000  feat: add retry with backoff
 2023-04-24T03:52:26+0000  fix: handle empty response from upstream
 2023-04-24T07:14:17+0000  fix: typo in error message
+2023-04-24T20:37:56+0000  chore: bump dependencies
