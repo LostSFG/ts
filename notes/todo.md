@@ -892,3 +892,4 @@
 2023-04-21T16:24:02+0000  perf: avoid redundant allocations
 2023-04-23T08:12:53+0000  refactor: simplify control flow
 2023-04-24T20:06:14+0000  docs: add usage examples
+2023-04-26T11:17:57+0000  feat: add retry with backoff
