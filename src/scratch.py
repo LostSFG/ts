@@ -112,3 +112,4 @@
 2023-04-24T20:37:56+0000  chore: bump dependencies
 2023-04-24T22:13:21+0000  fix: typo in error message
 2023-04-26T05:40:23+0000  fix: guard against None in serializer
+2023-04-26T11:11:02+0000  refactor: simplify control flow
