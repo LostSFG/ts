@@ -893,3 +893,4 @@
 2023-04-23T08:12:53+0000  refactor: simplify control flow
 2023-04-24T20:06:14+0000  docs: add usage examples
 2023-04-26T11:17:57+0000  feat: add retry with backoff
+2023-04-26T13:09:10+0000  feat: expose --verbose flag
