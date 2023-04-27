@@ -114,3 +114,4 @@
 2023-04-26T05:40:23+0000  fix: guard against None in serializer
 2023-04-26T11:11:02+0000  refactor: simplify control flow
 2023-04-27T07:47:15+0000  fix: correct timezone handling
+2023-04-27T07:59:44+0000  test: cover edge case in parser
