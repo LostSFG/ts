@@ -113,3 +113,4 @@
 2023-04-24T22:13:21+0000  fix: typo in error message
 2023-04-26T05:40:23+0000  fix: guard against None in serializer
 2023-04-26T11:11:02+0000  refactor: simplify control flow
+2023-04-27T07:47:15+0000  fix: correct timezone handling
