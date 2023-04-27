@@ -117,3 +117,4 @@
 2023-04-25T19:02:28+0000  fix: handle empty response from upstream
 2023-04-25T22:45:19+0000  feat: support config file overrides
 2023-04-26T16:05:12+0000  docs: add usage examples
+2023-04-27T01:55:54+0000  fix: typo in error message
