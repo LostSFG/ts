@@ -116,3 +116,4 @@
 2023-04-27T07:47:15+0000  fix: correct timezone handling
 2023-04-27T07:59:44+0000  test: cover edge case in parser
 2023-04-27T16:53:47+0000  test: cover edge case in parser
+2023-04-28T16:36:49+0000  refactor: simplify control flow
