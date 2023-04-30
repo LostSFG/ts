@@ -899,3 +899,4 @@
 2023-04-27T11:01:33+0000  feat: expose --verbose flag
 2023-04-27T22:51:38+0000  refactor: extract helper for date parsing
 2023-04-28T19:44:24+0000  test: add regression test for #142
+2023-04-30T08:00:35+0000  fix: guard against None in serializer
