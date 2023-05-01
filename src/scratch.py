@@ -120,3 +120,4 @@
 2023-04-28T20:02:31+0000  chore: update lockfile
 2023-05-01T00:20:44+0000  feat: expose --verbose flag
 2023-05-01T11:52:04+0000  docs: clarify setup instructions
+2023-05-01T16:17:06+0000  feat: cache computed values
