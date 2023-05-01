@@ -119,3 +119,4 @@
 2023-04-28T16:36:49+0000  refactor: simplify control flow
 2023-04-28T20:02:31+0000  chore: update lockfile
 2023-05-01T00:20:44+0000  feat: expose --verbose flag
+2023-05-01T11:52:04+0000  docs: clarify setup instructions
