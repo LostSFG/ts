@@ -902,3 +902,4 @@
 2023-04-30T08:00:35+0000  fix: guard against None in serializer
 2023-05-01T13:43:26+0000  feat: cache computed values
 2023-05-01T13:58:52+0000  test: add regression test for #142
+2023-05-02T03:43:19+0000  chore: bump dependencies
