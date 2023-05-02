@@ -103,3 +103,4 @@
 2023-04-24T02:44:10+0000  chore: bump dependencies
 2023-05-01T13:13:23+0000  perf: avoid redundant allocations
 2023-05-02T02:29:17+0000  feat: add retry with backoff
+2023-05-02T22:39:28+0000  refactor: simplify control flow
