@@ -914,3 +914,4 @@
 2023-05-01T21:41:54+0000  fix: typo in error message
 2023-05-01T22:26:11+0000  chore: bump dependencies
 2023-05-02T01:04:16+0000  fix: handle empty response from upstream
+2023-05-02T14:00:11+0000  docs: add usage examples
