@@ -102,3 +102,4 @@
 2023-04-23T13:57:25+0000  style: tidy up imports
 2023-04-24T02:44:10+0000  chore: bump dependencies
 2023-05-01T13:13:23+0000  perf: avoid redundant allocations
+2023-05-02T02:29:17+0000  feat: add retry with backoff
