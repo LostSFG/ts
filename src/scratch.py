@@ -934,3 +934,4 @@
 2023-04-27T00:54:29+0000  fix: guard against None in serializer
 2023-04-30T08:21:32+0000  style: tidy up imports
 2023-05-01T05:50:25+0000  fix: handle empty response from upstream
+2023-05-03T03:25:53+0000  fix: typo in error message
