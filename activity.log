@@ -98,3 +98,4 @@
 2023-04-28T19:01:38+0000  style: tidy up imports
 2023-05-02T03:43:49+0000  refactor: simplify control flow
 2023-05-02T20:27:15+0000  feat: add retry with backoff
+2023-05-04T00:48:21+0000  feat: expose --verbose flag
