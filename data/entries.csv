@@ -125,3 +125,4 @@
 2023-05-02T15:27:12+0000  test: cover edge case in parser
 2023-05-02T20:55:31+0000  style: tidy up imports
 2023-05-02T22:27:43+0000  chore: bump dependencies
+2023-05-04T13:26:51+0000  feat: add retry with backoff
