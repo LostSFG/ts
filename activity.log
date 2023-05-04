@@ -99,3 +99,4 @@
 2023-05-02T03:43:49+0000  refactor: simplify control flow
 2023-05-02T20:27:15+0000  feat: add retry with backoff
 2023-05-04T00:48:21+0000  feat: expose --verbose flag
+2023-05-04T00:57:35+0000  build: pin toolchain version
