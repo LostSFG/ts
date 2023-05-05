@@ -101,3 +101,4 @@
 2023-05-04T00:48:21+0000  feat: expose --verbose flag
 2023-05-04T00:57:35+0000  build: pin toolchain version
 2023-05-04T16:27:08+0000  docs: add usage examples
+2023-05-05T09:57:28+0000  feat: support config file overrides
