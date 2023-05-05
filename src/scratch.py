@@ -122,3 +122,4 @@
 2023-05-01T11:52:04+0000  docs: clarify setup instructions
 2023-05-01T16:17:06+0000  feat: cache computed values
 2023-05-05T01:19:11+0000  fix: typo in error message
+2023-05-05T15:18:56+0000  fix: typo in error message
