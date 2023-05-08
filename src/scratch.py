@@ -126,3 +126,4 @@
 2023-05-05T23:46:57+0000  feat: add retry with backoff
 2023-05-07T02:58:11+0000  test: cover edge case in parser
 2023-05-07T18:13:01+0000  feat: expose --verbose flag
+2023-05-08T16:58:59+0000  build: pin toolchain version
