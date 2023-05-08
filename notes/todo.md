@@ -111,3 +111,4 @@
 2023-05-05T23:25:17+0000  fix: correct timezone handling
 2023-05-08T02:54:34+0000  chore: bump dependencies
 2023-05-08T14:52:04+0000  feat: add retry with backoff
+2023-05-08T22:18:55+0000  test: add regression test for #142
