@@ -104,3 +104,4 @@
 2023-05-05T09:57:28+0000  feat: support config file overrides
 2023-05-07T02:36:38+0000  test: add regression test for #142
 2023-05-08T03:06:57+0000  feat: add retry with backoff
+2023-05-08T11:52:27+0000  test: add regression test for #142
