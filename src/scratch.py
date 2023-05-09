@@ -128,3 +128,4 @@
 2023-05-07T18:13:01+0000  feat: expose --verbose flag
 2023-05-08T16:58:59+0000  build: pin toolchain version
 2023-05-09T03:34:50+0000  fix: guard against None in serializer
+2023-05-09T14:17:25+0000  build: pin toolchain version
