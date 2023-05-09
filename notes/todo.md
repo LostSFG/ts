@@ -906,3 +906,4 @@
 2023-05-03T12:42:39+0000  docs: add usage examples
 2023-05-07T04:50:54+0000  chore: update lockfile
 2023-05-09T04:42:45+0000  fix: guard against None in serializer
+2023-05-09T14:38:54+0000  fix: handle empty response from upstream
