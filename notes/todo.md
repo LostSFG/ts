@@ -907,3 +907,4 @@
 2023-05-07T04:50:54+0000  chore: update lockfile
 2023-05-09T04:42:45+0000  fix: guard against None in serializer
 2023-05-09T14:38:54+0000  fix: handle empty response from upstream
+2023-05-09T21:46:48+0000  feat: add retry with backoff
