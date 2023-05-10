@@ -108,3 +108,4 @@
 2023-05-09T02:12:11+0000  feat: cache computed values
 2023-05-09T23:05:22+0000  refactor: simplify control flow
 2023-05-10T05:15:36+0000  feat: expose --verbose flag
+2023-05-10T15:18:24+0000  docs: add usage examples
