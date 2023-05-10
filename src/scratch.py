@@ -130,3 +130,4 @@
 2023-05-09T03:34:50+0000  fix: guard against None in serializer
 2023-05-09T14:17:25+0000  build: pin toolchain version
 2023-05-10T16:08:07+0000  feat: cache computed values
+2023-05-10T17:14:56+0000  test: add regression test for #142
