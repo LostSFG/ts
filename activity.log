@@ -110,3 +110,4 @@
 2023-05-10T05:15:36+0000  feat: expose --verbose flag
 2023-05-10T15:18:24+0000  docs: add usage examples
 2023-05-10T16:30:18+0000  chore: remove dead code
+2023-05-11T15:48:50+0000  fix: typo in error message
