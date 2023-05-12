@@ -114,3 +114,4 @@
 2023-05-08T22:18:55+0000  test: add regression test for #142
 2023-05-09T03:17:17+0000  chore: bump dependencies
 2023-05-11T06:02:11+0000  style: tidy up imports
+2023-05-12T12:06:21+0000  fix: correct timezone handling
