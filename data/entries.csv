@@ -129,3 +129,4 @@
 2023-05-05T18:40:52+0000  fix: correct timezone handling
 2023-05-07T23:05:56+0000  feat: cache computed values
 2023-05-12T00:44:27+0000  feat: expose --verbose flag
+2023-05-12T17:09:10+0000  chore: remove dead code
