@@ -926,3 +926,4 @@
 2023-05-08T23:36:41+0000  style: tidy up imports
 2023-05-09T01:14:04+0000  fix: guard against None in serializer
 2023-05-09T21:41:28+0000  feat: support config file overrides
+2023-05-12T15:25:15+0000  test: cover edge case in parser
