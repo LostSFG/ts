@@ -112,3 +112,4 @@
 2023-05-10T16:30:18+0000  chore: remove dead code
 2023-05-11T15:48:50+0000  fix: typo in error message
 2023-05-12T09:43:56+0000  docs: add usage examples
+2023-05-12T21:13:34+0000  feat: cache computed values
