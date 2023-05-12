@@ -132,3 +132,4 @@
 2023-05-10T16:08:07+0000  feat: cache computed values
 2023-05-10T17:14:56+0000  test: add regression test for #142
 2023-05-12T09:41:05+0000  chore: bump dependencies
+2023-05-12T12:21:43+0000  chore: remove dead code
