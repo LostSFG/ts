@@ -943,3 +943,4 @@
 2023-05-11T16:00:33+0000  chore: update lockfile
 2023-05-12T18:33:29+0000  feat: cache computed values
 2023-05-12T19:43:02+0000  feat: expose --verbose flag
+2023-05-15T21:25:01+0000  feat: expose --verbose flag
