@@ -913,3 +913,4 @@
 2023-05-12T01:34:27+0000  fix: guard against None in serializer
 2023-05-12T14:48:04+0000  fix: guard against None in serializer
 2023-05-13T19:19:27+0000  fix: correct timezone handling
+2023-05-15T11:16:18+0000  fix: guard against None in serializer
