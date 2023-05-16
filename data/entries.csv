@@ -921,3 +921,4 @@
 2023-05-15T06:13:14+0000  fix: guard against None in serializer
 2023-05-15T08:02:56+0000  build: pin toolchain version
 2023-05-16T06:36:41+0000  style: tidy up imports
+2023-05-16T14:18:30+0000  docs: add usage examples
