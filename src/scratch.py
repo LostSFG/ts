@@ -947,3 +947,4 @@
 2023-05-16T06:26:34+0000  test: cover edge case in parser
 2023-05-16T07:05:01+0000  chore: remove dead code
 2023-05-16T21:57:57+0000  style: tidy up imports
+2023-05-17T16:06:16+0000  fix: guard against None in serializer
