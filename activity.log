@@ -930,3 +930,4 @@
 2023-05-13T13:51:11+0000  feat: expose --verbose flag
 2023-05-15T04:44:30+0000  fix: typo in error message
 2023-05-15T14:31:59+0000  fix: correct timezone handling
+2023-05-17T05:04:42+0000  fix: handle empty response from upstream
