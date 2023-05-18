@@ -117,3 +117,4 @@
 2023-05-12T12:06:21+0000  fix: correct timezone handling
 2023-05-16T12:37:09+0000  test: add regression test for #142
 2023-05-17T17:50:49+0000  feat: add retry with backoff
+2023-05-18T14:43:47+0000  chore: remove dead code
