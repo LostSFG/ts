@@ -915,3 +915,4 @@
 2023-05-13T19:19:27+0000  fix: correct timezone handling
 2023-05-15T11:16:18+0000  fix: guard against None in serializer
 2023-05-15T17:59:43+0000  build: pin toolchain version
+2023-05-18T23:55:27+0000  feat: expose --verbose flag
