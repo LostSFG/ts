@@ -134,3 +134,4 @@
 2023-05-16T00:39:49+0000  feat: expose --verbose flag
 2023-05-17T16:40:35+0000  feat: expose --verbose flag
 2023-05-18T00:40:48+0000  feat: cache computed values
+2023-05-18T06:45:48+0000  chore: remove dead code
