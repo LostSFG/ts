@@ -918,3 +918,4 @@
 2023-05-18T23:55:27+0000  feat: expose --verbose flag
 2023-05-19T01:49:08+0000  docs: clarify setup instructions
 2023-05-19T08:46:35+0000  build: pin toolchain version
+2023-05-19T13:02:11+0000  feat: expose --verbose flag
