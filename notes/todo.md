@@ -118,3 +118,4 @@
 2023-05-16T12:37:09+0000  test: add regression test for #142
 2023-05-17T17:50:49+0000  feat: add retry with backoff
 2023-05-18T14:43:47+0000  chore: remove dead code
+2023-05-19T18:01:37+0000  chore: bump dependencies
