@@ -948,3 +948,4 @@
 2023-05-16T07:05:01+0000  chore: remove dead code
 2023-05-16T21:57:57+0000  style: tidy up imports
 2023-05-17T16:06:16+0000  fix: guard against None in serializer
+2023-05-19T05:11:06+0000  fix: typo in error message
