@@ -950,3 +950,4 @@
 2023-05-17T16:06:16+0000  fix: guard against None in serializer
 2023-05-19T05:11:06+0000  fix: typo in error message
 2023-05-19T05:29:31+0000  perf: avoid redundant allocations
+2023-05-22T17:12:57+0000  test: cover edge case in parser
