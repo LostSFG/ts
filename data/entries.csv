@@ -137,3 +137,4 @@
 2023-05-18T06:45:48+0000  chore: remove dead code
 2023-05-19T14:50:42+0000  style: tidy up imports
 2023-05-22T19:54:45+0000  docs: clarify setup instructions
+2023-05-23T05:44:15+0000  test: cover edge case in parser
