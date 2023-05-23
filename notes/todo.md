@@ -921,3 +921,4 @@
 2023-05-19T13:02:11+0000  feat: expose --verbose flag
 2023-05-19T15:19:07+0000  fix: typo in error message
 2023-05-22T01:42:00+0000  test: cover edge case in parser
+2023-05-23T01:11:26+0000  chore: bump dependencies
