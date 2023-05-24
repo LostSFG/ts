@@ -924,3 +924,4 @@
 2023-05-16T14:18:30+0000  docs: add usage examples
 2023-05-17T03:13:49+0000  build: pin toolchain version
 2023-05-23T22:47:46+0000  docs: add usage examples
+2023-05-24T18:37:26+0000  feat: add retry with backoff
