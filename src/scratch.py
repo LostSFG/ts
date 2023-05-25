@@ -952,3 +952,4 @@
 2023-05-19T05:29:31+0000  perf: avoid redundant allocations
 2023-05-22T17:12:57+0000  test: cover edge case in parser
 2023-05-25T01:19:47+0000  docs: clarify setup instructions
+2023-05-25T09:30:42+0000  refactor: simplify control flow
