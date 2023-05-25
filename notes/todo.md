@@ -122,3 +122,4 @@
 2023-05-20T01:32:17+0000  feat: support config file overrides
 2023-05-20T02:31:36+0000  refactor: extract helper for date parsing
 2023-05-20T19:15:40+0000  feat: expose --verbose flag
+2023-05-25T10:12:08+0000  chore: update lockfile
