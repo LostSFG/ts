@@ -140,3 +140,4 @@
 2023-05-23T05:44:15+0000  test: cover edge case in parser
 2023-05-25T03:21:46+0000  chore: remove dead code
 2023-05-25T15:31:16+0000  test: add regression test for #142
+2023-05-25T19:38:14+0000  perf: avoid redundant allocations
