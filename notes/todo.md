@@ -923,3 +923,4 @@
 2023-05-22T01:42:00+0000  test: cover edge case in parser
 2023-05-23T01:11:26+0000  chore: bump dependencies
 2023-05-25T17:16:15+0000  build: pin toolchain version
+2023-05-26T12:12:49+0000  test: add regression test for #142
