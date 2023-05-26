@@ -145,3 +145,4 @@
 2023-05-26T03:45:24+0000  fix: typo in error message
 2023-05-26T06:51:15+0000  docs: clarify setup instructions
 2023-05-26T09:31:47+0000  refactor: extract helper for date parsing
+2023-05-26T22:55:03+0000  feat: expose --verbose flag
