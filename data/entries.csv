@@ -147,3 +147,4 @@
 2023-05-26T09:31:47+0000  refactor: extract helper for date parsing
 2023-05-26T22:55:03+0000  feat: expose --verbose flag
 2023-05-28T09:10:26+0000  docs: add usage examples
+2023-05-28T12:21:14+0000  fix: correct timezone handling
