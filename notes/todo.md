@@ -126,3 +126,4 @@
 2023-05-25T16:47:08+0000  test: cover edge case in parser
 2023-05-26T05:48:57+0000  style: tidy up imports
 2023-05-26T07:47:56+0000  refactor: extract helper for date parsing
+2023-05-29T03:54:38+0000  perf: avoid redundant allocations
