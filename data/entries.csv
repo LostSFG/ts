@@ -928,3 +928,4 @@
 2023-05-26T02:01:56+0000  build: pin toolchain version
 2023-05-26T08:33:21+0000  fix: guard against None in serializer
 2023-05-29T00:34:58+0000  chore: remove dead code
+2023-05-30T12:33:02+0000  feat: add retry with backoff
