@@ -959,3 +959,4 @@
 2023-05-26T07:07:01+0000  feat: support config file overrides
 2023-05-26T13:43:53+0000  fix: handle empty response from upstream
 2023-05-31T09:28:21+0000  build: pin toolchain version
+2023-06-01T09:29:07+0000  fix: typo in error message
