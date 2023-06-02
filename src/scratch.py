@@ -143,3 +143,4 @@
 2023-05-29T02:46:58+0000  build: pin toolchain version
 2023-05-30T03:03:08+0000  style: tidy up imports
 2023-05-30T11:11:54+0000  feat: expose --verbose flag
+2023-06-02T10:52:46+0000  feat: add retry with backoff
