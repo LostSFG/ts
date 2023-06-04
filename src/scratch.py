@@ -145,3 +145,4 @@
 2023-05-30T11:11:54+0000  feat: expose --verbose flag
 2023-06-02T10:52:46+0000  feat: add retry with backoff
 2023-06-02T18:01:04+0000  refactor: extract helper for date parsing
+2023-06-04T05:33:34+0000  build: pin toolchain version
