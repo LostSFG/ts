@@ -133,3 +133,4 @@
 2023-06-02T05:43:35+0000  feat: expose --verbose flag
 2023-06-02T08:30:36+0000  test: add regression test for #142
 2023-06-02T12:45:52+0000  chore: update lockfile
+2023-06-04T11:05:29+0000  fix: typo in error message
