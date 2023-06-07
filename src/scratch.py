@@ -963,3 +963,4 @@
 2023-06-01T20:53:25+0000  chore: remove dead code
 2023-06-02T04:26:05+0000  style: tidy up imports
 2023-06-07T03:59:55+0000  chore: remove dead code
+2023-06-07T07:52:39+0000  docs: clarify setup instructions
