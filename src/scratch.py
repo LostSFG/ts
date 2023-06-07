@@ -148,3 +148,4 @@
 2023-06-04T05:33:34+0000  build: pin toolchain version
 2023-06-05T13:37:20+0000  refactor: extract helper for date parsing
 2023-06-05T22:17:46+0000  chore: remove dead code
+2023-06-07T11:24:44+0000  test: cover edge case in parser
