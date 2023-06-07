@@ -926,3 +926,4 @@
 2023-05-26T12:12:49+0000  test: add regression test for #142
 2023-06-01T13:07:49+0000  chore: bump dependencies
 2023-06-07T16:20:11+0000  test: add regression test for #142
+2023-06-07T17:18:37+0000  build: pin toolchain version
