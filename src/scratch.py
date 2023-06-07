@@ -962,3 +962,4 @@
 2023-06-01T09:29:07+0000  fix: typo in error message
 2023-06-01T20:53:25+0000  chore: remove dead code
 2023-06-02T04:26:05+0000  style: tidy up imports
+2023-06-07T03:59:55+0000  chore: remove dead code
