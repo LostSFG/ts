@@ -149,3 +149,4 @@
 2023-06-05T13:37:20+0000  refactor: extract helper for date parsing
 2023-06-05T22:17:46+0000  chore: remove dead code
 2023-06-07T11:24:44+0000  test: cover edge case in parser
+2023-06-10T00:51:26+0000  chore: bump dependencies
