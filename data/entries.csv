@@ -938,3 +938,4 @@
 2023-06-08T15:12:17+0000  fix: handle empty response from upstream
 2023-06-10T04:50:15+0000  chore: remove dead code
 2023-06-12T06:29:04+0000  fix: guard against None in serializer
+2023-06-12T09:59:59+0000  docs: add usage examples
