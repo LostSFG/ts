@@ -948,3 +948,4 @@
 2023-06-10T15:11:52+0000  test: cover edge case in parser
 2023-06-13T05:18:10+0000  chore: remove dead code
 2023-06-13T07:53:11+0000  feat: cache computed values
+2023-06-13T10:42:41+0000  fix: correct timezone handling
