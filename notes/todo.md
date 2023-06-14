@@ -140,3 +140,4 @@
 2023-06-10T20:31:15+0000  style: tidy up imports
 2023-06-12T11:51:07+0000  chore: bump dependencies
 2023-06-12T17:01:48+0000  chore: remove dead code
+2023-06-14T01:18:52+0000  test: cover edge case in parser
