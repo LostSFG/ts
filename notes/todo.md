@@ -931,3 +931,4 @@
 2023-06-08T17:17:00+0000  fix: handle empty response from upstream
 2023-06-09T22:43:27+0000  fix: handle empty response from upstream
 2023-06-13T15:56:44+0000  chore: update lockfile
+2023-06-14T22:17:52+0000  fix: typo in error message
