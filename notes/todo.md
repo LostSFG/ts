@@ -146,3 +146,4 @@
 2023-06-14T23:42:58+0000  style: tidy up imports
 2023-06-15T10:53:37+0000  test: add regression test for #142
 2023-06-15T10:59:30+0000  feat: add retry with backoff
+2023-06-15T20:28:52+0000  test: cover edge case in parser
