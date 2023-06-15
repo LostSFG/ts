@@ -933,3 +933,4 @@
 2023-06-13T15:56:44+0000  chore: update lockfile
 2023-06-14T22:17:52+0000  fix: typo in error message
 2023-06-15T02:45:50+0000  docs: add usage examples
+2023-06-15T04:58:11+0000  feat: support config file overrides
