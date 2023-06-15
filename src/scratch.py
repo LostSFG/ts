@@ -970,3 +970,4 @@
 2023-06-13T00:18:18+0000  test: add regression test for #142
 2023-06-13T23:40:27+0000  chore: bump dependencies
 2023-06-14T06:08:31+0000  fix: guard against None in serializer
+2023-06-15T00:37:11+0000  refactor: extract helper for date parsing
