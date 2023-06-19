@@ -152,3 +152,4 @@
 2023-06-10T00:51:26+0000  chore: bump dependencies
 2023-06-10T21:35:41+0000  feat: support config file overrides
 2023-06-13T08:28:58+0000  style: tidy up imports
+2023-06-19T03:29:23+0000  perf: avoid redundant allocations
