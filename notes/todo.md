@@ -147,3 +147,4 @@
 2023-06-15T10:53:37+0000  test: add regression test for #142
 2023-06-15T10:59:30+0000  feat: add retry with backoff
 2023-06-15T20:28:52+0000  test: cover edge case in parser
+2023-06-19T04:24:34+0000  fix: correct timezone handling
