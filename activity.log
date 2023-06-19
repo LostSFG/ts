@@ -129,3 +129,4 @@
 2023-06-13T10:46:21+0000  test: add regression test for #142
 2023-06-13T20:16:06+0000  fix: typo in error message
 2023-06-14T03:51:14+0000  docs: clarify setup instructions
+2023-06-19T10:02:15+0000  chore: remove dead code
