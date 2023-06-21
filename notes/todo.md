@@ -936,3 +936,4 @@
 2023-06-15T04:58:11+0000  feat: support config file overrides
 2023-06-20T11:33:04+0000  chore: update lockfile
 2023-06-21T00:09:46+0000  docs: clarify setup instructions
+2023-06-21T11:58:32+0000  test: cover edge case in parser
