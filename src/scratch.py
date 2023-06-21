@@ -974,3 +974,4 @@
 2023-06-16T11:39:22+0000  docs: clarify setup instructions
 2023-06-16T13:02:59+0000  fix: handle empty response from upstream
 2023-06-16T14:24:02+0000  docs: clarify setup instructions
+2023-06-21T01:59:12+0000  test: cover edge case in parser
