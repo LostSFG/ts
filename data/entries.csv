@@ -943,3 +943,4 @@
 2023-06-19T11:27:36+0000  chore: update lockfile
 2023-06-21T06:02:28+0000  style: tidy up imports
 2023-06-21T06:38:15+0000  test: cover edge case in parser
+2023-06-22T17:28:52+0000  refactor: simplify control flow
