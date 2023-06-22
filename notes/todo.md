@@ -151,3 +151,4 @@
 2023-06-19T14:39:59+0000  feat: expose --verbose flag
 2023-06-21T04:32:14+0000  fix: handle empty response from upstream
 2023-06-21T07:12:00+0000  refactor: simplify control flow
+2023-06-22T00:47:41+0000  docs: add usage examples
