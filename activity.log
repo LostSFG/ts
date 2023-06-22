@@ -136,3 +136,4 @@
 2023-06-20T22:10:23+0000  chore: update lockfile
 2023-06-21T02:22:55+0000  fix: correct timezone handling
 2023-06-21T09:13:35+0000  fix: typo in error message
+2023-06-22T04:40:58+0000  feat: expose --verbose flag
