@@ -938,3 +938,4 @@
 2023-06-21T00:09:46+0000  docs: clarify setup instructions
 2023-06-21T11:58:32+0000  test: cover edge case in parser
 2023-06-22T20:05:48+0000  fix: typo in error message
+2023-06-23T03:07:38+0000  test: add regression test for #142
