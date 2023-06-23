@@ -940,3 +940,4 @@
 2023-06-22T20:05:48+0000  fix: typo in error message
 2023-06-23T03:07:38+0000  test: add regression test for #142
 2023-06-23T05:06:18+0000  fix: typo in error message
+2023-06-23T11:49:12+0000  refactor: simplify control flow
