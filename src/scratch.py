@@ -976,3 +976,4 @@
 2023-06-16T14:24:02+0000  docs: clarify setup instructions
 2023-06-21T01:59:12+0000  test: cover edge case in parser
 2023-06-21T16:59:49+0000  fix: guard against None in serializer
+2023-06-23T15:46:21+0000  test: add regression test for #142
