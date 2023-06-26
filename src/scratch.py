@@ -161,3 +161,4 @@
 2023-06-22T11:15:57+0000  fix: correct timezone handling
 2023-06-23T06:26:45+0000  fix: correct timezone handling
 2023-06-23T11:30:25+0000  fix: typo in error message
+2023-06-26T13:31:53+0000  feat: support config file overrides
