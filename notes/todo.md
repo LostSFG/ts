@@ -942,3 +942,4 @@
 2023-06-23T05:06:18+0000  fix: typo in error message
 2023-06-23T11:49:12+0000  refactor: simplify control flow
 2023-06-23T15:48:16+0000  chore: update lockfile
+2023-06-26T08:26:30+0000  feat: support config file overrides
