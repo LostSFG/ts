@@ -978,3 +978,4 @@
 2023-06-21T16:59:49+0000  fix: guard against None in serializer
 2023-06-23T15:46:21+0000  test: add regression test for #142
 2023-06-27T03:50:00+0000  docs: add usage examples
+2023-06-27T11:16:31+0000  feat: cache computed values
