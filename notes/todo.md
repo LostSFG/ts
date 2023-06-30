@@ -156,3 +156,4 @@
 2023-06-23T18:26:02+0000  feat: add retry with backoff
 2023-06-27T22:13:02+0000  docs: add usage examples
 2023-06-29T00:20:51+0000  feat: support config file overrides
+2023-06-30T01:42:45+0000  chore: update lockfile
