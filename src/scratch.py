@@ -982,3 +982,4 @@
 2023-06-28T16:07:02+0000  chore: bump dependencies
 2023-06-29T14:43:03+0000  chore: update lockfile
 2023-06-30T16:12:27+0000  fix: correct timezone handling
+2023-06-30T16:31:51+0000  docs: add usage examples
