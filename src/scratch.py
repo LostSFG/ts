@@ -164,3 +164,4 @@
 2023-06-26T13:31:53+0000  feat: support config file overrides
 2023-06-27T08:05:15+0000  feat: cache computed values
 2023-06-27T15:17:07+0000  chore: bump dependencies
+2023-07-03T03:10:04+0000  test: add regression test for #142
