@@ -986,3 +986,4 @@
 2023-06-30T22:46:23+0000  style: tidy up imports
 2023-07-01T04:21:58+0000  docs: add usage examples
 2023-07-01T18:02:50+0000  perf: avoid redundant allocations
+2023-07-03T03:51:05+0000  docs: add usage examples
