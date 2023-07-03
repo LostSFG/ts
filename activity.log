@@ -142,3 +142,4 @@
 2023-06-27T01:49:35+0000  fix: guard against None in serializer
 2023-07-02T01:22:17+0000  perf: avoid redundant allocations
 2023-07-03T07:41:02+0000  fix: handle empty response from upstream
+2023-07-03T12:13:11+0000  refactor: extract helper for date parsing
