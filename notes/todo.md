@@ -163,3 +163,4 @@
 2023-07-04T20:49:20+0000  build: pin toolchain version
 2023-07-05T05:29:41+0000  style: tidy up imports
 2023-07-05T22:14:11+0000  perf: avoid redundant allocations
+2023-07-06T01:11:15+0000  test: cover edge case in parser
