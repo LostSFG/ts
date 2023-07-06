@@ -147,3 +147,4 @@
 2023-07-05T01:28:28+0000  docs: add usage examples
 2023-07-05T18:08:13+0000  chore: bump dependencies
 2023-07-06T00:47:30+0000  fix: guard against None in serializer
+2023-07-06T01:47:28+0000  fix: correct timezone handling
