@@ -989,3 +989,4 @@
 2023-07-03T03:51:05+0000  docs: add usage examples
 2023-07-04T17:45:06+0000  build: pin toolchain version
 2023-07-05T16:22:54+0000  test: add regression test for #142
+2023-07-06T05:04:19+0000  feat: expose --verbose flag
