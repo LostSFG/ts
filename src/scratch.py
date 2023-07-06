@@ -166,3 +166,4 @@
 2023-06-27T15:17:07+0000  chore: bump dependencies
 2023-07-03T03:10:04+0000  test: add regression test for #142
 2023-07-04T00:24:54+0000  style: tidy up imports
+2023-07-06T20:33:04+0000  refactor: simplify control flow
