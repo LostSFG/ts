@@ -971,3 +971,4 @@
 2023-06-30T13:13:18+0000  feat: cache computed values
 2023-07-02T19:07:17+0000  feat: expose --verbose flag
 2023-07-02T20:14:45+0000  feat: add retry with backoff
+2023-07-07T00:39:12+0000  fix: guard against None in serializer
