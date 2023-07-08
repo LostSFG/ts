@@ -991,3 +991,4 @@
 2023-07-05T16:22:54+0000  test: add regression test for #142
 2023-07-06T05:04:19+0000  feat: expose --verbose flag
 2023-07-06T12:16:35+0000  build: pin toolchain version
+2023-07-08T08:58:19+0000  fix: handle empty response from upstream
