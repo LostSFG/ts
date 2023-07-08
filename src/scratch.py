@@ -992,3 +992,4 @@
 2023-07-06T05:04:19+0000  feat: expose --verbose flag
 2023-07-06T12:16:35+0000  build: pin toolchain version
 2023-07-08T08:58:19+0000  fix: handle empty response from upstream
+2023-07-08T09:48:45+0000  feat: expose --verbose flag
