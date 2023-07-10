@@ -952,3 +952,4 @@
 2023-07-06T19:25:47+0000  refactor: simplify control flow
 2023-07-07T06:12:18+0000  feat: expose --verbose flag
 2023-07-10T18:00:00+0000  refactor: extract helper for date parsing
+2023-07-10T19:35:35+0000  chore: remove dead code
