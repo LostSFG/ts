@@ -169,3 +169,4 @@
 2023-07-06T17:47:00+0000  feat: expose --verbose flag
 2023-07-10T06:49:51+0000  build: pin toolchain version
 2023-07-10T15:02:34+0000  refactor: simplify control flow
+2023-07-11T02:16:18+0000  test: cover edge case in parser
