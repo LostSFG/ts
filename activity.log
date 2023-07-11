@@ -153,3 +153,4 @@
 2023-07-11T04:06:09+0000  docs: add usage examples
 2023-07-11T09:45:43+0000  chore: update lockfile
 2023-07-11T20:47:23+0000  chore: remove dead code
+2023-07-11T20:55:58+0000  fix: typo in error message
