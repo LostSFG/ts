@@ -175,3 +175,4 @@
 2023-07-11T17:44:48+0000  test: cover edge case in parser
 2023-07-12T08:51:07+0000  chore: update lockfile
 2023-07-12T12:32:12+0000  fix: typo in error message
+2023-07-12T15:39:45+0000  feat: support config file overrides
