@@ -958,3 +958,4 @@
 2023-07-13T05:38:45+0000  chore: update lockfile
 2023-07-13T07:01:47+0000  docs: clarify setup instructions
 2023-07-13T14:07:03+0000  docs: clarify setup instructions
+2023-07-13T17:06:47+0000  refactor: simplify control flow
