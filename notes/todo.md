@@ -957,3 +957,4 @@
 2023-07-12T15:59:16+0000  fix: handle empty response from upstream
 2023-07-13T05:38:45+0000  chore: update lockfile
 2023-07-13T07:01:47+0000  docs: clarify setup instructions
+2023-07-13T14:07:03+0000  docs: clarify setup instructions
