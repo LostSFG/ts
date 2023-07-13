@@ -154,3 +154,4 @@
 2023-07-11T09:45:43+0000  chore: update lockfile
 2023-07-11T20:47:23+0000  chore: remove dead code
 2023-07-11T20:55:58+0000  fix: typo in error message
+2023-07-13T07:39:29+0000  test: cover edge case in parser
