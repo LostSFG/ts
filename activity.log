@@ -156,3 +156,4 @@
 2023-07-11T20:55:58+0000  fix: typo in error message
 2023-07-13T07:39:29+0000  test: cover edge case in parser
 2023-07-13T22:53:45+0000  chore: remove dead code
+2023-07-14T17:54:46+0000  fix: correct timezone handling
