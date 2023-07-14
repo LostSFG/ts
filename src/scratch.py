@@ -995,3 +995,4 @@
 2023-07-08T09:48:45+0000  feat: expose --verbose flag
 2023-07-08T09:49:37+0000  feat: add retry with backoff
 2023-07-10T07:09:25+0000  feat: cache computed values
+2023-07-14T04:21:55+0000  feat: expose --verbose flag
