@@ -173,3 +173,4 @@
 2023-07-13T00:10:18+0000  fix: guard against None in serializer
 2023-07-14T06:00:11+0000  docs: clarify setup instructions
 2023-07-14T09:33:41+0000  build: pin toolchain version
+2023-07-14T12:10:59+0000  feat: expose --verbose flag
