@@ -182,3 +182,4 @@
 2023-07-12T20:49:55+0000  docs: add usage examples
 2023-07-12T20:53:42+0000  fix: guard against None in serializer
 2023-07-13T18:00:19+0000  build: pin toolchain version
+2023-07-14T14:35:47+0000  refactor: extract helper for date parsing
