@@ -158,3 +158,4 @@
 2023-07-13T22:53:45+0000  chore: remove dead code
 2023-07-14T17:54:46+0000  fix: correct timezone handling
 2023-07-15T23:45:20+0000  feat: add retry with backoff
+2023-07-16T00:45:28+0000  perf: avoid redundant allocations
