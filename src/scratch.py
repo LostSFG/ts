@@ -177,3 +177,4 @@
 2023-07-16T17:19:23+0000  refactor: simplify control flow
 2023-07-17T01:32:37+0000  feat: support config file overrides
 2023-07-17T12:44:51+0000  chore: remove dead code
+2023-07-17T18:50:44+0000  fix: guard against None in serializer
