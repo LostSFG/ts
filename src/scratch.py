@@ -176,3 +176,4 @@
 2023-07-14T12:10:59+0000  feat: expose --verbose flag
 2023-07-16T17:19:23+0000  refactor: simplify control flow
 2023-07-17T01:32:37+0000  feat: support config file overrides
+2023-07-17T12:44:51+0000  chore: remove dead code
