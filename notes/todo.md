@@ -181,3 +181,4 @@
 2023-07-16T19:57:35+0000  style: tidy up imports
 2023-07-19T06:31:51+0000  fix: guard against None in serializer
 2023-07-19T12:44:07+0000  docs: add usage examples
+2023-07-19T13:53:11+0000  test: cover edge case in parser
