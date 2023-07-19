@@ -179,3 +179,4 @@
 2023-07-14T12:00:23+0000  chore: remove dead code
 2023-07-15T16:55:34+0000  feat: support config file overrides
 2023-07-16T19:57:35+0000  style: tidy up imports
+2023-07-19T06:31:51+0000  fix: guard against None in serializer
