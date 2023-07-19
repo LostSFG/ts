@@ -183,3 +183,4 @@
 2023-07-19T12:44:07+0000  docs: add usage examples
 2023-07-19T13:53:11+0000  test: cover edge case in parser
 2023-07-19T14:35:45+0000  chore: remove dead code
+2023-07-19T17:30:33+0000  fix: guard against None in serializer
