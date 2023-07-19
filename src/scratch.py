@@ -1003,3 +1003,4 @@
 2023-07-18T10:11:37+0000  refactor: simplify control flow
 2023-07-18T12:06:47+0000  refactor: extract helper for date parsing
 2023-07-18T14:24:31+0000  style: tidy up imports
+2023-07-19T05:29:28+0000  docs: add usage examples
