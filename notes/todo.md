@@ -185,3 +185,4 @@
 2023-07-19T14:35:45+0000  chore: remove dead code
 2023-07-19T17:30:33+0000  fix: guard against None in serializer
 2023-07-19T22:30:03+0000  fix: handle empty response from upstream
+2023-07-20T18:51:38+0000  feat: cache computed values
