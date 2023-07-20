@@ -1005,3 +1005,4 @@
 2023-07-18T14:24:31+0000  style: tidy up imports
 2023-07-19T05:29:28+0000  docs: add usage examples
 2023-07-20T16:14:26+0000  feat: cache computed values
+2023-07-20T20:08:50+0000  feat: add retry with backoff
