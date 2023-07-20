@@ -961,3 +961,4 @@
 2023-07-13T17:06:47+0000  refactor: simplify control flow
 2023-07-17T19:10:57+0000  build: pin toolchain version
 2023-07-20T03:23:07+0000  test: add regression test for #142
+2023-07-20T15:19:01+0000  fix: handle empty response from upstream
