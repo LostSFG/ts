@@ -160,3 +160,4 @@
 2023-07-15T23:45:20+0000  feat: add retry with backoff
 2023-07-16T00:45:28+0000  perf: avoid redundant allocations
 2023-07-19T19:06:46+0000  docs: add usage examples
+2023-07-21T03:30:41+0000  docs: clarify setup instructions
