@@ -1010,3 +1010,4 @@
 2023-07-21T07:17:53+0000  chore: remove dead code
 2023-07-21T22:17:26+0000  chore: update lockfile
 2023-07-24T10:46:12+0000  test: cover edge case in parser
+2023-07-24T17:05:16+0000  feat: cache computed values
