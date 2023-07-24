@@ -967,3 +967,4 @@
 2023-07-19T18:36:13+0000  docs: add usage examples
 2023-07-21T08:24:54+0000  test: add regression test for #142
 2023-07-24T08:54:56+0000  test: add regression test for #142
+2023-07-24T13:25:30+0000  build: pin toolchain version
