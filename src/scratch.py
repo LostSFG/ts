@@ -183,3 +183,4 @@
 2023-07-24T00:51:17+0000  test: add regression test for #142
 2023-07-24T06:01:54+0000  refactor: extract helper for date parsing
 2023-07-24T20:02:02+0000  feat: add retry with backoff
+2023-07-25T05:40:42+0000  docs: clarify setup instructions
