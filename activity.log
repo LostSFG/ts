@@ -163,3 +163,4 @@
 2023-07-21T03:30:41+0000  docs: clarify setup instructions
 2023-07-24T03:42:16+0000  feat: add retry with backoff
 2023-07-24T17:56:05+0000  chore: bump dependencies
+2023-07-25T16:09:29+0000  test: cover edge case in parser
