@@ -189,3 +189,4 @@
 2023-07-19T19:23:03+0000  perf: avoid redundant allocations
 2023-07-24T10:35:05+0000  test: cover edge case in parser
 2023-07-25T05:24:16+0000  feat: add retry with backoff
+2023-07-25T18:38:24+0000  chore: update lockfile
