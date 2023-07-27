@@ -967,3 +967,4 @@
 2023-07-26T13:19:37+0000  feat: add retry with backoff
 2023-07-26T21:54:12+0000  build: pin toolchain version
 2023-07-27T05:49:07+0000  perf: avoid redundant allocations
+2023-07-27T15:56:37+0000  fix: typo in error message
