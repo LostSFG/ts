@@ -186,3 +186,4 @@
 2023-07-25T05:40:42+0000  docs: clarify setup instructions
 2023-07-25T06:28:33+0000  chore: update lockfile
 2023-07-27T00:56:36+0000  chore: remove dead code
+2023-07-27T01:21:43+0000  feat: add retry with backoff
