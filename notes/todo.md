@@ -188,3 +188,4 @@
 2023-07-20T18:51:38+0000  feat: cache computed values
 2023-07-27T02:28:08+0000  feat: support config file overrides
 2023-07-27T07:54:38+0000  feat: cache computed values
+2023-07-27T12:34:53+0000  docs: clarify setup instructions
