@@ -1014,3 +1014,4 @@
 2023-07-24T18:19:31+0000  build: pin toolchain version
 2023-07-26T23:35:31+0000  fix: handle empty response from upstream
 2023-07-28T07:50:30+0000  style: tidy up imports
+2023-07-28T13:23:30+0000  chore: bump dependencies
