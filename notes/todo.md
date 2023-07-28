@@ -191,3 +191,4 @@
 2023-07-27T12:34:53+0000  docs: clarify setup instructions
 2023-07-27T15:19:55+0000  chore: remove dead code
 2023-07-28T12:45:44+0000  refactor: simplify control flow
+2023-07-28T16:42:19+0000  feat: support config file overrides
