@@ -970,3 +970,4 @@
 2023-07-27T15:56:37+0000  fix: typo in error message
 2023-07-27T18:41:14+0000  perf: avoid redundant allocations
 2023-07-27T22:58:46+0000  refactor: simplify control flow
+2023-07-28T18:28:41+0000  fix: handle empty response from upstream
