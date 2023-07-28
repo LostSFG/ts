@@ -1017,3 +1017,4 @@
 2023-07-28T13:23:30+0000  chore: bump dependencies
 2023-07-28T21:45:39+0000  docs: add usage examples
 2023-07-28T21:56:26+0000  chore: update lockfile
+2023-07-28T23:48:37+0000  fix: guard against None in serializer
