@@ -191,3 +191,4 @@
 2023-07-31T08:48:04+0000  feat: cache computed values
 2023-07-31T17:38:25+0000  fix: typo in error message
 2023-08-01T08:58:29+0000  chore: bump dependencies
+2023-08-01T16:40:10+0000  docs: add usage examples
