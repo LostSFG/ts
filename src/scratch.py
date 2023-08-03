@@ -193,3 +193,4 @@
 2023-08-01T08:58:29+0000  chore: bump dependencies
 2023-08-01T16:40:10+0000  docs: add usage examples
 2023-08-01T21:14:14+0000  feat: support config file overrides
+2023-08-03T01:46:37+0000  test: add regression test for #142
