@@ -195,3 +195,4 @@
 2023-08-01T21:14:14+0000  feat: support config file overrides
 2023-08-03T01:46:37+0000  test: add regression test for #142
 2023-08-03T12:36:11+0000  fix: guard against None in serializer
+2023-08-04T16:24:39+0000  feat: add retry with backoff
