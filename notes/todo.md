@@ -199,3 +199,4 @@
 2023-08-07T14:54:25+0000  docs: clarify setup instructions
 2023-08-08T01:53:11+0000  refactor: simplify control flow
 2023-08-08T08:44:10+0000  build: pin toolchain version
+2023-08-08T21:46:00+0000  test: add regression test for #142
