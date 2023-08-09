@@ -981,3 +981,4 @@
 2023-08-07T12:33:15+0000  fix: typo in error message
 2023-08-07T14:45:59+0000  docs: add usage examples
 2023-08-08T05:39:52+0000  fix: guard against None in serializer
+2023-08-09T16:31:27+0000  feat: expose --verbose flag
