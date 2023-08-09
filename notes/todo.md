@@ -201,3 +201,4 @@
 2023-08-08T08:44:10+0000  build: pin toolchain version
 2023-08-08T21:46:00+0000  test: add regression test for #142
 2023-08-09T00:15:37+0000  perf: avoid redundant allocations
+2023-08-09T16:32:02+0000  fix: correct timezone handling
