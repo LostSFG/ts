@@ -199,3 +199,4 @@
 2023-08-08T17:34:15+0000  feat: support config file overrides
 2023-08-08T22:27:43+0000  feat: add retry with backoff
 2023-08-09T01:47:04+0000  fix: guard against None in serializer
+2023-08-10T14:29:07+0000  docs: clarify setup instructions
