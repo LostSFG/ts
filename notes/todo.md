@@ -203,3 +203,4 @@
 2023-08-09T00:15:37+0000  perf: avoid redundant allocations
 2023-08-09T16:32:02+0000  fix: correct timezone handling
 2023-08-10T11:44:41+0000  docs: add usage examples
+2023-08-10T15:19:12+0000  test: add regression test for #142
