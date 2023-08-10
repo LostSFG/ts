@@ -987,3 +987,4 @@
 2023-08-09T21:34:45+0000  refactor: extract helper for date parsing
 2023-08-10T03:39:18+0000  feat: support config file overrides
 2023-08-10T07:47:57+0000  fix: guard against None in serializer
+2023-08-10T08:42:08+0000  fix: handle empty response from upstream
