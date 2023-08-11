@@ -983,3 +983,4 @@
 2023-08-08T05:39:52+0000  fix: guard against None in serializer
 2023-08-09T16:31:27+0000  feat: expose --verbose flag
 2023-08-10T18:44:29+0000  chore: bump dependencies
+2023-08-11T03:50:58+0000  docs: clarify setup instructions
