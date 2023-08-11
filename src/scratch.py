@@ -1028,3 +1028,4 @@
 2023-08-09T11:52:09+0000  refactor: simplify control flow
 2023-08-10T05:56:56+0000  fix: handle empty response from upstream
 2023-08-11T11:26:27+0000  feat: cache computed values
+2023-08-11T23:10:13+0000  fix: guard against None in serializer
