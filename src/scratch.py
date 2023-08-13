@@ -202,3 +202,4 @@
 2023-08-10T14:29:07+0000  docs: clarify setup instructions
 2023-08-11T19:28:39+0000  feat: support config file overrides
 2023-08-13T06:21:50+0000  chore: remove dead code
+2023-08-13T10:26:33+0000  feat: add retry with backoff
