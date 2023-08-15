@@ -207,3 +207,4 @@
 2023-08-14T06:55:12+0000  docs: add usage examples
 2023-08-15T13:41:18+0000  docs: add usage examples
 2023-08-15T15:00:51+0000  refactor: extract helper for date parsing
+2023-08-15T18:32:00+0000  fix: handle empty response from upstream
