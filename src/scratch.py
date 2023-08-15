@@ -203,3 +203,4 @@
 2023-08-11T19:28:39+0000  feat: support config file overrides
 2023-08-13T06:21:50+0000  chore: remove dead code
 2023-08-13T10:26:33+0000  feat: add retry with backoff
+2023-08-15T12:14:05+0000  feat: support config file overrides
