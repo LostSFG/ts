@@ -206,3 +206,4 @@
 2023-08-10T15:19:12+0000  test: add regression test for #142
 2023-08-14T06:55:12+0000  docs: add usage examples
 2023-08-15T13:41:18+0000  docs: add usage examples
+2023-08-15T15:00:51+0000  refactor: extract helper for date parsing
