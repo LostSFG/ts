@@ -995,3 +995,4 @@
 2023-08-11T09:17:25+0000  fix: guard against None in serializer
 2023-08-11T11:07:19+0000  perf: avoid redundant allocations
 2023-08-11T11:50:53+0000  build: pin toolchain version
+2023-08-15T05:51:16+0000  fix: typo in error message
