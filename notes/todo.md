@@ -987,3 +987,4 @@
 2023-08-15T02:32:57+0000  chore: bump dependencies
 2023-08-15T07:33:34+0000  feat: support config file overrides
 2023-08-15T08:40:46+0000  docs: clarify setup instructions
+2023-08-16T10:41:46+0000  feat: support config file overrides
