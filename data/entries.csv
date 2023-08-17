@@ -214,3 +214,4 @@
 2023-08-15T05:06:08+0000  perf: avoid redundant allocations
 2023-08-15T19:00:37+0000  fix: guard against None in serializer
 2023-08-17T19:57:30+0000  perf: avoid redundant allocations
+2023-08-17T22:36:22+0000  fix: guard against None in serializer
