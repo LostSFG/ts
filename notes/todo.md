@@ -989,3 +989,4 @@
 2023-08-15T08:40:46+0000  docs: clarify setup instructions
 2023-08-16T10:41:46+0000  feat: support config file overrides
 2023-08-17T15:30:13+0000  feat: support config file overrides
+2023-08-17T18:42:25+0000  chore: update lockfile
