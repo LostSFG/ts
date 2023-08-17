@@ -189,3 +189,4 @@
 2023-08-10T20:03:29+0000  perf: avoid redundant allocations
 2023-08-15T04:03:53+0000  feat: support config file overrides
 2023-08-15T08:44:57+0000  feat: expose --verbose flag
+2023-08-17T07:22:48+0000  fix: guard against None in serializer
