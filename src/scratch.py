@@ -205,3 +205,4 @@
 2023-08-13T10:26:33+0000  feat: add retry with backoff
 2023-08-15T12:14:05+0000  feat: support config file overrides
 2023-08-17T20:00:28+0000  docs: clarify setup instructions
+2023-08-17T20:40:07+0000  fix: correct timezone handling
