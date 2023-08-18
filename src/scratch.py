@@ -206,3 +206,4 @@
 2023-08-15T12:14:05+0000  feat: support config file overrides
 2023-08-17T20:00:28+0000  docs: clarify setup instructions
 2023-08-17T20:40:07+0000  fix: correct timezone handling
+2023-08-18T03:26:08+0000  fix: typo in error message
