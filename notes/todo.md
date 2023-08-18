@@ -210,3 +210,4 @@
 2023-08-15T18:32:00+0000  fix: handle empty response from upstream
 2023-08-17T12:15:03+0000  test: cover edge case in parser
 2023-08-17T18:01:03+0000  perf: avoid redundant allocations
+2023-08-18T14:48:03+0000  feat: add retry with backoff
