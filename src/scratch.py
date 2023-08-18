@@ -1033,3 +1033,4 @@
 2023-08-15T17:10:58+0000  style: tidy up imports
 2023-08-16T01:23:07+0000  chore: update lockfile
 2023-08-18T07:34:25+0000  feat: cache computed values
+2023-08-18T13:56:50+0000  test: add regression test for #142
