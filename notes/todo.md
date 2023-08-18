@@ -991,3 +991,4 @@
 2023-08-17T15:30:13+0000  feat: support config file overrides
 2023-08-17T18:42:25+0000  chore: update lockfile
 2023-08-18T00:35:30+0000  refactor: simplify control flow
+2023-08-18T08:04:55+0000  feat: add retry with backoff
