@@ -216,3 +216,4 @@
 2023-08-17T19:57:30+0000  perf: avoid redundant allocations
 2023-08-17T22:36:22+0000  fix: guard against None in serializer
 2023-08-18T17:01:47+0000  style: tidy up imports
+2023-08-18T21:13:44+0000  feat: add retry with backoff
