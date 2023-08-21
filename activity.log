@@ -193,3 +193,4 @@
 2023-08-17T17:20:05+0000  chore: update lockfile
 2023-08-18T06:30:16+0000  perf: avoid redundant allocations
 2023-08-18T16:31:11+0000  chore: remove dead code
+2023-08-21T09:10:29+0000  refactor: simplify control flow
