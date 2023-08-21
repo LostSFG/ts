@@ -1037,3 +1037,4 @@
 2023-08-18T14:34:15+0000  feat: expose --verbose flag
 2023-08-20T17:12:09+0000  style: tidy up imports
 2023-08-21T12:37:46+0000  chore: update lockfile
+2023-08-21T16:06:38+0000  test: cover edge case in parser
