@@ -991,3 +991,4 @@
 2023-08-10T19:18:21+0000  chore: update lockfile
 2023-08-15T03:59:22+0000  feat: support config file overrides
 2023-08-19T20:55:42+0000  chore: remove dead code
+2023-08-22T10:13:23+0000  fix: guard against None in serializer
