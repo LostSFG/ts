@@ -220,3 +220,4 @@
 2023-08-21T10:19:50+0000  feat: expose --verbose flag
 2023-08-21T16:50:19+0000  refactor: extract helper for date parsing
 2023-08-21T17:55:06+0000  feat: expose --verbose flag
+2023-08-22T22:03:28+0000  fix: handle empty response from upstream
