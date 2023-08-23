@@ -1040,3 +1040,4 @@
 2023-08-21T16:06:38+0000  test: cover edge case in parser
 2023-08-21T19:09:23+0000  feat: expose --verbose flag
 2023-08-22T07:53:03+0000  fix: typo in error message
+2023-08-23T11:08:50+0000  test: add regression test for #142
