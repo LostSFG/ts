@@ -215,3 +215,4 @@
 2023-08-21T01:33:21+0000  test: add regression test for #142
 2023-08-22T04:29:39+0000  feat: add retry with backoff
 2023-08-22T19:49:43+0000  test: cover edge case in parser
+2023-08-23T20:30:07+0000  docs: clarify setup instructions
