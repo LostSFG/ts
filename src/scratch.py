@@ -211,3 +211,4 @@
 2023-08-23T03:49:01+0000  chore: remove dead code
 2023-08-24T05:13:33+0000  chore: update lockfile
 2023-08-24T17:32:19+0000  feat: add retry with backoff
+2023-08-24T21:23:17+0000  feat: expose --verbose flag
