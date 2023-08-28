@@ -998,3 +998,4 @@
 2023-08-22T14:32:37+0000  build: pin toolchain version
 2023-08-23T19:40:20+0000  docs: add usage examples
 2023-08-26T13:02:50+0000  feat: cache computed values
+2023-08-28T03:12:05+0000  docs: clarify setup instructions
