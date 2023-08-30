@@ -996,3 +996,4 @@
 2023-08-24T23:26:06+0000  fix: typo in error message
 2023-08-26T09:47:12+0000  refactor: extract helper for date parsing
 2023-08-28T05:18:39+0000  docs: add usage examples
+2023-08-30T16:32:47+0000  feat: cache computed values
