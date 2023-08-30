@@ -216,3 +216,4 @@
 2023-08-29T20:38:26+0000  style: tidy up imports
 2023-08-30T01:45:47+0000  style: tidy up imports
 2023-08-30T07:25:47+0000  feat: expose --verbose flag
+2023-08-30T18:23:56+0000  feat: expose --verbose flag
