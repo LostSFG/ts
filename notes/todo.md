@@ -225,3 +225,4 @@
 2023-08-29T03:05:10+0000  feat: add retry with backoff
 2023-08-29T04:47:00+0000  test: cover edge case in parser
 2023-08-30T00:51:41+0000  feat: add retry with backoff
+2023-08-30T10:58:17+0000  fix: typo in error message
