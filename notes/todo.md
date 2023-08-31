@@ -227,3 +227,4 @@
 2023-08-30T00:51:41+0000  feat: add retry with backoff
 2023-08-30T10:58:17+0000  fix: typo in error message
 2023-08-30T18:21:31+0000  build: pin toolchain version
+2023-08-31T10:56:47+0000  docs: add usage examples
