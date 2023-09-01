@@ -1002,3 +1002,4 @@
 2023-08-28T11:40:09+0000  docs: add usage examples
 2023-08-28T12:01:15+0000  feat: expose --verbose flag
 2023-08-30T05:34:20+0000  fix: guard against None in serializer
+2023-09-01T02:55:56+0000  fix: guard against None in serializer
