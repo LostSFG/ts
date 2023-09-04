@@ -1054,3 +1054,4 @@
 2023-09-04T03:10:05+0000  fix: correct timezone handling
 2023-09-04T05:36:53+0000  feat: expose --verbose flag
 2023-09-04T06:38:46+0000  test: cover edge case in parser
+2023-09-04T13:55:35+0000  perf: avoid redundant allocations
