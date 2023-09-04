@@ -1052,3 +1052,4 @@
 2023-08-31T07:01:08+0000  fix: guard against None in serializer
 2023-09-01T20:04:20+0000  fix: handle empty response from upstream
 2023-09-04T03:10:05+0000  fix: correct timezone handling
+2023-09-04T05:36:53+0000  feat: expose --verbose flag
