@@ -1005,3 +1005,4 @@
 2023-09-01T02:55:56+0000  fix: guard against None in serializer
 2023-09-01T03:41:02+0000  feat: expose --verbose flag
 2023-09-01T08:04:37+0000  feat: support config file overrides
+2023-09-04T06:58:49+0000  test: add regression test for #142
