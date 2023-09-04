@@ -218,3 +218,4 @@
 2023-08-30T07:25:47+0000  feat: expose --verbose flag
 2023-08-30T18:23:56+0000  feat: expose --verbose flag
 2023-09-01T17:50:56+0000  docs: clarify setup instructions
+2023-09-04T08:53:59+0000  test: cover edge case in parser
