@@ -1016,3 +1016,4 @@
 2023-09-06T09:12:48+0000  test: cover edge case in parser
 2023-09-07T06:07:46+0000  style: tidy up imports
 2023-09-07T14:57:20+0000  style: tidy up imports
+2023-09-07T19:34:45+0000  feat: add retry with backoff
