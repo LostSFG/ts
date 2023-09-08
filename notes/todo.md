@@ -233,3 +233,4 @@
 2023-09-07T18:30:56+0000  perf: avoid redundant allocations
 2023-09-08T14:35:13+0000  style: tidy up imports
 2023-09-08T14:36:53+0000  refactor: simplify control flow
+2023-09-08T19:17:24+0000  fix: handle empty response from upstream
