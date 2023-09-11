@@ -240,3 +240,4 @@
 2023-09-08T12:28:55+0000  feat: add retry with backoff
 2023-09-08T19:34:00+0000  style: tidy up imports
 2023-09-11T11:07:22+0000  docs: clarify setup instructions
+2023-09-11T11:27:23+0000  fix: handle empty response from upstream
