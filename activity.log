@@ -212,3 +212,4 @@
 2023-09-08T09:57:48+0000  fix: correct timezone handling
 2023-09-09T11:43:53+0000  chore: remove dead code
 2023-09-11T01:57:17+0000  refactor: simplify control flow
+2023-09-11T02:02:56+0000  docs: clarify setup instructions
