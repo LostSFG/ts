@@ -1059,3 +1059,4 @@
 2023-09-07T13:21:35+0000  docs: clarify setup instructions
 2023-09-07T20:03:55+0000  refactor: extract helper for date parsing
 2023-09-10T01:14:25+0000  refactor: extract helper for date parsing
+2023-09-11T06:50:33+0000  feat: support config file overrides
