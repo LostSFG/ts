@@ -1021,3 +1021,4 @@
 2023-09-08T12:10:18+0000  feat: cache computed values
 2023-09-10T05:11:12+0000  feat: support config file overrides
 2023-09-10T14:26:04+0000  test: add regression test for #142
+2023-09-12T00:28:11+0000  chore: update lockfile
