@@ -243,3 +243,4 @@
 2023-09-11T11:27:23+0000  fix: handle empty response from upstream
 2023-09-11T20:23:46+0000  refactor: simplify control flow
 2023-09-12T16:27:00+0000  feat: cache computed values
+2023-09-13T01:51:25+0000  perf: avoid redundant allocations
