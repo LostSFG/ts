@@ -1062,3 +1062,4 @@
 2023-09-11T06:50:33+0000  feat: support config file overrides
 2023-09-12T01:51:19+0000  feat: expose --verbose flag
 2023-09-12T06:13:31+0000  feat: support config file overrides
+2023-09-13T09:22:58+0000  feat: expose --verbose flag
