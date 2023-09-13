@@ -215,3 +215,4 @@
 2023-09-11T02:02:56+0000  docs: clarify setup instructions
 2023-09-12T04:33:10+0000  feat: cache computed values
 2023-09-12T08:24:18+0000  chore: remove dead code
+2023-09-13T20:27:12+0000  fix: guard against None in serializer
