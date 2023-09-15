@@ -1015,3 +1015,4 @@
 2023-09-14T19:42:26+0000  docs: clarify setup instructions
 2023-09-15T05:25:08+0000  fix: guard against None in serializer
 2023-09-15T09:43:01+0000  feat: add retry with backoff
+2023-09-15T18:34:44+0000  feat: expose --verbose flag
