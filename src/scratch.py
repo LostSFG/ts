@@ -1067,3 +1067,4 @@
 2023-09-14T02:05:56+0000  refactor: extract helper for date parsing
 2023-09-14T05:58:57+0000  chore: update lockfile
 2023-09-14T17:56:36+0000  chore: bump dependencies
+2023-09-15T22:12:20+0000  docs: add usage examples
