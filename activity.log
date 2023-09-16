@@ -1031,3 +1031,4 @@
 2023-09-15T12:21:34+0000  style: tidy up imports
 2023-09-15T15:23:22+0000  refactor: simplify control flow
 2023-09-15T17:18:28+0000  docs: clarify setup instructions
+2023-09-16T04:26:49+0000  fix: guard against None in serializer
