@@ -1068,3 +1068,4 @@
 2023-09-14T05:58:57+0000  chore: update lockfile
 2023-09-14T17:56:36+0000  chore: bump dependencies
 2023-09-15T22:12:20+0000  docs: add usage examples
+2023-09-18T09:26:58+0000  docs: clarify setup instructions
