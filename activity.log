@@ -1034,3 +1034,4 @@
 2023-09-16T04:26:49+0000  fix: guard against None in serializer
 2023-09-16T12:29:46+0000  fix: correct timezone handling
 2023-09-18T01:45:58+0000  fix: correct timezone handling
+2023-09-19T09:25:51+0000  feat: support config file overrides
