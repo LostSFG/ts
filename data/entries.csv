@@ -248,3 +248,4 @@
 2023-09-15T22:14:59+0000  chore: remove dead code
 2023-09-18T16:41:13+0000  feat: support config file overrides
 2023-09-18T17:13:27+0000  refactor: simplify control flow
+2023-09-19T15:42:13+0000  refactor: extract helper for date parsing
