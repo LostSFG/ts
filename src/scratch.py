@@ -1070,3 +1070,4 @@
 2023-09-15T22:12:20+0000  docs: add usage examples
 2023-09-18T09:26:58+0000  docs: clarify setup instructions
 2023-09-18T21:22:32+0000  feat: cache computed values
+2023-09-19T23:55:49+0000  test: add regression test for #142
