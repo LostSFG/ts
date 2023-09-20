@@ -220,3 +220,4 @@
 2023-09-15T16:11:38+0000  feat: cache computed values
 2023-09-18T09:32:53+0000  style: tidy up imports
 2023-09-19T13:58:55+0000  feat: add retry with backoff
+2023-09-20T11:22:07+0000  test: cover edge case in parser
