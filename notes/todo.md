@@ -240,3 +240,4 @@
 2023-09-15T22:26:24+0000  feat: support config file overrides
 2023-09-19T20:53:53+0000  refactor: extract helper for date parsing
 2023-09-19T21:26:38+0000  feat: add retry with backoff
+2023-09-21T00:39:26+0000  fix: handle empty response from upstream
