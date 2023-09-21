@@ -242,3 +242,4 @@
 2023-09-19T21:26:38+0000  feat: add retry with backoff
 2023-09-21T00:39:26+0000  fix: handle empty response from upstream
 2023-09-21T02:22:23+0000  perf: avoid redundant allocations
+2023-09-21T10:44:28+0000  test: add regression test for #142
