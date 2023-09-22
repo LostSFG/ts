@@ -1017,3 +1017,4 @@
 2023-09-19T12:59:10+0000  refactor: simplify control flow
 2023-09-19T17:29:58+0000  refactor: simplify control flow
 2023-09-21T04:14:40+0000  fix: guard against None in serializer
+2023-09-22T04:16:51+0000  feat: expose --verbose flag
