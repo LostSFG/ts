@@ -245,3 +245,4 @@
 2023-09-21T10:44:28+0000  test: add regression test for #142
 2023-09-21T15:32:19+0000  style: tidy up imports
 2023-09-25T03:28:10+0000  fix: typo in error message
+2023-09-25T12:58:30+0000  test: cover edge case in parser
