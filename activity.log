@@ -222,3 +222,4 @@
 2023-09-19T13:58:55+0000  feat: add retry with backoff
 2023-09-20T11:22:07+0000  test: cover edge case in parser
 2023-09-24T06:55:48+0000  test: cover edge case in parser
+2023-09-25T05:21:36+0000  docs: add usage examples
