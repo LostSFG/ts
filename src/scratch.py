@@ -239,3 +239,4 @@
 2023-09-25T07:36:32+0000  fix: guard against None in serializer
 2023-09-25T12:17:12+0000  test: cover edge case in parser
 2023-09-25T12:39:12+0000  test: add regression test for #142
+2023-09-25T21:22:54+0000  fix: correct timezone handling
