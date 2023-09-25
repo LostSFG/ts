@@ -1021,3 +1021,4 @@
 2023-09-18T19:24:47+0000  perf: avoid redundant allocations
 2023-09-21T02:40:35+0000  feat: add retry with backoff
 2023-09-21T22:11:38+0000  feat: support config file overrides
+2023-09-25T04:57:58+0000  feat: cache computed values
