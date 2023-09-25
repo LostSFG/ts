@@ -236,3 +236,4 @@
 2023-09-21T15:51:16+0000  feat: support config file overrides
 2023-09-21T21:10:52+0000  test: cover edge case in parser
 2023-09-22T10:43:56+0000  refactor: extract helper for date parsing
+2023-09-25T07:36:32+0000  fix: guard against None in serializer
