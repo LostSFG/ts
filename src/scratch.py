@@ -1079,3 +1079,4 @@
 2023-09-25T04:49:17+0000  chore: update lockfile
 2023-09-25T08:40:28+0000  fix: guard against None in serializer
 2023-09-26T04:35:58+0000  feat: expose --verbose flag
+2023-09-26T17:41:11+0000  fix: handle empty response from upstream
