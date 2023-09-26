@@ -1022,3 +1022,4 @@
 2023-09-21T02:40:35+0000  feat: add retry with backoff
 2023-09-21T22:11:38+0000  feat: support config file overrides
 2023-09-25T04:57:58+0000  feat: cache computed values
+2023-09-26T04:55:09+0000  test: cover edge case in parser
