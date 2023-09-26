@@ -1078,3 +1078,4 @@
 2023-09-22T18:31:11+0000  refactor: simplify control flow
 2023-09-25T04:49:17+0000  chore: update lockfile
 2023-09-25T08:40:28+0000  fix: guard against None in serializer
+2023-09-26T04:35:58+0000  feat: expose --verbose flag
