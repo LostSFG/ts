@@ -1023,3 +1023,4 @@
 2023-09-21T22:11:38+0000  feat: support config file overrides
 2023-09-25T04:57:58+0000  feat: cache computed values
 2023-09-26T04:55:09+0000  test: cover edge case in parser
+2023-09-27T09:18:57+0000  refactor: simplify control flow
