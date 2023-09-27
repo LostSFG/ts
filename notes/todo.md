@@ -247,3 +247,4 @@
 2023-09-25T03:28:10+0000  fix: typo in error message
 2023-09-25T12:58:30+0000  test: cover edge case in parser
 2023-09-26T14:24:05+0000  test: cover edge case in parser
+2023-09-27T06:15:49+0000  feat: expose --verbose flag
