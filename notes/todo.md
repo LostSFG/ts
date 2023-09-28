@@ -249,3 +249,4 @@
 2023-09-26T14:24:05+0000  test: cover edge case in parser
 2023-09-27T06:15:49+0000  feat: expose --verbose flag
 2023-09-27T16:41:52+0000  feat: expose --verbose flag
+2023-09-28T10:26:42+0000  perf: avoid redundant allocations
