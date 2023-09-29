@@ -252,3 +252,4 @@
 2023-09-28T10:26:42+0000  perf: avoid redundant allocations
 2023-09-28T14:12:13+0000  feat: support config file overrides
 2023-09-28T17:27:47+0000  fix: guard against None in serializer
+2023-09-29T10:27:02+0000  feat: add retry with backoff
