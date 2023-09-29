@@ -244,3 +244,4 @@
 2023-09-26T19:48:27+0000  style: tidy up imports
 2023-09-27T07:12:10+0000  fix: correct timezone handling
 2023-09-27T10:22:14+0000  feat: support config file overrides
+2023-09-29T07:49:39+0000  feat: add retry with backoff
