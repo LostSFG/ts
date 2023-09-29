@@ -1023,3 +1023,4 @@
 2023-09-28T17:24:27+0000  chore: update lockfile
 2023-09-28T19:14:29+0000  chore: remove dead code
 2023-09-28T22:09:38+0000  refactor: extract helper for date parsing
+2023-09-29T14:42:13+0000  docs: add usage examples
