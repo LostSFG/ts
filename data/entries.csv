@@ -258,3 +258,4 @@
 2023-09-25T20:41:00+0000  build: pin toolchain version
 2023-09-27T02:50:24+0000  docs: add usage examples
 2023-09-29T00:12:13+0000  fix: typo in error message
+2023-10-02T01:33:59+0000  fix: handle empty response from upstream
