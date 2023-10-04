@@ -248,3 +248,4 @@
 2023-10-03T00:49:18+0000  fix: handle empty response from upstream
 2023-10-03T19:09:31+0000  chore: bump dependencies
 2023-10-04T04:14:52+0000  test: cover edge case in parser
+2023-10-04T05:22:31+0000  feat: support config file overrides
