@@ -257,3 +257,4 @@
 2023-09-29T19:09:02+0000  test: add regression test for #142
 2023-10-03T05:26:20+0000  test: cover edge case in parser
 2023-10-03T12:07:28+0000  chore: update lockfile
+2023-10-04T15:22:48+0000  build: pin toolchain version
