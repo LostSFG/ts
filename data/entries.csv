@@ -270,3 +270,4 @@
 2023-10-06T19:15:35+0000  build: pin toolchain version
 2023-10-07T07:49:25+0000  fix: handle empty response from upstream
 2023-10-07T23:11:42+0000  feat: cache computed values
+2023-10-09T06:15:23+0000  docs: clarify setup instructions
