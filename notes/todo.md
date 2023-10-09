@@ -263,3 +263,4 @@
 2023-10-06T11:38:08+0000  test: add regression test for #142
 2023-10-07T12:07:40+0000  feat: support config file overrides
 2023-10-09T04:22:30+0000  fix: correct timezone handling
+2023-10-09T11:08:37+0000  refactor: simplify control flow
