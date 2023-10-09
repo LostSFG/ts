@@ -251,3 +251,4 @@
 2023-10-04T05:22:31+0000  feat: support config file overrides
 2023-10-04T23:15:28+0000  chore: bump dependencies
 2023-10-06T07:34:38+0000  feat: support config file overrides
+2023-10-09T15:43:30+0000  fix: correct timezone handling
