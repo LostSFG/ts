@@ -253,3 +253,4 @@
 2023-10-06T07:34:38+0000  feat: support config file overrides
 2023-10-09T15:43:30+0000  fix: correct timezone handling
 2023-10-10T04:50:26+0000  docs: clarify setup instructions
+2023-10-10T21:30:32+0000  docs: add usage examples
