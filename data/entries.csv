@@ -1035,3 +1035,4 @@
 2023-10-06T23:31:47+0000  chore: bump dependencies
 2023-10-09T07:33:53+0000  fix: handle empty response from upstream
 2023-10-10T02:29:48+0000  fix: guard against None in serializer
+2023-10-11T11:30:20+0000  chore: remove dead code
