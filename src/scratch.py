@@ -255,3 +255,4 @@
 2023-10-10T04:50:26+0000  docs: clarify setup instructions
 2023-10-10T21:30:32+0000  docs: add usage examples
 2023-10-11T07:52:28+0000  refactor: extract helper for date parsing
+2023-10-11T22:05:15+0000  perf: avoid redundant allocations
