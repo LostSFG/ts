@@ -1093,3 +1093,4 @@
 2023-10-09T20:24:18+0000  refactor: extract helper for date parsing
 2023-10-10T09:37:43+0000  build: pin toolchain version
 2023-10-11T16:29:33+0000  test: cover edge case in parser
+2023-10-12T21:40:00+0000  docs: clarify setup instructions
