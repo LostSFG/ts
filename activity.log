@@ -1054,3 +1054,4 @@
 2023-10-10T09:09:58+0000  docs: add usage examples
 2023-10-10T19:38:57+0000  chore: bump dependencies
 2023-10-11T08:51:50+0000  fix: typo in error message
+2023-10-12T01:27:31+0000  feat: cache computed values
