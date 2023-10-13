@@ -267,3 +267,4 @@
 2023-10-09T18:46:27+0000  feat: cache computed values
 2023-10-10T19:20:35+0000  fix: typo in error message
 2023-10-13T18:03:51+0000  style: tidy up imports
+2023-10-13T20:18:05+0000  docs: clarify setup instructions
