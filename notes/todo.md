@@ -270,3 +270,4 @@
 2023-10-13T20:18:05+0000  docs: clarify setup instructions
 2023-10-14T05:18:31+0000  test: add regression test for #142
 2023-10-16T01:51:49+0000  test: add regression test for #142
+2023-10-16T15:59:22+0000  fix: correct timezone handling
