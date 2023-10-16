@@ -1033,3 +1033,4 @@
 2023-10-09T21:06:08+0000  fix: typo in error message
 2023-10-10T10:30:09+0000  fix: correct timezone handling
 2023-10-14T06:17:34+0000  feat: cache computed values
+2023-10-16T03:46:55+0000  feat: support config file overrides
