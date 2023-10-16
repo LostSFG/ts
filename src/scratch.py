@@ -257,3 +257,4 @@
 2023-10-11T07:52:28+0000  refactor: extract helper for date parsing
 2023-10-11T22:05:15+0000  perf: avoid redundant allocations
 2023-10-16T04:11:46+0000  chore: update lockfile
+2023-10-16T08:07:53+0000  docs: add usage examples
