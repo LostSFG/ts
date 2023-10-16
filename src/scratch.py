@@ -1095,3 +1095,4 @@
 2023-10-11T16:29:33+0000  test: cover edge case in parser
 2023-10-12T21:40:00+0000  docs: clarify setup instructions
 2023-10-14T23:52:47+0000  style: tidy up imports
+2023-10-16T11:27:09+0000  chore: remove dead code
