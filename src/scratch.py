@@ -258,3 +258,4 @@
 2023-10-11T22:05:15+0000  perf: avoid redundant allocations
 2023-10-16T04:11:46+0000  chore: update lockfile
 2023-10-16T08:07:53+0000  docs: add usage examples
+2023-10-16T08:39:21+0000  fix: correct timezone handling
