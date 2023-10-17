@@ -276,3 +276,4 @@
 2023-10-11T11:36:38+0000  feat: expose --verbose flag
 2023-10-13T11:21:02+0000  feat: cache computed values
 2023-10-15T15:55:26+0000  docs: add usage examples
+2023-10-17T02:51:50+0000  fix: guard against None in serializer
