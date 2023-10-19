@@ -273,3 +273,4 @@
 2023-10-16T15:59:22+0000  fix: correct timezone handling
 2023-10-16T18:53:50+0000  feat: support config file overrides
 2023-10-19T11:56:47+0000  chore: bump dependencies
+2023-10-19T12:08:24+0000  chore: remove dead code
