@@ -275,3 +275,4 @@
 2023-10-19T11:56:47+0000  chore: bump dependencies
 2023-10-19T12:08:24+0000  chore: remove dead code
 2023-10-19T15:58:45+0000  docs: add usage examples
+2023-10-19T16:26:19+0000  fix: handle empty response from upstream
