@@ -274,3 +274,4 @@
 2023-10-16T18:53:50+0000  feat: support config file overrides
 2023-10-19T11:56:47+0000  chore: bump dependencies
 2023-10-19T12:08:24+0000  chore: remove dead code
+2023-10-19T15:58:45+0000  docs: add usage examples
