@@ -262,3 +262,4 @@
 2023-10-16T18:52:11+0000  chore: remove dead code
 2023-10-16T19:38:25+0000  feat: add retry with backoff
 2023-10-18T11:40:30+0000  chore: bump dependencies
+2023-10-19T02:15:36+0000  docs: add usage examples
