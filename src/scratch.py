@@ -263,3 +263,4 @@
 2023-10-16T19:38:25+0000  feat: add retry with backoff
 2023-10-18T11:40:30+0000  chore: bump dependencies
 2023-10-19T02:15:36+0000  docs: add usage examples
+2023-10-19T13:18:40+0000  refactor: simplify control flow
