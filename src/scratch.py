@@ -1098,3 +1098,4 @@
 2023-10-16T11:27:09+0000  chore: remove dead code
 2023-10-16T11:44:53+0000  fix: typo in error message
 2023-10-17T17:18:15+0000  style: tidy up imports
+2023-10-20T00:22:00+0000  feat: cache computed values
