@@ -251,3 +251,4 @@
 2023-10-17T17:09:54+0000  test: add regression test for #142
 2023-10-19T12:46:24+0000  chore: update lockfile
 2023-10-20T04:36:12+0000  fix: typo in error message
+2023-10-21T23:55:22+0000  feat: cache computed values
