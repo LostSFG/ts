@@ -277,3 +277,4 @@
 2023-10-19T15:58:45+0000  docs: add usage examples
 2023-10-19T16:26:19+0000  fix: handle empty response from upstream
 2023-10-19T19:14:10+0000  fix: typo in error message
+2023-10-23T11:58:51+0000  fix: typo in error message
