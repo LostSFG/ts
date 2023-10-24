@@ -280,3 +280,4 @@
 2023-10-23T11:58:51+0000  fix: typo in error message
 2023-10-23T16:50:31+0000  feat: support config file overrides
 2023-10-24T13:37:27+0000  build: pin toolchain version
+2023-10-24T21:45:06+0000  refactor: simplify control flow
