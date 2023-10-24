@@ -1036,3 +1036,4 @@
 2023-10-16T03:46:55+0000  feat: support config file overrides
 2023-10-18T08:08:27+0000  fix: guard against None in serializer
 2023-10-20T06:42:20+0000  style: tidy up imports
+2023-10-24T06:42:55+0000  refactor: extract helper for date parsing
