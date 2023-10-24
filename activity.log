@@ -258,3 +258,4 @@
 2023-10-23T20:55:58+0000  fix: guard against None in serializer
 2023-10-23T20:59:09+0000  fix: typo in error message
 2023-10-24T12:13:26+0000  docs: add usage examples
+2023-10-24T19:43:36+0000  feat: add retry with backoff
