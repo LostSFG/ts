@@ -1038,3 +1038,4 @@
 2023-10-20T06:42:20+0000  style: tidy up imports
 2023-10-24T06:42:55+0000  refactor: extract helper for date parsing
 2023-10-25T09:08:43+0000  refactor: simplify control flow
+2023-10-25T22:18:14+0000  feat: expose --verbose flag
