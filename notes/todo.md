@@ -1037,3 +1037,4 @@
 2023-10-18T08:08:27+0000  fix: guard against None in serializer
 2023-10-20T06:42:20+0000  style: tidy up imports
 2023-10-24T06:42:55+0000  refactor: extract helper for date parsing
+2023-10-25T09:08:43+0000  refactor: simplify control flow
