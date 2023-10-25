@@ -1104,3 +1104,4 @@
 2023-10-23T16:25:52+0000  chore: remove dead code
 2023-10-24T09:53:42+0000  fix: guard against None in serializer
 2023-10-24T10:29:57+0000  docs: clarify setup instructions
+2023-10-25T12:35:25+0000  fix: handle empty response from upstream
