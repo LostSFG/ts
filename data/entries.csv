@@ -291,3 +291,4 @@
 2023-10-26T10:39:36+0000  fix: handle empty response from upstream
 2023-10-26T23:15:33+0000  feat: add retry with backoff
 2023-10-27T01:17:53+0000  fix: guard against None in serializer
+2023-10-27T05:47:28+0000  build: pin toolchain version
