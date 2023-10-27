@@ -1040,3 +1040,4 @@
 2023-10-25T09:08:43+0000  refactor: simplify control flow
 2023-10-25T22:18:14+0000  feat: expose --verbose flag
 2023-10-27T04:01:55+0000  test: cover edge case in parser
+2023-10-27T04:45:22+0000  feat: support config file overrides
