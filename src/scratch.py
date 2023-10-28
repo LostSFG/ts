@@ -277,3 +277,4 @@
 2023-10-26T04:44:56+0000  test: cover edge case in parser
 2023-10-27T12:24:49+0000  feat: support config file overrides
 2023-10-28T08:08:32+0000  fix: guard against None in serializer
+2023-10-28T09:07:32+0000  fix: handle empty response from upstream
