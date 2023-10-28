@@ -276,3 +276,4 @@
 2023-10-25T11:03:35+0000  chore: remove dead code
 2023-10-26T04:44:56+0000  test: cover edge case in parser
 2023-10-27T12:24:49+0000  feat: support config file overrides
+2023-10-28T08:08:32+0000  fix: guard against None in serializer
