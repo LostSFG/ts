@@ -1109,3 +1109,4 @@
 2023-10-26T15:14:36+0000  chore: remove dead code
 2023-10-27T10:34:12+0000  fix: handle empty response from upstream
 2023-10-28T19:02:45+0000  feat: cache computed values
+2023-10-28T20:53:48+0000  fix: correct timezone handling
