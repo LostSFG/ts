@@ -1110,3 +1110,4 @@
 2023-10-27T10:34:12+0000  fix: handle empty response from upstream
 2023-10-28T19:02:45+0000  feat: cache computed values
 2023-10-28T20:53:48+0000  fix: correct timezone handling
+2023-10-29T14:37:03+0000  feat: add retry with backoff
