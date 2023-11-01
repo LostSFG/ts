@@ -293,3 +293,4 @@
 2023-10-27T01:17:53+0000  fix: guard against None in serializer
 2023-10-27T05:47:28+0000  build: pin toolchain version
 2023-10-27T10:58:58+0000  feat: cache computed values
+2023-11-01T02:32:47+0000  test: cover edge case in parser
