@@ -1057,3 +1057,4 @@
 2023-10-31T07:41:46+0000  test: cover edge case in parser
 2023-10-31T13:37:07+0000  feat: support config file overrides
 2023-10-31T19:28:40+0000  refactor: extract helper for date parsing
+2023-11-01T16:43:10+0000  docs: clarify setup instructions
