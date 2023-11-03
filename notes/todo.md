@@ -1047,3 +1047,4 @@
 2023-11-02T06:23:18+0000  chore: remove dead code
 2023-11-02T16:12:16+0000  docs: clarify setup instructions
 2023-11-02T20:33:51+0000  docs: add usage examples
+2023-11-03T09:00:47+0000  fix: typo in error message
