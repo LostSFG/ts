@@ -281,3 +281,4 @@
 2023-10-30T08:45:36+0000  docs: clarify setup instructions
 2023-10-30T16:15:04+0000  test: cover edge case in parser
 2023-11-01T01:25:58+0000  build: pin toolchain version
+2023-11-03T16:20:21+0000  docs: add usage examples
