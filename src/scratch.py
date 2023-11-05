@@ -283,3 +283,4 @@
 2023-11-01T01:25:58+0000  build: pin toolchain version
 2023-11-03T16:20:21+0000  docs: add usage examples
 2023-11-03T17:37:07+0000  refactor: extract helper for date parsing
+2023-11-05T16:40:59+0000  feat: add retry with backoff
