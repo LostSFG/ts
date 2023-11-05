@@ -286,3 +286,4 @@
 2023-10-28T10:59:37+0000  test: cover edge case in parser
 2023-10-30T12:05:34+0000  fix: guard against None in serializer
 2023-10-30T18:15:14+0000  refactor: extract helper for date parsing
+2023-11-05T06:16:05+0000  fix: handle empty response from upstream
