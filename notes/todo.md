@@ -1049,3 +1049,4 @@
 2023-11-02T20:33:51+0000  docs: add usage examples
 2023-11-03T09:00:47+0000  fix: typo in error message
 2023-11-08T04:30:27+0000  refactor: simplify control flow
+2023-11-08T07:40:08+0000  perf: avoid redundant allocations
