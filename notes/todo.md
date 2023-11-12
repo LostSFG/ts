@@ -290,3 +290,4 @@
 2023-11-08T04:49:57+0000  fix: correct timezone handling
 2023-11-10T05:07:32+0000  refactor: extract helper for date parsing
 2023-11-10T23:58:59+0000  fix: guard against None in serializer
+2023-11-12T19:39:57+0000  build: pin toolchain version
