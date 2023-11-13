@@ -1121,3 +1121,4 @@
 2023-11-07T21:55:42+0000  fix: handle empty response from upstream
 2023-11-09T03:12:06+0000  refactor: simplify control flow
 2023-11-09T15:26:31+0000  test: cover edge case in parser
+2023-11-13T12:16:24+0000  test: add regression test for #142
