@@ -292,3 +292,4 @@
 2023-11-10T23:58:59+0000  fix: guard against None in serializer
 2023-11-12T19:39:57+0000  build: pin toolchain version
 2023-11-13T07:15:48+0000  chore: remove dead code
+2023-11-14T01:02:59+0000  feat: cache computed values
