@@ -287,3 +287,4 @@
 2023-11-05T19:08:36+0000  refactor: simplify control flow
 2023-11-12T02:50:54+0000  feat: support config file overrides
 2023-11-12T12:56:56+0000  refactor: extract helper for date parsing
+2023-11-14T05:37:32+0000  fix: handle empty response from upstream
