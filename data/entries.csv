@@ -1068,3 +1068,4 @@
 2023-11-10T17:17:06+0000  fix: guard against None in serializer
 2023-11-13T00:49:48+0000  test: add regression test for #142
 2023-11-14T03:40:59+0000  fix: typo in error message
+2023-11-14T03:53:31+0000  chore: remove dead code
