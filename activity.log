@@ -276,3 +276,4 @@
 2023-11-13T01:16:29+0000  fix: correct timezone handling
 2023-11-14T14:16:19+0000  fix: guard against None in serializer
 2023-11-14T15:08:12+0000  chore: update lockfile
+2023-11-14T16:33:03+0000  feat: support config file overrides
