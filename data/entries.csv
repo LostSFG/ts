@@ -1070,3 +1070,4 @@
 2023-11-14T03:40:59+0000  fix: typo in error message
 2023-11-14T03:53:31+0000  chore: remove dead code
 2023-11-14T08:31:42+0000  fix: handle empty response from upstream
+2023-11-15T11:21:02+0000  fix: guard against None in serializer
