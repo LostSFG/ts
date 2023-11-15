@@ -277,3 +277,4 @@
 2023-11-14T14:16:19+0000  fix: guard against None in serializer
 2023-11-14T15:08:12+0000  chore: update lockfile
 2023-11-14T16:33:03+0000  feat: support config file overrides
+2023-11-15T05:37:05+0000  feat: add retry with backoff
