@@ -1126,3 +1126,4 @@
 2023-11-14T13:53:42+0000  feat: add retry with backoff
 2023-11-14T18:39:45+0000  docs: clarify setup instructions
 2023-11-14T21:03:18+0000  fix: guard against None in serializer
+2023-11-16T01:42:00+0000  fix: typo in error message
