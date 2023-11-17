@@ -292,3 +292,4 @@
 2023-11-16T01:27:16+0000  feat: support config file overrides
 2023-11-16T02:43:17+0000  docs: clarify setup instructions
 2023-11-16T20:27:35+0000  perf: avoid redundant allocations
+2023-11-17T07:03:30+0000  feat: cache computed values
