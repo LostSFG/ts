@@ -1073,3 +1073,4 @@
 2023-11-15T11:21:02+0000  fix: guard against None in serializer
 2023-11-16T06:25:03+0000  chore: bump dependencies
 2023-11-18T00:38:36+0000  feat: cache computed values
+2023-11-20T11:24:20+0000  chore: update lockfile
