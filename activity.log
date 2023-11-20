@@ -280,3 +280,4 @@
 2023-11-15T05:37:05+0000  feat: add retry with backoff
 2023-11-15T18:23:10+0000  fix: typo in error message
 2023-11-20T17:31:09+0000  fix: typo in error message
+2023-11-20T19:41:04+0000  feat: cache computed values
