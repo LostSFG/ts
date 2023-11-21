@@ -1129,3 +1129,4 @@
 2023-11-16T01:42:00+0000  fix: typo in error message
 2023-11-20T12:54:04+0000  docs: clarify setup instructions
 2023-11-20T17:54:35+0000  feat: support config file overrides
+2023-11-21T05:00:38+0000  fix: typo in error message
