@@ -300,3 +300,4 @@
 2023-11-20T12:35:27+0000  fix: correct timezone handling
 2023-11-20T15:05:44+0000  style: tidy up imports
 2023-11-20T15:44:50+0000  feat: expose --verbose flag
+2023-11-21T17:52:54+0000  build: pin toolchain version
