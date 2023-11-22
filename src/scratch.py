@@ -1131,3 +1131,4 @@
 2023-11-20T17:54:35+0000  feat: support config file overrides
 2023-11-21T05:00:38+0000  fix: typo in error message
 2023-11-22T03:31:59+0000  fix: guard against None in serializer
+2023-11-22T04:34:47+0000  fix: handle empty response from upstream
