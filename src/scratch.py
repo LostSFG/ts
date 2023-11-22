@@ -296,3 +296,4 @@
 2023-11-17T12:06:21+0000  chore: bump dependencies
 2023-11-20T23:58:56+0000  chore: update lockfile
 2023-11-21T05:24:09+0000  feat: cache computed values
+2023-11-22T23:27:04+0000  build: pin toolchain version
