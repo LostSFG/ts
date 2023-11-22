@@ -282,3 +282,4 @@
 2023-11-20T17:31:09+0000  fix: typo in error message
 2023-11-20T19:41:04+0000  feat: cache computed values
 2023-11-21T08:41:33+0000  test: cover edge case in parser
+2023-11-22T06:29:04+0000  chore: remove dead code
