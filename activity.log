@@ -1087,3 +1087,4 @@
 2023-11-21T15:38:12+0000  feat: cache computed values
 2023-11-23T05:23:40+0000  chore: update lockfile
 2023-11-23T05:43:35+0000  style: tidy up imports
+2023-11-23T12:52:19+0000  feat: expose --verbose flag
