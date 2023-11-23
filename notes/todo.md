@@ -1062,3 +1062,4 @@
 2023-11-21T03:24:56+0000  style: tidy up imports
 2023-11-21T12:14:04+0000  build: pin toolchain version
 2023-11-23T08:01:14+0000  refactor: extract helper for date parsing
+2023-11-23T08:32:24+0000  fix: guard against None in serializer
