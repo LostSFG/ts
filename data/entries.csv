@@ -1077,3 +1077,4 @@
 2023-11-21T02:49:08+0000  refactor: simplify control flow
 2023-11-21T08:01:59+0000  refactor: extract helper for date parsing
 2023-11-22T12:25:02+0000  perf: avoid redundant allocations
+2023-11-23T16:50:21+0000  feat: support config file overrides
