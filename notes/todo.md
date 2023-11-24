@@ -1064,3 +1064,4 @@
 2023-11-23T08:01:14+0000  refactor: extract helper for date parsing
 2023-11-23T08:32:24+0000  fix: guard against None in serializer
 2023-11-24T02:29:59+0000  perf: avoid redundant allocations
+2023-11-24T05:36:04+0000  feat: support config file overrides
