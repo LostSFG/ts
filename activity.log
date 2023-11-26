@@ -285,3 +285,4 @@
 2023-11-22T06:29:04+0000  chore: remove dead code
 2023-11-23T04:23:58+0000  fix: typo in error message
 2023-11-23T21:58:13+0000  chore: update lockfile
+2023-11-26T16:51:24+0000  feat: expose --verbose flag
