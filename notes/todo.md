@@ -304,3 +304,4 @@
 2023-11-23T18:22:42+0000  fix: handle empty response from upstream
 2023-11-23T18:38:22+0000  feat: expose --verbose flag
 2023-11-24T01:31:03+0000  refactor: extract helper for date parsing
+2023-11-26T08:39:14+0000  docs: add usage examples
