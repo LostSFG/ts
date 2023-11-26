@@ -308,3 +308,4 @@
 2023-11-23T03:23:21+0000  chore: update lockfile
 2023-11-23T17:22:27+0000  fix: correct timezone handling
 2023-11-23T21:01:26+0000  refactor: simplify control flow
+2023-11-26T00:22:05+0000  feat: expose --verbose flag
