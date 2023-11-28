@@ -289,3 +289,4 @@
 2023-11-28T01:41:44+0000  fix: guard against None in serializer
 2023-11-28T08:41:23+0000  style: tidy up imports
 2023-11-28T19:13:42+0000  test: add regression test for #142
+2023-11-28T21:09:07+0000  refactor: simplify control flow
