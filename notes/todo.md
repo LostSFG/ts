@@ -308,3 +308,4 @@
 2023-11-26T11:45:41+0000  feat: cache computed values
 2023-11-27T07:34:45+0000  build: pin toolchain version
 2023-11-27T18:11:37+0000  docs: clarify setup instructions
+2023-11-28T02:57:38+0000  fix: typo in error message
