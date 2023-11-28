@@ -309,3 +309,4 @@
 2023-11-27T07:34:45+0000  build: pin toolchain version
 2023-11-27T18:11:37+0000  docs: clarify setup instructions
 2023-11-28T02:57:38+0000  fix: typo in error message
+2023-11-28T17:56:49+0000  chore: remove dead code
