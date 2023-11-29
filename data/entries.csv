@@ -1083,3 +1083,4 @@
 2023-11-27T19:27:18+0000  fix: handle empty response from upstream
 2023-11-28T20:10:55+0000  feat: add retry with backoff
 2023-11-29T08:17:31+0000  refactor: extract helper for date parsing
+2023-11-29T18:10:22+0000  build: pin toolchain version
