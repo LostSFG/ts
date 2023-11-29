@@ -1068,3 +1068,4 @@
 2023-11-24T10:34:50+0000  fix: typo in error message
 2023-11-27T08:19:37+0000  perf: avoid redundant allocations
 2023-11-28T06:29:57+0000  chore: bump dependencies
+2023-11-29T02:44:21+0000  fix: typo in error message
