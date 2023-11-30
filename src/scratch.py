@@ -1136,3 +1136,4 @@
 2023-11-24T10:44:09+0000  docs: clarify setup instructions
 2023-11-26T17:57:42+0000  chore: update lockfile
 2023-11-29T00:20:04+0000  chore: update lockfile
+2023-11-30T03:07:48+0000  perf: avoid redundant allocations
