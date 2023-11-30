@@ -310,3 +310,4 @@
 2023-11-27T18:11:37+0000  docs: clarify setup instructions
 2023-11-28T02:57:38+0000  fix: typo in error message
 2023-11-28T17:56:49+0000  chore: remove dead code
+2023-11-30T05:33:54+0000  test: add regression test for #142
