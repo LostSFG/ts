@@ -301,3 +301,4 @@
 2023-11-29T00:58:06+0000  feat: cache computed values
 2023-11-30T00:31:49+0000  style: tidy up imports
 2023-11-30T07:04:02+0000  chore: update lockfile
+2023-11-30T07:53:52+0000  fix: guard against None in serializer
