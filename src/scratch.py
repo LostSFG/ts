@@ -1138,3 +1138,4 @@
 2023-11-29T00:20:04+0000  chore: update lockfile
 2023-11-30T03:07:48+0000  perf: avoid redundant allocations
 2023-11-30T08:42:20+0000  refactor: extract helper for date parsing
+2023-11-30T23:40:36+0000  feat: add retry with backoff
