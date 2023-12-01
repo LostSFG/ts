@@ -304,3 +304,4 @@
 2023-11-30T07:53:52+0000  fix: guard against None in serializer
 2023-11-30T13:58:59+0000  refactor: simplify control flow
 2023-11-30T21:02:26+0000  fix: typo in error message
+2023-12-01T07:04:24+0000  refactor: extract helper for date parsing
