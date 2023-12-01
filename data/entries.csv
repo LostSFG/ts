@@ -314,3 +314,4 @@
 2023-11-29T06:21:21+0000  feat: support config file overrides
 2023-11-30T10:44:47+0000  chore: bump dependencies
 2023-12-01T03:04:08+0000  feat: cache computed values
+2023-12-01T10:55:46+0000  fix: guard against None in serializer
