@@ -1072,3 +1072,4 @@
 2023-11-29T10:44:04+0000  style: tidy up imports
 2023-12-01T00:28:28+0000  chore: bump dependencies
 2023-12-01T04:59:51+0000  refactor: extract helper for date parsing
+2023-12-01T08:48:03+0000  feat: expose --verbose flag
