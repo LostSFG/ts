@@ -1101,3 +1101,4 @@
 2023-11-29T10:17:52+0000  fix: typo in error message
 2023-11-29T15:01:11+0000  feat: support config file overrides
 2023-11-30T18:16:29+0000  fix: guard against None in serializer
+2023-12-01T03:11:37+0000  test: cover edge case in parser
