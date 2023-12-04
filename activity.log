@@ -1103,3 +1103,4 @@
 2023-11-30T18:16:29+0000  fix: guard against None in serializer
 2023-12-01T03:11:37+0000  test: cover edge case in parser
 2023-12-01T11:47:04+0000  refactor: simplify control flow
+2023-12-04T22:58:45+0000  refactor: extract helper for date parsing
