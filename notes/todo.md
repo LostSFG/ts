@@ -311,3 +311,4 @@
 2023-11-28T02:57:38+0000  fix: typo in error message
 2023-11-28T17:56:49+0000  chore: remove dead code
 2023-11-30T05:33:54+0000  test: add regression test for #142
+2023-12-05T23:26:09+0000  fix: correct timezone handling
