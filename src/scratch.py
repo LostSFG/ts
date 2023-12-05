@@ -308,3 +308,4 @@
 2023-12-01T09:12:32+0000  refactor: simplify control flow
 2023-12-01T10:19:55+0000  style: tidy up imports
 2023-12-01T16:18:33+0000  fix: guard against None in serializer
+2023-12-05T01:58:31+0000  fix: correct timezone handling
