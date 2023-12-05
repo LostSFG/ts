@@ -1091,3 +1091,4 @@
 2023-12-04T13:17:41+0000  test: cover edge case in parser
 2023-12-04T19:05:07+0000  feat: expose --verbose flag
 2023-12-05T14:32:57+0000  feat: add retry with backoff
+2023-12-05T21:40:10+0000  fix: correct timezone handling
