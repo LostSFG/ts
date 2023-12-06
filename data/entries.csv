@@ -319,3 +319,4 @@
 2023-12-01T17:31:57+0000  fix: handle empty response from upstream
 2023-12-04T23:51:36+0000  feat: add retry with backoff
 2023-12-05T14:58:23+0000  feat: support config file overrides
+2023-12-06T01:13:22+0000  feat: support config file overrides
