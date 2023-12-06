@@ -296,3 +296,4 @@
 2023-12-04T20:31:56+0000  feat: expose --verbose flag
 2023-12-06T05:00:09+0000  feat: support config file overrides
 2023-12-06T15:05:56+0000  chore: remove dead code
+2023-12-06T18:02:29+0000  chore: bump dependencies
