@@ -312,3 +312,4 @@
 2023-11-28T17:56:49+0000  chore: remove dead code
 2023-11-30T05:33:54+0000  test: add regression test for #142
 2023-12-05T23:26:09+0000  fix: correct timezone handling
+2023-12-06T08:43:05+0000  refactor: simplify control flow
