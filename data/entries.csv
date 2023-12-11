@@ -322,3 +322,4 @@
 2023-12-06T01:13:22+0000  feat: support config file overrides
 2023-12-11T08:57:12+0000  chore: remove dead code
 2023-12-11T14:18:22+0000  feat: support config file overrides
+2023-12-11T14:50:14+0000  test: cover edge case in parser
