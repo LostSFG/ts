@@ -1149,3 +1149,4 @@
 2023-12-05T20:35:29+0000  style: tidy up imports
 2023-12-08T22:53:17+0000  refactor: extract helper for date parsing
 2023-12-11T03:14:39+0000  fix: handle empty response from upstream
+2023-12-11T21:14:46+0000  docs: clarify setup instructions
