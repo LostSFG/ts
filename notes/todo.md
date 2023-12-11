@@ -1077,3 +1077,4 @@
 2023-12-03T08:05:02+0000  feat: add retry with backoff
 2023-12-04T17:16:49+0000  test: add regression test for #142
 2023-12-05T12:52:47+0000  fix: correct timezone handling
+2023-12-11T20:40:55+0000  feat: support config file overrides
