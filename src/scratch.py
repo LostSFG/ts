@@ -1150,3 +1150,4 @@
 2023-12-08T22:53:17+0000  refactor: extract helper for date parsing
 2023-12-11T03:14:39+0000  fix: handle empty response from upstream
 2023-12-11T21:14:46+0000  docs: clarify setup instructions
+2023-12-12T18:54:12+0000  test: add regression test for #142
