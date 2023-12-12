@@ -316,3 +316,4 @@
 2023-12-12T02:54:49+0000  build: pin toolchain version
 2023-12-12T03:40:46+0000  feat: cache computed values
 2023-12-12T05:45:51+0000  perf: avoid redundant allocations
+2023-12-12T15:16:05+0000  docs: clarify setup instructions
