@@ -1108,3 +1108,4 @@
 2023-12-05T18:06:26+0000  refactor: simplify control flow
 2023-12-05T19:15:55+0000  chore: bump dependencies
 2023-12-08T20:56:19+0000  refactor: extract helper for date parsing
+2023-12-13T11:15:33+0000  feat: cache computed values
