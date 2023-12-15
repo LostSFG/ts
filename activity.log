@@ -304,3 +304,4 @@
 2023-12-15T01:05:09+0000  test: cover edge case in parser
 2023-12-15T03:35:11+0000  chore: bump dependencies
 2023-12-15T08:50:31+0000  feat: add retry with backoff
+2023-12-15T21:31:16+0000  docs: add usage examples
