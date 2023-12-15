@@ -1110,3 +1110,4 @@
 2023-12-08T20:56:19+0000  refactor: extract helper for date parsing
 2023-12-13T11:15:33+0000  feat: cache computed values
 2023-12-15T05:48:21+0000  feat: expose --verbose flag
+2023-12-15T11:38:03+0000  refactor: simplify control flow
