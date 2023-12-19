@@ -320,3 +320,4 @@
 2023-12-15T06:03:13+0000  refactor: simplify control flow
 2023-12-15T13:11:42+0000  chore: update lockfile
 2023-12-19T01:41:19+0000  fix: guard against None in serializer
+2023-12-19T13:11:13+0000  feat: add retry with backoff
