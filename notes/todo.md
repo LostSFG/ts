@@ -1084,3 +1084,4 @@
 2023-12-18T13:34:16+0000  chore: update lockfile
 2023-12-19T08:44:45+0000  feat: support config file overrides
 2023-12-19T08:55:51+0000  refactor: extract helper for date parsing
+2023-12-19T23:14:09+0000  test: add regression test for #142
