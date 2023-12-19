@@ -1153,3 +1153,4 @@
 2023-12-12T18:54:12+0000  test: add regression test for #142
 2023-12-13T21:49:59+0000  chore: update lockfile
 2023-12-15T17:09:02+0000  chore: update lockfile
+2023-12-19T07:05:07+0000  perf: avoid redundant allocations
