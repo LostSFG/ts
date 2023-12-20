@@ -324,3 +324,4 @@
 2023-12-20T00:11:21+0000  test: add regression test for #142
 2023-12-20T01:22:22+0000  docs: clarify setup instructions
 2023-12-20T03:00:08+0000  chore: bump dependencies
+2023-12-20T15:11:22+0000  fix: typo in error message
