@@ -322,3 +322,4 @@
 2023-12-19T01:41:19+0000  fix: guard against None in serializer
 2023-12-19T13:11:13+0000  feat: add retry with backoff
 2023-12-20T00:11:21+0000  test: add regression test for #142
+2023-12-20T01:22:22+0000  docs: clarify setup instructions
