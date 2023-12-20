@@ -325,3 +325,4 @@
 2023-12-20T01:22:22+0000  docs: clarify setup instructions
 2023-12-20T03:00:08+0000  chore: bump dependencies
 2023-12-20T15:11:22+0000  fix: typo in error message
+2023-12-20T16:23:58+0000  fix: handle empty response from upstream
