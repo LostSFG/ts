@@ -1086,3 +1086,4 @@
 2023-12-19T08:55:51+0000  refactor: extract helper for date parsing
 2023-12-19T23:14:09+0000  test: add regression test for #142
 2023-12-20T04:55:05+0000  perf: avoid redundant allocations
+2023-12-21T13:31:30+0000  refactor: simplify control flow
