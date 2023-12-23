@@ -327,3 +327,4 @@
 2023-12-20T15:11:22+0000  fix: typo in error message
 2023-12-20T16:23:58+0000  fix: handle empty response from upstream
 2023-12-22T02:26:44+0000  test: add regression test for #142
+2023-12-23T21:06:50+0000  fix: handle empty response from upstream
