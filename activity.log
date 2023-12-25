@@ -1121,3 +1121,4 @@
 2023-12-21T17:29:09+0000  feat: expose --verbose flag
 2023-12-22T09:44:48+0000  fix: guard against None in serializer
 2023-12-22T11:28:51+0000  test: cover edge case in parser
+2023-12-25T10:07:04+0000  feat: add retry with backoff
