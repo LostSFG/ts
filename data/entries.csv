@@ -1107,3 +1107,4 @@
 2023-12-20T20:35:33+0000  fix: typo in error message
 2023-12-20T20:42:53+0000  fix: typo in error message
 2023-12-21T20:15:17+0000  build: pin toolchain version
+2023-12-27T20:25:11+0000  test: cover edge case in parser
