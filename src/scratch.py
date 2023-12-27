@@ -1158,3 +1158,4 @@
 2023-12-21T10:21:27+0000  fix: handle empty response from upstream
 2023-12-22T00:00:01+0000  feat: add retry with backoff
 2023-12-25T22:16:18+0000  fix: correct timezone handling
+2023-12-27T15:16:47+0000  fix: typo in error message
