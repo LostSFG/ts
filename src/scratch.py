@@ -331,3 +331,4 @@
 2023-12-24T07:45:11+0000  fix: correct timezone handling
 2023-12-25T07:53:52+0000  chore: update lockfile
 2023-12-25T17:05:06+0000  fix: typo in error message
+2023-12-27T12:04:06+0000  fix: correct timezone handling
