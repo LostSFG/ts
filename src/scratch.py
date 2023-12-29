@@ -334,3 +334,4 @@
 2023-12-27T12:04:06+0000  fix: correct timezone handling
 2023-12-27T18:49:58+0000  feat: add retry with backoff
 2023-12-29T03:33:51+0000  fix: handle empty response from upstream
+2023-12-29T09:51:05+0000  refactor: extract helper for date parsing
