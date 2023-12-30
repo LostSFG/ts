@@ -1094,3 +1094,4 @@
 2023-12-25T18:27:20+0000  fix: typo in error message
 2023-12-27T23:35:00+0000  feat: add retry with backoff
 2023-12-29T02:32:48+0000  feat: cache computed values
+2023-12-30T12:51:59+0000  chore: remove dead code
