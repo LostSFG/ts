@@ -336,3 +336,4 @@
 2023-12-29T03:33:51+0000  fix: handle empty response from upstream
 2023-12-29T09:51:05+0000  refactor: extract helper for date parsing
 2024-01-02T03:07:55+0000  feat: support config file overrides
+2024-01-02T10:20:55+0000  test: add regression test for #142
