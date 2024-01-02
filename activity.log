@@ -1126,3 +1126,4 @@
 2023-12-30T13:29:39+0000  fix: guard against None in serializer
 2023-12-31T18:26:13+0000  test: cover edge case in parser
 2023-12-31T18:54:13+0000  fix: typo in error message
+2024-01-02T00:00:58+0000  fix: handle empty response from upstream
