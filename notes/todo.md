@@ -329,3 +329,4 @@
 2023-12-27T05:44:05+0000  chore: bump dependencies
 2023-12-29T09:31:22+0000  chore: remove dead code
 2024-01-01T16:37:14+0000  perf: avoid redundant allocations
+2024-01-02T18:23:20+0000  fix: guard against None in serializer
