@@ -1098,3 +1098,4 @@
 2023-12-31T05:36:02+0000  chore: update lockfile
 2024-01-02T04:45:20+0000  chore: bump dependencies
 2024-01-02T09:25:09+0000  style: tidy up imports
+2024-01-02T10:12:45+0000  feat: add retry with backoff
