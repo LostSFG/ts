@@ -1112,3 +1112,4 @@
 2023-12-29T14:29:18+0000  refactor: simplify control flow
 2024-01-01T00:44:25+0000  chore: bump dependencies
 2024-01-01T18:59:03+0000  feat: expose --verbose flag
+2024-01-02T19:50:40+0000  chore: update lockfile
