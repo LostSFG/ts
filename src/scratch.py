@@ -338,3 +338,4 @@
 2024-01-02T03:07:55+0000  feat: support config file overrides
 2024-01-02T10:20:55+0000  test: add regression test for #142
 2024-01-03T05:35:55+0000  fix: typo in error message
+2024-01-03T17:47:17+0000  chore: bump dependencies
