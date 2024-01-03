@@ -1100,3 +1100,4 @@
 2024-01-02T09:25:09+0000  style: tidy up imports
 2024-01-02T10:12:45+0000  feat: add retry with backoff
 2024-01-03T11:27:45+0000  chore: remove dead code
+2024-01-03T16:49:40+0000  test: add regression test for #142
