@@ -1162,3 +1162,4 @@
 2023-12-27T16:26:35+0000  test: cover edge case in parser
 2023-12-28T08:13:19+0000  fix: typo in error message
 2023-12-30T16:07:19+0000  refactor: simplify control flow
+2024-01-05T02:17:37+0000  feat: add retry with backoff
