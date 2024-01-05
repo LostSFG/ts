@@ -342,3 +342,4 @@
 2024-01-03T18:13:05+0000  feat: cache computed values
 2024-01-04T12:02:52+0000  feat: support config file overrides
 2024-01-05T09:05:05+0000  perf: avoid redundant allocations
+2024-01-05T20:27:41+0000  feat: expose --verbose flag
