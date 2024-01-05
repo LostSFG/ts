@@ -331,3 +331,4 @@
 2024-01-01T16:37:14+0000  perf: avoid redundant allocations
 2024-01-02T18:23:20+0000  fix: guard against None in serializer
 2024-01-05T01:17:02+0000  build: pin toolchain version
+2024-01-05T18:22:39+0000  docs: add usage examples
