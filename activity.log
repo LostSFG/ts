@@ -335,3 +335,4 @@
 2024-01-04T10:49:41+0000  fix: correct timezone handling
 2024-01-05T01:28:02+0000  chore: update lockfile
 2024-01-05T07:32:28+0000  perf: avoid redundant allocations
+2024-01-05T13:00:27+0000  feat: add retry with backoff
