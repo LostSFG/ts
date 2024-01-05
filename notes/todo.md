@@ -1101,3 +1101,4 @@
 2024-01-02T10:12:45+0000  feat: add retry with backoff
 2024-01-03T11:27:45+0000  chore: remove dead code
 2024-01-03T16:49:40+0000  test: add regression test for #142
+2024-01-05T06:47:12+0000  fix: handle empty response from upstream
