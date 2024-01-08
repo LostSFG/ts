@@ -1103,3 +1103,4 @@
 2024-01-03T16:49:40+0000  test: add regression test for #142
 2024-01-05T06:47:12+0000  fix: handle empty response from upstream
 2024-01-05T20:53:27+0000  fix: correct timezone handling
+2024-01-08T03:44:25+0000  build: pin toolchain version
