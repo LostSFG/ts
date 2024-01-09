@@ -347,3 +347,4 @@
 2024-01-09T05:11:29+0000  test: cover edge case in parser
 2024-01-09T05:21:58+0000  docs: add usage examples
 2024-01-09T05:48:32+0000  feat: support config file overrides
+2024-01-09T06:02:08+0000  feat: cache computed values
