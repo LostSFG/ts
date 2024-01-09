@@ -344,3 +344,4 @@
 2024-01-05T09:05:05+0000  perf: avoid redundant allocations
 2024-01-05T20:27:41+0000  feat: expose --verbose flag
 2024-01-07T23:15:05+0000  style: tidy up imports
+2024-01-09T05:11:29+0000  test: cover edge case in parser
