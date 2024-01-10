@@ -334,3 +334,4 @@
 2024-01-05T18:22:39+0000  docs: add usage examples
 2024-01-07T19:58:43+0000  feat: expose --verbose flag
 2024-01-09T05:56:50+0000  chore: remove dead code
+2024-01-10T07:15:31+0000  fix: guard against None in serializer
