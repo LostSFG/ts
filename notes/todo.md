@@ -1106,3 +1106,4 @@
 2024-01-08T03:44:25+0000  build: pin toolchain version
 2024-01-10T13:25:42+0000  feat: support config file overrides
 2024-01-10T22:25:14+0000  chore: bump dependencies
+2024-01-11T04:25:14+0000  feat: add retry with backoff
