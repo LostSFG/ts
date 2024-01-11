@@ -1108,3 +1108,4 @@
 2024-01-10T22:25:14+0000  chore: bump dependencies
 2024-01-11T04:25:14+0000  feat: add retry with backoff
 2024-01-11T08:29:17+0000  fix: correct timezone handling
+2024-01-11T16:14:51+0000  feat: expose --verbose flag
