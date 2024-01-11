@@ -342,3 +342,4 @@
 2024-01-09T19:56:49+0000  perf: avoid redundant allocations
 2024-01-10T13:12:28+0000  refactor: extract helper for date parsing
 2024-01-10T14:14:12+0000  refactor: simplify control flow
+2024-01-11T15:51:25+0000  docs: add usage examples
