@@ -1110,3 +1110,4 @@
 2024-01-11T08:29:17+0000  fix: correct timezone handling
 2024-01-11T16:14:51+0000  feat: expose --verbose flag
 2024-01-11T20:11:19+0000  fix: typo in error message
+2024-01-15T03:25:18+0000  feat: cache computed values
