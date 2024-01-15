@@ -1144,3 +1144,4 @@
 2024-01-15T08:32:44+0000  style: tidy up imports
 2024-01-15T08:57:47+0000  fix: handle empty response from upstream
 2024-01-15T17:10:41+0000  fix: typo in error message
+2024-01-15T17:55:35+0000  feat: expose --verbose flag
