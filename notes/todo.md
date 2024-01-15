@@ -341,3 +341,4 @@
 2024-01-11T00:37:47+0000  refactor: simplify control flow
 2024-01-11T20:45:59+0000  feat: add retry with backoff
 2024-01-13T05:07:55+0000  fix: correct timezone handling
+2024-01-15T10:52:11+0000  feat: support config file overrides
