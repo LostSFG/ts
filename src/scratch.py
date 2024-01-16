@@ -1172,3 +1172,4 @@
 2024-01-08T03:42:59+0000  refactor: extract helper for date parsing
 2024-01-10T23:23:05+0000  build: pin toolchain version
 2024-01-16T04:55:04+0000  fix: guard against None in serializer
+2024-01-16T17:57:32+0000  feat: support config file overrides
