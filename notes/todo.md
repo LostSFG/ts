@@ -1111,3 +1111,4 @@
 2024-01-11T16:14:51+0000  feat: expose --verbose flag
 2024-01-11T20:11:19+0000  fix: typo in error message
 2024-01-15T03:25:18+0000  feat: cache computed values
+2024-01-16T00:36:00+0000  feat: cache computed values
