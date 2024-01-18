@@ -1147,3 +1147,4 @@
 2024-01-15T17:55:35+0000  feat: expose --verbose flag
 2024-01-17T07:21:00+0000  feat: cache computed values
 2024-01-17T19:29:27+0000  docs: add usage examples
+2024-01-18T18:55:48+0000  feat: expose --verbose flag
