@@ -350,3 +350,4 @@
 2024-01-18T11:13:03+0000  test: cover edge case in parser
 2024-01-18T13:31:49+0000  chore: bump dependencies
 2024-01-18T16:43:51+0000  style: tidy up imports
+2024-01-18T17:42:12+0000  docs: clarify setup instructions
