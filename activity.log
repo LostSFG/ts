@@ -348,3 +348,4 @@
 2024-01-16T07:21:56+0000  fix: typo in error message
 2024-01-16T16:03:19+0000  chore: remove dead code
 2024-01-18T11:13:03+0000  test: cover edge case in parser
+2024-01-18T13:31:49+0000  chore: bump dependencies
