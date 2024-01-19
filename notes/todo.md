@@ -345,3 +345,4 @@
 2024-01-15T13:45:32+0000  fix: correct timezone handling
 2024-01-15T21:20:11+0000  style: tidy up imports
 2024-01-18T23:19:38+0000  feat: cache computed values
+2024-01-19T14:26:12+0000  feat: cache computed values
