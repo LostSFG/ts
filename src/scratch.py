@@ -1174,3 +1174,4 @@
 2024-01-16T04:55:04+0000  fix: guard against None in serializer
 2024-01-16T17:57:32+0000  feat: support config file overrides
 2024-01-17T23:29:22+0000  refactor: extract helper for date parsing
+2024-01-21T00:06:35+0000  fix: handle empty response from upstream
