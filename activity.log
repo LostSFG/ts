@@ -1150,3 +1150,4 @@
 2024-01-18T18:55:48+0000  feat: expose --verbose flag
 2024-01-19T14:41:15+0000  fix: handle empty response from upstream
 2024-01-22T17:35:46+0000  refactor: extract helper for date parsing
+2024-01-22T21:55:44+0000  docs: clarify setup instructions
