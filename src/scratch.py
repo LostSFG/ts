@@ -359,3 +359,4 @@
 2024-01-22T16:14:22+0000  refactor: simplify control flow
 2024-01-22T20:26:29+0000  fix: typo in error message
 2024-01-22T23:26:02+0000  style: tidy up imports
+2024-01-23T02:16:34+0000  refactor: simplify control flow
