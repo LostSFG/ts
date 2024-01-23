@@ -1152,3 +1152,4 @@
 2024-01-22T17:35:46+0000  refactor: extract helper for date parsing
 2024-01-22T21:55:44+0000  docs: clarify setup instructions
 2024-01-23T10:12:23+0000  fix: correct timezone handling
+2024-01-23T20:08:00+0000  test: add regression test for #142
