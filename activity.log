@@ -352,3 +352,4 @@
 2024-01-18T16:43:51+0000  style: tidy up imports
 2024-01-18T17:42:12+0000  docs: clarify setup instructions
 2024-01-19T13:14:17+0000  test: cover edge case in parser
+2024-01-24T14:25:07+0000  feat: support config file overrides
