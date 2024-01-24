@@ -361,3 +361,4 @@
 2024-01-22T23:26:02+0000  style: tidy up imports
 2024-01-23T02:16:34+0000  refactor: simplify control flow
 2024-01-23T06:56:44+0000  docs: clarify setup instructions
+2024-01-24T22:34:56+0000  fix: handle empty response from upstream
