@@ -1118,3 +1118,4 @@
 2024-01-19T11:00:08+0000  chore: bump dependencies
 2024-01-23T08:35:16+0000  build: pin toolchain version
 2024-01-23T20:30:54+0000  test: add regression test for #142
+2024-01-25T10:15:44+0000  chore: remove dead code
