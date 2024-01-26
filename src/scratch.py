@@ -363,3 +363,4 @@
 2024-01-23T06:56:44+0000  docs: clarify setup instructions
 2024-01-24T22:34:56+0000  fix: handle empty response from upstream
 2024-01-25T19:54:38+0000  build: pin toolchain version
+2024-01-26T05:28:15+0000  perf: avoid redundant allocations
