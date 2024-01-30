@@ -349,3 +349,4 @@
 2024-01-26T05:17:08+0000  fix: guard against None in serializer
 2024-01-26T09:27:19+0000  style: tidy up imports
 2024-01-26T16:51:11+0000  chore: remove dead code
+2024-01-30T03:25:41+0000  fix: guard against None in serializer
