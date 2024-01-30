@@ -1179,3 +1179,4 @@
 2024-01-22T04:19:03+0000  fix: typo in error message
 2024-01-27T11:07:00+0000  test: cover edge case in parser
 2024-01-30T08:04:57+0000  docs: add usage examples
+2024-01-30T10:34:50+0000  fix: guard against None in serializer
