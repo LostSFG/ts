@@ -1182,3 +1182,4 @@
 2024-01-30T10:34:50+0000  fix: guard against None in serializer
 2024-01-30T17:00:22+0000  chore: remove dead code
 2024-01-31T18:19:09+0000  style: tidy up imports
+2024-02-01T03:33:18+0000  chore: bump dependencies
