@@ -372,3 +372,4 @@
 2024-01-31T17:37:18+0000  style: tidy up imports
 2024-01-31T21:44:44+0000  feat: support config file overrides
 2024-02-02T03:59:03+0000  refactor: extract helper for date parsing
+2024-02-02T08:48:02+0000  docs: clarify setup instructions
