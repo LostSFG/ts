@@ -351,3 +351,4 @@
 2024-01-26T16:51:11+0000  chore: remove dead code
 2024-01-30T03:25:41+0000  fix: guard against None in serializer
 2024-01-30T16:24:47+0000  feat: expose --verbose flag
+2024-02-04T11:33:47+0000  refactor: simplify control flow
