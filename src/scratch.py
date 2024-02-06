@@ -1187,3 +1187,4 @@
 2024-02-05T15:02:39+0000  refactor: extract helper for date parsing
 2024-02-05T22:20:32+0000  chore: update lockfile
 2024-02-06T09:04:54+0000  feat: cache computed values
+2024-02-06T09:15:19+0000  fix: correct timezone handling
