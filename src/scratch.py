@@ -374,3 +374,4 @@
 2024-02-02T03:59:03+0000  refactor: extract helper for date parsing
 2024-02-02T08:48:02+0000  docs: clarify setup instructions
 2024-02-05T18:02:03+0000  test: add regression test for #142
+2024-02-06T15:08:09+0000  test: cover edge case in parser
