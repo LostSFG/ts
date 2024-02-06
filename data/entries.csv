@@ -1140,3 +1140,4 @@
 2024-01-30T19:30:12+0000  fix: typo in error message
 2024-01-30T21:52:36+0000  docs: clarify setup instructions
 2024-02-02T05:45:56+0000  refactor: extract helper for date parsing
+2024-02-06T09:51:19+0000  perf: avoid redundant allocations
