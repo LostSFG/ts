@@ -1161,3 +1161,4 @@
 2024-01-31T18:48:24+0000  refactor: extract helper for date parsing
 2024-02-06T01:55:12+0000  chore: remove dead code
 2024-02-06T13:15:22+0000  refactor: extract helper for date parsing
+2024-02-07T00:00:38+0000  fix: guard against None in serializer
