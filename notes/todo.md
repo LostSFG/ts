@@ -1129,3 +1129,4 @@
 2024-02-07T04:42:37+0000  test: add regression test for #142
 2024-02-08T02:09:52+0000  feat: support config file overrides
 2024-02-08T14:41:52+0000  refactor: extract helper for date parsing
+2024-02-08T21:03:29+0000  chore: remove dead code
