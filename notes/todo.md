@@ -1132,3 +1132,4 @@
 2024-02-08T21:03:29+0000  chore: remove dead code
 2024-02-08T21:42:30+0000  feat: add retry with backoff
 2024-02-09T03:11:20+0000  docs: add usage examples
+2024-02-09T16:24:52+0000  perf: avoid redundant allocations
