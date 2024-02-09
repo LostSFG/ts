@@ -1131,3 +1131,4 @@
 2024-02-08T14:41:52+0000  refactor: extract helper for date parsing
 2024-02-08T21:03:29+0000  chore: remove dead code
 2024-02-08T21:42:30+0000  feat: add retry with backoff
+2024-02-09T03:11:20+0000  docs: add usage examples
