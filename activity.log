@@ -1167,3 +1167,4 @@
 2024-02-07T22:04:35+0000  build: pin toolchain version
 2024-02-08T11:05:41+0000  fix: correct timezone handling
 2024-02-09T11:05:14+0000  chore: remove dead code
+2024-02-09T23:06:39+0000  fix: handle empty response from upstream
