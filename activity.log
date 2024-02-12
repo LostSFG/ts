@@ -370,3 +370,4 @@
 2024-02-08T02:09:52+0000  test: cover edge case in parser
 2024-02-10T11:11:57+0000  chore: bump dependencies
 2024-02-10T14:39:50+0000  refactor: extract helper for date parsing
+2024-02-12T08:33:07+0000  docs: add usage examples
