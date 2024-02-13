@@ -356,3 +356,4 @@
 2024-02-07T19:49:43+0000  docs: clarify setup instructions
 2024-02-10T12:40:45+0000  fix: correct timezone handling
 2024-02-12T08:51:46+0000  perf: avoid redundant allocations
+2024-02-13T08:28:34+0000  test: add regression test for #142
