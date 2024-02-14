@@ -1134,3 +1134,4 @@
 2024-02-09T03:11:20+0000  docs: add usage examples
 2024-02-09T16:24:52+0000  perf: avoid redundant allocations
 2024-02-13T02:54:49+0000  chore: remove dead code
+2024-02-14T00:09:35+0000  chore: bump dependencies
