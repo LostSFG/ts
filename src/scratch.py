@@ -1194,3 +1194,4 @@
 2024-02-09T12:24:37+0000  feat: support config file overrides
 2024-02-13T13:54:34+0000  perf: avoid redundant allocations
 2024-02-13T23:47:40+0000  fix: handle empty response from upstream
+2024-02-14T10:23:32+0000  chore: bump dependencies
