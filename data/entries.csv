@@ -368,3 +368,4 @@
 2024-02-10T00:49:44+0000  chore: bump dependencies
 2024-02-13T22:51:48+0000  refactor: extract helper for date parsing
 2024-02-14T08:17:54+0000  chore: update lockfile
+2024-02-14T11:38:47+0000  feat: add retry with backoff
