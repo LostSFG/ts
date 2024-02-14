@@ -378,3 +378,4 @@
 2024-02-09T05:12:24+0000  feat: cache computed values
 2024-02-13T13:03:11+0000  fix: guard against None in serializer
 2024-02-14T02:48:32+0000  docs: add usage examples
+2024-02-14T19:03:36+0000  docs: clarify setup instructions
