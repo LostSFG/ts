@@ -359,3 +359,4 @@
 2024-02-13T08:28:34+0000  test: add regression test for #142
 2024-02-14T03:35:58+0000  style: tidy up imports
 2024-02-15T00:05:35+0000  fix: correct timezone handling
+2024-02-15T00:55:24+0000  feat: cache computed values
