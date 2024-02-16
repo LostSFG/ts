@@ -380,3 +380,4 @@
 2024-02-14T02:48:32+0000  docs: add usage examples
 2024-02-14T19:03:36+0000  docs: clarify setup instructions
 2024-02-15T06:05:52+0000  test: add regression test for #142
+2024-02-16T08:36:39+0000  feat: support config file overrides
