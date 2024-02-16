@@ -362,3 +362,4 @@
 2024-02-15T00:55:24+0000  feat: cache computed values
 2024-02-16T15:50:41+0000  fix: handle empty response from upstream
 2024-02-16T22:15:15+0000  refactor: simplify control flow
+2024-02-16T23:11:32+0000  docs: add usage examples
