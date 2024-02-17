@@ -1154,3 +1154,4 @@
 2024-02-15T22:48:02+0000  feat: cache computed values
 2024-02-16T14:33:54+0000  chore: update lockfile
 2024-02-17T13:17:06+0000  fix: guard against None in serializer
+2024-02-17T21:53:40+0000  fix: guard against None in serializer
