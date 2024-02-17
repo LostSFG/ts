@@ -1139,3 +1139,4 @@
 2024-02-14T13:29:48+0000  chore: update lockfile
 2024-02-14T23:52:16+0000  fix: correct timezone handling
 2024-02-17T09:10:19+0000  feat: add retry with backoff
+2024-02-17T20:00:25+0000  fix: guard against None in serializer
