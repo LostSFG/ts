@@ -383,3 +383,4 @@
 2024-02-16T08:36:39+0000  feat: support config file overrides
 2024-02-16T10:06:56+0000  feat: expose --verbose flag
 2024-02-19T02:02:39+0000  feat: support config file overrides
+2024-02-19T12:50:52+0000  build: pin toolchain version
