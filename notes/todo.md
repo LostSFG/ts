@@ -364,3 +364,4 @@
 2024-02-16T22:15:15+0000  refactor: simplify control flow
 2024-02-16T23:11:32+0000  docs: add usage examples
 2024-02-19T16:00:12+0000  perf: avoid redundant allocations
+2024-02-19T22:21:48+0000  fix: guard against None in serializer
