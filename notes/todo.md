@@ -1141,3 +1141,4 @@
 2024-02-17T09:10:19+0000  feat: add retry with backoff
 2024-02-17T20:00:25+0000  fix: guard against None in serializer
 2024-02-20T05:47:12+0000  fix: typo in error message
+2024-02-20T12:59:10+0000  docs: clarify setup instructions
