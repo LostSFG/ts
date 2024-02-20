@@ -1196,3 +1196,4 @@
 2024-02-13T23:47:40+0000  fix: handle empty response from upstream
 2024-02-14T10:23:32+0000  chore: bump dependencies
 2024-02-14T20:31:59+0000  docs: add usage examples
+2024-02-20T18:45:30+0000  feat: support config file overrides
