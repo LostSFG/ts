@@ -385,3 +385,4 @@
 2024-02-19T02:02:39+0000  feat: support config file overrides
 2024-02-19T12:50:52+0000  build: pin toolchain version
 2024-02-19T18:14:10+0000  style: tidy up imports
+2024-02-21T00:31:27+0000  test: add regression test for #142
