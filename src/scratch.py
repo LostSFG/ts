@@ -1198,3 +1198,4 @@
 2024-02-14T20:31:59+0000  docs: add usage examples
 2024-02-20T18:45:30+0000  feat: support config file overrides
 2024-02-22T09:56:58+0000  style: tidy up imports
+2024-02-22T16:55:36+0000  perf: avoid redundant allocations
