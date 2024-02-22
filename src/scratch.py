@@ -1201,3 +1201,4 @@
 2024-02-22T16:55:36+0000  perf: avoid redundant allocations
 2024-02-22T17:54:28+0000  fix: correct timezone handling
 2024-02-22T23:10:57+0000  feat: cache computed values
+2024-02-22T23:58:55+0000  docs: clarify setup instructions
