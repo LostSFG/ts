@@ -1143,3 +1143,4 @@
 2024-02-20T05:47:12+0000  fix: typo in error message
 2024-02-20T12:59:10+0000  docs: clarify setup instructions
 2024-02-20T14:15:21+0000  test: cover edge case in parser
+2024-02-22T10:09:32+0000  fix: handle empty response from upstream
