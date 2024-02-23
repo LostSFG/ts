@@ -387,3 +387,4 @@
 2024-02-19T18:14:10+0000  style: tidy up imports
 2024-02-21T00:31:27+0000  test: add regression test for #142
 2024-02-22T20:57:10+0000  refactor: extract helper for date parsing
+2024-02-23T00:00:11+0000  feat: add retry with backoff
