@@ -383,3 +383,4 @@
 2024-02-22T07:49:34+0000  fix: correct timezone handling
 2024-02-23T04:03:50+0000  chore: update lockfile
 2024-02-23T10:09:00+0000  chore: update lockfile
+2024-02-23T11:27:20+0000  feat: expose --verbose flag
