@@ -367,3 +367,4 @@
 2024-02-19T22:21:48+0000  fix: guard against None in serializer
 2024-02-21T03:22:16+0000  style: tidy up imports
 2024-02-22T16:26:50+0000  test: add regression test for #142
+2024-02-24T22:27:30+0000  fix: guard against None in serializer
