@@ -392,3 +392,4 @@
 2024-02-23T10:03:57+0000  docs: clarify setup instructions
 2024-02-23T19:59:10+0000  chore: update lockfile
 2024-02-24T15:01:46+0000  chore: remove dead code
+2024-02-26T12:30:40+0000  fix: guard against None in serializer
