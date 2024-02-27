@@ -1158,3 +1158,4 @@
 2024-02-20T20:22:04+0000  refactor: simplify control flow
 2024-02-22T23:08:00+0000  fix: guard against None in serializer
 2024-02-27T01:04:14+0000  docs: add usage examples
+2024-02-27T06:46:32+0000  docs: clarify setup instructions
