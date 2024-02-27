@@ -1145,3 +1145,4 @@
 2024-02-20T14:15:21+0000  test: cover edge case in parser
 2024-02-22T10:09:32+0000  fix: handle empty response from upstream
 2024-02-23T14:46:00+0000  fix: handle empty response from upstream
+2024-02-27T11:18:23+0000  feat: expose --verbose flag
