@@ -1160,3 +1160,4 @@
 2024-02-27T01:04:14+0000  docs: add usage examples
 2024-02-27T06:46:32+0000  docs: clarify setup instructions
 2024-02-27T09:56:19+0000  style: tidy up imports
+2024-02-29T15:15:03+0000  perf: avoid redundant allocations
