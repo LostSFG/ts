@@ -371,3 +371,4 @@
 2024-02-27T16:06:22+0000  test: cover edge case in parser
 2024-02-27T19:07:52+0000  refactor: simplify control flow
 2024-02-28T08:40:58+0000  fix: guard against None in serializer
+2024-02-29T04:00:03+0000  perf: avoid redundant allocations
