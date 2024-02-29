@@ -379,3 +379,4 @@
 2024-02-23T23:40:18+0000  fix: typo in error message
 2024-02-26T11:45:59+0000  docs: clarify setup instructions
 2024-02-28T20:09:08+0000  chore: update lockfile
+2024-02-29T07:30:07+0000  perf: avoid redundant allocations
