@@ -1204,3 +1204,4 @@
 2024-02-22T23:58:55+0000  docs: clarify setup instructions
 2024-02-27T18:00:21+0000  chore: update lockfile
 2024-02-28T09:24:37+0000  test: add regression test for #142
+2024-02-29T20:25:10+0000  docs: clarify setup instructions
