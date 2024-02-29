@@ -394,3 +394,4 @@
 2024-02-24T15:01:46+0000  chore: remove dead code
 2024-02-26T12:30:40+0000  fix: guard against None in serializer
 2024-02-29T10:07:19+0000  chore: remove dead code
+2024-02-29T13:31:12+0000  fix: correct timezone handling
