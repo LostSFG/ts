@@ -1209,3 +1209,4 @@
 2024-03-01T12:57:08+0000  perf: avoid redundant allocations
 2024-03-05T01:19:52+0000  chore: remove dead code
 2024-03-05T15:02:15+0000  docs: add usage examples
+2024-03-05T17:32:14+0000  refactor: simplify control flow
