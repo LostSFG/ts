@@ -1186,3 +1186,4 @@
 2024-03-05T05:33:50+0000  docs: clarify setup instructions
 2024-03-05T12:14:56+0000  docs: clarify setup instructions
 2024-03-05T20:20:38+0000  feat: support config file overrides
+2024-03-06T07:14:52+0000  perf: avoid redundant allocations
