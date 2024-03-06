@@ -393,3 +393,4 @@
 2024-03-05T05:55:37+0000  fix: guard against None in serializer
 2024-03-05T13:36:29+0000  feat: support config file overrides
 2024-03-06T03:03:38+0000  docs: add usage examples
+2024-03-06T12:04:05+0000  fix: handle empty response from upstream
