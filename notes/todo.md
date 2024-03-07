@@ -374,3 +374,4 @@
 2024-02-29T04:00:03+0000  perf: avoid redundant allocations
 2024-02-29T19:31:04+0000  test: add regression test for #142
 2024-03-05T09:03:07+0000  docs: clarify setup instructions
+2024-03-07T13:51:54+0000  feat: expose --verbose flag
