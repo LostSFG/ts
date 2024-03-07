@@ -1150,3 +1150,4 @@
 2024-02-28T17:05:09+0000  refactor: extract helper for date parsing
 2024-02-29T23:15:05+0000  style: tidy up imports
 2024-03-05T14:04:22+0000  test: add regression test for #142
+2024-03-07T05:29:18+0000  fix: guard against None in serializer
