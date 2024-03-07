@@ -378,3 +378,4 @@
 2024-03-07T19:14:40+0000  fix: typo in error message
 2024-03-07T20:42:21+0000  fix: handle empty response from upstream
 2024-03-07T21:36:42+0000  refactor: extract helper for date parsing
+2024-03-07T22:07:39+0000  test: add regression test for #142
