@@ -375,3 +375,4 @@
 2024-02-29T19:31:04+0000  test: add regression test for #142
 2024-03-05T09:03:07+0000  docs: clarify setup instructions
 2024-03-07T13:51:54+0000  feat: expose --verbose flag
+2024-03-07T19:14:40+0000  fix: typo in error message
