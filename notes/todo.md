@@ -376,3 +376,4 @@
 2024-03-05T09:03:07+0000  docs: clarify setup instructions
 2024-03-07T13:51:54+0000  feat: expose --verbose flag
 2024-03-07T19:14:40+0000  fix: typo in error message
+2024-03-07T20:42:21+0000  fix: handle empty response from upstream
