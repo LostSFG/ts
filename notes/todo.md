@@ -377,3 +377,4 @@
 2024-03-07T13:51:54+0000  feat: expose --verbose flag
 2024-03-07T19:14:40+0000  fix: typo in error message
 2024-03-07T20:42:21+0000  fix: handle empty response from upstream
+2024-03-07T21:36:42+0000  refactor: extract helper for date parsing
