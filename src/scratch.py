@@ -1218,3 +1218,4 @@
 2024-03-11T02:18:40+0000  fix: typo in error message
 2024-03-11T10:39:40+0000  test: add regression test for #142
 2024-03-11T10:45:44+0000  fix: guard against None in serializer
+2024-03-11T17:38:50+0000  docs: clarify setup instructions
