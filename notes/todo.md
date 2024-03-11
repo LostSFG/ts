@@ -1151,3 +1151,4 @@
 2024-02-29T23:15:05+0000  style: tidy up imports
 2024-03-05T14:04:22+0000  test: add regression test for #142
 2024-03-07T05:29:18+0000  fix: guard against None in serializer
+2024-03-11T17:52:33+0000  fix: typo in error message
