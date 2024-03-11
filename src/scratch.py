@@ -1216,3 +1216,4 @@
 2024-03-07T17:32:10+0000  chore: update lockfile
 2024-03-11T01:21:12+0000  chore: remove dead code
 2024-03-11T02:18:40+0000  fix: typo in error message
+2024-03-11T10:39:40+0000  test: add regression test for #142
