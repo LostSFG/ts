@@ -398,3 +398,4 @@
 2024-03-05T12:26:19+0000  refactor: extract helper for date parsing
 2024-03-06T12:07:12+0000  fix: correct timezone handling
 2024-03-06T14:08:23+0000  test: cover edge case in parser
+2024-03-12T10:36:29+0000  docs: clarify setup instructions
