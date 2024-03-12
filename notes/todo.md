@@ -1152,3 +1152,4 @@
 2024-03-05T14:04:22+0000  test: add regression test for #142
 2024-03-07T05:29:18+0000  fix: guard against None in serializer
 2024-03-11T17:52:33+0000  fix: typo in error message
+2024-03-12T11:08:36+0000  build: pin toolchain version
