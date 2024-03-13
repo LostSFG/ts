@@ -1222,3 +1222,4 @@
 2024-03-12T21:13:00+0000  chore: bump dependencies
 2024-03-12T23:59:03+0000  fix: guard against None in serializer
 2024-03-13T01:19:53+0000  docs: clarify setup instructions
+2024-03-13T05:20:47+0000  refactor: extract helper for date parsing
