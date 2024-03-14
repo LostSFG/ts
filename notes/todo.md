@@ -1155,3 +1155,4 @@
 2024-03-12T11:08:36+0000  build: pin toolchain version
 2024-03-12T16:56:19+0000  test: cover edge case in parser
 2024-03-13T20:32:21+0000  test: add regression test for #142
+2024-03-14T00:58:01+0000  fix: handle empty response from upstream
