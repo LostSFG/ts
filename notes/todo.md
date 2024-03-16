@@ -383,3 +383,4 @@
 2024-03-14T19:44:54+0000  test: add regression test for #142
 2024-03-15T12:00:09+0000  refactor: simplify control flow
 2024-03-15T12:24:10+0000  docs: add usage examples
+2024-03-16T12:47:31+0000  refactor: simplify control flow
