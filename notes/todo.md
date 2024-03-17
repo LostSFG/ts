@@ -1156,3 +1156,4 @@
 2024-03-12T16:56:19+0000  test: cover edge case in parser
 2024-03-13T20:32:21+0000  test: add regression test for #142
 2024-03-14T00:58:01+0000  fix: handle empty response from upstream
+2024-03-17T07:28:37+0000  feat: add retry with backoff
