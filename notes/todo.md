@@ -1161,3 +1161,4 @@
 2024-03-18T01:37:57+0000  chore: remove dead code
 2024-03-18T11:47:40+0000  test: cover edge case in parser
 2024-03-18T14:49:44+0000  style: tidy up imports
+2024-03-18T15:05:53+0000  refactor: simplify control flow
