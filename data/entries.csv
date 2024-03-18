@@ -1166,3 +1166,4 @@
 2024-03-11T09:09:06+0000  chore: update lockfile
 2024-03-12T13:53:54+0000  style: tidy up imports
 2024-03-14T08:05:51+0000  feat: expose --verbose flag
+2024-03-18T16:59:22+0000  fix: guard against None in serializer
