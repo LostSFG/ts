@@ -1158,3 +1158,4 @@
 2024-03-14T00:58:01+0000  fix: handle empty response from upstream
 2024-03-17T07:28:37+0000  feat: add retry with backoff
 2024-03-17T15:01:56+0000  feat: support config file overrides
+2024-03-18T01:37:57+0000  chore: remove dead code
