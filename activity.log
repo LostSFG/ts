@@ -407,3 +407,4 @@
 2024-03-19T04:59:25+0000  docs: clarify setup instructions
 2024-03-19T22:41:22+0000  feat: cache computed values
 2024-03-20T01:56:17+0000  build: pin toolchain version
+2024-03-20T18:12:23+0000  perf: avoid redundant allocations
