@@ -386,3 +386,4 @@
 2024-03-16T12:47:31+0000  refactor: simplify control flow
 2024-03-19T21:21:55+0000  test: add regression test for #142
 2024-03-19T23:58:01+0000  chore: bump dependencies
+2024-03-20T01:41:35+0000  build: pin toolchain version
