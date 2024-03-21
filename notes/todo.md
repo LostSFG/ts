@@ -1164,3 +1164,4 @@
 2024-03-18T15:05:53+0000  refactor: simplify control flow
 2024-03-18T15:32:03+0000  feat: expose --verbose flag
 2024-03-19T06:57:39+0000  docs: clarify setup instructions
+2024-03-21T09:46:45+0000  chore: remove dead code
