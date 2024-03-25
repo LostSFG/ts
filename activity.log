@@ -411,3 +411,4 @@
 2024-03-23T04:52:20+0000  chore: remove dead code
 2024-03-23T14:28:55+0000  feat: expose --verbose flag
 2024-03-25T09:57:58+0000  feat: expose --verbose flag
+2024-03-25T21:51:28+0000  fix: typo in error message
