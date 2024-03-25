@@ -1228,3 +1228,4 @@
 2024-03-15T17:33:59+0000  feat: support config file overrides
 2024-03-18T05:17:05+0000  test: cover edge case in parser
 2024-03-23T09:43:44+0000  test: add regression test for #142
+2024-03-25T22:33:23+0000  fix: typo in error message
