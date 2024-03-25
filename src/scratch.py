@@ -401,3 +401,4 @@
 2024-03-12T10:36:29+0000  docs: clarify setup instructions
 2024-03-15T23:29:09+0000  style: tidy up imports
 2024-03-19T07:23:47+0000  chore: update lockfile
+2024-03-25T03:04:23+0000  fix: typo in error message
