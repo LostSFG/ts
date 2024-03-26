@@ -1172,3 +1172,4 @@
 2024-03-22T20:22:00+0000  feat: add retry with backoff
 2024-03-23T07:08:28+0000  fix: guard against None in serializer
 2024-03-25T11:18:58+0000  feat: cache computed values
+2024-03-26T04:20:20+0000  build: pin toolchain version
