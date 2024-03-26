@@ -1171,3 +1171,4 @@
 2024-03-25T23:31:10+0000  test: add regression test for #142
 2024-03-25T23:44:56+0000  chore: update lockfile
 2024-03-26T01:24:34+0000  fix: handle empty response from upstream
+2024-03-26T22:29:28+0000  fix: correct timezone handling
