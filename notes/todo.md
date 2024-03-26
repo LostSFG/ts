@@ -1170,3 +1170,4 @@
 2024-03-25T09:50:39+0000  chore: bump dependencies
 2024-03-25T23:31:10+0000  test: add regression test for #142
 2024-03-25T23:44:56+0000  chore: update lockfile
+2024-03-26T01:24:34+0000  fix: handle empty response from upstream
