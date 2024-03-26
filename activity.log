@@ -412,3 +412,4 @@
 2024-03-23T14:28:55+0000  feat: expose --verbose flag
 2024-03-25T09:57:58+0000  feat: expose --verbose flag
 2024-03-25T21:51:28+0000  fix: typo in error message
+2024-03-26T14:00:17+0000  fix: correct timezone handling
