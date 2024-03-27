@@ -1230,3 +1230,4 @@
 2024-03-23T09:43:44+0000  test: add regression test for #142
 2024-03-25T22:33:23+0000  fix: typo in error message
 2024-03-26T17:00:28+0000  fix: handle empty response from upstream
+2024-03-27T10:58:25+0000  perf: avoid redundant allocations
