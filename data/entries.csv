@@ -394,3 +394,4 @@
 2024-03-25T11:22:45+0000  chore: remove dead code
 2024-03-26T21:41:09+0000  feat: add retry with backoff
 2024-03-27T01:49:36+0000  test: add regression test for #142
+2024-03-27T16:19:51+0000  fix: typo in error message
