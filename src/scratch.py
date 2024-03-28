@@ -410,3 +410,4 @@
 2024-03-27T23:11:37+0000  feat: expose --verbose flag
 2024-03-28T08:49:39+0000  feat: support config file overrides
 2024-03-28T19:43:52+0000  feat: add retry with backoff
+2024-03-28T22:22:00+0000  fix: guard against None in serializer
