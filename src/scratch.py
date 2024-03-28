@@ -408,3 +408,4 @@
 2024-03-26T18:58:36+0000  docs: clarify setup instructions
 2024-03-27T02:48:18+0000  refactor: extract helper for date parsing
 2024-03-27T23:11:37+0000  feat: expose --verbose flag
+2024-03-28T08:49:39+0000  feat: support config file overrides
