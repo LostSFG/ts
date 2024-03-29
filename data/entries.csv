@@ -397,3 +397,4 @@
 2024-03-27T16:19:51+0000  fix: typo in error message
 2024-03-28T08:50:04+0000  fix: guard against None in serializer
 2024-03-29T14:02:23+0000  feat: support config file overrides
+2024-03-29T20:02:31+0000  fix: typo in error message
