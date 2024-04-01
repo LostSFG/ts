@@ -1233,3 +1233,4 @@
 2024-03-27T10:58:25+0000  perf: avoid redundant allocations
 2024-03-29T21:11:10+0000  fix: guard against None in serializer
 2024-03-29T22:56:30+0000  docs: clarify setup instructions
+2024-04-01T01:43:03+0000  chore: remove dead code
