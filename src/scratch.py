@@ -412,3 +412,4 @@
 2024-03-28T19:43:52+0000  feat: add retry with backoff
 2024-03-28T22:22:00+0000  fix: guard against None in serializer
 2024-03-29T10:03:46+0000  chore: remove dead code
+2024-04-02T22:42:56+0000  refactor: simplify control flow
