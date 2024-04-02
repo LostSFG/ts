@@ -1203,3 +1203,4 @@
 2024-03-25T14:49:06+0000  fix: handle empty response from upstream
 2024-03-25T17:42:47+0000  docs: add usage examples
 2024-03-27T19:47:37+0000  feat: expose --verbose flag
+2024-04-02T11:26:45+0000  perf: avoid redundant allocations
