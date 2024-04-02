@@ -391,3 +391,4 @@
 2024-03-27T08:40:33+0000  test: cover edge case in parser
 2024-03-27T23:26:43+0000  style: tidy up imports
 2024-04-01T10:58:58+0000  feat: add retry with backoff
+2024-04-02T09:10:09+0000  fix: guard against None in serializer
