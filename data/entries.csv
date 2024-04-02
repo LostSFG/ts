@@ -399,3 +399,4 @@
 2024-03-29T14:02:23+0000  feat: support config file overrides
 2024-03-29T20:02:31+0000  fix: typo in error message
 2024-04-02T01:01:14+0000  feat: expose --verbose flag
+2024-04-02T01:47:01+0000  feat: cache computed values
