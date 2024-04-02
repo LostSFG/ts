@@ -1175,3 +1175,4 @@
 2024-04-01T01:43:54+0000  build: pin toolchain version
 2024-04-01T20:11:31+0000  fix: handle empty response from upstream
 2024-04-01T21:07:20+0000  feat: expose --verbose flag
+2024-04-02T16:52:24+0000  fix: typo in error message
