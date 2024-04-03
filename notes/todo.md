@@ -394,3 +394,4 @@
 2024-04-02T09:10:09+0000  fix: guard against None in serializer
 2024-04-02T22:24:51+0000  perf: avoid redundant allocations
 2024-04-03T06:52:08+0000  fix: correct timezone handling
+2024-04-03T22:11:16+0000  feat: support config file overrides
