@@ -396,3 +396,4 @@
 2024-04-03T06:52:08+0000  fix: correct timezone handling
 2024-04-03T22:11:16+0000  feat: support config file overrides
 2024-04-04T15:39:59+0000  docs: clarify setup instructions
+2024-04-04T15:42:41+0000  test: add regression test for #142
