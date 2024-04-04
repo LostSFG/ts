@@ -424,3 +424,4 @@
 2024-04-03T13:50:22+0000  feat: expose --verbose flag
 2024-04-03T20:29:41+0000  perf: avoid redundant allocations
 2024-04-04T03:55:12+0000  feat: add retry with backoff
+2024-04-04T09:26:14+0000  refactor: simplify control flow
