@@ -1177,3 +1177,4 @@
 2024-04-01T21:07:20+0000  feat: expose --verbose flag
 2024-04-02T16:52:24+0000  fix: typo in error message
 2024-04-04T01:01:42+0000  feat: expose --verbose flag
+2024-04-04T18:22:17+0000  fix: handle empty response from upstream
