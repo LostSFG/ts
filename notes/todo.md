@@ -395,3 +395,4 @@
 2024-04-02T22:24:51+0000  perf: avoid redundant allocations
 2024-04-03T06:52:08+0000  fix: correct timezone handling
 2024-04-03T22:11:16+0000  feat: support config file overrides
+2024-04-04T15:39:59+0000  docs: clarify setup instructions
