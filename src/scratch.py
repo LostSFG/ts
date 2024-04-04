@@ -1235,3 +1235,4 @@
 2024-03-29T22:56:30+0000  docs: clarify setup instructions
 2024-04-01T01:43:03+0000  chore: remove dead code
 2024-04-01T21:47:19+0000  feat: support config file overrides
+2024-04-04T20:48:56+0000  feat: expose --verbose flag
