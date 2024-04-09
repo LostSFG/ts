@@ -399,3 +399,4 @@
 2024-04-04T15:42:41+0000  test: add regression test for #142
 2024-04-05T09:20:42+0000  test: cover edge case in parser
 2024-04-09T00:20:58+0000  fix: typo in error message
+2024-04-09T20:38:45+0000  refactor: simplify control flow
