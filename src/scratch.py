@@ -418,3 +418,4 @@
 2024-04-04T08:00:32+0000  feat: expose --verbose flag
 2024-04-09T07:19:48+0000  feat: cache computed values
 2024-04-10T00:51:55+0000  fix: typo in error message
+2024-04-10T22:48:53+0000  fix: handle empty response from upstream
