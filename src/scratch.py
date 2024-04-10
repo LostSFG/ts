@@ -417,3 +417,4 @@
 2024-04-04T00:05:10+0000  feat: expose --verbose flag
 2024-04-04T08:00:32+0000  feat: expose --verbose flag
 2024-04-09T07:19:48+0000  feat: cache computed values
+2024-04-10T00:51:55+0000  fix: typo in error message
