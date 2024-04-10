@@ -1185,3 +1185,4 @@
 2024-04-08T13:21:12+0000  refactor: simplify control flow
 2024-04-08T23:56:53+0000  docs: clarify setup instructions
 2024-04-10T00:18:04+0000  chore: bump dependencies
+2024-04-10T15:24:33+0000  perf: avoid redundant allocations
