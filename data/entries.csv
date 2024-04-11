@@ -410,3 +410,4 @@
 2024-04-09T11:34:52+0000  feat: add retry with backoff
 2024-04-10T16:02:03+0000  docs: clarify setup instructions
 2024-04-11T10:39:07+0000  docs: clarify setup instructions
+2024-04-11T11:54:49+0000  perf: avoid redundant allocations
