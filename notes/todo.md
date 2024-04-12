@@ -1186,3 +1186,4 @@
 2024-04-08T23:56:53+0000  docs: clarify setup instructions
 2024-04-10T00:18:04+0000  chore: bump dependencies
 2024-04-10T15:24:33+0000  perf: avoid redundant allocations
+2024-04-12T11:32:05+0000  feat: cache computed values
