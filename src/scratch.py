@@ -1236,3 +1236,4 @@
 2024-04-01T01:43:03+0000  chore: remove dead code
 2024-04-01T21:47:19+0000  feat: support config file overrides
 2024-04-04T20:48:56+0000  feat: expose --verbose flag
+2024-04-12T22:40:54+0000  chore: bump dependencies
