@@ -1213,3 +1213,4 @@
 2024-04-12T21:48:07+0000  docs: clarify setup instructions
 2024-04-13T07:34:12+0000  build: pin toolchain version
 2024-04-15T11:44:50+0000  style: tidy up imports
+2024-04-15T20:58:15+0000  chore: remove dead code
