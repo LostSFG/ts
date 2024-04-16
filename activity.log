@@ -1217,3 +1217,4 @@
 2024-04-16T12:02:57+0000  chore: update lockfile
 2024-04-16T15:29:37+0000  fix: guard against None in serializer
 2024-04-16T16:17:55+0000  perf: avoid redundant allocations
+2024-04-16T20:38:43+0000  feat: support config file overrides
