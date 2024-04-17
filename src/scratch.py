@@ -1238,3 +1238,4 @@
 2024-04-04T20:48:56+0000  feat: expose --verbose flag
 2024-04-12T22:40:54+0000  chore: bump dependencies
 2024-04-15T03:28:59+0000  test: cover edge case in parser
+2024-04-17T16:48:00+0000  test: cover edge case in parser
