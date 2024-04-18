@@ -1239,3 +1239,4 @@
 2024-04-12T22:40:54+0000  chore: bump dependencies
 2024-04-15T03:28:59+0000  test: cover edge case in parser
 2024-04-17T16:48:00+0000  test: cover edge case in parser
+2024-04-18T09:06:10+0000  perf: avoid redundant allocations
