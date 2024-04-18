@@ -435,3 +435,4 @@
 2024-04-11T21:13:43+0000  test: cover edge case in parser
 2024-04-12T01:19:03+0000  feat: support config file overrides
 2024-04-12T03:59:51+0000  fix: guard against None in serializer
+2024-04-18T10:29:02+0000  fix: correct timezone handling
