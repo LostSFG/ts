@@ -423,3 +423,4 @@
 2024-04-12T06:51:12+0000  feat: cache computed values
 2024-04-18T02:40:38+0000  test: cover edge case in parser
 2024-04-18T09:00:46+0000  refactor: simplify control flow
+2024-04-18T13:31:52+0000  feat: support config file overrides
