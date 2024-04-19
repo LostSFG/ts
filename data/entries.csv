@@ -417,3 +417,4 @@
 2024-04-19T01:37:48+0000  fix: guard against None in serializer
 2024-04-19T03:18:41+0000  chore: bump dependencies
 2024-04-19T03:27:15+0000  fix: typo in error message
+2024-04-19T17:11:11+0000  fix: handle empty response from upstream
