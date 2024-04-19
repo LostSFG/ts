@@ -404,3 +404,4 @@
 2024-04-12T15:36:40+0000  chore: update lockfile
 2024-04-12T20:52:31+0000  style: tidy up imports
 2024-04-19T09:10:42+0000  perf: avoid redundant allocations
+2024-04-19T11:20:43+0000  feat: expose --verbose flag
