@@ -1241,3 +1241,4 @@
 2024-04-17T16:48:00+0000  test: cover edge case in parser
 2024-04-18T09:06:10+0000  perf: avoid redundant allocations
 2024-04-20T20:19:57+0000  chore: remove dead code
+2024-04-21T04:55:15+0000  chore: remove dead code
