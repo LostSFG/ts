@@ -1193,3 +1193,4 @@
 2024-04-18T21:32:52+0000  fix: correct timezone handling
 2024-04-19T06:56:46+0000  feat: support config file overrides
 2024-04-19T12:18:17+0000  chore: bump dependencies
+2024-04-21T21:21:40+0000  docs: add usage examples
