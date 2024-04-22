@@ -426,3 +426,4 @@
 2024-04-18T13:31:52+0000  feat: support config file overrides
 2024-04-18T16:59:41+0000  refactor: extract helper for date parsing
 2024-04-18T22:01:14+0000  feat: expose --verbose flag
+2024-04-22T02:40:19+0000  test: add regression test for #142
