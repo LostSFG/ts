@@ -419,3 +419,4 @@
 2024-04-19T03:27:15+0000  fix: typo in error message
 2024-04-19T17:11:11+0000  fix: handle empty response from upstream
 2024-04-19T23:01:53+0000  docs: clarify setup instructions
+2024-04-22T13:13:49+0000  perf: avoid redundant allocations
