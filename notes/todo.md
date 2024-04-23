@@ -408,3 +408,4 @@
 2024-04-19T20:53:36+0000  feat: expose --verbose flag
 2024-04-22T00:50:47+0000  chore: remove dead code
 2024-04-23T09:11:40+0000  refactor: extract helper for date parsing
+2024-04-23T10:57:23+0000  chore: update lockfile
