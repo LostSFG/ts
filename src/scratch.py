@@ -1246,3 +1246,4 @@
 2024-04-23T06:57:30+0000  feat: expose --verbose flag
 2024-04-23T10:33:56+0000  build: pin toolchain version
 2024-04-24T17:17:15+0000  test: add regression test for #142
+2024-04-24T19:33:22+0000  refactor: simplify control flow
