@@ -1196,3 +1196,4 @@
 2024-04-21T21:21:40+0000  docs: add usage examples
 2024-04-23T08:05:53+0000  fix: typo in error message
 2024-04-23T18:35:44+0000  chore: remove dead code
+2024-04-24T02:03:33+0000  feat: add retry with backoff
