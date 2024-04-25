@@ -428,3 +428,4 @@
 2024-04-18T22:01:14+0000  feat: expose --verbose flag
 2024-04-22T02:40:19+0000  test: add regression test for #142
 2024-04-22T10:45:40+0000  build: pin toolchain version
+2024-04-25T18:24:45+0000  feat: support config file overrides
