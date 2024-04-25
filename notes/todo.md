@@ -409,3 +409,4 @@
 2024-04-22T00:50:47+0000  chore: remove dead code
 2024-04-23T09:11:40+0000  refactor: extract helper for date parsing
 2024-04-23T10:57:23+0000  chore: update lockfile
+2024-04-25T09:13:12+0000  test: cover edge case in parser
