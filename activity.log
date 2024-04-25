@@ -1224,3 +1224,4 @@
 2024-04-20T07:04:52+0000  refactor: extract helper for date parsing
 2024-04-22T08:28:47+0000  style: tidy up imports
 2024-04-23T14:53:46+0000  chore: update lockfile
+2024-04-25T06:56:58+0000  feat: expose --verbose flag
