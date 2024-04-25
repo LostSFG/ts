@@ -423,3 +423,4 @@
 2024-04-24T21:52:48+0000  refactor: extract helper for date parsing
 2024-04-25T01:28:07+0000  fix: handle empty response from upstream
 2024-04-25T07:52:24+0000  chore: update lockfile
+2024-04-25T08:39:43+0000  docs: clarify setup instructions
