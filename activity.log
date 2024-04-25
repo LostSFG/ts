@@ -440,3 +440,4 @@
 2024-04-19T09:45:34+0000  feat: cache computed values
 2024-04-23T20:18:47+0000  test: cover edge case in parser
 2024-04-24T07:10:18+0000  fix: correct timezone handling
+2024-04-25T07:04:32+0000  fix: typo in error message
