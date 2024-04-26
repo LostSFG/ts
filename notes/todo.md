@@ -1200,3 +1200,4 @@
 2024-04-25T20:39:40+0000  feat: support config file overrides
 2024-04-26T12:58:43+0000  build: pin toolchain version
 2024-04-26T13:34:28+0000  feat: expose --verbose flag
+2024-04-26T16:56:33+0000  chore: bump dependencies
