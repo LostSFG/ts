@@ -412,3 +412,4 @@
 2024-04-25T09:13:12+0000  test: cover edge case in parser
 2024-04-26T00:52:19+0000  style: tidy up imports
 2024-04-29T04:31:34+0000  chore: remove dead code
+2024-04-29T16:56:21+0000  perf: avoid redundant allocations
