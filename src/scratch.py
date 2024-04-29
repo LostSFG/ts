@@ -433,3 +433,4 @@
 2024-04-27T08:37:55+0000  refactor: extract helper for date parsing
 2024-04-29T06:29:05+0000  chore: update lockfile
 2024-04-29T19:58:47+0000  style: tidy up imports
+2024-04-29T23:24:39+0000  fix: typo in error message
