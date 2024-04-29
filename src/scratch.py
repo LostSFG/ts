@@ -1251,3 +1251,4 @@
 2024-04-26T04:54:08+0000  chore: bump dependencies
 2024-04-26T18:48:35+0000  chore: bump dependencies
 2024-04-29T01:06:24+0000  refactor: extract helper for date parsing
+2024-04-29T03:37:52+0000  docs: clarify setup instructions
