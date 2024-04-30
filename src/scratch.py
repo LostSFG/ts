@@ -1253,3 +1253,4 @@
 2024-04-29T01:06:24+0000  refactor: extract helper for date parsing
 2024-04-29T03:37:52+0000  docs: clarify setup instructions
 2024-04-30T11:20:07+0000  chore: remove dead code
+2024-04-30T23:54:06+0000  test: cover edge case in parser
