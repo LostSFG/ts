@@ -436,3 +436,4 @@
 2024-04-29T23:24:39+0000  fix: typo in error message
 2024-05-01T09:18:13+0000  chore: bump dependencies
 2024-05-01T11:50:25+0000  test: cover edge case in parser
+2024-05-01T18:59:20+0000  test: cover edge case in parser
