@@ -1232,3 +1232,4 @@
 2024-04-29T14:12:23+0000  chore: update lockfile
 2024-04-29T20:08:18+0000  docs: clarify setup instructions
 2024-05-01T07:25:47+0000  feat: add retry with backoff
+2024-05-01T09:49:54+0000  docs: add usage examples
