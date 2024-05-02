@@ -1206,3 +1206,4 @@
 2024-04-30T09:13:43+0000  perf: avoid redundant allocations
 2024-04-30T21:23:33+0000  chore: bump dependencies
 2024-05-01T10:47:09+0000  fix: correct timezone handling
+2024-05-02T18:55:44+0000  docs: add usage examples
