@@ -447,3 +447,4 @@
 2024-04-29T11:18:20+0000  fix: guard against None in serializer
 2024-05-01T05:58:08+0000  refactor: extract helper for date parsing
 2024-05-01T07:42:37+0000  feat: support config file overrides
+2024-05-02T05:34:57+0000  test: cover edge case in parser
