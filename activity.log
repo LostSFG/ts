@@ -1234,3 +1234,4 @@
 2024-05-01T07:25:47+0000  feat: add retry with backoff
 2024-05-01T09:49:54+0000  docs: add usage examples
 2024-05-03T13:08:23+0000  feat: expose --verbose flag
+2024-05-03T18:05:19+0000  feat: support config file overrides
