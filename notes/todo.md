@@ -1208,3 +1208,4 @@
 2024-05-01T10:47:09+0000  fix: correct timezone handling
 2024-05-02T18:55:44+0000  docs: add usage examples
 2024-05-03T18:46:43+0000  perf: avoid redundant allocations
+2024-05-04T21:16:52+0000  feat: cache computed values
