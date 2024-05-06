@@ -418,3 +418,4 @@
 2024-05-01T07:11:22+0000  style: tidy up imports
 2024-05-01T08:15:47+0000  feat: cache computed values
 2024-05-01T12:22:45+0000  fix: guard against None in serializer
+2024-05-06T15:42:39+0000  docs: clarify setup instructions
