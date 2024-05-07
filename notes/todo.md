@@ -420,3 +420,4 @@
 2024-05-01T12:22:45+0000  fix: guard against None in serializer
 2024-05-06T15:42:39+0000  docs: clarify setup instructions
 2024-05-06T16:22:47+0000  test: cover edge case in parser
+2024-05-07T16:21:58+0000  chore: bump dependencies
