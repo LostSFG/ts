@@ -1210,3 +1210,4 @@
 2024-05-03T18:46:43+0000  perf: avoid redundant allocations
 2024-05-04T21:16:52+0000  feat: cache computed values
 2024-05-06T00:24:38+0000  feat: expose --verbose flag
+2024-05-07T19:04:26+0000  fix: typo in error message
