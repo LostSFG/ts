@@ -425,3 +425,4 @@
 2024-05-09T09:20:56+0000  feat: add retry with backoff
 2024-05-09T09:50:46+0000  perf: avoid redundant allocations
 2024-05-09T22:45:33+0000  fix: guard against None in serializer
+2024-05-09T23:55:14+0000  chore: remove dead code
