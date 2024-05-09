@@ -431,3 +431,4 @@
 2024-05-06T02:51:16+0000  refactor: simplify control flow
 2024-05-07T18:32:52+0000  test: add regression test for #142
 2024-05-08T16:30:11+0000  refactor: extract helper for date parsing
+2024-05-09T01:22:29+0000  fix: guard against None in serializer
