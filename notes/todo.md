@@ -1212,3 +1212,4 @@
 2024-05-06T00:24:38+0000  feat: expose --verbose flag
 2024-05-07T19:04:26+0000  fix: typo in error message
 2024-05-09T08:55:19+0000  refactor: extract helper for date parsing
+2024-05-10T00:27:07+0000  fix: typo in error message
