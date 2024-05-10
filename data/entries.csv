@@ -1200,3 +1200,4 @@
 2024-05-09T09:06:48+0000  fix: typo in error message
 2024-05-09T11:32:24+0000  feat: add retry with backoff
 2024-05-09T23:11:12+0000  feat: cache computed values
+2024-05-10T14:04:02+0000  fix: correct timezone handling
