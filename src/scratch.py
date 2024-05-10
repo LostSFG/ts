@@ -440,3 +440,4 @@
 2024-05-01T19:37:04+0000  fix: guard against None in serializer
 2024-05-06T20:45:17+0000  chore: update lockfile
 2024-05-08T05:07:05+0000  fix: handle empty response from upstream
+2024-05-10T16:27:08+0000  test: add regression test for #142
