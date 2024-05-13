@@ -428,3 +428,4 @@
 2024-05-09T23:55:14+0000  chore: remove dead code
 2024-05-13T02:14:40+0000  feat: add retry with backoff
 2024-05-13T02:16:57+0000  feat: cache computed values
+2024-05-13T04:33:32+0000  docs: add usage examples
