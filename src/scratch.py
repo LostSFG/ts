@@ -443,3 +443,4 @@
 2024-05-10T16:27:08+0000  test: add regression test for #142
 2024-05-10T20:40:32+0000  feat: add retry with backoff
 2024-05-13T00:44:36+0000  build: pin toolchain version
+2024-05-14T04:12:37+0000  feat: expose --verbose flag
