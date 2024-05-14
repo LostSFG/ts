@@ -438,3 +438,4 @@
 2024-05-13T13:16:56+0000  feat: cache computed values
 2024-05-13T17:29:28+0000  feat: support config file overrides
 2024-05-13T21:41:19+0000  feat: support config file overrides
+2024-05-14T14:28:36+0000  fix: typo in error message
