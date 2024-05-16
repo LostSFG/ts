@@ -430,3 +430,4 @@
 2024-05-13T02:16:57+0000  feat: cache computed values
 2024-05-13T04:33:32+0000  docs: add usage examples
 2024-05-16T03:11:10+0000  docs: clarify setup instructions
+2024-05-16T06:00:22+0000  refactor: extract helper for date parsing
