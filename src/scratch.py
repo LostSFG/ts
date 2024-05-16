@@ -447,3 +447,4 @@
 2024-05-14T22:17:02+0000  feat: add retry with backoff
 2024-05-15T17:16:52+0000  chore: update lockfile
 2024-05-15T19:44:22+0000  docs: add usage examples
+2024-05-16T15:08:02+0000  build: pin toolchain version
