@@ -449,3 +449,4 @@
 2024-05-15T19:44:22+0000  docs: add usage examples
 2024-05-16T15:08:02+0000  build: pin toolchain version
 2024-05-16T21:56:15+0000  feat: expose --verbose flag
+2024-05-17T17:36:52+0000  chore: bump dependencies
