@@ -461,3 +461,4 @@
 2024-05-14T20:30:45+0000  chore: remove dead code
 2024-05-15T20:46:06+0000  feat: expose --verbose flag
 2024-05-17T19:20:42+0000  fix: typo in error message
+2024-05-17T23:48:49+0000  build: pin toolchain version
