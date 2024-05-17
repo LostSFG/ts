@@ -1209,3 +1209,4 @@
 2024-05-15T04:12:25+0000  perf: avoid redundant allocations
 2024-05-15T07:24:04+0000  feat: add retry with backoff
 2024-05-16T17:29:00+0000  docs: clarify setup instructions
+2024-05-17T21:30:38+0000  refactor: extract helper for date parsing
