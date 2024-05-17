@@ -1266,3 +1266,4 @@
 2024-05-14T23:21:54+0000  docs: add usage examples
 2024-05-16T23:34:39+0000  test: add regression test for #142
 2024-05-17T07:49:49+0000  chore: remove dead code
+2024-05-17T15:23:14+0000  feat: support config file overrides
