@@ -1265,3 +1265,4 @@
 2024-05-13T09:52:24+0000  refactor: simplify control flow
 2024-05-14T23:21:54+0000  docs: add usage examples
 2024-05-16T23:34:39+0000  test: add regression test for #142
+2024-05-17T07:49:49+0000  chore: remove dead code
