@@ -1267,3 +1267,4 @@
 2024-05-16T23:34:39+0000  test: add regression test for #142
 2024-05-17T07:49:49+0000  chore: remove dead code
 2024-05-17T15:23:14+0000  feat: support config file overrides
+2024-05-20T11:20:46+0000  chore: update lockfile
