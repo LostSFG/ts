@@ -1219,3 +1219,4 @@
 2024-05-13T11:30:53+0000  docs: add usage examples
 2024-05-15T05:09:02+0000  chore: remove dead code
 2024-05-17T15:46:23+0000  feat: cache computed values
+2024-05-20T21:23:14+0000  fix: guard against None in serializer
