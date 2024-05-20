@@ -1220,3 +1220,4 @@
 2024-05-15T05:09:02+0000  chore: remove dead code
 2024-05-17T15:46:23+0000  feat: cache computed values
 2024-05-20T21:23:14+0000  fix: guard against None in serializer
+2024-05-20T23:34:20+0000  fix: correct timezone handling
