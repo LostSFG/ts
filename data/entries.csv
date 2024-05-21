@@ -445,3 +445,4 @@
 2024-05-20T02:01:12+0000  test: add regression test for #142
 2024-05-20T21:21:32+0000  fix: correct timezone handling
 2024-05-21T17:38:53+0000  docs: clarify setup instructions
+2024-05-21T18:12:49+0000  fix: guard against None in serializer
