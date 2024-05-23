@@ -434,3 +434,4 @@
 2024-05-16T23:46:35+0000  chore: remove dead code
 2024-05-20T23:22:36+0000  build: pin toolchain version
 2024-05-21T10:23:43+0000  test: add regression test for #142
+2024-05-23T13:29:23+0000  test: cover edge case in parser
