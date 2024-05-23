@@ -435,3 +435,4 @@
 2024-05-20T23:22:36+0000  build: pin toolchain version
 2024-05-21T10:23:43+0000  test: add regression test for #142
 2024-05-23T13:29:23+0000  test: cover edge case in parser
+2024-05-23T20:23:21+0000  fix: correct timezone handling
