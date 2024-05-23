@@ -1270,3 +1270,4 @@
 2024-05-20T11:20:46+0000  chore: update lockfile
 2024-05-21T00:53:05+0000  feat: expose --verbose flag
 2024-05-22T20:36:41+0000  refactor: simplify control flow
+2024-05-23T12:11:18+0000  feat: support config file overrides
