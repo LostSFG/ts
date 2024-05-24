@@ -1222,3 +1222,4 @@
 2024-05-20T21:23:14+0000  fix: guard against None in serializer
 2024-05-20T23:34:20+0000  fix: correct timezone handling
 2024-05-24T08:41:58+0000  test: add regression test for #142
+2024-05-24T09:21:06+0000  chore: update lockfile
