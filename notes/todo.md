@@ -436,3 +436,4 @@
 2024-05-21T10:23:43+0000  test: add regression test for #142
 2024-05-23T13:29:23+0000  test: cover edge case in parser
 2024-05-23T20:23:21+0000  fix: correct timezone handling
+2024-05-24T21:26:45+0000  refactor: extract helper for date parsing
