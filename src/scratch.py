@@ -1272,3 +1272,4 @@
 2024-05-22T20:36:41+0000  refactor: simplify control flow
 2024-05-23T12:11:18+0000  feat: support config file overrides
 2024-05-26T10:56:15+0000  feat: support config file overrides
+2024-05-26T16:28:28+0000  refactor: simplify control flow
