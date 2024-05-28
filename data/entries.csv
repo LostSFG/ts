@@ -454,3 +454,4 @@
 2024-05-27T13:49:35+0000  chore: bump dependencies
 2024-05-28T00:14:09+0000  style: tidy up imports
 2024-05-28T06:03:06+0000  fix: handle empty response from upstream
+2024-05-28T07:01:33+0000  test: add regression test for #142
