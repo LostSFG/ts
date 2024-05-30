@@ -440,3 +440,4 @@
 2024-05-29T07:36:25+0000  feat: cache computed values
 2024-05-30T03:07:31+0000  feat: cache computed values
 2024-05-30T05:17:42+0000  feat: expose --verbose flag
+2024-05-30T17:30:49+0000  feat: support config file overrides
