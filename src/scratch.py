@@ -458,3 +458,4 @@
 2024-05-29T00:39:38+0000  docs: add usage examples
 2024-05-29T04:32:55+0000  test: add regression test for #142
 2024-05-29T13:57:58+0000  chore: bump dependencies
+2024-05-30T12:25:03+0000  refactor: simplify control flow
