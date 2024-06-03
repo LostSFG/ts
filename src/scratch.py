@@ -1277,3 +1277,4 @@
 2024-05-28T03:17:25+0000  build: pin toolchain version
 2024-05-29T09:12:20+0000  feat: add retry with backoff
 2024-06-03T16:48:48+0000  docs: clarify setup instructions
+2024-06-03T21:47:32+0000  feat: cache computed values
