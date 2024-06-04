@@ -1233,3 +1233,4 @@
 2024-05-30T19:31:44+0000  test: cover edge case in parser
 2024-06-03T04:07:47+0000  style: tidy up imports
 2024-06-04T03:36:13+0000  refactor: extract helper for date parsing
+2024-06-04T15:54:04+0000  feat: support config file overrides
