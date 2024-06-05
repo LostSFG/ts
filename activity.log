@@ -477,3 +477,4 @@
 2024-05-30T00:01:40+0000  refactor: extract helper for date parsing
 2024-06-03T00:58:47+0000  test: add regression test for #142
 2024-06-04T22:05:17+0000  build: pin toolchain version
+2024-06-05T08:37:20+0000  perf: avoid redundant allocations
