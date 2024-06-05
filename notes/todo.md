@@ -1235,3 +1235,4 @@
 2024-06-04T03:36:13+0000  refactor: extract helper for date parsing
 2024-06-04T15:54:04+0000  feat: support config file overrides
 2024-06-05T07:16:58+0000  fix: guard against None in serializer
+2024-06-05T19:23:21+0000  feat: cache computed values
