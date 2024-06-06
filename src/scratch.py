@@ -461,3 +461,4 @@
 2024-05-30T12:25:03+0000  refactor: simplify control flow
 2024-05-30T23:05:08+0000  fix: typo in error message
 2024-05-31T04:08:01+0000  refactor: extract helper for date parsing
+2024-06-06T13:45:42+0000  fix: handle empty response from upstream
