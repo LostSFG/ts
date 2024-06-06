@@ -446,3 +446,4 @@
 2024-06-04T06:15:53+0000  build: pin toolchain version
 2024-06-04T11:03:16+0000  style: tidy up imports
 2024-06-04T16:06:44+0000  fix: typo in error message
+2024-06-06T19:09:23+0000  refactor: simplify control flow
