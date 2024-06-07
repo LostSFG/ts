@@ -465,3 +465,4 @@
 2024-06-06T14:12:14+0000  build: pin toolchain version
 2024-06-06T16:20:22+0000  refactor: simplify control flow
 2024-06-07T02:37:27+0000  feat: cache computed values
+2024-06-07T13:19:51+0000  fix: typo in error message
