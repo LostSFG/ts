@@ -1236,3 +1236,4 @@
 2024-06-04T15:54:04+0000  feat: support config file overrides
 2024-06-05T07:16:58+0000  fix: guard against None in serializer
 2024-06-05T19:23:21+0000  feat: cache computed values
+2024-06-10T14:02:55+0000  fix: guard against None in serializer
