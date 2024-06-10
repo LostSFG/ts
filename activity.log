@@ -483,3 +483,4 @@
 2024-06-07T17:29:50+0000  test: cover edge case in parser
 2024-06-07T21:19:44+0000  perf: avoid redundant allocations
 2024-06-10T13:23:03+0000  fix: typo in error message
+2024-06-10T19:00:56+0000  chore: remove dead code
