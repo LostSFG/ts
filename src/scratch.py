@@ -467,3 +467,4 @@
 2024-06-07T02:37:27+0000  feat: cache computed values
 2024-06-07T13:19:51+0000  fix: typo in error message
 2024-06-10T12:04:50+0000  build: pin toolchain version
+2024-06-10T15:12:18+0000  docs: add usage examples
