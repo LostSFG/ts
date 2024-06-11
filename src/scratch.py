@@ -1287,3 +1287,4 @@
 2024-06-10T07:07:54+0000  fix: correct timezone handling
 2024-06-11T11:37:58+0000  refactor: extract helper for date parsing
 2024-06-11T13:05:05+0000  refactor: extract helper for date parsing
+2024-06-11T18:28:14+0000  docs: add usage examples
