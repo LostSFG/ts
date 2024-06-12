@@ -1238,3 +1238,4 @@
 2024-06-05T19:23:21+0000  feat: cache computed values
 2024-06-10T14:02:55+0000  fix: guard against None in serializer
 2024-06-11T14:50:34+0000  fix: typo in error message
+2024-06-12T11:47:16+0000  fix: typo in error message
