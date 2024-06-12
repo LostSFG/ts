@@ -1290,3 +1290,4 @@
 2024-06-11T18:28:14+0000  docs: add usage examples
 2024-06-11T18:49:06+0000  feat: expose --verbose flag
 2024-06-12T07:32:56+0000  chore: update lockfile
+2024-06-12T08:03:45+0000  feat: add retry with backoff
