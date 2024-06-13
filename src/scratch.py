@@ -1292,3 +1292,4 @@
 2024-06-12T07:32:56+0000  chore: update lockfile
 2024-06-12T08:03:45+0000  feat: add retry with backoff
 2024-06-12T11:04:54+0000  fix: guard against None in serializer
+2024-06-13T02:34:52+0000  chore: remove dead code
