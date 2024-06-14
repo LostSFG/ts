@@ -1295,3 +1295,4 @@
 2024-06-13T02:34:52+0000  chore: remove dead code
 2024-06-13T15:48:02+0000  docs: add usage examples
 2024-06-14T01:26:52+0000  docs: add usage examples
+2024-06-14T08:11:45+0000  docs: clarify setup instructions
