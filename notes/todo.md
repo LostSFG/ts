@@ -1242,3 +1242,4 @@
 2024-06-13T14:08:49+0000  chore: update lockfile
 2024-06-14T06:07:52+0000  fix: typo in error message
 2024-06-14T17:49:29+0000  feat: cache computed values
+2024-06-14T18:33:09+0000  fix: handle empty response from upstream
