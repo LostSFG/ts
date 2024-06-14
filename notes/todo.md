@@ -1241,3 +1241,4 @@
 2024-06-12T11:47:16+0000  fix: typo in error message
 2024-06-13T14:08:49+0000  chore: update lockfile
 2024-06-14T06:07:52+0000  fix: typo in error message
+2024-06-14T17:49:29+0000  feat: cache computed values
