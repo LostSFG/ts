@@ -472,3 +472,4 @@
 2024-06-11T09:15:45+0000  refactor: extract helper for date parsing
 2024-06-11T21:52:46+0000  perf: avoid redundant allocations
 2024-06-12T15:07:56+0000  feat: expose --verbose flag
+2024-06-17T04:27:30+0000  fix: correct timezone handling
