@@ -449,3 +449,4 @@
 2024-06-06T19:09:23+0000  refactor: simplify control flow
 2024-06-10T00:55:11+0000  style: tidy up imports
 2024-06-16T17:07:07+0000  style: tidy up imports
+2024-06-17T07:32:53+0000  test: add regression test for #142
