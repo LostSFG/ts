@@ -1244,3 +1244,4 @@
 2024-06-14T17:49:29+0000  feat: cache computed values
 2024-06-14T18:33:09+0000  fix: handle empty response from upstream
 2024-06-17T12:05:15+0000  fix: guard against None in serializer
+2024-06-18T21:17:40+0000  fix: guard against None in serializer
