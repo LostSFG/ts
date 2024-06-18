@@ -1296,3 +1296,4 @@
 2024-06-13T15:48:02+0000  docs: add usage examples
 2024-06-14T01:26:52+0000  docs: add usage examples
 2024-06-14T08:11:45+0000  docs: clarify setup instructions
+2024-06-18T22:33:04+0000  refactor: extract helper for date parsing
