@@ -1245,3 +1245,4 @@
 2024-06-14T18:33:09+0000  fix: handle empty response from upstream
 2024-06-17T12:05:15+0000  fix: guard against None in serializer
 2024-06-18T21:17:40+0000  fix: guard against None in serializer
+2024-06-19T00:08:07+0000  fix: typo in error message
