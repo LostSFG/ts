@@ -491,3 +491,4 @@
 2024-06-13T08:30:24+0000  refactor: simplify control flow
 2024-06-14T06:14:58+0000  style: tidy up imports
 2024-06-19T11:49:30+0000  test: add regression test for #142
+2024-06-19T12:37:20+0000  chore: update lockfile
