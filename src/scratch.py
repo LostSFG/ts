@@ -1298,3 +1298,4 @@
 2024-06-14T08:11:45+0000  docs: clarify setup instructions
 2024-06-18T22:33:04+0000  refactor: extract helper for date parsing
 2024-06-20T10:50:18+0000  build: pin toolchain version
+2024-06-20T18:50:04+0000  refactor: simplify control flow
