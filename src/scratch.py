@@ -1299,3 +1299,4 @@
 2024-06-18T22:33:04+0000  refactor: extract helper for date parsing
 2024-06-20T10:50:18+0000  build: pin toolchain version
 2024-06-20T18:50:04+0000  refactor: simplify control flow
+2024-06-20T21:17:43+0000  test: add regression test for #142
