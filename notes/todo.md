@@ -1250,3 +1250,4 @@
 2024-06-23T03:51:54+0000  fix: handle empty response from upstream
 2024-06-23T11:14:07+0000  fix: handle empty response from upstream
 2024-06-24T06:24:07+0000  feat: add retry with backoff
+2024-06-24T17:46:11+0000  test: cover edge case in parser
