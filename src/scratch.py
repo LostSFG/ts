@@ -475,3 +475,4 @@
 2024-06-17T22:07:42+0000  chore: remove dead code
 2024-06-19T09:29:43+0000  refactor: simplify control flow
 2024-06-21T15:51:07+0000  fix: correct timezone handling
+2024-06-24T05:26:11+0000  feat: expose --verbose flag
