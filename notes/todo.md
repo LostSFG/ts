@@ -1249,3 +1249,4 @@
 2024-06-21T19:58:09+0000  perf: avoid redundant allocations
 2024-06-23T03:51:54+0000  fix: handle empty response from upstream
 2024-06-23T11:14:07+0000  fix: handle empty response from upstream
+2024-06-24T06:24:07+0000  feat: add retry with backoff
