@@ -1252,3 +1252,4 @@
 2024-06-24T06:24:07+0000  feat: add retry with backoff
 2024-06-24T17:46:11+0000  test: cover edge case in parser
 2024-06-24T23:04:30+0000  test: cover edge case in parser
+2024-06-25T03:08:34+0000  refactor: simplify control flow
