@@ -1305,3 +1305,4 @@
 2024-06-23T13:45:26+0000  docs: clarify setup instructions
 2024-06-24T01:53:47+0000  chore: bump dependencies
 2024-06-25T06:38:16+0000  style: tidy up imports
+2024-06-25T14:41:11+0000  perf: avoid redundant allocations
