@@ -1275,3 +1275,4 @@
 2024-06-21T21:55:25+0000  fix: guard against None in serializer
 2024-06-24T14:16:00+0000  test: add regression test for #142
 2024-06-25T10:27:03+0000  refactor: simplify control flow
+2024-06-25T10:52:08+0000  feat: add retry with backoff
