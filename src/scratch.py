@@ -478,3 +478,4 @@
 2024-06-24T05:26:11+0000  feat: expose --verbose flag
 2024-06-24T10:27:47+0000  fix: guard against None in serializer
 2024-06-24T12:10:59+0000  refactor: extract helper for date parsing
+2024-06-26T10:18:45+0000  refactor: extract helper for date parsing
