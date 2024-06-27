@@ -1307,3 +1307,4 @@
 2024-06-25T06:38:16+0000  style: tidy up imports
 2024-06-25T14:41:11+0000  perf: avoid redundant allocations
 2024-06-27T15:55:45+0000  style: tidy up imports
+2024-06-27T20:20:33+0000  test: add regression test for #142
