@@ -1254,3 +1254,4 @@
 2024-06-24T23:04:30+0000  test: cover edge case in parser
 2024-06-25T03:08:34+0000  refactor: simplify control flow
 2024-06-26T14:23:35+0000  build: pin toolchain version
+2024-06-27T10:42:29+0000  fix: typo in error message
