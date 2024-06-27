@@ -495,3 +495,4 @@
 2024-06-21T07:22:49+0000  fix: handle empty response from upstream
 2024-06-24T01:09:05+0000  fix: guard against None in serializer
 2024-06-27T06:17:42+0000  refactor: extract helper for date parsing
+2024-06-27T08:15:53+0000  feat: add retry with backoff
