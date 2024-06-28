@@ -454,3 +454,4 @@
 2024-06-21T12:19:28+0000  docs: add usage examples
 2024-06-24T02:12:35+0000  docs: add usage examples
 2024-06-24T13:05:01+0000  chore: update lockfile
+2024-06-28T06:35:42+0000  chore: update lockfile
