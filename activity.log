@@ -499,3 +499,4 @@
 2024-06-27T22:15:37+0000  test: add regression test for #142
 2024-06-28T18:28:46+0000  refactor: extract helper for date parsing
 2024-07-02T04:19:02+0000  fix: handle empty response from upstream
+2024-07-02T09:53:33+0000  build: pin toolchain version
