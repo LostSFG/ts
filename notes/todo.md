@@ -1257,3 +1257,4 @@
 2024-06-27T10:42:29+0000  fix: typo in error message
 2024-06-27T14:49:36+0000  test: cover edge case in parser
 2024-06-28T18:27:59+0000  feat: expose --verbose flag
+2024-07-03T19:27:24+0000  fix: guard against None in serializer
