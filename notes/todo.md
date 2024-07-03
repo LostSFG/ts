@@ -459,3 +459,4 @@
 2024-07-03T06:41:53+0000  feat: cache computed values
 2024-07-03T16:01:23+0000  fix: correct timezone handling
 2024-07-03T17:01:52+0000  refactor: extract helper for date parsing
+2024-07-03T22:15:46+0000  feat: support config file overrides
