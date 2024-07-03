@@ -483,3 +483,4 @@
 2024-06-27T20:44:49+0000  refactor: simplify control flow
 2024-07-02T15:11:07+0000  chore: bump dependencies
 2024-07-02T23:47:16+0000  style: tidy up imports
+2024-07-03T04:35:12+0000  feat: support config file overrides
