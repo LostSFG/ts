@@ -484,3 +484,4 @@
 2024-07-02T15:11:07+0000  chore: bump dependencies
 2024-07-02T23:47:16+0000  style: tidy up imports
 2024-07-03T04:35:12+0000  feat: support config file overrides
+2024-07-03T04:56:57+0000  test: add regression test for #142
