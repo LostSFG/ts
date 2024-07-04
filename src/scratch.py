@@ -486,3 +486,4 @@
 2024-07-03T04:35:12+0000  feat: support config file overrides
 2024-07-03T04:56:57+0000  test: add regression test for #142
 2024-07-03T13:07:21+0000  build: pin toolchain version
+2024-07-04T20:44:14+0000  chore: update lockfile
