@@ -487,3 +487,4 @@
 2024-07-03T04:56:57+0000  test: add regression test for #142
 2024-07-03T13:07:21+0000  build: pin toolchain version
 2024-07-04T20:44:14+0000  chore: update lockfile
+2024-07-05T23:19:40+0000  refactor: extract helper for date parsing
