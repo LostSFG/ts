@@ -462,3 +462,4 @@
 2024-07-03T22:15:46+0000  feat: support config file overrides
 2024-07-05T02:50:08+0000  docs: add usage examples
 2024-07-08T11:38:22+0000  feat: expose --verbose flag
+2024-07-09T20:24:53+0000  fix: guard against None in serializer
