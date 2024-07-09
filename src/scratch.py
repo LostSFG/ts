@@ -1317,3 +1317,4 @@
 2024-07-01T13:41:52+0000  fix: correct timezone handling
 2024-07-08T07:40:45+0000  style: tidy up imports
 2024-07-08T18:03:28+0000  test: cover edge case in parser
+2024-07-09T16:41:06+0000  chore: update lockfile
