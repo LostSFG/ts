@@ -490,3 +490,4 @@
 2024-07-05T23:19:40+0000  refactor: extract helper for date parsing
 2024-07-08T05:44:05+0000  style: tidy up imports
 2024-07-09T00:33:53+0000  chore: bump dependencies
+2024-07-09T18:38:31+0000  docs: clarify setup instructions
