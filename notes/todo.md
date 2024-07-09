@@ -1260,3 +1260,4 @@
 2024-07-03T19:27:24+0000  fix: guard against None in serializer
 2024-07-03T23:51:29+0000  feat: cache computed values
 2024-07-06T12:47:20+0000  fix: typo in error message
+2024-07-09T01:15:28+0000  build: pin toolchain version
