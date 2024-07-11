@@ -495,3 +495,4 @@
 2024-07-11T07:23:41+0000  perf: avoid redundant allocations
 2024-07-11T07:50:51+0000  chore: remove dead code
 2024-07-11T09:15:21+0000  fix: guard against None in serializer
+2024-07-11T11:33:08+0000  fix: typo in error message
