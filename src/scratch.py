@@ -491,3 +491,4 @@
 2024-07-08T05:44:05+0000  style: tidy up imports
 2024-07-09T00:33:53+0000  chore: bump dependencies
 2024-07-09T18:38:31+0000  docs: clarify setup instructions
+2024-07-11T06:01:45+0000  test: add regression test for #142
