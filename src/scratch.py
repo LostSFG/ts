@@ -493,3 +493,4 @@
 2024-07-09T18:38:31+0000  docs: clarify setup instructions
 2024-07-11T06:01:45+0000  test: add regression test for #142
 2024-07-11T07:23:41+0000  perf: avoid redundant allocations
+2024-07-11T07:50:51+0000  chore: remove dead code
