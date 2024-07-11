@@ -493,3 +493,4 @@
 2024-07-10T02:32:49+0000  chore: bump dependencies
 2024-07-10T14:43:51+0000  feat: add retry with backoff
 2024-07-11T21:30:50+0000  fix: guard against None in serializer
+2024-07-11T22:24:04+0000  feat: expose --verbose flag
