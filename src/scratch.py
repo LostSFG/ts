@@ -492,3 +492,4 @@
 2024-07-09T00:33:53+0000  chore: bump dependencies
 2024-07-09T18:38:31+0000  docs: clarify setup instructions
 2024-07-11T06:01:45+0000  test: add regression test for #142
+2024-07-11T07:23:41+0000  perf: avoid redundant allocations
