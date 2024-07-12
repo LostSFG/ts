@@ -1319,3 +1319,4 @@
 2024-07-08T18:03:28+0000  test: cover edge case in parser
 2024-07-09T16:41:06+0000  chore: update lockfile
 2024-07-12T11:13:44+0000  fix: correct timezone handling
+2024-07-12T16:16:24+0000  fix: handle empty response from upstream
