@@ -468,3 +468,4 @@
 2024-07-10T15:40:34+0000  feat: add retry with backoff
 2024-07-11T22:15:53+0000  feat: support config file overrides
 2024-07-11T23:21:31+0000  feat: cache computed values
+2024-07-12T13:31:54+0000  feat: expose --verbose flag
