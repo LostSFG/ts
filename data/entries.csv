@@ -1267,3 +1267,4 @@
 2024-07-11T04:04:08+0000  feat: support config file overrides
 2024-07-11T04:04:59+0000  chore: bump dependencies
 2024-07-11T15:32:32+0000  refactor: simplify control flow
+2024-07-12T12:20:09+0000  refactor: simplify control flow
