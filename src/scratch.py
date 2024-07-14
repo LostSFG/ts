@@ -1321,3 +1321,4 @@
 2024-07-12T11:13:44+0000  fix: correct timezone handling
 2024-07-12T16:16:24+0000  fix: handle empty response from upstream
 2024-07-12T22:56:06+0000  test: cover edge case in parser
+2024-07-14T04:53:03+0000  feat: add retry with backoff
