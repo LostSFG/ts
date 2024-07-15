@@ -498,3 +498,4 @@
 2024-07-11T11:33:08+0000  fix: typo in error message
 2024-07-12T06:30:14+0000  fix: typo in error message
 2024-07-12T11:05:23+0000  refactor: simplify control flow
+2024-07-15T04:33:25+0000  docs: clarify setup instructions
