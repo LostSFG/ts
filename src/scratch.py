@@ -500,3 +500,4 @@
 2024-07-12T11:05:23+0000  refactor: simplify control flow
 2024-07-15T04:33:25+0000  docs: clarify setup instructions
 2024-07-15T05:12:40+0000  chore: update lockfile
+2024-07-15T06:28:42+0000  test: cover edge case in parser
