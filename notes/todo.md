@@ -470,3 +470,4 @@
 2024-07-11T23:21:31+0000  feat: cache computed values
 2024-07-12T13:31:54+0000  feat: expose --verbose flag
 2024-07-12T19:55:16+0000  docs: add usage examples
+2024-07-17T09:47:17+0000  fix: correct timezone handling
