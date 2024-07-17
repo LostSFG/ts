@@ -503,3 +503,4 @@
 2024-07-15T06:28:42+0000  test: cover edge case in parser
 2024-07-15T17:29:24+0000  build: pin toolchain version
 2024-07-16T05:27:47+0000  build: pin toolchain version
+2024-07-17T20:06:17+0000  chore: bump dependencies
