@@ -1274,3 +1274,4 @@
 2024-07-16T17:16:37+0000  fix: correct timezone handling
 2024-07-16T19:07:52+0000  test: add regression test for #142
 2024-07-16T19:22:53+0000  chore: bump dependencies
+2024-07-18T17:02:50+0000  docs: add usage examples
