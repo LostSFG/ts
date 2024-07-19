@@ -1266,3 +1266,4 @@
 2024-07-12T19:00:02+0000  test: cover edge case in parser
 2024-07-16T17:08:44+0000  test: cover edge case in parser
 2024-07-16T19:51:29+0000  chore: update lockfile
+2024-07-19T02:41:49+0000  feat: support config file overrides
