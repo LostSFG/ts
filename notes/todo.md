@@ -474,3 +474,4 @@
 2024-07-18T06:07:25+0000  feat: add retry with backoff
 2024-07-18T20:06:26+0000  fix: typo in error message
 2024-07-19T19:09:28+0000  build: pin toolchain version
+2024-07-22T01:43:39+0000  feat: support config file overrides
