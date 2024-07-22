@@ -476,3 +476,4 @@
 2024-07-19T19:09:28+0000  build: pin toolchain version
 2024-07-22T01:43:39+0000  feat: support config file overrides
 2024-07-22T04:23:43+0000  build: pin toolchain version
+2024-07-22T08:32:46+0000  perf: avoid redundant allocations
