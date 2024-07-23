@@ -480,3 +480,4 @@
 2024-07-22T16:10:16+0000  refactor: simplify control flow
 2024-07-22T20:08:09+0000  docs: add usage examples
 2024-07-23T01:04:55+0000  fix: guard against None in serializer
+2024-07-23T04:59:34+0000  feat: support config file overrides
