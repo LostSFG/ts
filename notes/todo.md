@@ -479,3 +479,4 @@
 2024-07-22T08:32:46+0000  perf: avoid redundant allocations
 2024-07-22T16:10:16+0000  refactor: simplify control flow
 2024-07-22T20:08:09+0000  docs: add usage examples
+2024-07-23T01:04:55+0000  fix: guard against None in serializer
