@@ -516,3 +516,4 @@
 2024-07-23T18:22:12+0000  chore: update lockfile
 2024-07-23T21:14:59+0000  style: tidy up imports
 2024-07-24T04:18:10+0000  feat: cache computed values
+2024-07-24T05:57:34+0000  fix: typo in error message
