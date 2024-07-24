@@ -483,3 +483,4 @@
 2024-07-23T04:59:34+0000  feat: support config file overrides
 2024-07-24T13:38:17+0000  build: pin toolchain version
 2024-07-24T15:02:12+0000  test: add regression test for #142
+2024-07-24T23:06:48+0000  test: cover edge case in parser
