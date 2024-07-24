@@ -482,3 +482,4 @@
 2024-07-23T01:04:55+0000  fix: guard against None in serializer
 2024-07-23T04:59:34+0000  feat: support config file overrides
 2024-07-24T13:38:17+0000  build: pin toolchain version
+2024-07-24T15:02:12+0000  test: add regression test for #142
