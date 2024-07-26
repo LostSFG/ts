@@ -1327,3 +1327,4 @@
 2024-07-19T02:47:34+0000  refactor: simplify control flow
 2024-07-23T10:05:14+0000  fix: correct timezone handling
 2024-07-26T00:42:35+0000  chore: update lockfile
+2024-07-26T19:10:41+0000  docs: clarify setup instructions
