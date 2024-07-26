@@ -1271,3 +1271,4 @@
 2024-07-23T10:28:17+0000  fix: guard against None in serializer
 2024-07-23T20:38:35+0000  feat: cache computed values
 2024-07-23T21:50:23+0000  feat: support config file overrides
+2024-07-26T04:41:43+0000  fix: typo in error message
