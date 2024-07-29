@@ -1278,3 +1278,4 @@
 2024-07-28T18:29:28+0000  style: tidy up imports
 2024-07-28T20:17:00+0000  feat: cache computed values
 2024-07-29T10:08:39+0000  test: add regression test for #142
+2024-07-29T22:02:51+0000  docs: add usage examples
