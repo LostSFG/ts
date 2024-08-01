@@ -513,3 +513,4 @@
 2024-07-24T13:55:47+0000  refactor: extract helper for date parsing
 2024-07-26T21:02:30+0000  refactor: extract helper for date parsing
 2024-08-01T05:15:42+0000  test: add regression test for #142
+2024-08-01T09:39:52+0000  feat: support config file overrides
