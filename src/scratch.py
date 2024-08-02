@@ -515,3 +515,4 @@
 2024-08-01T05:15:42+0000  test: add regression test for #142
 2024-08-01T09:39:52+0000  feat: support config file overrides
 2024-08-01T20:57:09+0000  refactor: extract helper for date parsing
+2024-08-02T00:58:27+0000  docs: clarify setup instructions
