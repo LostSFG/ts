@@ -486,3 +486,4 @@
 2024-07-24T23:06:48+0000  test: cover edge case in parser
 2024-08-01T01:54:03+0000  fix: handle empty response from upstream
 2024-08-01T19:13:08+0000  fix: typo in error message
+2024-08-02T11:16:14+0000  feat: add retry with backoff
