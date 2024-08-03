@@ -1280,3 +1280,4 @@
 2024-07-29T10:08:39+0000  test: add regression test for #142
 2024-07-29T22:02:51+0000  docs: add usage examples
 2024-07-30T03:13:55+0000  chore: bump dependencies
+2024-08-03T11:23:39+0000  fix: handle empty response from upstream
