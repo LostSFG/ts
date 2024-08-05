@@ -520,3 +520,4 @@
 2024-08-02T18:07:18+0000  fix: correct timezone handling
 2024-08-02T18:34:47+0000  refactor: extract helper for date parsing
 2024-08-02T20:06:12+0000  test: cover edge case in parser
+2024-08-05T21:53:31+0000  feat: add retry with backoff
