@@ -1285,3 +1285,4 @@
 2024-07-26T22:16:39+0000  style: tidy up imports
 2024-07-29T03:38:01+0000  feat: support config file overrides
 2024-07-29T04:28:39+0000  chore: bump dependencies
+2024-08-05T08:44:15+0000  test: cover edge case in parser
