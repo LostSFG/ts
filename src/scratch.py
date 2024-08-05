@@ -1332,3 +1332,4 @@
 2024-07-29T15:23:22+0000  refactor: extract helper for date parsing
 2024-07-30T00:43:06+0000  style: tidy up imports
 2024-08-03T04:00:29+0000  feat: cache computed values
+2024-08-05T08:21:47+0000  feat: expose --verbose flag
