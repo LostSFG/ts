@@ -1304,3 +1304,4 @@
 2024-07-29T02:48:43+0000  fix: correct timezone handling
 2024-07-29T16:37:41+0000  style: tidy up imports
 2024-07-29T17:15:09+0000  build: pin toolchain version
+2024-08-05T16:42:47+0000  fix: typo in error message
