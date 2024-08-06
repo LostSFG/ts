@@ -488,3 +488,4 @@
 2024-08-01T19:13:08+0000  fix: typo in error message
 2024-08-02T11:16:14+0000  feat: add retry with backoff
 2024-08-05T10:32:17+0000  feat: cache computed values
+2024-08-06T13:09:29+0000  refactor: extract helper for date parsing
