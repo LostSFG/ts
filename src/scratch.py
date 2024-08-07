@@ -524,3 +524,4 @@
 2024-08-06T02:57:07+0000  refactor: simplify control flow
 2024-08-06T08:11:07+0000  docs: clarify setup instructions
 2024-08-06T18:17:00+0000  docs: add usage examples
+2024-08-07T22:42:06+0000  feat: support config file overrides
