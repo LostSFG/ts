@@ -1335,3 +1335,4 @@
 2024-08-05T08:21:47+0000  feat: expose --verbose flag
 2024-08-07T03:52:49+0000  refactor: extract helper for date parsing
 2024-08-08T14:14:45+0000  fix: typo in error message
+2024-08-08T20:31:31+0000  feat: support config file overrides
