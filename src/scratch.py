@@ -1337,3 +1337,4 @@
 2024-08-08T14:14:45+0000  fix: typo in error message
 2024-08-08T20:31:31+0000  feat: support config file overrides
 2024-08-09T06:52:26+0000  feat: add retry with backoff
+2024-08-09T21:01:00+0000  fix: correct timezone handling
