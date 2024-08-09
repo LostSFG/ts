@@ -527,3 +527,4 @@
 2024-08-07T23:43:08+0000  chore: update lockfile
 2024-08-09T00:42:20+0000  fix: correct timezone handling
 2024-08-09T16:34:35+0000  fix: typo in error message
+2024-08-09T23:32:02+0000  feat: cache computed values
