@@ -531,3 +531,4 @@
 2024-08-11T06:42:29+0000  feat: expose --verbose flag
 2024-08-12T01:07:03+0000  style: tidy up imports
 2024-08-12T06:07:11+0000  feat: add retry with backoff
+2024-08-12T10:04:27+0000  docs: add usage examples
