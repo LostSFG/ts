@@ -526,3 +526,4 @@
 2024-08-06T18:17:00+0000  docs: add usage examples
 2024-08-07T22:42:06+0000  feat: support config file overrides
 2024-08-08T02:05:06+0000  fix: typo in error message
+2024-08-12T01:28:29+0000  docs: clarify setup instructions
