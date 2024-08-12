@@ -527,3 +527,4 @@
 2024-08-07T22:42:06+0000  feat: support config file overrides
 2024-08-08T02:05:06+0000  fix: typo in error message
 2024-08-12T01:28:29+0000  docs: clarify setup instructions
+2024-08-12T04:15:36+0000  feat: add retry with backoff
