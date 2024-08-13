@@ -1339,3 +1339,4 @@
 2024-08-09T06:52:26+0000  feat: add retry with backoff
 2024-08-09T21:01:00+0000  fix: correct timezone handling
 2024-08-13T05:15:13+0000  feat: expose --verbose flag
+2024-08-13T07:21:08+0000  feat: expose --verbose flag
