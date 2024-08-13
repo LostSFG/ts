@@ -533,3 +533,4 @@
 2024-08-12T06:07:11+0000  feat: add retry with backoff
 2024-08-12T10:04:27+0000  docs: add usage examples
 2024-08-13T13:18:26+0000  fix: typo in error message
+2024-08-13T13:53:58+0000  refactor: simplify control flow
