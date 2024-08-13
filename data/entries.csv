@@ -516,3 +516,4 @@
 2024-08-06T16:10:26+0000  fix: guard against None in serializer
 2024-08-07T03:57:14+0000  fix: correct timezone handling
 2024-08-08T05:06:32+0000  fix: guard against None in serializer
+2024-08-13T18:48:41+0000  chore: bump dependencies
