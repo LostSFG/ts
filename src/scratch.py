@@ -529,3 +529,4 @@
 2024-08-12T01:28:29+0000  docs: clarify setup instructions
 2024-08-12T04:15:36+0000  feat: add retry with backoff
 2024-08-12T08:16:54+0000  chore: bump dependencies
+2024-08-13T17:13:22+0000  docs: add usage examples
