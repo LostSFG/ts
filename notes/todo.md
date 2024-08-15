@@ -1291,3 +1291,4 @@
 2024-08-09T11:19:56+0000  test: cover edge case in parser
 2024-08-09T22:21:20+0000  fix: handle empty response from upstream
 2024-08-12T06:21:01+0000  chore: remove dead code
+2024-08-15T01:26:13+0000  feat: expose --verbose flag
