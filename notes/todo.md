@@ -496,3 +496,4 @@
 2024-08-13T16:06:16+0000  style: tidy up imports
 2024-08-14T14:23:04+0000  fix: correct timezone handling
 2024-08-15T23:41:46+0000  docs: clarify setup instructions
+2024-08-16T11:59:03+0000  docs: clarify setup instructions
