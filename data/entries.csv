@@ -1296,3 +1296,4 @@
 2024-08-15T19:52:41+0000  chore: update lockfile
 2024-08-16T00:56:05+0000  test: cover edge case in parser
 2024-08-16T08:47:11+0000  refactor: extract helper for date parsing
+2024-08-16T14:02:31+0000  fix: typo in error message
