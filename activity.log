@@ -1316,3 +1316,4 @@
 2024-08-12T14:08:27+0000  refactor: simplify control flow
 2024-08-13T14:28:37+0000  style: tidy up imports
 2024-08-13T21:45:41+0000  chore: update lockfile
+2024-08-16T14:58:15+0000  feat: expose --verbose flag
