@@ -530,3 +530,4 @@
 2024-08-12T04:15:36+0000  feat: add retry with backoff
 2024-08-12T08:16:54+0000  chore: bump dependencies
 2024-08-13T17:13:22+0000  docs: add usage examples
+2024-08-16T03:58:40+0000  fix: typo in error message
