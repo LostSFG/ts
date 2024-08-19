@@ -1342,3 +1342,4 @@
 2024-08-13T07:21:08+0000  feat: expose --verbose flag
 2024-08-16T22:49:14+0000  test: add regression test for #142
 2024-08-19T08:10:58+0000  fix: handle empty response from upstream
+2024-08-19T16:44:33+0000  feat: cache computed values
