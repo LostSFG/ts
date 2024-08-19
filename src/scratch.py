@@ -534,3 +534,4 @@
 2024-08-16T23:50:46+0000  fix: handle empty response from upstream
 2024-08-19T02:36:59+0000  test: add regression test for #142
 2024-08-19T07:56:56+0000  fix: correct timezone handling
+2024-08-19T13:43:22+0000  refactor: extract helper for date parsing
