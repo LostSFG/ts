@@ -503,3 +503,4 @@
 2024-08-19T12:51:08+0000  fix: correct timezone handling
 2024-08-19T12:53:24+0000  perf: avoid redundant allocations
 2024-08-19T16:12:26+0000  feat: cache computed values
+2024-08-19T20:40:19+0000  docs: add usage examples
