@@ -500,3 +500,4 @@
 2024-08-16T18:04:26+0000  perf: avoid redundant allocations
 2024-08-16T23:17:17+0000  chore: bump dependencies
 2024-08-19T07:34:45+0000  perf: avoid redundant allocations
+2024-08-19T12:51:08+0000  fix: correct timezone handling
