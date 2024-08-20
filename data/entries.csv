@@ -522,3 +522,4 @@
 2024-08-16T06:50:24+0000  style: tidy up imports
 2024-08-19T22:43:58+0000  perf: avoid redundant allocations
 2024-08-20T03:13:27+0000  refactor: simplify control flow
+2024-08-20T07:48:56+0000  test: add regression test for #142
