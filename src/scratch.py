@@ -1346,3 +1346,4 @@
 2024-08-20T17:36:54+0000  feat: support config file overrides
 2024-08-20T17:51:44+0000  feat: support config file overrides
 2024-08-20T19:38:51+0000  test: cover edge case in parser
+2024-08-20T19:46:37+0000  refactor: simplify control flow
