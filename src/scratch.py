@@ -536,3 +536,4 @@
 2024-08-19T07:56:56+0000  fix: correct timezone handling
 2024-08-19T13:43:22+0000  refactor: extract helper for date parsing
 2024-08-20T16:47:53+0000  test: add regression test for #142
+2024-08-20T17:03:36+0000  feat: support config file overrides
