@@ -1295,3 +1295,4 @@
 2024-08-15T11:59:22+0000  chore: update lockfile
 2024-08-15T13:20:06+0000  style: tidy up imports
 2024-08-19T07:35:51+0000  feat: add retry with backoff
+2024-08-20T13:07:53+0000  docs: add usage examples
