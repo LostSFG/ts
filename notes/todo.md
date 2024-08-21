@@ -505,3 +505,4 @@
 2024-08-19T16:12:26+0000  feat: cache computed values
 2024-08-19T20:40:19+0000  docs: add usage examples
 2024-08-20T07:16:15+0000  docs: add usage examples
+2024-08-21T18:10:13+0000  fix: correct timezone handling
