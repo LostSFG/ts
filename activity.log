@@ -1318,3 +1318,4 @@
 2024-08-13T21:45:41+0000  chore: update lockfile
 2024-08-16T14:58:15+0000  feat: expose --verbose flag
 2024-08-20T21:57:18+0000  refactor: extract helper for date parsing
+2024-08-22T05:27:16+0000  test: cover edge case in parser
