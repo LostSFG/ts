@@ -1300,3 +1300,4 @@
 2024-08-22T05:31:52+0000  refactor: extract helper for date parsing
 2024-08-22T16:04:09+0000  perf: avoid redundant allocations
 2024-08-22T19:59:38+0000  refactor: extract helper for date parsing
+2024-08-22T23:42:06+0000  feat: add retry with backoff
