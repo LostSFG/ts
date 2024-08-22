@@ -1296,3 +1296,4 @@
 2024-08-15T13:20:06+0000  style: tidy up imports
 2024-08-19T07:35:51+0000  feat: add retry with backoff
 2024-08-20T13:07:53+0000  docs: add usage examples
+2024-08-22T00:03:30+0000  feat: add retry with backoff
