@@ -525,3 +525,4 @@
 2024-08-20T07:48:56+0000  test: add regression test for #142
 2024-08-20T20:24:25+0000  fix: guard against None in serializer
 2024-08-23T08:05:00+0000  test: cover edge case in parser
+2024-08-23T16:18:20+0000  fix: guard against None in serializer
