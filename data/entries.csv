@@ -526,3 +526,4 @@
 2024-08-20T20:24:25+0000  fix: guard against None in serializer
 2024-08-23T08:05:00+0000  test: cover edge case in parser
 2024-08-23T16:18:20+0000  fix: guard against None in serializer
+2024-08-23T20:01:48+0000  feat: cache computed values
