@@ -1310,3 +1310,4 @@
 2024-08-25T19:06:09+0000  fix: correct timezone handling
 2024-08-26T00:49:08+0000  test: add regression test for #142
 2024-08-27T00:09:04+0000  feat: support config file overrides
+2024-08-27T12:58:05+0000  perf: avoid redundant allocations
