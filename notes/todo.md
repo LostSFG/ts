@@ -507,3 +507,4 @@
 2024-08-20T07:16:15+0000  docs: add usage examples
 2024-08-21T18:10:13+0000  fix: correct timezone handling
 2024-08-22T06:08:41+0000  perf: avoid redundant allocations
+2024-08-27T12:05:01+0000  docs: clarify setup instructions
