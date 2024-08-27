@@ -547,3 +547,4 @@
 2024-08-23T12:22:27+0000  fix: correct timezone handling
 2024-08-23T14:48:58+0000  build: pin toolchain version
 2024-08-23T17:40:45+0000  test: cover edge case in parser
+2024-08-27T06:00:47+0000  fix: typo in error message
