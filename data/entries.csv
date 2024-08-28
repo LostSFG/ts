@@ -532,3 +532,4 @@
 2024-08-27T17:09:02+0000  test: add regression test for #142
 2024-08-27T21:16:42+0000  style: tidy up imports
 2024-08-28T07:50:00+0000  style: tidy up imports
+2024-08-28T11:39:52+0000  fix: correct timezone handling
