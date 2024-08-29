@@ -1303,3 +1303,4 @@
 2024-08-22T23:42:06+0000  feat: add retry with backoff
 2024-08-26T14:28:48+0000  feat: add retry with backoff
 2024-08-28T12:07:33+0000  feat: add retry with backoff
+2024-08-29T20:57:24+0000  docs: add usage examples
