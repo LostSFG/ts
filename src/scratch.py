@@ -1351,3 +1351,4 @@
 2024-08-26T20:51:52+0000  chore: remove dead code
 2024-08-27T09:14:09+0000  chore: bump dependencies
 2024-08-29T06:17:48+0000  fix: guard against None in serializer
+2024-08-29T10:35:07+0000  fix: correct timezone handling
