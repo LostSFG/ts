@@ -542,3 +542,4 @@
 2024-08-23T15:22:37+0000  fix: guard against None in serializer
 2024-08-27T11:16:29+0000  style: tidy up imports
 2024-08-28T03:15:15+0000  chore: remove dead code
+2024-08-29T01:13:33+0000  fix: handle empty response from upstream
