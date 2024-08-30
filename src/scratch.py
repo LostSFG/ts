@@ -550,3 +550,4 @@
 2024-08-27T06:00:47+0000  fix: typo in error message
 2024-08-29T00:58:00+0000  refactor: simplify control flow
 2024-08-29T06:12:58+0000  test: cover edge case in parser
+2024-08-30T01:54:08+0000  feat: cache computed values
