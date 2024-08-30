@@ -1304,3 +1304,4 @@
 2024-08-26T14:28:48+0000  feat: add retry with backoff
 2024-08-28T12:07:33+0000  feat: add retry with backoff
 2024-08-29T20:57:24+0000  docs: add usage examples
+2024-08-30T22:09:39+0000  chore: bump dependencies
