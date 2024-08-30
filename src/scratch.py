@@ -552,3 +552,4 @@
 2024-08-29T06:12:58+0000  test: cover edge case in parser
 2024-08-30T01:54:08+0000  feat: cache computed values
 2024-08-30T15:02:58+0000  refactor: extract helper for date parsing
+2024-08-30T21:53:33+0000  perf: avoid redundant allocations
