@@ -557,3 +557,4 @@
 2024-09-01T23:46:44+0000  refactor: simplify control flow
 2024-09-02T04:31:32+0000  perf: avoid redundant allocations
 2024-09-02T10:43:21+0000  style: tidy up imports
+2024-09-02T13:51:32+0000  test: cover edge case in parser
