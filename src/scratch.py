@@ -1353,3 +1353,4 @@
 2024-08-29T06:17:48+0000  fix: guard against None in serializer
 2024-08-29T10:35:07+0000  fix: correct timezone handling
 2024-08-30T18:35:56+0000  fix: handle empty response from upstream
+2024-09-05T02:42:22+0000  chore: remove dead code
