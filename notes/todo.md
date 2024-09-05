@@ -1307,3 +1307,4 @@
 2024-08-30T22:09:39+0000  chore: bump dependencies
 2024-09-01T10:31:54+0000  refactor: simplify control flow
 2024-09-02T12:45:32+0000  chore: bump dependencies
+2024-09-05T11:06:04+0000  fix: handle empty response from upstream
