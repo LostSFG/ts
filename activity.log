@@ -553,3 +553,4 @@
 2024-09-06T05:36:24+0000  feat: cache computed values
 2024-09-06T05:46:50+0000  style: tidy up imports
 2024-09-06T05:50:58+0000  refactor: extract helper for date parsing
+2024-09-06T11:07:36+0000  feat: add retry with backoff
