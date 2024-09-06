@@ -1333,3 +1333,4 @@
 2024-09-05T18:58:20+0000  fix: correct timezone handling
 2024-09-06T09:49:59+0000  chore: bump dependencies
 2024-09-06T22:04:49+0000  feat: support config file overrides
+2024-09-06T22:40:34+0000  fix: typo in error message
