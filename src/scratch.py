@@ -564,3 +564,4 @@
 2024-09-06T04:53:00+0000  style: tidy up imports
 2024-09-06T16:24:14+0000  feat: add retry with backoff
 2024-09-06T22:58:48+0000  chore: remove dead code
+2024-09-08T04:25:34+0000  docs: clarify setup instructions
