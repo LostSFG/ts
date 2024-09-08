@@ -555,3 +555,4 @@
 2024-09-06T05:50:58+0000  refactor: extract helper for date parsing
 2024-09-06T11:07:36+0000  feat: add retry with backoff
 2024-09-06T20:09:52+0000  feat: support config file overrides
+2024-09-08T09:26:32+0000  fix: correct timezone handling
