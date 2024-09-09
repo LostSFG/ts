@@ -1311,3 +1311,4 @@
 2024-09-06T05:31:25+0000  refactor: extract helper for date parsing
 2024-09-08T04:45:37+0000  fix: guard against None in serializer
 2024-09-08T17:03:55+0000  fix: correct timezone handling
+2024-09-09T02:10:08+0000  test: cover edge case in parser
