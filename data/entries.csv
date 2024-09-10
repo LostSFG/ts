@@ -1323,3 +1323,4 @@
 2024-09-08T22:07:24+0000  fix: handle empty response from upstream
 2024-09-09T19:24:37+0000  build: pin toolchain version
 2024-09-10T04:43:19+0000  fix: typo in error message
+2024-09-10T08:34:18+0000  perf: avoid redundant allocations
