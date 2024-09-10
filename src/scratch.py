@@ -1357,3 +1357,4 @@
 2024-09-05T07:57:49+0000  chore: update lockfile
 2024-09-06T02:54:38+0000  perf: avoid redundant allocations
 2024-09-10T07:16:05+0000  docs: clarify setup instructions
+2024-09-10T23:14:48+0000  build: pin toolchain version
