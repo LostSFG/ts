@@ -1313,3 +1313,4 @@
 2024-09-08T17:03:55+0000  fix: correct timezone handling
 2024-09-09T02:10:08+0000  test: cover edge case in parser
 2024-09-09T19:40:12+0000  build: pin toolchain version
+2024-09-10T11:52:40+0000  refactor: extract helper for date parsing
