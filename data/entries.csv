@@ -1324,3 +1324,4 @@
 2024-09-09T19:24:37+0000  build: pin toolchain version
 2024-09-10T04:43:19+0000  fix: typo in error message
 2024-09-10T08:34:18+0000  perf: avoid redundant allocations
+2024-09-10T12:02:06+0000  docs: add usage examples
