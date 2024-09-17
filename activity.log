@@ -1339,3 +1339,4 @@
 2024-09-12T15:54:36+0000  fix: typo in error message
 2024-09-13T06:23:11+0000  build: pin toolchain version
 2024-09-13T17:02:38+0000  refactor: simplify control flow
+2024-09-17T09:55:51+0000  fix: handle empty response from upstream
