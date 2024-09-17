@@ -1322,3 +1322,4 @@
 2024-09-16T19:30:37+0000  feat: support config file overrides
 2024-09-17T04:47:09+0000  test: cover edge case in parser
 2024-09-17T06:19:57+0000  test: add regression test for #142
+2024-09-17T08:11:44+0000  feat: add retry with backoff
