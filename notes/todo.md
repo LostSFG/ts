@@ -1320,3 +1320,4 @@
 2024-09-13T18:41:21+0000  perf: avoid redundant allocations
 2024-09-16T01:29:12+0000  style: tidy up imports
 2024-09-16T19:30:37+0000  feat: support config file overrides
+2024-09-17T04:47:09+0000  test: cover edge case in parser
