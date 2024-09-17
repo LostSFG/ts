@@ -1363,3 +1363,4 @@
 2024-09-12T08:40:33+0000  refactor: extract helper for date parsing
 2024-09-13T05:11:22+0000  chore: remove dead code
 2024-09-16T20:37:35+0000  feat: expose --verbose flag
+2024-09-17T13:55:31+0000  docs: clarify setup instructions
