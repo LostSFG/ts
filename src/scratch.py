@@ -1364,3 +1364,4 @@
 2024-09-13T05:11:22+0000  chore: remove dead code
 2024-09-16T20:37:35+0000  feat: expose --verbose flag
 2024-09-17T13:55:31+0000  docs: clarify setup instructions
+2024-09-17T17:42:12+0000  fix: correct timezone handling
