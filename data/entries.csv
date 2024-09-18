@@ -547,3 +547,4 @@
 2024-09-12T12:43:42+0000  test: cover edge case in parser
 2024-09-17T06:03:53+0000  fix: guard against None in serializer
 2024-09-18T03:42:29+0000  feat: expose --verbose flag
+2024-09-18T15:01:29+0000  fix: handle empty response from upstream
