@@ -1344,3 +1344,4 @@
 2024-09-18T23:12:48+0000  test: cover edge case in parser
 2024-09-19T12:20:44+0000  fix: typo in error message
 2024-09-19T13:00:05+0000  refactor: extract helper for date parsing
+2024-09-19T23:31:39+0000  refactor: simplify control flow
