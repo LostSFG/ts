@@ -567,3 +567,4 @@
 2024-09-20T01:51:36+0000  refactor: simplify control flow
 2024-09-20T10:13:51+0000  docs: add usage examples
 2024-09-21T09:09:53+0000  build: pin toolchain version
+2024-09-21T15:59:05+0000  feat: expose --verbose flag
