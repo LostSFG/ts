@@ -571,3 +571,4 @@
 2024-09-19T21:10:48+0000  fix: guard against None in serializer
 2024-09-21T03:56:00+0000  docs: add usage examples
 2024-09-22T04:26:03+0000  feat: support config file overrides
+2024-09-23T14:03:39+0000  refactor: simplify control flow
