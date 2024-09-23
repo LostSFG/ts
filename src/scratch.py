@@ -1374,3 +1374,4 @@
 2024-09-20T19:46:57+0000  chore: remove dead code
 2024-09-22T22:48:06+0000  refactor: extract helper for date parsing
 2024-09-23T05:47:44+0000  chore: remove dead code
+2024-09-23T10:56:14+0000  docs: clarify setup instructions
