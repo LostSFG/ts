@@ -523,3 +523,4 @@
 2024-09-19T20:13:19+0000  fix: typo in error message
 2024-09-19T23:25:05+0000  docs: add usage examples
 2024-09-23T22:49:14+0000  fix: guard against None in serializer
+2024-09-25T13:54:42+0000  chore: remove dead code
