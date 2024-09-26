@@ -524,3 +524,4 @@
 2024-09-19T23:25:05+0000  docs: add usage examples
 2024-09-23T22:49:14+0000  fix: guard against None in serializer
 2024-09-25T13:54:42+0000  chore: remove dead code
+2024-09-26T11:32:10+0000  fix: handle empty response from upstream
