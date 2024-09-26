@@ -1380,3 +1380,4 @@
 2024-09-25T01:27:23+0000  feat: support config file overrides
 2024-09-25T04:39:45+0000  perf: avoid redundant allocations
 2024-09-25T11:28:43+0000  fix: guard against None in serializer
+2024-09-26T16:05:41+0000  chore: update lockfile
