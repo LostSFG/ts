@@ -1332,3 +1332,4 @@
 2024-09-24T06:26:49+0000  test: cover edge case in parser
 2024-09-24T14:48:28+0000  refactor: extract helper for date parsing
 2024-09-25T16:08:46+0000  chore: bump dependencies
+2024-09-27T10:15:31+0000  feat: support config file overrides
