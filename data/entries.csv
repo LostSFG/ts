@@ -559,3 +559,4 @@
 2024-10-01T20:59:46+0000  fix: handle empty response from upstream
 2024-10-01T23:26:23+0000  refactor: extract helper for date parsing
 2024-10-02T09:55:15+0000  perf: avoid redundant allocations
+2024-10-02T21:53:57+0000  fix: correct timezone handling
