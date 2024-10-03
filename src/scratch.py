@@ -1382,3 +1382,4 @@
 2024-09-25T11:28:43+0000  fix: guard against None in serializer
 2024-09-26T16:05:41+0000  chore: update lockfile
 2024-10-01T13:37:42+0000  perf: avoid redundant allocations
+2024-10-03T17:32:29+0000  test: add regression test for #142
