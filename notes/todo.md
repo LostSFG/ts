@@ -530,3 +530,4 @@
 2024-10-01T00:25:33+0000  chore: remove dead code
 2024-10-01T16:16:56+0000  fix: guard against None in serializer
 2024-10-01T21:28:02+0000  perf: avoid redundant allocations
+2024-10-03T01:47:25+0000  refactor: extract helper for date parsing
