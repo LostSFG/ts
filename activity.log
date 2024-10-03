@@ -1354,3 +1354,4 @@
 2024-09-30T11:34:49+0000  fix: handle empty response from upstream
 2024-10-03T08:07:51+0000  style: tidy up imports
 2024-10-03T13:54:59+0000  fix: typo in error message
+2024-10-03T18:11:44+0000  feat: add retry with backoff
