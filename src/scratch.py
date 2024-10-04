@@ -584,3 +584,4 @@
 2024-10-02T18:44:07+0000  style: tidy up imports
 2024-10-03T09:20:49+0000  docs: add usage examples
 2024-10-03T14:56:35+0000  fix: typo in error message
+2024-10-04T06:11:17+0000  fix: correct timezone handling
