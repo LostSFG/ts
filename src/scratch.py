@@ -586,3 +586,4 @@
 2024-10-03T14:56:35+0000  fix: typo in error message
 2024-10-04T06:11:17+0000  fix: correct timezone handling
 2024-10-04T15:10:59+0000  refactor: extract helper for date parsing
+2024-10-04T16:40:12+0000  fix: correct timezone handling
