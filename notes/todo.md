@@ -534,3 +534,4 @@
 2024-10-03T10:01:44+0000  feat: support config file overrides
 2024-10-03T16:08:02+0000  chore: remove dead code
 2024-10-03T18:10:44+0000  fix: typo in error message
+2024-10-04T06:30:02+0000  fix: correct timezone handling
