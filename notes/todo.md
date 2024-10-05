@@ -536,3 +536,4 @@
 2024-10-03T18:10:44+0000  fix: typo in error message
 2024-10-04T06:30:02+0000  fix: correct timezone handling
 2024-10-04T07:00:08+0000  style: tidy up imports
+2024-10-05T15:46:10+0000  perf: avoid redundant allocations
