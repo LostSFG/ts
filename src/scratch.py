@@ -1385,3 +1385,4 @@
 2024-10-03T17:32:29+0000  test: add regression test for #142
 2024-10-04T08:21:42+0000  fix: handle empty response from upstream
 2024-10-04T14:36:25+0000  fix: handle empty response from upstream
+2024-10-08T10:25:22+0000  test: add regression test for #142
