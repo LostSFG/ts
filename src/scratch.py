@@ -588,3 +588,4 @@
 2024-10-04T15:10:59+0000  refactor: extract helper for date parsing
 2024-10-04T16:40:12+0000  fix: correct timezone handling
 2024-10-08T18:21:13+0000  docs: clarify setup instructions
+2024-10-09T17:41:23+0000  fix: correct timezone handling
