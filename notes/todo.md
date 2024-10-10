@@ -542,3 +542,4 @@
 2024-10-10T02:01:34+0000  fix: guard against None in serializer
 2024-10-10T08:34:46+0000  fix: handle empty response from upstream
 2024-10-10T10:35:32+0000  fix: correct timezone handling
+2024-10-10T19:50:53+0000  feat: cache computed values
