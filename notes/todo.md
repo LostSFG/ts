@@ -540,3 +540,4 @@
 2024-10-09T03:55:50+0000  docs: add usage examples
 2024-10-09T05:18:05+0000  refactor: simplify control flow
 2024-10-10T02:01:34+0000  fix: guard against None in serializer
+2024-10-10T08:34:46+0000  fix: handle empty response from upstream
