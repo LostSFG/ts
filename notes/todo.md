@@ -1342,3 +1342,4 @@
 2024-10-11T01:48:50+0000  fix: typo in error message
 2024-10-11T09:50:00+0000  fix: correct timezone handling
 2024-10-11T10:52:00+0000  feat: expose --verbose flag
+2024-10-11T12:25:40+0000  feat: support config file overrides
