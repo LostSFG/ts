@@ -1352,3 +1352,4 @@
 2024-10-08T05:11:03+0000  style: tidy up imports
 2024-10-08T16:30:40+0000  feat: expose --verbose flag
 2024-10-08T18:29:49+0000  chore: update lockfile
+2024-10-11T08:08:53+0000  docs: clarify setup instructions
