@@ -1339,3 +1339,4 @@
 2024-10-08T13:18:15+0000  refactor: extract helper for date parsing
 2024-10-09T04:35:14+0000  perf: avoid redundant allocations
 2024-10-11T00:56:12+0000  perf: avoid redundant allocations
+2024-10-11T01:48:50+0000  fix: typo in error message
