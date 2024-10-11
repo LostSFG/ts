@@ -1354,3 +1354,4 @@
 2024-10-08T18:29:49+0000  chore: update lockfile
 2024-10-11T08:08:53+0000  docs: clarify setup instructions
 2024-10-11T12:29:20+0000  test: add regression test for #142
+2024-10-11T16:01:54+0000  chore: remove dead code
