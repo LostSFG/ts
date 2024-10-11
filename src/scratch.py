@@ -1387,3 +1387,4 @@
 2024-10-04T14:36:25+0000  fix: handle empty response from upstream
 2024-10-08T10:25:22+0000  test: add regression test for #142
 2024-10-09T09:34:56+0000  chore: bump dependencies
+2024-10-11T19:50:07+0000  feat: expose --verbose flag
