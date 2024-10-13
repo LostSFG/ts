@@ -592,3 +592,4 @@
 2024-10-10T19:51:24+0000  docs: clarify setup instructions
 2024-10-10T20:54:26+0000  feat: cache computed values
 2024-10-11T16:00:28+0000  style: tidy up imports
+2024-10-13T21:54:32+0000  fix: handle empty response from upstream
