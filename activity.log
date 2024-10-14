@@ -1364,3 +1364,4 @@
 2024-10-09T21:38:39+0000  style: tidy up imports
 2024-10-14T01:43:34+0000  chore: update lockfile
 2024-10-14T08:31:58+0000  chore: remove dead code
+2024-10-14T16:00:44+0000  fix: guard against None in serializer
