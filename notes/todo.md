@@ -1345,3 +1345,4 @@
 2024-10-11T12:25:40+0000  feat: support config file overrides
 2024-10-14T04:44:50+0000  style: tidy up imports
 2024-10-14T09:34:00+0000  fix: correct timezone handling
+2024-10-14T13:57:54+0000  feat: add retry with backoff
