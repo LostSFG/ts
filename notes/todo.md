@@ -1346,3 +1346,4 @@
 2024-10-14T04:44:50+0000  style: tidy up imports
 2024-10-14T09:34:00+0000  fix: correct timezone handling
 2024-10-14T13:57:54+0000  feat: add retry with backoff
+2024-10-15T00:43:45+0000  test: cover edge case in parser
