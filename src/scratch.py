@@ -1391,3 +1391,4 @@
 2024-10-14T01:55:35+0000  fix: correct timezone handling
 2024-10-14T14:51:57+0000  feat: expose --verbose flag
 2024-10-16T11:28:57+0000  chore: bump dependencies
+2024-10-16T23:53:26+0000  chore: remove dead code
