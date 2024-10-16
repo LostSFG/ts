@@ -596,3 +596,4 @@
 2024-10-16T06:51:38+0000  chore: remove dead code
 2024-10-16T07:09:47+0000  perf: avoid redundant allocations
 2024-10-16T10:07:52+0000  chore: bump dependencies
+2024-10-16T13:33:54+0000  fix: guard against None in serializer
