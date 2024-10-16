@@ -1356,3 +1356,4 @@
 2024-10-11T12:29:20+0000  test: add regression test for #142
 2024-10-11T16:01:54+0000  chore: remove dead code
 2024-10-14T17:07:04+0000  refactor: extract helper for date parsing
+2024-10-16T05:18:48+0000  build: pin toolchain version
