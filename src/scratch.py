@@ -595,3 +595,4 @@
 2024-10-13T21:54:32+0000  fix: handle empty response from upstream
 2024-10-16T06:51:38+0000  chore: remove dead code
 2024-10-16T07:09:47+0000  perf: avoid redundant allocations
+2024-10-16T10:07:52+0000  chore: bump dependencies
