@@ -598,3 +598,4 @@
 2024-10-16T10:07:52+0000  chore: bump dependencies
 2024-10-16T13:33:54+0000  fix: guard against None in serializer
 2024-10-16T18:54:12+0000  docs: add usage examples
+2024-10-17T10:44:31+0000  chore: update lockfile
