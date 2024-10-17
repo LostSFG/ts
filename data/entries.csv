@@ -1357,3 +1357,4 @@
 2024-10-11T16:01:54+0000  chore: remove dead code
 2024-10-14T17:07:04+0000  refactor: extract helper for date parsing
 2024-10-16T05:18:48+0000  build: pin toolchain version
+2024-10-17T12:38:55+0000  fix: correct timezone handling
