@@ -550,3 +550,4 @@
 2024-10-16T11:17:57+0000  feat: add retry with backoff
 2024-10-17T19:34:59+0000  refactor: extract helper for date parsing
 2024-10-18T01:59:26+0000  test: add regression test for #142
+2024-10-18T13:07:02+0000  perf: avoid redundant allocations
