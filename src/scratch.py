@@ -601,3 +601,4 @@
 2024-10-17T10:44:31+0000  chore: update lockfile
 2024-10-18T01:02:42+0000  docs: add usage examples
 2024-10-18T09:32:17+0000  refactor: extract helper for date parsing
+2024-10-18T14:51:37+0000  refactor: simplify control flow
