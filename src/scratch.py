@@ -604,3 +604,4 @@
 2024-10-18T14:51:37+0000  refactor: simplify control flow
 2024-10-21T02:23:36+0000  build: pin toolchain version
 2024-10-21T03:08:44+0000  test: add regression test for #142
+2024-10-21T10:12:58+0000  fix: correct timezone handling
