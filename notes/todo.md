@@ -552,3 +552,4 @@
 2024-10-18T01:59:26+0000  test: add regression test for #142
 2024-10-18T13:07:02+0000  perf: avoid redundant allocations
 2024-10-21T04:42:20+0000  refactor: simplify control flow
+2024-10-22T18:11:01+0000  fix: typo in error message
