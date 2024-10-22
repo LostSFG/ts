@@ -590,3 +590,4 @@
 2024-10-17T02:48:59+0000  chore: remove dead code
 2024-10-17T08:45:51+0000  fix: correct timezone handling
 2024-10-17T23:23:53+0000  fix: guard against None in serializer
+2024-10-22T02:36:52+0000  feat: add retry with backoff
