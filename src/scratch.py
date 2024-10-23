@@ -1393,3 +1393,4 @@
 2024-10-16T11:28:57+0000  chore: bump dependencies
 2024-10-16T23:53:26+0000  chore: remove dead code
 2024-10-17T02:11:21+0000  test: cover edge case in parser
+2024-10-23T05:35:24+0000  docs: clarify setup instructions
