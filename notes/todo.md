@@ -1350,3 +1350,4 @@
 2024-10-16T08:57:40+0000  feat: expose --verbose flag
 2024-10-17T21:31:42+0000  fix: handle empty response from upstream
 2024-10-22T03:58:53+0000  fix: correct timezone handling
+2024-10-23T18:45:51+0000  feat: support config file overrides
