@@ -607,3 +607,4 @@
 2024-10-21T10:12:58+0000  fix: correct timezone handling
 2024-10-22T06:15:50+0000  perf: avoid redundant allocations
 2024-10-22T06:53:22+0000  fix: typo in error message
+2024-10-23T21:47:20+0000  fix: handle empty response from upstream
