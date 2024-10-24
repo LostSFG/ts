@@ -1351,3 +1351,4 @@
 2024-10-17T21:31:42+0000  fix: handle empty response from upstream
 2024-10-22T03:58:53+0000  fix: correct timezone handling
 2024-10-23T18:45:51+0000  feat: support config file overrides
+2024-10-24T05:31:41+0000  feat: add retry with backoff
