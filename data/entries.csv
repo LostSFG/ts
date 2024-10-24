@@ -1361,3 +1361,4 @@
 2024-10-21T04:53:39+0000  feat: add retry with backoff
 2024-10-23T04:08:53+0000  feat: expose --verbose flag
 2024-10-23T20:40:25+0000  refactor: extract helper for date parsing
+2024-10-24T19:25:47+0000  fix: handle empty response from upstream
