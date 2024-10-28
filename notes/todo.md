@@ -558,3 +558,4 @@
 2024-10-24T08:02:14+0000  refactor: simplify control flow
 2024-10-25T19:46:28+0000  refactor: simplify control flow
 2024-10-28T06:01:34+0000  build: pin toolchain version
+2024-10-28T06:11:55+0000  perf: avoid redundant allocations
