@@ -1374,3 +1374,4 @@
 2024-10-24T06:49:00+0000  refactor: extract helper for date parsing
 2024-10-28T02:37:41+0000  feat: cache computed values
 2024-10-28T07:50:04+0000  docs: clarify setup instructions
+2024-10-28T09:23:29+0000  chore: remove dead code
