@@ -611,3 +611,4 @@
 2024-10-24T13:49:17+0000  docs: clarify setup instructions
 2024-10-25T04:51:02+0000  chore: remove dead code
 2024-10-29T02:01:07+0000  feat: expose --verbose flag
+2024-10-29T23:04:17+0000  fix: handle empty response from upstream
