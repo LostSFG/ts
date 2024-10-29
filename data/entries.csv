@@ -1369,3 +1369,4 @@
 2024-10-28T06:38:11+0000  refactor: extract helper for date parsing
 2024-10-28T11:20:23+0000  docs: add usage examples
 2024-10-29T09:45:45+0000  refactor: extract helper for date parsing
+2024-10-29T12:52:58+0000  fix: handle empty response from upstream
