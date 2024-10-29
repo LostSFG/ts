@@ -1354,3 +1354,4 @@
 2024-10-24T05:31:41+0000  feat: add retry with backoff
 2024-10-24T23:03:25+0000  chore: bump dependencies
 2024-10-26T03:05:07+0000  fix: guard against None in serializer
+2024-10-29T07:56:59+0000  chore: bump dependencies
