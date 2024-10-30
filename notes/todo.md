@@ -1356,3 +1356,4 @@
 2024-10-26T03:05:07+0000  fix: guard against None in serializer
 2024-10-29T07:56:59+0000  chore: bump dependencies
 2024-10-30T02:43:24+0000  test: cover edge case in parser
+2024-10-30T03:27:38+0000  chore: update lockfile
