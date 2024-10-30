@@ -613,3 +613,4 @@
 2024-10-29T02:01:07+0000  feat: expose --verbose flag
 2024-10-29T23:04:17+0000  fix: handle empty response from upstream
 2024-10-30T03:11:44+0000  refactor: simplify control flow
+2024-10-30T12:30:56+0000  perf: avoid redundant allocations
