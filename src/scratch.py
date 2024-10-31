@@ -1399,3 +1399,4 @@
 2024-10-28T14:40:02+0000  style: tidy up imports
 2024-10-30T07:54:42+0000  feat: support config file overrides
 2024-10-30T17:45:37+0000  build: pin toolchain version
+2024-10-31T12:53:27+0000  docs: clarify setup instructions
