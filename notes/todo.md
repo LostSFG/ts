@@ -1357,3 +1357,4 @@
 2024-10-29T07:56:59+0000  chore: bump dependencies
 2024-10-30T02:43:24+0000  test: cover edge case in parser
 2024-10-30T03:27:38+0000  chore: update lockfile
+2024-10-31T23:53:02+0000  perf: avoid redundant allocations
