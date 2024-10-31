@@ -562,3 +562,4 @@
 2024-10-29T17:07:22+0000  docs: clarify setup instructions
 2024-10-30T19:31:24+0000  feat: add retry with backoff
 2024-10-31T11:36:08+0000  chore: bump dependencies
+2024-10-31T14:23:05+0000  feat: cache computed values
