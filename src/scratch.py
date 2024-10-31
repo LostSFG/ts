@@ -616,3 +616,4 @@
 2024-10-30T12:30:56+0000  perf: avoid redundant allocations
 2024-10-31T21:43:37+0000  feat: expose --verbose flag
 2024-10-31T21:56:23+0000  feat: expose --verbose flag
+2024-10-31T22:47:57+0000  feat: cache computed values
