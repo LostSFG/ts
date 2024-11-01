@@ -1358,3 +1358,4 @@
 2024-10-30T02:43:24+0000  test: cover edge case in parser
 2024-10-30T03:27:38+0000  chore: update lockfile
 2024-10-31T23:53:02+0000  perf: avoid redundant allocations
+2024-11-01T12:46:30+0000  fix: handle empty response from upstream
