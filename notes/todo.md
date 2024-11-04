@@ -564,3 +564,4 @@
 2024-10-31T11:36:08+0000  chore: bump dependencies
 2024-10-31T14:23:05+0000  feat: cache computed values
 2024-11-04T16:31:20+0000  test: add regression test for #142
+2024-11-04T18:58:17+0000  feat: add retry with backoff
