@@ -620,3 +620,4 @@
 2024-11-04T00:20:13+0000  docs: add usage examples
 2024-11-04T13:20:56+0000  chore: bump dependencies
 2024-11-05T04:59:58+0000  fix: correct timezone handling
+2024-11-05T05:35:53+0000  fix: typo in error message
