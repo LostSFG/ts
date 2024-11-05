@@ -566,3 +566,4 @@
 2024-11-04T16:31:20+0000  test: add regression test for #142
 2024-11-04T18:58:17+0000  feat: add retry with backoff
 2024-11-04T20:23:22+0000  build: pin toolchain version
+2024-11-05T05:19:23+0000  chore: remove dead code
