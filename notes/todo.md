@@ -567,3 +567,4 @@
 2024-11-04T18:58:17+0000  feat: add retry with backoff
 2024-11-04T20:23:22+0000  build: pin toolchain version
 2024-11-05T05:19:23+0000  chore: remove dead code
+2024-11-07T03:39:12+0000  docs: clarify setup instructions
