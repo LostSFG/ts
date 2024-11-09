@@ -622,3 +622,4 @@
 2024-11-05T04:59:58+0000  fix: correct timezone handling
 2024-11-05T05:35:53+0000  fix: typo in error message
 2024-11-05T14:51:02+0000  test: add regression test for #142
+2024-11-09T20:05:19+0000  perf: avoid redundant allocations
