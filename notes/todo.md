@@ -570,3 +570,4 @@
 2024-11-07T03:39:12+0000  docs: clarify setup instructions
 2024-11-08T05:26:21+0000  feat: support config file overrides
 2024-11-08T13:27:07+0000  feat: add retry with backoff
+2024-11-11T16:56:16+0000  feat: cache computed values
