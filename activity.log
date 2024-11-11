@@ -620,3 +620,4 @@
 2024-11-08T21:05:02+0000  docs: clarify setup instructions
 2024-11-10T10:24:06+0000  fix: guard against None in serializer
 2024-11-10T17:08:01+0000  feat: support config file overrides
+2024-11-11T12:38:01+0000  feat: support config file overrides
