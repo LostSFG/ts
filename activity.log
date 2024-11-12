@@ -622,3 +622,4 @@
 2024-11-10T17:08:01+0000  feat: support config file overrides
 2024-11-11T12:38:01+0000  feat: support config file overrides
 2024-11-11T16:52:38+0000  feat: expose --verbose flag
+2024-11-12T07:44:24+0000  chore: remove dead code
