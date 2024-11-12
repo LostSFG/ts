@@ -593,3 +593,4 @@
 2024-11-12T05:23:33+0000  test: add regression test for #142
 2024-11-12T15:16:40+0000  docs: add usage examples
 2024-11-12T17:37:38+0000  refactor: extract helper for date parsing
+2024-11-12T23:32:10+0000  perf: avoid redundant allocations
