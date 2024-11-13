@@ -629,3 +629,4 @@
 2024-11-12T11:00:58+0000  chore: bump dependencies
 2024-11-13T02:12:23+0000  docs: clarify setup instructions
 2024-11-13T06:31:24+0000  test: cover edge case in parser
+2024-11-13T13:19:01+0000  feat: cache computed values
