@@ -1365,3 +1365,4 @@
 2024-11-05T17:45:34+0000  feat: cache computed values
 2024-11-08T06:01:22+0000  refactor: extract helper for date parsing
 2024-11-11T17:08:58+0000  chore: update lockfile
+2024-11-13T06:10:04+0000  fix: typo in error message
