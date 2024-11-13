@@ -595,3 +595,4 @@
 2024-11-12T17:37:38+0000  refactor: extract helper for date parsing
 2024-11-12T23:32:10+0000  perf: avoid redundant allocations
 2024-11-13T14:29:41+0000  feat: support config file overrides
+2024-11-13T23:27:48+0000  perf: avoid redundant allocations
