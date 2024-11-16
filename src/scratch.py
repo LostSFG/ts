@@ -1415,3 +1415,4 @@
 2024-11-11T21:28:04+0000  docs: clarify setup instructions
 2024-11-12T05:32:19+0000  build: pin toolchain version
 2024-11-13T03:08:43+0000  fix: typo in error message
+2024-11-16T11:32:51+0000  fix: guard against None in serializer
