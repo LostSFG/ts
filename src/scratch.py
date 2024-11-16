@@ -1416,3 +1416,4 @@
 2024-11-12T05:32:19+0000  build: pin toolchain version
 2024-11-13T03:08:43+0000  fix: typo in error message
 2024-11-16T11:32:51+0000  fix: guard against None in serializer
+2024-11-16T22:41:00+0000  test: cover edge case in parser
