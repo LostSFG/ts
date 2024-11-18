@@ -623,3 +623,4 @@
 2024-11-11T12:38:01+0000  feat: support config file overrides
 2024-11-11T16:52:38+0000  feat: expose --verbose flag
 2024-11-12T07:44:24+0000  chore: remove dead code
+2024-11-18T13:33:21+0000  test: cover edge case in parser
