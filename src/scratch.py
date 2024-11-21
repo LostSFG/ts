@@ -1419,3 +1419,4 @@
 2024-11-16T22:41:00+0000  test: cover edge case in parser
 2024-11-18T09:09:24+0000  test: cover edge case in parser
 2024-11-19T03:35:36+0000  perf: avoid redundant allocations
+2024-11-21T20:50:41+0000  fix: typo in error message
