@@ -578,3 +578,4 @@
 2024-11-14T06:11:02+0000  build: pin toolchain version
 2024-11-20T02:19:38+0000  feat: cache computed values
 2024-11-20T13:56:23+0000  perf: avoid redundant allocations
+2024-11-21T10:52:44+0000  feat: expose --verbose flag
