@@ -1422,3 +1422,4 @@
 2024-11-21T20:50:41+0000  fix: typo in error message
 2024-11-22T01:40:12+0000  test: cover edge case in parser
 2024-11-22T03:20:50+0000  feat: add retry with backoff
+2024-11-22T15:56:37+0000  docs: add usage examples
