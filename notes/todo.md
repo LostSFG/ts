@@ -580,3 +580,4 @@
 2024-11-20T13:56:23+0000  perf: avoid redundant allocations
 2024-11-21T10:52:44+0000  feat: expose --verbose flag
 2024-11-22T01:55:43+0000  chore: remove dead code
+2024-11-22T23:37:16+0000  chore: bump dependencies
