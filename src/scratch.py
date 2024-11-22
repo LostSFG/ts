@@ -1421,3 +1421,4 @@
 2024-11-19T03:35:36+0000  perf: avoid redundant allocations
 2024-11-21T20:50:41+0000  fix: typo in error message
 2024-11-22T01:40:12+0000  test: cover edge case in parser
+2024-11-22T03:20:50+0000  feat: add retry with backoff
