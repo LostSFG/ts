@@ -1373,3 +1373,4 @@
 2024-11-21T07:17:55+0000  feat: support config file overrides
 2024-11-22T19:36:05+0000  fix: correct timezone handling
 2024-11-23T15:09:42+0000  docs: add usage examples
+2024-11-23T18:49:29+0000  feat: cache computed values
