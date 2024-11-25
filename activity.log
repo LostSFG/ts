@@ -1397,3 +1397,4 @@
 2024-11-22T01:08:32+0000  style: tidy up imports
 2024-11-22T01:21:53+0000  chore: update lockfile
 2024-11-25T02:47:24+0000  docs: add usage examples
+2024-11-25T10:44:13+0000  test: cover edge case in parser
