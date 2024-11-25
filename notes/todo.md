@@ -582,3 +582,4 @@
 2024-11-22T01:55:43+0000  chore: remove dead code
 2024-11-22T23:37:16+0000  chore: bump dependencies
 2024-11-25T15:23:46+0000  chore: bump dependencies
+2024-11-25T16:11:23+0000  fix: handle empty response from upstream
