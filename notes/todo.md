@@ -581,3 +581,4 @@
 2024-11-21T10:52:44+0000  feat: expose --verbose flag
 2024-11-22T01:55:43+0000  chore: remove dead code
 2024-11-22T23:37:16+0000  chore: bump dependencies
+2024-11-25T15:23:46+0000  chore: bump dependencies
