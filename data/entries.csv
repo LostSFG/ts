@@ -1393,3 +1393,4 @@
 2024-11-18T20:30:09+0000  feat: add retry with backoff
 2024-11-23T12:10:53+0000  docs: add usage examples
 2024-11-25T03:34:11+0000  docs: clarify setup instructions
+2024-11-25T04:20:26+0000  test: add regression test for #142
