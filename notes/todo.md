@@ -1377,3 +1377,4 @@
 2024-11-25T10:21:57+0000  chore: remove dead code
 2024-11-26T13:22:10+0000  perf: avoid redundant allocations
 2024-11-26T13:39:32+0000  refactor: extract helper for date parsing
+2024-11-26T17:18:25+0000  fix: typo in error message
