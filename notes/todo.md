@@ -1375,3 +1375,4 @@
 2024-11-23T15:09:42+0000  docs: add usage examples
 2024-11-23T18:49:29+0000  feat: cache computed values
 2024-11-25T10:21:57+0000  chore: remove dead code
+2024-11-26T13:22:10+0000  perf: avoid redundant allocations
