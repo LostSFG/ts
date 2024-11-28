@@ -1427,3 +1427,4 @@
 2024-11-23T12:52:44+0000  test: cover edge case in parser
 2024-11-25T23:06:29+0000  feat: add retry with backoff
 2024-11-28T00:49:15+0000  chore: bump dependencies
+2024-11-28T20:36:19+0000  refactor: simplify control flow
