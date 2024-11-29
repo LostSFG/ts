@@ -631,3 +631,4 @@
 2024-11-22T19:00:13+0000  chore: update lockfile
 2024-11-26T14:16:47+0000  fix: guard against None in serializer
 2024-11-28T14:47:54+0000  perf: avoid redundant allocations
+2024-11-29T01:52:32+0000  feat: cache computed values
