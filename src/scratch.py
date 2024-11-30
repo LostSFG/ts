@@ -639,3 +639,4 @@
 2024-11-28T14:11:35+0000  feat: cache computed values
 2024-11-29T03:34:20+0000  chore: remove dead code
 2024-11-29T08:48:58+0000  chore: update lockfile
+2024-11-30T18:48:21+0000  perf: avoid redundant allocations
