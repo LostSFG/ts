@@ -634,3 +634,4 @@
 2024-11-29T01:52:32+0000  feat: cache computed values
 2024-11-29T04:12:56+0000  refactor: extract helper for date parsing
 2024-11-30T09:06:57+0000  refactor: extract helper for date parsing
+2024-12-02T08:27:37+0000  perf: avoid redundant allocations
