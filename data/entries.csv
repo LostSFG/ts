@@ -613,3 +613,4 @@
 2024-12-02T05:05:00+0000  fix: handle empty response from upstream
 2024-12-02T07:49:18+0000  chore: update lockfile
 2024-12-02T19:39:19+0000  fix: handle empty response from upstream
+2024-12-03T13:54:08+0000  docs: clarify setup instructions
