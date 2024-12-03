@@ -641,3 +641,4 @@
 2024-11-29T08:48:58+0000  chore: update lockfile
 2024-11-30T18:48:21+0000  perf: avoid redundant allocations
 2024-12-02T05:15:58+0000  test: add regression test for #142
+2024-12-03T06:32:00+0000  fix: handle empty response from upstream
