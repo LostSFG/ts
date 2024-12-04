@@ -587,3 +587,4 @@
 2024-11-29T03:33:00+0000  chore: remove dead code
 2024-11-29T16:43:19+0000  test: add regression test for #142
 2024-12-04T03:39:54+0000  perf: avoid redundant allocations
+2024-12-04T18:17:48+0000  docs: clarify setup instructions
