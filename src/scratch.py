@@ -1430,3 +1430,4 @@
 2024-11-28T20:36:19+0000  refactor: simplify control flow
 2024-12-03T01:35:49+0000  feat: cache computed values
 2024-12-03T19:24:43+0000  docs: clarify setup instructions
+2024-12-04T05:42:45+0000  feat: support config file overrides
