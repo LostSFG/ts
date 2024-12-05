@@ -589,3 +589,4 @@
 2024-12-04T03:39:54+0000  perf: avoid redundant allocations
 2024-12-04T18:17:48+0000  docs: clarify setup instructions
 2024-12-05T05:33:05+0000  fix: correct timezone handling
+2024-12-05T19:06:43+0000  fix: handle empty response from upstream
