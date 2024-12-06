@@ -1435,3 +1435,4 @@
 2024-12-05T07:25:29+0000  chore: update lockfile
 2024-12-06T04:41:06+0000  feat: support config file overrides
 2024-12-06T08:24:56+0000  fix: correct timezone handling
+2024-12-06T19:16:52+0000  fix: typo in error message
