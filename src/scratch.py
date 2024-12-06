@@ -647,3 +647,4 @@
 2024-12-03T22:14:55+0000  test: add regression test for #142
 2024-12-05T05:04:31+0000  fix: handle empty response from upstream
 2024-12-06T04:58:25+0000  chore: update lockfile
+2024-12-06T22:47:04+0000  chore: remove dead code
