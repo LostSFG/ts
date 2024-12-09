@@ -648,3 +648,4 @@
 2024-12-05T05:04:31+0000  fix: handle empty response from upstream
 2024-12-06T04:58:25+0000  chore: update lockfile
 2024-12-06T22:47:04+0000  chore: remove dead code
+2024-12-09T04:31:29+0000  perf: avoid redundant allocations
