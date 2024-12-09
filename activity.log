@@ -1412,3 +1412,4 @@
 2024-12-06T01:29:34+0000  style: tidy up imports
 2024-12-06T18:00:07+0000  test: add regression test for #142
 2024-12-09T21:15:14+0000  docs: add usage examples
+2024-12-09T23:03:05+0000  chore: update lockfile
