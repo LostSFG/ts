@@ -1406,3 +1406,4 @@
 2024-12-06T18:31:23+0000  test: cover edge case in parser
 2024-12-09T05:44:25+0000  chore: bump dependencies
 2024-12-09T08:39:41+0000  test: add regression test for #142
+2024-12-10T02:36:40+0000  docs: add usage examples
