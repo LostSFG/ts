@@ -592,3 +592,4 @@
 2024-12-05T19:06:43+0000  fix: handle empty response from upstream
 2024-12-06T03:37:54+0000  test: cover edge case in parser
 2024-12-06T07:39:57+0000  docs: clarify setup instructions
+2024-12-10T01:11:01+0000  perf: avoid redundant allocations
