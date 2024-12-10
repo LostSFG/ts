@@ -594,3 +594,4 @@
 2024-12-06T07:39:57+0000  docs: clarify setup instructions
 2024-12-10T01:11:01+0000  perf: avoid redundant allocations
 2024-12-10T13:05:35+0000  chore: update lockfile
+2024-12-10T15:20:54+0000  feat: expose --verbose flag
