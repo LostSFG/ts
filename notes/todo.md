@@ -593,3 +593,4 @@
 2024-12-06T03:37:54+0000  test: cover edge case in parser
 2024-12-06T07:39:57+0000  docs: clarify setup instructions
 2024-12-10T01:11:01+0000  perf: avoid redundant allocations
+2024-12-10T13:05:35+0000  chore: update lockfile
