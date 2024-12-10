@@ -595,3 +595,4 @@
 2024-12-10T01:11:01+0000  perf: avoid redundant allocations
 2024-12-10T13:05:35+0000  chore: update lockfile
 2024-12-10T15:20:54+0000  feat: expose --verbose flag
+2024-12-10T20:50:58+0000  chore: bump dependencies
