@@ -1408,3 +1408,4 @@
 2024-12-09T08:39:41+0000  test: add regression test for #142
 2024-12-10T02:36:40+0000  docs: add usage examples
 2024-12-10T05:49:45+0000  docs: add usage examples
+2024-12-10T23:03:58+0000  feat: support config file overrides
