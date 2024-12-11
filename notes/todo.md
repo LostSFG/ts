@@ -596,3 +596,4 @@
 2024-12-10T13:05:35+0000  chore: update lockfile
 2024-12-10T15:20:54+0000  feat: expose --verbose flag
 2024-12-10T20:50:58+0000  chore: bump dependencies
+2024-12-11T10:45:30+0000  chore: remove dead code
