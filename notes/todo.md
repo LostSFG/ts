@@ -1392,3 +1392,4 @@
 2024-12-10T13:33:09+0000  fix: handle empty response from upstream
 2024-12-10T20:14:39+0000  test: add regression test for #142
 2024-12-12T03:52:03+0000  test: cover edge case in parser
+2024-12-12T17:28:43+0000  docs: clarify setup instructions
