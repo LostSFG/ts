@@ -645,3 +645,4 @@
 2024-12-11T16:06:58+0000  feat: add retry with backoff
 2024-12-12T04:56:10+0000  refactor: simplify control flow
 2024-12-12T18:55:26+0000  docs: clarify setup instructions
+2024-12-13T00:44:05+0000  refactor: extract helper for date parsing
