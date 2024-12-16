@@ -623,3 +623,4 @@
 2024-12-11T12:45:15+0000  fix: guard against None in serializer
 2024-12-12T04:24:04+0000  fix: guard against None in serializer
 2024-12-12T06:42:14+0000  refactor: simplify control flow
+2024-12-16T01:44:51+0000  fix: guard against None in serializer
