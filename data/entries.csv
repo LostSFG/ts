@@ -1412,3 +1412,4 @@
 2024-12-11T21:37:06+0000  chore: update lockfile
 2024-12-12T03:02:25+0000  chore: remove dead code
 2024-12-13T12:39:01+0000  feat: support config file overrides
+2024-12-16T02:54:22+0000  fix: correct timezone handling
