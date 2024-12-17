@@ -1414,3 +1414,4 @@
 2024-12-13T12:39:01+0000  feat: support config file overrides
 2024-12-16T02:54:22+0000  fix: correct timezone handling
 2024-12-17T07:25:04+0000  docs: clarify setup instructions
+2024-12-17T19:26:48+0000  feat: expose --verbose flag
