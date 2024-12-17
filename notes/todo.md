@@ -602,3 +602,4 @@
 2024-12-13T17:16:20+0000  chore: bump dependencies
 2024-12-17T11:59:47+0000  feat: expose --verbose flag
 2024-12-17T16:35:36+0000  feat: expose --verbose flag
+2024-12-17T23:40:27+0000  chore: update lockfile
