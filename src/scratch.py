@@ -655,3 +655,4 @@
 2024-12-12T09:24:22+0000  feat: cache computed values
 2024-12-13T19:22:24+0000  feat: support config file overrides
 2024-12-17T01:00:31+0000  docs: clarify setup instructions
+2024-12-17T08:47:33+0000  chore: bump dependencies
