@@ -600,3 +600,4 @@
 2024-12-12T05:20:22+0000  chore: bump dependencies
 2024-12-13T02:03:13+0000  perf: avoid redundant allocations
 2024-12-13T17:16:20+0000  chore: bump dependencies
+2024-12-17T11:59:47+0000  feat: expose --verbose flag
