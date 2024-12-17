@@ -654,3 +654,4 @@
 2024-12-11T20:00:23+0000  feat: expose --verbose flag
 2024-12-12T09:24:22+0000  feat: cache computed values
 2024-12-13T19:22:24+0000  feat: support config file overrides
+2024-12-17T01:00:31+0000  docs: clarify setup instructions
