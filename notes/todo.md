@@ -604,3 +604,4 @@
 2024-12-17T16:35:36+0000  feat: expose --verbose flag
 2024-12-17T23:40:27+0000  chore: update lockfile
 2024-12-18T01:16:09+0000  feat: cache computed values
+2024-12-18T12:19:52+0000  feat: support config file overrides
