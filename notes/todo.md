@@ -605,3 +605,4 @@
 2024-12-17T23:40:27+0000  chore: update lockfile
 2024-12-18T01:16:09+0000  feat: cache computed values
 2024-12-18T12:19:52+0000  feat: support config file overrides
+2024-12-18T23:32:13+0000  docs: clarify setup instructions
