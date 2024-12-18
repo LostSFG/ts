@@ -1399,3 +1399,4 @@
 2024-12-17T22:03:12+0000  style: tidy up imports
 2024-12-18T05:59:49+0000  perf: avoid redundant allocations
 2024-12-18T13:26:34+0000  fix: guard against None in serializer
+2024-12-18T21:54:46+0000  fix: correct timezone handling
