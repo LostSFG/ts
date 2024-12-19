@@ -649,3 +649,4 @@
 2024-12-13T08:08:05+0000  docs: clarify setup instructions
 2024-12-17T10:05:49+0000  style: tidy up imports
 2024-12-17T20:42:34+0000  fix: correct timezone handling
+2024-12-19T12:48:41+0000  feat: add retry with backoff
