@@ -658,3 +658,4 @@
 2024-12-17T08:47:33+0000  chore: bump dependencies
 2024-12-17T15:56:01+0000  fix: handle empty response from upstream
 2024-12-18T10:12:01+0000  fix: typo in error message
+2024-12-20T09:13:59+0000  test: add regression test for #142
