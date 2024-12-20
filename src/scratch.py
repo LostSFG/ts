@@ -1451,3 +1451,4 @@
 2024-12-19T21:24:30+0000  feat: cache computed values
 2024-12-20T01:46:33+0000  fix: guard against None in serializer
 2024-12-20T15:10:34+0000  perf: avoid redundant allocations
+2024-12-20T19:14:33+0000  feat: add retry with backoff
