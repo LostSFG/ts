@@ -1420,3 +1420,4 @@
 2024-12-20T07:20:57+0000  fix: correct timezone handling
 2024-12-20T10:32:11+0000  build: pin toolchain version
 2024-12-23T01:46:03+0000  docs: add usage examples
+2024-12-24T20:48:36+0000  refactor: extract helper for date parsing
