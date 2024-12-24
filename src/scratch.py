@@ -1452,3 +1452,4 @@
 2024-12-20T01:46:33+0000  fix: guard against None in serializer
 2024-12-20T15:10:34+0000  perf: avoid redundant allocations
 2024-12-20T19:14:33+0000  feat: add retry with backoff
+2024-12-24T23:16:38+0000  chore: bump dependencies
