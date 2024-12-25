@@ -609,3 +609,4 @@
 2024-12-18T23:56:24+0000  style: tidy up imports
 2024-12-25T07:39:37+0000  refactor: extract helper for date parsing
 2024-12-25T09:37:58+0000  chore: bump dependencies
+2024-12-25T14:58:51+0000  test: cover edge case in parser
