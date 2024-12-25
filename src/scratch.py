@@ -662,3 +662,4 @@
 2024-12-20T16:37:19+0000  docs: add usage examples
 2024-12-20T20:04:32+0000  test: cover edge case in parser
 2024-12-23T12:49:23+0000  refactor: simplify control flow
+2024-12-25T21:19:09+0000  chore: bump dependencies
