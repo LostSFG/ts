@@ -1453,3 +1453,4 @@
 2024-12-20T15:10:34+0000  perf: avoid redundant allocations
 2024-12-20T19:14:33+0000  feat: add retry with backoff
 2024-12-24T23:16:38+0000  chore: bump dependencies
+2024-12-26T03:53:53+0000  fix: handle empty response from upstream
