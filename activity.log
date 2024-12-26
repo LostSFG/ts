@@ -660,3 +660,4 @@
 2024-12-26T11:27:50+0000  feat: support config file overrides
 2024-12-26T13:43:28+0000  feat: add retry with backoff
 2024-12-26T16:15:03+0000  chore: bump dependencies
+2024-12-26T22:58:33+0000  perf: avoid redundant allocations
