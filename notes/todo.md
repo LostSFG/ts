@@ -611,3 +611,4 @@
 2024-12-25T09:37:58+0000  chore: bump dependencies
 2024-12-25T14:58:51+0000  test: cover edge case in parser
 2024-12-26T07:48:32+0000  fix: typo in error message
+2024-12-26T20:55:37+0000  fix: handle empty response from upstream
