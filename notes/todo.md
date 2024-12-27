@@ -1402,3 +1402,4 @@
 2024-12-18T21:54:46+0000  fix: correct timezone handling
 2024-12-25T11:27:41+0000  test: add regression test for #142
 2024-12-27T08:55:53+0000  style: tidy up imports
+2024-12-27T18:36:13+0000  chore: bump dependencies
