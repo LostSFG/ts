@@ -613,3 +613,4 @@
 2024-12-26T07:48:32+0000  fix: typo in error message
 2024-12-26T20:55:37+0000  fix: handle empty response from upstream
 2024-12-27T17:26:52+0000  docs: add usage examples
+2024-12-30T12:51:00+0000  docs: add usage examples
