@@ -1424,3 +1424,4 @@
 2024-12-25T18:36:00+0000  feat: cache computed values
 2024-12-26T00:09:50+0000  fix: correct timezone handling
 2024-12-29T11:21:57+0000  fix: guard against None in serializer
+2024-12-30T13:31:37+0000  chore: bump dependencies
