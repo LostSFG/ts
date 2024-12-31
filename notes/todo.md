@@ -1406,3 +1406,4 @@
 2024-12-30T08:53:58+0000  fix: guard against None in serializer
 2024-12-31T03:04:33+0000  docs: clarify setup instructions
 2024-12-31T05:51:45+0000  docs: clarify setup instructions
+2024-12-31T12:53:03+0000  docs: clarify setup instructions
