@@ -1405,3 +1405,4 @@
 2024-12-27T18:36:13+0000  chore: bump dependencies
 2024-12-30T08:53:58+0000  fix: guard against None in serializer
 2024-12-31T03:04:33+0000  docs: clarify setup instructions
+2024-12-31T05:51:45+0000  docs: clarify setup instructions
