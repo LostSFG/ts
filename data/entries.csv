@@ -1426,3 +1426,4 @@
 2024-12-29T11:21:57+0000  fix: guard against None in serializer
 2024-12-30T13:31:37+0000  chore: bump dependencies
 2024-12-31T05:32:15+0000  fix: correct timezone handling
+2025-01-01T01:59:09+0000  docs: clarify setup instructions
