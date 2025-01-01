@@ -637,3 +637,4 @@
 2024-12-29T09:34:59+0000  test: cover edge case in parser
 2024-12-29T18:37:50+0000  build: pin toolchain version
 2024-12-30T22:29:50+0000  style: tidy up imports
+2025-01-01T01:40:43+0000  feat: expose --verbose flag
