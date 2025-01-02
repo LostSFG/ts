@@ -615,3 +615,4 @@
 2024-12-27T17:26:52+0000  docs: add usage examples
 2024-12-30T12:51:00+0000  docs: add usage examples
 2025-01-01T15:46:53+0000  fix: guard against None in serializer
+2025-01-02T01:40:22+0000  test: add regression test for #142
