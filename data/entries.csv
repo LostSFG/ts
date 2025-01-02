@@ -644,3 +644,4 @@
 2025-01-01T21:52:57+0000  feat: add retry with backoff
 2025-01-01T22:41:35+0000  perf: avoid redundant allocations
 2025-01-01T23:25:29+0000  feat: support config file overrides
+2025-01-02T13:31:20+0000  build: pin toolchain version
