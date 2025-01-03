@@ -664,3 +664,4 @@
 2025-01-01T02:50:08+0000  docs: clarify setup instructions
 2025-01-02T00:31:40+0000  test: add regression test for #142
 2025-01-02T18:47:58+0000  fix: guard against None in serializer
+2025-01-03T03:00:26+0000  fix: typo in error message
