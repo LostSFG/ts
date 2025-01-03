@@ -1410,3 +1410,4 @@
 2024-12-31T13:00:02+0000  refactor: extract helper for date parsing
 2024-12-31T19:30:59+0000  style: tidy up imports
 2024-12-31T20:26:29+0000  feat: support config file overrides
+2025-01-03T10:07:32+0000  docs: clarify setup instructions
