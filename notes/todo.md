@@ -617,3 +617,4 @@
 2025-01-01T15:46:53+0000  fix: guard against None in serializer
 2025-01-02T01:40:22+0000  test: add regression test for #142
 2025-01-03T08:16:36+0000  chore: update lockfile
+2025-01-04T01:22:10+0000  test: cover edge case in parser
