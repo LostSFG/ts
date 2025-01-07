@@ -1448,3 +1448,4 @@
 2025-01-07T04:13:01+0000  style: tidy up imports
 2025-01-07T06:06:23+0000  docs: add usage examples
 2025-01-07T16:09:33+0000  fix: guard against None in serializer
+2025-01-07T20:44:50+0000  chore: update lockfile
