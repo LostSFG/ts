@@ -622,3 +622,4 @@
 2025-01-06T17:32:19+0000  docs: clarify setup instructions
 2025-01-07T07:21:48+0000  build: pin toolchain version
 2025-01-07T11:36:39+0000  chore: update lockfile
+2025-01-07T13:06:18+0000  build: pin toolchain version
