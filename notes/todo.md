@@ -621,3 +621,4 @@
 2025-01-06T15:02:10+0000  refactor: extract helper for date parsing
 2025-01-06T17:32:19+0000  docs: clarify setup instructions
 2025-01-07T07:21:48+0000  build: pin toolchain version
+2025-01-07T11:36:39+0000  chore: update lockfile
