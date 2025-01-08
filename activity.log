@@ -668,3 +668,4 @@
 2025-01-03T22:05:22+0000  fix: handle empty response from upstream
 2025-01-08T00:26:44+0000  fix: typo in error message
 2025-01-08T02:17:55+0000  fix: handle empty response from upstream
+2025-01-08T09:20:55+0000  chore: bump dependencies
