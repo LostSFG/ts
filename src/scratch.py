@@ -671,3 +671,4 @@
 2025-01-06T09:44:56+0000  test: add regression test for #142
 2025-01-06T10:13:37+0000  feat: cache computed values
 2025-01-07T20:08:49+0000  build: pin toolchain version
+2025-01-08T06:33:36+0000  feat: add retry with backoff
