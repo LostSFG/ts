@@ -1416,3 +1416,4 @@
 2025-01-06T08:48:59+0000  docs: clarify setup instructions
 2025-01-06T09:50:43+0000  chore: bump dependencies
 2025-01-07T11:34:57+0000  refactor: simplify control flow
+2025-01-08T05:18:45+0000  feat: add retry with backoff
