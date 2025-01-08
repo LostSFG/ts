@@ -673,3 +673,4 @@
 2025-01-07T20:08:49+0000  build: pin toolchain version
 2025-01-08T06:33:36+0000  feat: add retry with backoff
 2025-01-08T13:07:45+0000  chore: bump dependencies
+2025-01-08T13:12:06+0000  feat: add retry with backoff
