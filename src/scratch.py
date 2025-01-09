@@ -1461,3 +1461,4 @@
 2025-01-03T23:36:22+0000  refactor: extract helper for date parsing
 2025-01-07T12:28:19+0000  chore: remove dead code
 2025-01-07T16:41:22+0000  test: cover edge case in parser
+2025-01-09T22:21:11+0000  feat: cache computed values
