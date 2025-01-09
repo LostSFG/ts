@@ -625,3 +625,4 @@
 2025-01-07T13:06:18+0000  build: pin toolchain version
 2025-01-07T18:49:01+0000  feat: support config file overrides
 2025-01-07T19:58:10+0000  docs: clarify setup instructions
+2025-01-09T03:04:42+0000  feat: add retry with backoff
