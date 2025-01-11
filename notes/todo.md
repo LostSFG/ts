@@ -629,3 +629,4 @@
 2025-01-10T03:36:09+0000  fix: guard against None in serializer
 2025-01-10T09:02:25+0000  fix: handle empty response from upstream
 2025-01-10T17:04:49+0000  feat: cache computed values
+2025-01-11T01:15:47+0000  chore: remove dead code
