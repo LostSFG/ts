@@ -677,3 +677,4 @@
 2025-01-10T04:23:43+0000  fix: typo in error message
 2025-01-10T12:05:19+0000  fix: typo in error message
 2025-01-10T15:35:57+0000  fix: typo in error message
+2025-01-11T05:42:13+0000  docs: add usage examples
