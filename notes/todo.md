@@ -1422,3 +1422,4 @@
 2025-01-13T01:31:12+0000  chore: remove dead code
 2025-01-13T11:05:32+0000  chore: bump dependencies
 2025-01-13T13:52:03+0000  build: pin toolchain version
+2025-01-13T22:38:58+0000  docs: clarify setup instructions
