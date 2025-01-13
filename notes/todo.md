@@ -1420,3 +1420,4 @@
 2025-01-08T07:14:32+0000  fix: guard against None in serializer
 2025-01-10T07:20:43+0000  docs: add usage examples
 2025-01-13T01:31:12+0000  chore: remove dead code
+2025-01-13T11:05:32+0000  chore: bump dependencies
