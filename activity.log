@@ -671,3 +671,4 @@
 2025-01-08T09:20:55+0000  chore: bump dependencies
 2025-01-09T14:52:16+0000  style: tidy up imports
 2025-01-09T15:47:27+0000  build: pin toolchain version
+2025-01-15T15:15:06+0000  test: add regression test for #142
