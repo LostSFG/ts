@@ -680,3 +680,4 @@
 2025-01-11T05:42:13+0000  docs: add usage examples
 2025-01-12T00:24:20+0000  perf: avoid redundant allocations
 2025-01-13T07:53:04+0000  chore: update lockfile
+2025-01-15T13:14:43+0000  build: pin toolchain version
