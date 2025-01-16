@@ -656,3 +656,4 @@
 2025-01-12T11:53:19+0000  feat: support config file overrides
 2025-01-12T14:09:08+0000  fix: correct timezone handling
 2025-01-15T17:08:42+0000  docs: add usage examples
+2025-01-16T01:13:43+0000  fix: handle empty response from upstream
