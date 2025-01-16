@@ -674,3 +674,4 @@
 2025-01-15T15:15:06+0000  test: add regression test for #142
 2025-01-15T23:36:45+0000  chore: update lockfile
 2025-01-16T06:47:20+0000  fix: guard against None in serializer
+2025-01-16T17:30:53+0000  chore: remove dead code
