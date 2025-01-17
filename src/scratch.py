@@ -682,3 +682,4 @@
 2025-01-13T07:53:04+0000  chore: update lockfile
 2025-01-15T13:14:43+0000  build: pin toolchain version
 2025-01-16T11:22:51+0000  fix: guard against None in serializer
+2025-01-17T08:47:19+0000  test: add regression test for #142
