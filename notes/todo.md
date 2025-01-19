@@ -636,3 +636,4 @@
 2025-01-17T01:51:32+0000  perf: avoid redundant allocations
 2025-01-17T04:00:39+0000  chore: bump dependencies
 2025-01-17T10:42:09+0000  chore: remove dead code
+2025-01-19T21:22:05+0000  fix: handle empty response from upstream
