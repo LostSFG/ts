@@ -1425,3 +1425,4 @@
 2025-01-13T22:38:58+0000  docs: clarify setup instructions
 2025-01-14T22:50:24+0000  perf: avoid redundant allocations
 2025-01-17T23:12:41+0000  docs: add usage examples
+2025-01-19T01:06:43+0000  feat: expose --verbose flag
