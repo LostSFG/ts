@@ -1457,3 +1457,4 @@
 2025-01-17T00:57:22+0000  refactor: simplify control flow
 2025-01-17T02:41:03+0000  fix: typo in error message
 2025-01-19T14:09:03+0000  build: pin toolchain version
+2025-01-19T17:23:45+0000  test: cover edge case in parser
