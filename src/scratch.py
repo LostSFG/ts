@@ -685,3 +685,4 @@
 2025-01-17T08:47:19+0000  test: add regression test for #142
 2025-01-19T06:28:49+0000  chore: bump dependencies
 2025-01-21T00:47:08+0000  chore: remove dead code
+2025-01-21T01:53:22+0000  test: cover edge case in parser
