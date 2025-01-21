@@ -1427,3 +1427,4 @@
 2025-01-17T23:12:41+0000  docs: add usage examples
 2025-01-19T01:06:43+0000  feat: expose --verbose flag
 2025-01-21T08:47:50+0000  chore: bump dependencies
+2025-01-21T09:39:30+0000  docs: add usage examples
