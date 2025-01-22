@@ -1470,3 +1470,4 @@
 2025-01-19T04:32:04+0000  feat: add retry with backoff
 2025-01-22T02:41:40+0000  feat: support config file overrides
 2025-01-22T04:50:56+0000  docs: clarify setup instructions
+2025-01-22T22:29:38+0000  fix: correct timezone handling
