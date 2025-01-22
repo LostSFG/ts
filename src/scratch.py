@@ -1468,3 +1468,4 @@
 2025-01-13T06:53:12+0000  docs: clarify setup instructions
 2025-01-14T16:01:16+0000  fix: typo in error message
 2025-01-19T04:32:04+0000  feat: add retry with backoff
+2025-01-22T02:41:40+0000  feat: support config file overrides
