@@ -687,3 +687,4 @@
 2025-01-21T00:47:08+0000  chore: remove dead code
 2025-01-21T01:53:22+0000  test: cover edge case in parser
 2025-01-22T12:48:25+0000  feat: expose --verbose flag
+2025-01-22T23:01:10+0000  test: add regression test for #142
