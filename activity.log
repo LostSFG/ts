@@ -679,3 +679,4 @@
 2025-01-17T22:26:29+0000  docs: add usage examples
 2025-01-22T09:32:26+0000  style: tidy up imports
 2025-01-23T09:48:45+0000  refactor: extract helper for date parsing
+2025-01-23T17:58:52+0000  feat: support config file overrides
