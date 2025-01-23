@@ -1473,3 +1473,4 @@
 2025-01-22T22:29:38+0000  fix: correct timezone handling
 2025-01-23T03:29:50+0000  chore: update lockfile
 2025-01-23T06:22:54+0000  fix: typo in error message
+2025-01-23T06:56:29+0000  fix: handle empty response from upstream
