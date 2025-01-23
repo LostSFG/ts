@@ -1474,3 +1474,4 @@
 2025-01-23T03:29:50+0000  chore: update lockfile
 2025-01-23T06:22:54+0000  fix: typo in error message
 2025-01-23T06:56:29+0000  fix: handle empty response from upstream
+2025-01-23T22:03:30+0000  feat: expose --verbose flag
