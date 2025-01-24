@@ -638,3 +638,4 @@
 2025-01-17T10:42:09+0000  chore: remove dead code
 2025-01-19T21:22:05+0000  fix: handle empty response from upstream
 2025-01-23T16:20:10+0000  chore: update lockfile
+2025-01-24T03:47:47+0000  perf: avoid redundant allocations
