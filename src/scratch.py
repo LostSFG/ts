@@ -689,3 +689,4 @@
 2025-01-22T12:48:25+0000  feat: expose --verbose flag
 2025-01-22T23:01:10+0000  test: add regression test for #142
 2025-01-24T03:40:35+0000  feat: add retry with backoff
+2025-01-24T04:33:03+0000  feat: expose --verbose flag
