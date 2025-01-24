@@ -1475,3 +1475,4 @@
 2025-01-23T06:22:54+0000  fix: typo in error message
 2025-01-23T06:56:29+0000  fix: handle empty response from upstream
 2025-01-23T22:03:30+0000  feat: expose --verbose flag
+2025-01-24T05:30:25+0000  test: cover edge case in parser
