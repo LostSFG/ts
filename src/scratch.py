@@ -1476,3 +1476,4 @@
 2025-01-23T06:56:29+0000  fix: handle empty response from upstream
 2025-01-23T22:03:30+0000  feat: expose --verbose flag
 2025-01-24T05:30:25+0000  test: cover edge case in parser
+2025-01-24T08:56:23+0000  fix: correct timezone handling
