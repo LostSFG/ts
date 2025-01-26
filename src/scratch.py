@@ -691,3 +691,4 @@
 2025-01-24T03:40:35+0000  feat: add retry with backoff
 2025-01-24T04:33:03+0000  feat: expose --verbose flag
 2025-01-24T12:40:53+0000  build: pin toolchain version
+2025-01-26T13:26:32+0000  feat: add retry with backoff
