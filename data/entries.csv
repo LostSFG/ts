@@ -1451,3 +1451,4 @@
 2025-01-24T07:01:27+0000  docs: add usage examples
 2025-01-24T10:48:23+0000  feat: expose --verbose flag
 2025-01-24T18:57:54+0000  refactor: simplify control flow
+2025-01-26T15:29:24+0000  perf: avoid redundant allocations
