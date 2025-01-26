@@ -1432,3 +1432,4 @@
 2025-01-22T19:35:51+0000  feat: cache computed values
 2025-01-23T13:00:41+0000  style: tidy up imports
 2025-01-26T11:07:16+0000  style: tidy up imports
+2025-01-26T13:17:45+0000  perf: avoid redundant allocations
