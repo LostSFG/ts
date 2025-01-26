@@ -1478,3 +1478,4 @@
 2025-01-24T05:30:25+0000  test: cover edge case in parser
 2025-01-24T08:56:23+0000  fix: correct timezone handling
 2025-01-24T13:47:53+0000  feat: support config file overrides
+2025-01-26T17:12:09+0000  chore: remove dead code
