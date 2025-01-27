@@ -1479,3 +1479,4 @@
 2025-01-24T08:56:23+0000  fix: correct timezone handling
 2025-01-24T13:47:53+0000  feat: support config file overrides
 2025-01-26T17:12:09+0000  chore: remove dead code
+2025-01-27T06:01:25+0000  feat: support config file overrides
