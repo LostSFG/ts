@@ -692,3 +692,4 @@
 2025-01-24T04:33:03+0000  feat: expose --verbose flag
 2025-01-24T12:40:53+0000  build: pin toolchain version
 2025-01-26T13:26:32+0000  feat: add retry with backoff
+2025-01-27T18:39:07+0000  refactor: simplify control flow
