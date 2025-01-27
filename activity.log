@@ -687,3 +687,4 @@
 2025-01-25T12:45:54+0000  fix: guard against None in serializer
 2025-01-26T04:03:11+0000  refactor: simplify control flow
 2025-01-26T13:34:27+0000  feat: add retry with backoff
+2025-01-27T09:29:08+0000  perf: avoid redundant allocations
