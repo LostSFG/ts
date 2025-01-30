@@ -662,3 +662,4 @@
 2025-01-23T09:21:44+0000  chore: remove dead code
 2025-01-26T06:17:31+0000  test: cover edge case in parser
 2025-01-28T18:34:15+0000  chore: update lockfile
+2025-01-30T03:33:54+0000  fix: correct timezone handling
