@@ -696,3 +696,4 @@
 2025-01-27T20:56:46+0000  feat: support config file overrides
 2025-01-28T19:51:43+0000  refactor: extract helper for date parsing
 2025-01-30T03:59:46+0000  refactor: extract helper for date parsing
+2025-01-30T11:36:50+0000  feat: expose --verbose flag
