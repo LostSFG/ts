@@ -1435,3 +1435,4 @@
 2025-01-26T13:17:45+0000  perf: avoid redundant allocations
 2025-01-28T19:46:52+0000  chore: update lockfile
 2025-01-31T00:15:41+0000  docs: clarify setup instructions
+2025-01-31T04:17:14+0000  refactor: simplify control flow
