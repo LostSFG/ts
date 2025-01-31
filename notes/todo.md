@@ -646,3 +646,4 @@
 2025-01-30T06:24:39+0000  test: cover edge case in parser
 2025-01-30T15:58:54+0000  test: add regression test for #142
 2025-01-31T08:31:05+0000  chore: bump dependencies
+2025-01-31T14:53:09+0000  fix: guard against None in serializer
