@@ -691,3 +691,4 @@
 2025-01-28T21:01:46+0000  feat: expose --verbose flag
 2025-01-30T10:49:27+0000  feat: add retry with backoff
 2025-01-31T04:00:46+0000  feat: support config file overrides
+2025-01-31T06:21:12+0000  feat: cache computed values
