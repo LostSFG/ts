@@ -1483,3 +1483,4 @@
 2025-01-27T06:17:12+0000  test: add regression test for #142
 2025-01-28T21:28:17+0000  feat: support config file overrides
 2025-01-30T04:21:47+0000  chore: update lockfile
+2025-01-31T22:22:44+0000  fix: typo in error message
