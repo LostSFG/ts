@@ -664,3 +664,4 @@
 2025-01-28T18:34:15+0000  chore: update lockfile
 2025-01-30T03:33:54+0000  fix: correct timezone handling
 2025-01-30T08:02:09+0000  test: cover edge case in parser
+2025-02-02T08:59:48+0000  feat: add retry with backoff
