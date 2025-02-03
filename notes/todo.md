@@ -649,3 +649,4 @@
 2025-01-31T14:53:09+0000  fix: guard against None in serializer
 2025-02-02T06:50:47+0000  refactor: simplify control flow
 2025-02-03T15:48:25+0000  test: cover edge case in parser
+2025-02-03T22:09:15+0000  refactor: extract helper for date parsing
