@@ -702,3 +702,4 @@
 2025-02-02T13:42:39+0000  perf: avoid redundant allocations
 2025-02-03T06:03:19+0000  test: add regression test for #142
 2025-02-03T06:33:02+0000  docs: clarify setup instructions
+2025-02-03T11:43:21+0000  chore: update lockfile
