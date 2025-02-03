@@ -1458,3 +1458,4 @@
 2025-01-28T21:58:22+0000  fix: correct timezone handling
 2025-01-31T07:28:37+0000  chore: update lockfile
 2025-02-03T11:38:30+0000  feat: support config file overrides
+2025-02-03T13:22:21+0000  test: add regression test for #142
