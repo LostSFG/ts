@@ -704,3 +704,4 @@
 2025-02-03T06:33:02+0000  docs: clarify setup instructions
 2025-02-03T11:43:21+0000  chore: update lockfile
 2025-02-03T14:04:08+0000  docs: clarify setup instructions
+2025-02-03T20:19:12+0000  feat: expose --verbose flag
