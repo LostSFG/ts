@@ -1484,3 +1484,4 @@
 2025-01-28T21:28:17+0000  feat: support config file overrides
 2025-01-30T04:21:47+0000  chore: update lockfile
 2025-01-31T22:22:44+0000  fix: typo in error message
+2025-02-04T09:51:16+0000  refactor: simplify control flow
