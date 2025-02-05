@@ -705,3 +705,4 @@
 2025-02-03T11:43:21+0000  chore: update lockfile
 2025-02-03T14:04:08+0000  docs: clarify setup instructions
 2025-02-03T20:19:12+0000  feat: expose --verbose flag
+2025-02-05T01:04:23+0000  chore: remove dead code
