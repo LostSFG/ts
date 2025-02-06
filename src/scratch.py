@@ -710,3 +710,4 @@
 2025-02-05T10:49:36+0000  feat: cache computed values
 2025-02-05T21:16:32+0000  refactor: extract helper for date parsing
 2025-02-06T04:26:53+0000  test: add regression test for #142
+2025-02-06T23:22:31+0000  docs: clarify setup instructions
