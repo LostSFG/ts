@@ -693,3 +693,4 @@
 2025-01-31T04:00:46+0000  feat: support config file overrides
 2025-01-31T06:21:12+0000  feat: cache computed values
 2025-02-05T18:45:34+0000  fix: guard against None in serializer
+2025-02-06T00:35:28+0000  chore: remove dead code
