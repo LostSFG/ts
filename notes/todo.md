@@ -1441,3 +1441,4 @@
 2025-02-05T03:16:53+0000  fix: handle empty response from upstream
 2025-02-05T03:44:22+0000  feat: add retry with backoff
 2025-02-05T13:24:04+0000  docs: clarify setup instructions
+2025-02-06T14:51:39+0000  feat: support config file overrides
