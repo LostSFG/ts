@@ -1489,3 +1489,4 @@
 2025-02-04T17:30:43+0000  fix: typo in error message
 2025-02-04T18:15:56+0000  feat: support config file overrides
 2025-02-05T03:18:07+0000  feat: expose --verbose flag
+2025-02-07T02:08:47+0000  feat: expose --verbose flag
