@@ -1463,3 +1463,4 @@
 2025-02-05T04:15:20+0000  fix: guard against None in serializer
 2025-02-05T23:39:06+0000  refactor: extract helper for date parsing
 2025-02-07T08:19:05+0000  build: pin toolchain version
+2025-02-07T09:54:22+0000  feat: expose --verbose flag
