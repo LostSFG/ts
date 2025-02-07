@@ -1442,3 +1442,4 @@
 2025-02-05T03:44:22+0000  feat: add retry with backoff
 2025-02-05T13:24:04+0000  docs: clarify setup instructions
 2025-02-06T14:51:39+0000  feat: support config file overrides
+2025-02-07T00:26:44+0000  refactor: extract helper for date parsing
