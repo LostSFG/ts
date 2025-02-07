@@ -712,3 +712,4 @@
 2025-02-06T04:26:53+0000  test: add regression test for #142
 2025-02-06T23:22:31+0000  docs: clarify setup instructions
 2025-02-07T18:49:37+0000  feat: support config file overrides
+2025-02-07T20:02:59+0000  build: pin toolchain version
