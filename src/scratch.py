@@ -1491,3 +1491,4 @@
 2025-02-05T03:18:07+0000  feat: expose --verbose flag
 2025-02-07T02:08:47+0000  feat: expose --verbose flag
 2025-02-07T21:16:00+0000  docs: add usage examples
+2025-02-09T10:54:27+0000  fix: handle empty response from upstream
