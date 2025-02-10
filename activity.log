@@ -696,3 +696,4 @@
 2025-02-06T00:35:28+0000  chore: remove dead code
 2025-02-06T21:45:01+0000  fix: typo in error message
 2025-02-10T01:52:53+0000  refactor: extract helper for date parsing
+2025-02-10T14:26:24+0000  perf: avoid redundant allocations
