@@ -670,3 +670,4 @@
 2025-02-06T10:33:19+0000  build: pin toolchain version
 2025-02-10T07:33:47+0000  build: pin toolchain version
 2025-02-10T22:20:42+0000  fix: correct timezone handling
+2025-02-11T09:31:53+0000  feat: support config file overrides
