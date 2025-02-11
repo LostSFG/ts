@@ -1446,3 +1446,4 @@
 2025-02-10T21:24:06+0000  feat: support config file overrides
 2025-02-11T05:16:04+0000  docs: clarify setup instructions
 2025-02-11T05:29:41+0000  perf: avoid redundant allocations
+2025-02-11T22:45:06+0000  feat: cache computed values
