@@ -1494,3 +1494,4 @@
 2025-02-09T10:54:27+0000  fix: handle empty response from upstream
 2025-02-10T21:18:55+0000  fix: guard against None in serializer
 2025-02-11T17:43:58+0000  refactor: extract helper for date parsing
+2025-02-11T22:16:48+0000  docs: add usage examples
