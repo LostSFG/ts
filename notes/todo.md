@@ -1449,3 +1449,4 @@
 2025-02-11T22:45:06+0000  feat: cache computed values
 2025-02-12T07:22:00+0000  test: add regression test for #142
 2025-02-12T18:18:10+0000  chore: bump dependencies
+2025-02-12T20:14:55+0000  docs: clarify setup instructions
