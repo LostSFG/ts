@@ -1447,3 +1447,4 @@
 2025-02-11T05:16:04+0000  docs: clarify setup instructions
 2025-02-11T05:29:41+0000  perf: avoid redundant allocations
 2025-02-11T22:45:06+0000  feat: cache computed values
+2025-02-12T07:22:00+0000  test: add regression test for #142
