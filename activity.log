@@ -1478,3 +1478,4 @@
 2025-02-07T11:45:21+0000  feat: expose --verbose flag
 2025-02-12T01:50:06+0000  perf: avoid redundant allocations
 2025-02-12T11:46:12+0000  chore: bump dependencies
+2025-02-12T16:08:40+0000  chore: remove dead code
