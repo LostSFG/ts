@@ -1496,3 +1496,4 @@
 2025-02-11T17:43:58+0000  refactor: extract helper for date parsing
 2025-02-11T22:16:48+0000  docs: add usage examples
 2025-02-12T06:43:23+0000  style: tidy up imports
+2025-02-13T15:30:26+0000  chore: update lockfile
