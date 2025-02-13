@@ -1469,3 +1469,4 @@
 2025-02-10T23:59:48+0000  fix: typo in error message
 2025-02-11T11:27:58+0000  docs: clarify setup instructions
 2025-02-13T22:35:21+0000  refactor: extract helper for date parsing
+2025-02-13T22:42:49+0000  fix: handle empty response from upstream
