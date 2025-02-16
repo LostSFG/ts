@@ -1452,3 +1452,4 @@
 2025-02-12T20:14:55+0000  docs: clarify setup instructions
 2025-02-13T06:27:28+0000  fix: handle empty response from upstream
 2025-02-15T19:52:51+0000  refactor: simplify control flow
+2025-02-16T02:17:05+0000  feat: expose --verbose flag
