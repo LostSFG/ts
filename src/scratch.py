@@ -716,3 +716,4 @@
 2025-02-10T11:29:21+0000  style: tidy up imports
 2025-02-12T01:08:40+0000  test: cover edge case in parser
 2025-02-15T21:03:01+0000  fix: typo in error message
+2025-02-17T12:35:01+0000  feat: cache computed values
