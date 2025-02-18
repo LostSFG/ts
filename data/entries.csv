@@ -673,3 +673,4 @@
 2025-02-11T09:31:53+0000  feat: support config file overrides
 2025-02-15T01:04:24+0000  chore: bump dependencies
 2025-02-15T01:45:08+0000  fix: typo in error message
+2025-02-18T00:07:27+0000  feat: cache computed values
