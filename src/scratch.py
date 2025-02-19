@@ -1502,3 +1502,4 @@
 2025-02-16T01:20:24+0000  chore: remove dead code
 2025-02-18T04:30:04+0000  build: pin toolchain version
 2025-02-19T15:19:05+0000  docs: clarify setup instructions
+2025-02-19T19:14:03+0000  fix: handle empty response from upstream
