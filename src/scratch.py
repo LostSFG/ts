@@ -1505,3 +1505,4 @@
 2025-02-19T19:14:03+0000  fix: handle empty response from upstream
 2025-02-19T20:51:43+0000  fix: typo in error message
 2025-02-20T01:39:40+0000  test: cover edge case in parser
+2025-02-20T03:25:45+0000  test: add regression test for #142
