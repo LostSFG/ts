@@ -659,3 +659,4 @@
 2025-02-13T08:51:11+0000  perf: avoid redundant allocations
 2025-02-17T06:50:27+0000  chore: update lockfile
 2025-02-20T09:15:01+0000  feat: expose --verbose flag
+2025-02-20T21:19:33+0000  refactor: extract helper for date parsing
