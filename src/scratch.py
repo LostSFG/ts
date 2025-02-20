@@ -1506,3 +1506,4 @@
 2025-02-19T20:51:43+0000  fix: typo in error message
 2025-02-20T01:39:40+0000  test: cover edge case in parser
 2025-02-20T03:25:45+0000  test: add regression test for #142
+2025-02-20T08:34:49+0000  feat: add retry with backoff
