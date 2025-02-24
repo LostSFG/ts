@@ -721,3 +721,4 @@
 2025-02-17T21:23:06+0000  perf: avoid redundant allocations
 2025-02-20T12:06:44+0000  feat: cache computed values
 2025-02-24T22:52:28+0000  perf: avoid redundant allocations
+2025-02-24T23:18:17+0000  fix: correct timezone handling
