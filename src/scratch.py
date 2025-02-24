@@ -1509,3 +1509,4 @@
 2025-02-20T08:34:49+0000  feat: add retry with backoff
 2025-02-21T09:40:50+0000  refactor: extract helper for date parsing
 2025-02-24T06:11:13+0000  chore: update lockfile
+2025-02-24T08:33:25+0000  docs: clarify setup instructions
