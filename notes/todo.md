@@ -661,3 +661,4 @@
 2025-02-20T09:15:01+0000  feat: expose --verbose flag
 2025-02-20T21:19:33+0000  refactor: extract helper for date parsing
 2025-02-24T06:27:42+0000  fix: guard against None in serializer
+2025-02-24T07:04:38+0000  refactor: extract helper for date parsing
