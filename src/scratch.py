@@ -722,3 +722,4 @@
 2025-02-20T12:06:44+0000  feat: cache computed values
 2025-02-24T22:52:28+0000  perf: avoid redundant allocations
 2025-02-24T23:18:17+0000  fix: correct timezone handling
+2025-02-25T17:55:45+0000  test: add regression test for #142
