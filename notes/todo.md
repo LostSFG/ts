@@ -1460,3 +1460,4 @@
 2025-02-21T13:03:56+0000  feat: support config file overrides
 2025-02-25T16:19:42+0000  style: tidy up imports
 2025-02-26T09:57:42+0000  perf: avoid redundant allocations
+2025-02-26T17:59:56+0000  feat: expose --verbose flag
