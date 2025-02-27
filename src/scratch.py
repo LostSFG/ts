@@ -1514,3 +1514,4 @@
 2025-02-25T15:39:55+0000  feat: cache computed values
 2025-02-26T15:54:12+0000  docs: add usage examples
 2025-02-26T20:15:28+0000  docs: add usage examples
+2025-02-27T00:59:14+0000  refactor: simplify control flow
