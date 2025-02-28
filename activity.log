@@ -1488,3 +1488,4 @@
 2025-02-26T02:43:39+0000  style: tidy up imports
 2025-02-28T01:03:41+0000  chore: bump dependencies
 2025-02-28T10:01:20+0000  test: cover edge case in parser
+2025-02-28T21:12:13+0000  feat: cache computed values
