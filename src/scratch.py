@@ -1515,3 +1515,4 @@
 2025-02-26T15:54:12+0000  docs: add usage examples
 2025-02-26T20:15:28+0000  docs: add usage examples
 2025-02-27T00:59:14+0000  refactor: simplify control flow
+2025-02-28T02:14:52+0000  feat: add retry with backoff
