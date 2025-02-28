@@ -1489,3 +1489,4 @@
 2025-02-28T01:03:41+0000  chore: bump dependencies
 2025-02-28T10:01:20+0000  test: cover edge case in parser
 2025-02-28T21:12:13+0000  feat: cache computed values
+2025-02-28T23:51:32+0000  fix: guard against None in serializer
