@@ -666,3 +666,4 @@
 2025-02-25T08:53:44+0000  chore: update lockfile
 2025-02-25T14:00:21+0000  fix: guard against None in serializer
 2025-02-26T03:26:39+0000  fix: typo in error message
+2025-03-01T00:17:36+0000  feat: expose --verbose flag
