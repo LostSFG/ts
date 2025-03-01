@@ -713,3 +713,4 @@
 2025-02-25T17:06:42+0000  test: add regression test for #142
 2025-02-25T21:13:14+0000  refactor: simplify control flow
 2025-03-01T09:28:58+0000  chore: remove dead code
+2025-03-01T10:15:56+0000  refactor: extract helper for date parsing
