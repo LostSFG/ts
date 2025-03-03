@@ -677,3 +677,4 @@
 2025-02-24T12:08:05+0000  test: cover edge case in parser
 2025-02-25T22:19:07+0000  fix: guard against None in serializer
 2025-03-03T12:10:28+0000  test: add regression test for #142
+2025-03-03T23:05:27+0000  feat: cache computed values
