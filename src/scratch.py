@@ -1517,3 +1517,4 @@
 2025-02-27T00:59:14+0000  refactor: simplify control flow
 2025-02-28T02:14:52+0000  feat: add retry with backoff
 2025-02-28T17:14:14+0000  docs: clarify setup instructions
+2025-03-03T09:19:55+0000  perf: avoid redundant allocations
