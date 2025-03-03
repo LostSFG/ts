@@ -724,3 +724,4 @@
 2025-02-24T23:18:17+0000  fix: correct timezone handling
 2025-02-25T17:55:45+0000  test: add regression test for #142
 2025-03-03T03:55:33+0000  chore: bump dependencies
+2025-03-03T15:14:44+0000  feat: support config file overrides
