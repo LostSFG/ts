@@ -670,3 +670,4 @@
 2025-03-01T04:41:30+0000  build: pin toolchain version
 2025-03-03T18:53:41+0000  style: tidy up imports
 2025-03-04T02:24:31+0000  test: cover edge case in parser
+2025-03-04T13:50:48+0000  feat: support config file overrides
