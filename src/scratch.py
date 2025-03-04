@@ -727,3 +727,4 @@
 2025-03-03T15:14:44+0000  feat: support config file overrides
 2025-03-04T01:53:37+0000  chore: remove dead code
 2025-03-04T19:39:54+0000  test: add regression test for #142
+2025-03-04T22:45:35+0000  perf: avoid redundant allocations
