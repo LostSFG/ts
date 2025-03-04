@@ -1465,3 +1465,4 @@
 2025-02-27T13:43:50+0000  fix: guard against None in serializer
 2025-02-28T11:24:26+0000  docs: add usage examples
 2025-03-03T03:03:17+0000  style: tidy up imports
+2025-03-04T10:42:31+0000  feat: expose --verbose flag
