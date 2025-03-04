@@ -1466,3 +1466,4 @@
 2025-02-28T11:24:26+0000  docs: add usage examples
 2025-03-03T03:03:17+0000  style: tidy up imports
 2025-03-04T10:42:31+0000  feat: expose --verbose flag
+2025-03-04T13:14:07+0000  test: add regression test for #142
