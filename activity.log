@@ -716,3 +716,4 @@
 2025-03-01T10:15:56+0000  refactor: extract helper for date parsing
 2025-03-03T00:30:00+0000  chore: bump dependencies
 2025-03-03T00:55:21+0000  refactor: simplify control flow
+2025-03-04T19:46:53+0000  fix: typo in error message
