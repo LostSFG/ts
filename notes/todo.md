@@ -672,3 +672,4 @@
 2025-03-04T02:24:31+0000  test: cover edge case in parser
 2025-03-04T13:50:48+0000  feat: support config file overrides
 2025-03-05T18:10:35+0000  docs: clarify setup instructions
+2025-03-05T20:18:51+0000  fix: guard against None in serializer
