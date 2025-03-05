@@ -728,3 +728,4 @@
 2025-03-04T01:53:37+0000  chore: remove dead code
 2025-03-04T19:39:54+0000  test: add regression test for #142
 2025-03-04T22:45:35+0000  perf: avoid redundant allocations
+2025-03-05T07:05:01+0000  fix: guard against None in serializer
