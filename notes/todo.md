@@ -1468,3 +1468,4 @@
 2025-03-04T10:42:31+0000  feat: expose --verbose flag
 2025-03-04T13:14:07+0000  test: add regression test for #142
 2025-03-06T05:04:58+0000  fix: handle empty response from upstream
+2025-03-06T16:23:51+0000  docs: clarify setup instructions
