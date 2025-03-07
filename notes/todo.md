@@ -673,3 +673,4 @@
 2025-03-04T13:50:48+0000  feat: support config file overrides
 2025-03-05T18:10:35+0000  docs: clarify setup instructions
 2025-03-05T20:18:51+0000  fix: guard against None in serializer
+2025-03-07T06:39:27+0000  build: pin toolchain version
