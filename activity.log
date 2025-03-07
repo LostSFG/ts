@@ -717,3 +717,4 @@
 2025-03-03T00:30:00+0000  chore: bump dependencies
 2025-03-03T00:55:21+0000  refactor: simplify control flow
 2025-03-04T19:46:53+0000  fix: typo in error message
+2025-03-07T06:27:57+0000  perf: avoid redundant allocations
