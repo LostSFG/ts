@@ -1488,3 +1488,4 @@
 2025-03-06T03:57:04+0000  fix: guard against None in serializer
 2025-03-06T18:20:00+0000  refactor: simplify control flow
 2025-03-07T11:46:12+0000  test: cover edge case in parser
+2025-03-07T18:15:34+0000  docs: add usage examples
