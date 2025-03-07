@@ -1523,3 +1523,4 @@
 2025-03-04T19:37:36+0000  feat: support config file overrides
 2025-03-06T07:23:16+0000  feat: expose --verbose flag
 2025-03-06T14:08:28+0000  fix: correct timezone handling
+2025-03-07T10:09:31+0000  feat: cache computed values
