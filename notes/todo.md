@@ -675,3 +675,4 @@
 2025-03-05T20:18:51+0000  fix: guard against None in serializer
 2025-03-07T06:39:27+0000  build: pin toolchain version
 2025-03-07T09:28:03+0000  docs: add usage examples
+2025-03-08T23:19:54+0000  feat: expose --verbose flag
