@@ -720,3 +720,4 @@
 2025-03-07T06:27:57+0000  perf: avoid redundant allocations
 2025-03-07T09:54:20+0000  fix: typo in error message
 2025-03-08T12:32:00+0000  chore: update lockfile
+2025-03-08T21:12:08+0000  feat: add retry with backoff
