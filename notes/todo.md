@@ -677,3 +677,4 @@
 2025-03-07T09:28:03+0000  docs: add usage examples
 2025-03-08T23:19:54+0000  feat: expose --verbose flag
 2025-03-10T07:34:37+0000  docs: add usage examples
+2025-03-10T08:07:41+0000  perf: avoid redundant allocations
