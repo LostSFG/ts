@@ -686,3 +686,4 @@
 2025-03-10T00:19:53+0000  docs: add usage examples
 2025-03-10T01:37:13+0000  test: add regression test for #142
 2025-03-10T09:42:58+0000  feat: cache computed values
+2025-03-10T11:51:05+0000  fix: typo in error message
