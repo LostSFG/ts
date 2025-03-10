@@ -683,3 +683,4 @@
 2025-03-07T17:37:44+0000  chore: remove dead code
 2025-03-07T21:50:44+0000  test: add regression test for #142
 2025-03-07T22:17:33+0000  perf: avoid redundant allocations
+2025-03-10T00:19:53+0000  docs: add usage examples
