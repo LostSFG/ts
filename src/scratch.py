@@ -1527,3 +1527,4 @@
 2025-03-09T04:22:10+0000  fix: handle empty response from upstream
 2025-03-11T01:23:06+0000  docs: add usage examples
 2025-03-11T07:36:14+0000  style: tidy up imports
+2025-03-11T17:00:40+0000  fix: typo in error message
