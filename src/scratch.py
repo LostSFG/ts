@@ -1528,3 +1528,4 @@
 2025-03-11T01:23:06+0000  docs: add usage examples
 2025-03-11T07:36:14+0000  style: tidy up imports
 2025-03-11T17:00:40+0000  fix: typo in error message
+2025-03-12T00:33:00+0000  docs: clarify setup instructions
