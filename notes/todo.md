@@ -681,3 +681,4 @@
 2025-03-10T09:33:48+0000  refactor: extract helper for date parsing
 2025-03-10T22:48:04+0000  chore: remove dead code
 2025-03-12T07:25:04+0000  test: add regression test for #142
+2025-03-12T09:06:35+0000  perf: avoid redundant allocations
