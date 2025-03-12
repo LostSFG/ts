@@ -1529,3 +1529,4 @@
 2025-03-11T07:36:14+0000  style: tidy up imports
 2025-03-11T17:00:40+0000  fix: typo in error message
 2025-03-12T00:33:00+0000  docs: clarify setup instructions
+2025-03-12T12:20:36+0000  feat: support config file overrides
