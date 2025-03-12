@@ -1473,3 +1473,4 @@
 2025-03-11T12:40:34+0000  feat: support config file overrides
 2025-03-12T00:54:07+0000  build: pin toolchain version
 2025-03-12T04:59:59+0000  docs: add usage examples
+2025-03-12T13:34:58+0000  feat: cache computed values
