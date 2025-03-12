@@ -1471,3 +1471,4 @@
 2025-03-06T16:23:51+0000  docs: clarify setup instructions
 2025-03-11T01:49:14+0000  docs: add usage examples
 2025-03-11T12:40:34+0000  feat: support config file overrides
+2025-03-12T00:54:07+0000  build: pin toolchain version
