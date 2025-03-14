@@ -1531,3 +1531,4 @@
 2025-03-12T00:33:00+0000  docs: clarify setup instructions
 2025-03-12T12:20:36+0000  feat: support config file overrides
 2025-03-14T00:00:28+0000  fix: guard against None in serializer
+2025-03-14T13:04:36+0000  fix: correct timezone handling
