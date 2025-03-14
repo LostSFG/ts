@@ -688,3 +688,4 @@
 2025-03-10T09:42:58+0000  feat: cache computed values
 2025-03-10T11:51:05+0000  fix: typo in error message
 2025-03-11T20:38:30+0000  feat: add retry with backoff
+2025-03-14T00:26:22+0000  refactor: extract helper for date parsing
