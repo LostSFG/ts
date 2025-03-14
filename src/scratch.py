@@ -734,3 +734,4 @@
 2025-03-08T00:23:29+0000  perf: avoid redundant allocations
 2025-03-12T07:22:45+0000  refactor: simplify control flow
 2025-03-13T18:35:31+0000  fix: correct timezone handling
+2025-03-14T14:09:06+0000  docs: clarify setup instructions
