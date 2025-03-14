@@ -736,3 +736,4 @@
 2025-03-13T18:35:31+0000  fix: correct timezone handling
 2025-03-14T14:09:06+0000  docs: clarify setup instructions
 2025-03-14T14:28:25+0000  docs: add usage examples
+2025-03-14T17:07:48+0000  docs: add usage examples
