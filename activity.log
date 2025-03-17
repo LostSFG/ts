@@ -729,3 +729,4 @@
 2025-03-14T01:21:18+0000  build: pin toolchain version
 2025-03-14T14:00:04+0000  test: add regression test for #142
 2025-03-17T09:30:55+0000  fix: typo in error message
+2025-03-17T23:47:12+0000  docs: add usage examples
