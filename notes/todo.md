@@ -683,3 +683,4 @@
 2025-03-12T07:25:04+0000  test: add regression test for #142
 2025-03-12T09:06:35+0000  perf: avoid redundant allocations
 2025-03-14T15:31:54+0000  fix: typo in error message
+2025-03-17T02:36:47+0000  feat: support config file overrides
