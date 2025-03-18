@@ -1474,3 +1474,4 @@
 2025-03-12T00:54:07+0000  build: pin toolchain version
 2025-03-12T04:59:59+0000  docs: add usage examples
 2025-03-12T13:34:58+0000  feat: cache computed values
+2025-03-18T18:04:58+0000  feat: add retry with backoff
