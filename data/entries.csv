@@ -691,3 +691,4 @@
 2025-03-14T00:26:22+0000  refactor: extract helper for date parsing
 2025-03-17T12:04:54+0000  chore: update lockfile
 2025-03-18T13:34:01+0000  chore: bump dependencies
+2025-03-18T14:38:08+0000  test: cover edge case in parser
