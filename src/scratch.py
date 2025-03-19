@@ -1536,3 +1536,4 @@
 2025-03-19T02:12:56+0000  style: tidy up imports
 2025-03-19T11:01:32+0000  test: cover edge case in parser
 2025-03-19T19:31:18+0000  feat: expose --verbose flag
+2025-03-19T20:43:22+0000  refactor: extract helper for date parsing
