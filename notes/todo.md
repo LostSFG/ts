@@ -1477,3 +1477,4 @@
 2025-03-18T18:04:58+0000  feat: add retry with backoff
 2025-03-19T21:59:06+0000  chore: remove dead code
 2025-03-20T03:23:17+0000  feat: expose --verbose flag
+2025-03-20T08:50:30+0000  fix: guard against None in serializer
