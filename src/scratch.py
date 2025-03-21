@@ -1539,3 +1539,4 @@
 2025-03-19T20:43:22+0000  refactor: extract helper for date parsing
 2025-03-20T07:55:45+0000  feat: add retry with backoff
 2025-03-21T04:25:45+0000  fix: correct timezone handling
+2025-03-21T06:40:36+0000  feat: support config file overrides
