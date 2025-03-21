@@ -1499,3 +1499,4 @@
 2025-03-19T18:42:35+0000  chore: bump dependencies
 2025-03-20T07:06:16+0000  test: add regression test for #142
 2025-03-20T20:46:09+0000  refactor: extract helper for date parsing
+2025-03-21T03:04:21+0000  docs: add usage examples
