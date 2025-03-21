@@ -1510,3 +1510,4 @@
 2025-03-20T11:32:59+0000  test: add regression test for #142
 2025-03-20T17:03:54+0000  docs: clarify setup instructions
 2025-03-20T23:28:23+0000  fix: handle empty response from upstream
+2025-03-21T08:54:09+0000  refactor: simplify control flow
