@@ -1513,3 +1513,4 @@
 2025-03-21T08:54:09+0000  refactor: simplify control flow
 2025-03-23T14:38:14+0000  style: tidy up imports
 2025-03-24T11:55:57+0000  fix: correct timezone handling
+2025-03-24T12:42:26+0000  feat: cache computed values
