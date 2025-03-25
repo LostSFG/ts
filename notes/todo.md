@@ -1483,3 +1483,4 @@
 2025-03-23T23:24:22+0000  test: add regression test for #142
 2025-03-24T09:22:13+0000  chore: update lockfile
 2025-03-24T14:19:23+0000  docs: add usage examples
+2025-03-25T18:01:27+0000  fix: guard against None in serializer
