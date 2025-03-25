@@ -743,3 +743,4 @@
 2025-03-20T22:23:08+0000  fix: guard against None in serializer
 2025-03-21T12:56:49+0000  feat: support config file overrides
 2025-03-21T20:20:15+0000  refactor: simplify control flow
+2025-03-25T19:32:16+0000  docs: add usage examples
