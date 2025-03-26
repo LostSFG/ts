@@ -1516,3 +1516,4 @@
 2025-03-24T12:42:26+0000  feat: cache computed values
 2025-03-24T13:36:58+0000  fix: guard against None in serializer
 2025-03-25T13:07:35+0000  fix: guard against None in serializer
+2025-03-26T02:32:19+0000  fix: typo in error message
