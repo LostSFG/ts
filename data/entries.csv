@@ -700,3 +700,4 @@
 2025-03-25T10:40:01+0000  chore: update lockfile
 2025-03-26T06:05:52+0000  feat: cache computed values
 2025-03-26T10:22:07+0000  test: add regression test for #142
+2025-03-26T22:50:03+0000  feat: support config file overrides
