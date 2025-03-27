@@ -1541,3 +1541,4 @@
 2025-03-21T04:25:45+0000  fix: correct timezone handling
 2025-03-21T06:40:36+0000  feat: support config file overrides
 2025-03-25T20:27:21+0000  feat: expose --verbose flag
+2025-03-27T03:50:56+0000  docs: clarify setup instructions
