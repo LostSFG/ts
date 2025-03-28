@@ -705,3 +705,4 @@
 2025-03-28T14:48:34+0000  chore: update lockfile
 2025-03-28T18:24:51+0000  build: pin toolchain version
 2025-03-28T19:11:30+0000  fix: handle empty response from upstream
+2025-03-28T20:10:08+0000  refactor: simplify control flow
