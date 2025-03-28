@@ -746,3 +746,4 @@
 2025-03-25T19:32:16+0000  docs: add usage examples
 2025-03-26T03:59:27+0000  docs: clarify setup instructions
 2025-03-27T12:34:16+0000  test: add regression test for #142
+2025-03-28T17:04:09+0000  refactor: extract helper for date parsing
