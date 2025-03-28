@@ -698,3 +698,4 @@
 2025-03-26T05:44:45+0000  fix: handle empty response from upstream
 2025-03-27T10:34:21+0000  docs: clarify setup instructions
 2025-03-28T06:54:43+0000  chore: update lockfile
+2025-03-28T15:04:38+0000  feat: add retry with backoff
