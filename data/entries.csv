@@ -708,3 +708,4 @@
 2025-03-28T20:10:08+0000  refactor: simplify control flow
 2025-03-30T22:20:18+0000  feat: expose --verbose flag
 2025-03-31T00:12:49+0000  chore: update lockfile
+2025-03-31T21:23:03+0000  feat: expose --verbose flag
