@@ -1485,3 +1485,4 @@
 2025-03-24T14:19:23+0000  docs: add usage examples
 2025-03-25T18:01:27+0000  fix: guard against None in serializer
 2025-03-27T02:27:50+0000  docs: clarify setup instructions
+2025-03-31T07:35:56+0000  fix: handle empty response from upstream
