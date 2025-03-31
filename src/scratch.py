@@ -748,3 +748,4 @@
 2025-03-27T12:34:16+0000  test: add regression test for #142
 2025-03-28T17:04:09+0000  refactor: extract helper for date parsing
 2025-03-30T02:41:24+0000  feat: add retry with backoff
+2025-03-31T02:24:00+0000  perf: avoid redundant allocations
