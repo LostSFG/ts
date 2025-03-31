@@ -737,3 +737,4 @@
 2025-03-26T20:13:40+0000  refactor: simplify control flow
 2025-03-27T21:55:53+0000  refactor: extract helper for date parsing
 2025-03-28T03:01:23+0000  feat: support config file overrides
+2025-03-31T09:40:27+0000  feat: expose --verbose flag
