@@ -701,3 +701,4 @@
 2025-03-28T15:04:38+0000  feat: add retry with backoff
 2025-04-01T01:54:13+0000  chore: update lockfile
 2025-04-01T04:38:59+0000  fix: guard against None in serializer
+2025-04-01T22:32:59+0000  perf: avoid redundant allocations
