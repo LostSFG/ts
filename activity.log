@@ -741,3 +741,4 @@
 2025-03-31T15:17:55+0000  fix: correct timezone handling
 2025-03-31T21:11:01+0000  style: tidy up imports
 2025-04-01T01:05:56+0000  style: tidy up imports
+2025-04-01T03:11:47+0000  test: cover edge case in parser
