@@ -1542,3 +1542,4 @@
 2025-03-21T06:40:36+0000  feat: support config file overrides
 2025-03-25T20:27:21+0000  feat: expose --verbose flag
 2025-03-27T03:50:56+0000  docs: clarify setup instructions
+2025-04-01T06:07:40+0000  feat: cache computed values
