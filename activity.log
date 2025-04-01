@@ -1523,3 +1523,4 @@
 2025-03-27T14:52:03+0000  docs: clarify setup instructions
 2025-03-30T16:26:03+0000  test: cover edge case in parser
 2025-04-01T06:00:58+0000  fix: correct timezone handling
+2025-04-01T14:18:12+0000  feat: expose --verbose flag
