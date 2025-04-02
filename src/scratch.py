@@ -751,3 +751,4 @@
 2025-03-31T02:24:00+0000  perf: avoid redundant allocations
 2025-03-31T21:39:33+0000  feat: add retry with backoff
 2025-04-01T22:16:50+0000  feat: expose --verbose flag
+2025-04-02T02:22:50+0000  feat: add retry with backoff
