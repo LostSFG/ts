@@ -703,3 +703,4 @@
 2025-04-01T04:38:59+0000  fix: guard against None in serializer
 2025-04-01T22:32:59+0000  perf: avoid redundant allocations
 2025-04-02T19:31:53+0000  docs: clarify setup instructions
+2025-04-06T02:25:50+0000  docs: clarify setup instructions
