@@ -1549,3 +1549,4 @@
 2025-04-03T22:16:44+0000  perf: avoid redundant allocations
 2025-04-04T01:08:57+0000  style: tidy up imports
 2025-04-07T06:27:45+0000  fix: correct timezone handling
+2025-04-07T10:14:32+0000  test: add regression test for #142
