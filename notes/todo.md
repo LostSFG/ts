@@ -1491,3 +1491,4 @@
 2025-04-03T13:44:31+0000  test: add regression test for #142
 2025-04-07T14:49:07+0000  style: tidy up imports
 2025-04-08T06:03:41+0000  feat: support config file overrides
+2025-04-08T07:05:48+0000  fix: guard against None in serializer
