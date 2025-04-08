@@ -758,3 +758,4 @@
 2025-04-04T19:53:43+0000  build: pin toolchain version
 2025-04-04T22:53:36+0000  chore: remove dead code
 2025-04-07T12:29:09+0000  feat: expose --verbose flag
+2025-04-08T13:20:10+0000  perf: avoid redundant allocations
