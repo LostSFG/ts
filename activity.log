@@ -1535,3 +1535,4 @@
 2025-04-08T00:26:03+0000  chore: remove dead code
 2025-04-08T08:26:28+0000  feat: expose --verbose flag
 2025-04-08T14:49:58+0000  feat: expose --verbose flag
+2025-04-08T21:20:48+0000  chore: update lockfile
