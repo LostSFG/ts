@@ -1552,3 +1552,4 @@
 2025-04-07T10:14:32+0000  test: add regression test for #142
 2025-04-08T01:47:22+0000  refactor: simplify control flow
 2025-04-08T14:11:33+0000  refactor: simplify control flow
+2025-04-08T18:13:09+0000  build: pin toolchain version
