@@ -1533,3 +1533,4 @@
 2025-04-07T18:31:36+0000  style: tidy up imports
 2025-04-07T19:28:22+0000  test: cover edge case in parser
 2025-04-08T00:26:03+0000  chore: remove dead code
+2025-04-08T08:26:28+0000  feat: expose --verbose flag
