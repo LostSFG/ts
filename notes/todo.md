@@ -705,3 +705,4 @@
 2025-04-02T19:31:53+0000  docs: clarify setup instructions
 2025-04-06T02:25:50+0000  docs: clarify setup instructions
 2025-04-08T02:50:14+0000  test: cover edge case in parser
+2025-04-08T14:55:00+0000  feat: support config file overrides
