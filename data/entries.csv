@@ -718,3 +718,4 @@
 2025-04-05T08:47:29+0000  refactor: extract helper for date parsing
 2025-04-06T00:27:36+0000  feat: cache computed values
 2025-04-08T07:05:20+0000  feat: add retry with backoff
+2025-04-09T04:22:50+0000  fix: guard against None in serializer
