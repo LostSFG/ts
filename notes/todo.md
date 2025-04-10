@@ -1493,3 +1493,4 @@
 2025-04-08T06:03:41+0000  feat: support config file overrides
 2025-04-08T07:05:48+0000  fix: guard against None in serializer
 2025-04-09T17:11:51+0000  style: tidy up imports
+2025-04-10T16:06:56+0000  docs: clarify setup instructions
