@@ -1536,3 +1536,4 @@
 2025-04-08T08:26:28+0000  feat: expose --verbose flag
 2025-04-08T14:49:58+0000  feat: expose --verbose flag
 2025-04-08T21:20:48+0000  chore: update lockfile
+2025-04-10T06:07:06+0000  build: pin toolchain version
