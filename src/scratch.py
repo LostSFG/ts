@@ -761,3 +761,4 @@
 2025-04-08T13:20:10+0000  perf: avoid redundant allocations
 2025-04-09T08:37:46+0000  fix: correct timezone handling
 2025-04-11T19:18:25+0000  docs: clarify setup instructions
+2025-04-11T21:06:22+0000  fix: typo in error message
