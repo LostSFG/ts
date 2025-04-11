@@ -1557,3 +1557,4 @@
 2025-04-10T08:47:11+0000  docs: add usage examples
 2025-04-10T11:58:21+0000  perf: avoid redundant allocations
 2025-04-10T18:59:52+0000  docs: add usage examples
+2025-04-11T02:13:43+0000  chore: remove dead code
