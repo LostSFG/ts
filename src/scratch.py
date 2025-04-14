@@ -762,3 +762,4 @@
 2025-04-09T08:37:46+0000  fix: correct timezone handling
 2025-04-11T19:18:25+0000  docs: clarify setup instructions
 2025-04-11T21:06:22+0000  fix: typo in error message
+2025-04-14T00:39:30+0000  fix: guard against None in serializer
