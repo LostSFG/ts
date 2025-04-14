@@ -1522,3 +1522,4 @@
 2025-04-09T19:07:41+0000  fix: typo in error message
 2025-04-10T00:56:02+0000  perf: avoid redundant allocations
 2025-04-11T18:51:57+0000  docs: clarify setup instructions
+2025-04-14T21:33:04+0000  chore: update lockfile
