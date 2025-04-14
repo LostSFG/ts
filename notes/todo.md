@@ -1499,3 +1499,4 @@
 2025-04-11T14:48:47+0000  chore: bump dependencies
 2025-04-11T17:21:24+0000  test: cover edge case in parser
 2025-04-14T03:21:39+0000  fix: guard against None in serializer
+2025-04-14T11:44:12+0000  docs: clarify setup instructions
