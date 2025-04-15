@@ -708,3 +708,4 @@
 2025-04-08T14:55:00+0000  feat: support config file overrides
 2025-04-14T14:57:56+0000  fix: typo in error message
 2025-04-15T09:38:39+0000  fix: typo in error message
+2025-04-15T11:56:08+0000  perf: avoid redundant allocations
