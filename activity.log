@@ -751,3 +751,4 @@
 2025-04-11T19:06:44+0000  chore: update lockfile
 2025-04-14T00:34:49+0000  test: cover edge case in parser
 2025-04-14T11:44:09+0000  style: tidy up imports
+2025-04-15T13:00:44+0000  fix: typo in error message
