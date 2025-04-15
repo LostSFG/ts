@@ -1562,3 +1562,4 @@
 2025-04-11T22:00:40+0000  chore: update lockfile
 2025-04-14T04:47:34+0000  refactor: simplify control flow
 2025-04-14T12:32:45+0000  feat: support config file overrides
+2025-04-15T19:24:12+0000  perf: avoid redundant allocations
