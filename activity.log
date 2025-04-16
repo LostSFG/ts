@@ -1542,3 +1542,4 @@
 2025-04-14T20:56:28+0000  style: tidy up imports
 2025-04-15T06:47:09+0000  fix: typo in error message
 2025-04-15T16:25:30+0000  feat: support config file overrides
+2025-04-16T20:44:39+0000  fix: guard against None in serializer
