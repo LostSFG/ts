@@ -1503,3 +1503,4 @@
 2025-04-15T22:54:21+0000  test: add regression test for #142
 2025-04-16T00:49:34+0000  chore: bump dependencies
 2025-04-16T12:52:04+0000  perf: avoid redundant allocations
+2025-04-17T03:12:28+0000  chore: update lockfile
