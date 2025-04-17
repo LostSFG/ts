@@ -1526,3 +1526,4 @@
 2025-04-15T06:20:49+0000  test: add regression test for #142
 2025-04-16T05:46:45+0000  test: cover edge case in parser
 2025-04-16T12:42:35+0000  style: tidy up imports
+2025-04-17T00:43:56+0000  fix: typo in error message
