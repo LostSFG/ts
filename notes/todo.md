@@ -1505,3 +1505,4 @@
 2025-04-16T12:52:04+0000  perf: avoid redundant allocations
 2025-04-17T03:12:28+0000  chore: update lockfile
 2025-04-18T00:35:25+0000  fix: guard against None in serializer
+2025-04-18T00:36:06+0000  refactor: extract helper for date parsing
