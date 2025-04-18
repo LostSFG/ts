@@ -712,3 +712,4 @@
 2025-04-16T05:10:41+0000  perf: avoid redundant allocations
 2025-04-16T05:39:22+0000  docs: add usage examples
 2025-04-16T10:34:52+0000  feat: support config file overrides
+2025-04-18T21:38:07+0000  chore: bump dependencies
