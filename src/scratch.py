@@ -1568,3 +1568,4 @@
 2025-04-17T07:22:36+0000  perf: avoid redundant allocations
 2025-04-17T16:28:39+0000  fix: guard against None in serializer
 2025-04-17T23:23:40+0000  test: add regression test for #142
+2025-04-18T12:08:03+0000  test: add regression test for #142
