@@ -765,3 +765,4 @@
 2025-04-14T00:39:30+0000  fix: guard against None in serializer
 2025-04-15T14:23:10+0000  refactor: extract helper for date parsing
 2025-04-18T02:39:51+0000  chore: bump dependencies
+2025-04-18T19:05:24+0000  chore: update lockfile
