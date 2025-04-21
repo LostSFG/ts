@@ -1547,3 +1547,4 @@
 2025-04-17T08:31:07+0000  test: add regression test for #142
 2025-04-17T20:58:27+0000  docs: add usage examples
 2025-04-18T11:04:33+0000  feat: add retry with backoff
+2025-04-21T05:09:12+0000  feat: add retry with backoff
