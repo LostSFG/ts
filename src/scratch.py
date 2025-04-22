@@ -1571,3 +1571,4 @@
 2025-04-18T12:08:03+0000  test: add regression test for #142
 2025-04-21T05:52:01+0000  feat: expose --verbose flag
 2025-04-21T08:27:03+0000  feat: add retry with backoff
+2025-04-22T07:37:03+0000  docs: add usage examples
