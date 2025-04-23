@@ -772,3 +772,4 @@
 2025-04-21T16:41:02+0000  refactor: simplify control flow
 2025-04-21T19:50:56+0000  feat: cache computed values
 2025-04-22T21:40:08+0000  refactor: simplify control flow
+2025-04-23T02:36:05+0000  feat: support config file overrides
