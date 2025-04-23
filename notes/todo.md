@@ -1507,3 +1507,4 @@
 2025-04-18T00:35:25+0000  fix: guard against None in serializer
 2025-04-18T00:36:06+0000  refactor: extract helper for date parsing
 2025-04-21T06:56:51+0000  feat: cache computed values
+2025-04-23T14:15:56+0000  refactor: extract helper for date parsing
