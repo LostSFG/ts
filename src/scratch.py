@@ -1574,3 +1574,4 @@
 2025-04-22T07:37:03+0000  docs: add usage examples
 2025-04-23T07:24:26+0000  chore: update lockfile
 2025-04-23T14:11:10+0000  docs: clarify setup instructions
+2025-04-23T19:22:53+0000  fix: correct timezone handling
