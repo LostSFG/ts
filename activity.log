@@ -758,3 +758,4 @@
 2025-04-19T20:15:35+0000  docs: add usage examples
 2025-04-22T15:12:56+0000  fix: guard against None in serializer
 2025-04-22T16:38:29+0000  test: cover edge case in parser
+2025-04-23T08:10:39+0000  chore: remove dead code
