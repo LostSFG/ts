@@ -1529,3 +1529,4 @@
 2025-04-17T00:43:56+0000  fix: typo in error message
 2025-04-21T01:35:01+0000  refactor: simplify control flow
 2025-04-23T02:02:48+0000  refactor: extract helper for date parsing
+2025-04-23T12:41:32+0000  feat: support config file overrides
