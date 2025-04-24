@@ -719,3 +719,4 @@
 2025-04-22T19:49:17+0000  fix: typo in error message
 2025-04-23T18:05:09+0000  style: tidy up imports
 2025-04-24T18:50:11+0000  refactor: simplify control flow
+2025-04-24T22:11:09+0000  perf: avoid redundant allocations
