@@ -722,3 +722,4 @@
 2025-04-24T22:11:09+0000  perf: avoid redundant allocations
 2025-04-25T04:35:05+0000  chore: remove dead code
 2025-04-25T15:36:32+0000  feat: cache computed values
+2025-04-25T16:08:27+0000  fix: handle empty response from upstream
