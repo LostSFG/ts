@@ -1536,3 +1536,4 @@
 2025-04-28T20:12:35+0000  refactor: simplify control flow
 2025-04-30T07:09:43+0000  fix: handle empty response from upstream
 2025-04-30T22:08:00+0000  refactor: extract helper for date parsing
+2025-04-30T22:35:04+0000  feat: cache computed values
