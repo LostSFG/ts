@@ -1510,3 +1510,4 @@
 2025-04-23T14:15:56+0000  refactor: extract helper for date parsing
 2025-04-24T17:10:31+0000  docs: add usage examples
 2025-04-28T19:17:07+0000  style: tidy up imports
+2025-04-30T22:21:40+0000  chore: update lockfile
