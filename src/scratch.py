@@ -778,3 +778,4 @@
 2025-04-29T04:49:34+0000  test: cover edge case in parser
 2025-04-29T13:10:05+0000  refactor: extract helper for date parsing
 2025-04-30T23:17:20+0000  feat: support config file overrides
+2025-05-01T01:46:23+0000  fix: guard against None in serializer
