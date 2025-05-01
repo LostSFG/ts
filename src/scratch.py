@@ -1575,3 +1575,4 @@
 2025-04-23T07:24:26+0000  chore: update lockfile
 2025-04-23T14:11:10+0000  docs: clarify setup instructions
 2025-04-23T19:22:53+0000  fix: correct timezone handling
+2025-05-01T11:44:23+0000  fix: typo in error message
