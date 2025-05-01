@@ -1577,3 +1577,4 @@
 2025-04-23T19:22:53+0000  fix: correct timezone handling
 2025-05-01T11:44:23+0000  fix: typo in error message
 2025-05-01T16:03:35+0000  docs: add usage examples
+2025-05-01T20:42:35+0000  fix: typo in error message
