@@ -779,3 +779,4 @@
 2025-04-29T13:10:05+0000  refactor: extract helper for date parsing
 2025-04-30T23:17:20+0000  feat: support config file overrides
 2025-05-01T01:46:23+0000  fix: guard against None in serializer
+2025-05-01T01:47:26+0000  fix: correct timezone handling
