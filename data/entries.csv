@@ -743,3 +743,4 @@
 2025-04-28T01:31:13+0000  test: cover edge case in parser
 2025-04-29T10:30:46+0000  feat: add retry with backoff
 2025-04-30T01:12:15+0000  refactor: simplify control flow
+2025-05-01T11:46:40+0000  feat: add retry with backoff
