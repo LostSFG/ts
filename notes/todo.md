@@ -729,3 +729,4 @@
 2025-04-29T11:43:28+0000  feat: cache computed values
 2025-04-29T14:22:19+0000  chore: remove dead code
 2025-04-29T15:55:05+0000  fix: correct timezone handling
+2025-05-02T10:59:22+0000  docs: add usage examples
