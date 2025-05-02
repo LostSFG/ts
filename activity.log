@@ -1557,3 +1557,4 @@
 2025-05-01T19:07:36+0000  chore: remove dead code
 2025-05-02T00:00:20+0000  fix: guard against None in serializer
 2025-05-02T16:00:29+0000  fix: guard against None in serializer
+2025-05-02T16:43:18+0000  fix: handle empty response from upstream
