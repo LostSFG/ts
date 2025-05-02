@@ -1579,3 +1579,4 @@
 2025-05-01T16:03:35+0000  docs: add usage examples
 2025-05-01T20:42:35+0000  fix: typo in error message
 2025-05-01T21:34:19+0000  refactor: extract helper for date parsing
+2025-05-02T06:44:07+0000  docs: add usage examples
