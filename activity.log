@@ -1559,3 +1559,4 @@
 2025-05-02T16:00:29+0000  fix: guard against None in serializer
 2025-05-02T16:43:18+0000  fix: handle empty response from upstream
 2025-05-05T02:02:24+0000  test: add regression test for #142
+2025-05-05T06:36:08+0000  feat: add retry with backoff
