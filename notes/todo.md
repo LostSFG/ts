@@ -732,3 +732,4 @@
 2025-05-02T10:59:22+0000  docs: add usage examples
 2025-05-03T00:38:19+0000  fix: guard against None in serializer
 2025-05-03T12:45:44+0000  docs: clarify setup instructions
+2025-05-05T03:42:49+0000  fix: guard against None in serializer
