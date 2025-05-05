@@ -1584,3 +1584,4 @@
 2025-05-02T18:13:32+0000  fix: handle empty response from upstream
 2025-05-05T01:52:43+0000  fix: correct timezone handling
 2025-05-05T04:33:56+0000  style: tidy up imports
+2025-05-05T13:12:52+0000  fix: guard against None in serializer
