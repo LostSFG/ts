@@ -738,3 +738,4 @@
 2025-05-06T11:55:03+0000  feat: expose --verbose flag
 2025-05-06T18:20:57+0000  refactor: extract helper for date parsing
 2025-05-06T23:07:59+0000  feat: cache computed values
+2025-05-06T23:24:06+0000  feat: add retry with backoff
