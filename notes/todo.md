@@ -1513,3 +1513,4 @@
 2025-04-30T22:21:40+0000  chore: update lockfile
 2025-05-02T18:28:23+0000  test: add regression test for #142
 2025-05-06T00:40:54+0000  feat: cache computed values
+2025-05-06T15:52:19+0000  docs: add usage examples
