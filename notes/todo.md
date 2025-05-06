@@ -735,3 +735,4 @@
 2025-05-05T03:42:49+0000  fix: guard against None in serializer
 2025-05-05T06:46:31+0000  test: add regression test for #142
 2025-05-05T17:14:04+0000  chore: update lockfile
+2025-05-06T11:55:03+0000  feat: expose --verbose flag
