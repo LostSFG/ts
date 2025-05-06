@@ -736,3 +736,4 @@
 2025-05-05T06:46:31+0000  test: add regression test for #142
 2025-05-05T17:14:04+0000  chore: update lockfile
 2025-05-06T11:55:03+0000  feat: expose --verbose flag
+2025-05-06T18:20:57+0000  refactor: extract helper for date parsing
