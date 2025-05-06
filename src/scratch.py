@@ -1585,3 +1585,4 @@
 2025-05-05T01:52:43+0000  fix: correct timezone handling
 2025-05-05T04:33:56+0000  style: tidy up imports
 2025-05-05T13:12:52+0000  fix: guard against None in serializer
+2025-05-06T00:30:54+0000  feat: add retry with backoff
