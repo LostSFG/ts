@@ -1586,3 +1586,4 @@
 2025-05-05T04:33:56+0000  style: tidy up imports
 2025-05-05T13:12:52+0000  fix: guard against None in serializer
 2025-05-06T00:30:54+0000  feat: add retry with backoff
+2025-05-07T10:37:09+0000  refactor: simplify control flow
