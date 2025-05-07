@@ -750,3 +750,4 @@
 2025-05-05T14:19:12+0000  test: add regression test for #142
 2025-05-06T02:49:30+0000  fix: typo in error message
 2025-05-06T06:48:45+0000  feat: support config file overrides
+2025-05-07T01:16:01+0000  feat: support config file overrides
