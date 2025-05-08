@@ -753,3 +753,4 @@
 2025-05-07T01:16:01+0000  feat: support config file overrides
 2025-05-07T18:23:11+0000  feat: add retry with backoff
 2025-05-08T00:41:06+0000  test: cover edge case in parser
+2025-05-08T16:45:55+0000  refactor: extract helper for date parsing
