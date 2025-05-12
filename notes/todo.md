@@ -744,3 +744,4 @@
 2025-05-07T19:49:13+0000  style: tidy up imports
 2025-05-08T16:44:13+0000  build: pin toolchain version
 2025-05-11T18:48:50+0000  refactor: extract helper for date parsing
+2025-05-12T03:39:26+0000  feat: expose --verbose flag
