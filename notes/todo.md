@@ -1516,3 +1516,4 @@
 2025-05-06T15:52:19+0000  docs: add usage examples
 2025-05-07T22:51:49+0000  test: cover edge case in parser
 2025-05-09T00:33:09+0000  test: add regression test for #142
+2025-05-12T14:48:56+0000  refactor: extract helper for date parsing
