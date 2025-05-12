@@ -1594,3 +1594,4 @@
 2025-05-09T23:50:54+0000  refactor: extract helper for date parsing
 2025-05-10T07:45:05+0000  docs: add usage examples
 2025-05-12T00:29:41+0000  refactor: simplify control flow
+2025-05-12T14:49:40+0000  refactor: simplify control flow
