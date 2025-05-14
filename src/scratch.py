@@ -787,3 +787,4 @@
 2025-05-08T17:05:32+0000  chore: bump dependencies
 2025-05-14T07:52:25+0000  docs: add usage examples
 2025-05-14T09:31:16+0000  docs: clarify setup instructions
+2025-05-14T20:41:57+0000  feat: support config file overrides
