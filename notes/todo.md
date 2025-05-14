@@ -747,3 +747,4 @@
 2025-05-12T03:39:26+0000  feat: expose --verbose flag
 2025-05-13T08:18:22+0000  fix: handle empty response from upstream
 2025-05-14T02:12:39+0000  feat: support config file overrides
+2025-05-14T09:13:09+0000  perf: avoid redundant allocations
