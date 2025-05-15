@@ -1599,3 +1599,4 @@
 2025-05-14T06:27:54+0000  chore: bump dependencies
 2025-05-15T15:15:37+0000  fix: typo in error message
 2025-05-15T17:12:27+0000  test: add regression test for #142
+2025-05-15T20:52:04+0000  feat: expose --verbose flag
