@@ -789,3 +789,4 @@
 2025-05-14T09:31:16+0000  docs: clarify setup instructions
 2025-05-14T20:41:57+0000  feat: support config file overrides
 2025-05-15T18:52:06+0000  style: tidy up imports
+2025-05-15T19:38:11+0000  test: add regression test for #142
