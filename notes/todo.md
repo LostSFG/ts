@@ -750,3 +750,4 @@
 2025-05-14T09:13:09+0000  perf: avoid redundant allocations
 2025-05-14T20:35:10+0000  refactor: simplify control flow
 2025-05-15T08:13:42+0000  docs: add usage examples
+2025-05-15T08:37:39+0000  chore: update lockfile
