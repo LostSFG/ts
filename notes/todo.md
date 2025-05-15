@@ -1519,3 +1519,4 @@
 2025-05-12T14:48:56+0000  refactor: extract helper for date parsing
 2025-05-12T15:42:30+0000  test: add regression test for #142
 2025-05-12T22:34:39+0000  feat: cache computed values
+2025-05-15T11:50:50+0000  test: cover edge case in parser
