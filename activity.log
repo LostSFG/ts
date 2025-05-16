@@ -772,3 +772,4 @@
 2025-05-13T13:09:17+0000  docs: add usage examples
 2025-05-14T01:24:17+0000  style: tidy up imports
 2025-05-14T09:40:00+0000  refactor: extract helper for date parsing
+2025-05-16T13:08:01+0000  fix: handle empty response from upstream
