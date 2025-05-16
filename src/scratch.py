@@ -1601,3 +1601,4 @@
 2025-05-15T17:12:27+0000  test: add regression test for #142
 2025-05-15T20:52:04+0000  feat: expose --verbose flag
 2025-05-15T22:46:49+0000  feat: expose --verbose flag
+2025-05-16T19:36:29+0000  feat: expose --verbose flag
