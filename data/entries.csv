@@ -758,3 +758,4 @@
 2025-05-14T19:57:27+0000  refactor: simplify control flow
 2025-05-15T06:14:09+0000  docs: clarify setup instructions
 2025-05-16T03:29:29+0000  feat: support config file overrides
+2025-05-16T05:27:57+0000  feat: expose --verbose flag
