@@ -1602,3 +1602,4 @@
 2025-05-15T20:52:04+0000  feat: expose --verbose flag
 2025-05-15T22:46:49+0000  feat: expose --verbose flag
 2025-05-16T19:36:29+0000  feat: expose --verbose flag
+2025-05-17T01:43:30+0000  chore: remove dead code
