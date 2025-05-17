@@ -1604,3 +1604,4 @@
 2025-05-16T19:36:29+0000  feat: expose --verbose flag
 2025-05-17T01:43:30+0000  chore: remove dead code
 2025-05-17T11:02:21+0000  refactor: extract helper for date parsing
+2025-05-17T22:31:42+0000  chore: bump dependencies
