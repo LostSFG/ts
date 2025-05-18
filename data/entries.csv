@@ -761,3 +761,4 @@
 2025-05-16T05:27:57+0000  feat: expose --verbose flag
 2025-05-16T05:48:33+0000  style: tidy up imports
 2025-05-16T19:53:24+0000  feat: cache computed values
+2025-05-18T06:28:24+0000  docs: add usage examples
