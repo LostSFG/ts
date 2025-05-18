@@ -791,3 +791,4 @@
 2025-05-15T18:52:06+0000  style: tidy up imports
 2025-05-15T19:38:11+0000  test: add regression test for #142
 2025-05-16T07:51:38+0000  chore: update lockfile
+2025-05-18T08:38:00+0000  chore: bump dependencies
