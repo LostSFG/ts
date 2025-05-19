@@ -755,3 +755,4 @@
 2025-05-16T00:14:08+0000  chore: remove dead code
 2025-05-16T18:40:49+0000  refactor: extract helper for date parsing
 2025-05-19T17:19:21+0000  test: cover edge case in parser
+2025-05-19T17:47:43+0000  refactor: simplify control flow
