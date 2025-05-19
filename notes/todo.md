@@ -754,3 +754,4 @@
 2025-05-15T13:49:57+0000  fix: typo in error message
 2025-05-16T00:14:08+0000  chore: remove dead code
 2025-05-16T18:40:49+0000  refactor: extract helper for date parsing
+2025-05-19T17:19:21+0000  test: cover edge case in parser
