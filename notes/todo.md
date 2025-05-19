@@ -757,3 +757,4 @@
 2025-05-19T17:19:21+0000  test: cover edge case in parser
 2025-05-19T17:47:43+0000  refactor: simplify control flow
 2025-05-19T23:03:41+0000  feat: support config file overrides
+2025-05-19T23:29:19+0000  chore: bump dependencies
