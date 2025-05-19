@@ -793,3 +793,4 @@
 2025-05-16T07:51:38+0000  chore: update lockfile
 2025-05-18T08:38:00+0000  chore: bump dependencies
 2025-05-18T18:00:03+0000  style: tidy up imports
+2025-05-19T05:29:25+0000  docs: add usage examples
