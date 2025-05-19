@@ -1520,3 +1520,4 @@
 2025-05-12T15:42:30+0000  test: add regression test for #142
 2025-05-12T22:34:39+0000  feat: cache computed values
 2025-05-15T11:50:50+0000  test: cover edge case in parser
+2025-05-19T14:12:42+0000  feat: add retry with backoff
