@@ -775,3 +775,4 @@
 2025-05-16T13:08:01+0000  fix: handle empty response from upstream
 2025-05-18T10:05:24+0000  docs: add usage examples
 2025-05-20T01:20:30+0000  refactor: simplify control flow
+2025-05-20T09:58:14+0000  refactor: simplify control flow
