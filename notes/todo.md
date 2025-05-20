@@ -1521,3 +1521,4 @@
 2025-05-12T22:34:39+0000  feat: cache computed values
 2025-05-15T11:50:50+0000  test: cover edge case in parser
 2025-05-19T14:12:42+0000  feat: add retry with backoff
+2025-05-20T07:17:36+0000  fix: typo in error message
