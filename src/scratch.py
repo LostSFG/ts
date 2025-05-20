@@ -794,3 +794,4 @@
 2025-05-18T08:38:00+0000  chore: bump dependencies
 2025-05-18T18:00:03+0000  style: tidy up imports
 2025-05-19T05:29:25+0000  docs: add usage examples
+2025-05-20T21:19:22+0000  perf: avoid redundant allocations
