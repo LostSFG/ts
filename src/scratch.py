@@ -795,3 +795,4 @@
 2025-05-18T18:00:03+0000  style: tidy up imports
 2025-05-19T05:29:25+0000  docs: add usage examples
 2025-05-20T21:19:22+0000  perf: avoid redundant allocations
+2025-05-20T22:29:47+0000  docs: add usage examples
