@@ -1575,3 +1575,4 @@
 2025-05-19T17:31:39+0000  perf: avoid redundant allocations
 2025-05-20T12:41:44+0000  chore: remove dead code
 2025-05-20T21:07:14+0000  style: tidy up imports
+2025-05-21T16:17:30+0000  fix: handle empty response from upstream
