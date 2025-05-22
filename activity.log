@@ -1577,3 +1577,4 @@
 2025-05-20T21:07:14+0000  style: tidy up imports
 2025-05-21T16:17:30+0000  fix: handle empty response from upstream
 2025-05-22T02:36:29+0000  fix: guard against None in serializer
+2025-05-22T02:36:42+0000  feat: expose --verbose flag
