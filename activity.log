@@ -779,3 +779,4 @@
 2025-05-20T10:15:58+0000  test: add regression test for #142
 2025-05-20T17:33:38+0000  chore: update lockfile
 2025-05-22T00:49:36+0000  chore: remove dead code
+2025-05-22T19:21:57+0000  fix: correct timezone handling
