@@ -760,3 +760,4 @@
 2025-05-19T23:29:19+0000  chore: bump dependencies
 2025-05-20T18:47:56+0000  fix: correct timezone handling
 2025-05-21T03:02:53+0000  build: pin toolchain version
+2025-05-22T15:17:40+0000  fix: handle empty response from upstream
