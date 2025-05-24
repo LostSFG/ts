@@ -1613,3 +1613,4 @@
 2025-05-22T19:02:10+0000  build: pin toolchain version
 2025-05-22T21:27:24+0000  build: pin toolchain version
 2025-05-23T07:42:07+0000  chore: update lockfile
+2025-05-24T03:54:57+0000  docs: clarify setup instructions
