@@ -1579,3 +1579,4 @@
 2025-05-22T02:36:29+0000  fix: guard against None in serializer
 2025-05-22T02:36:42+0000  feat: expose --verbose flag
 2025-05-23T11:49:09+0000  test: cover edge case in parser
+2025-05-24T09:38:25+0000  refactor: extract helper for date parsing
