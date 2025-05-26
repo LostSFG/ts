@@ -768,3 +768,4 @@
 2025-05-23T04:07:42+0000  perf: avoid redundant allocations
 2025-05-23T12:54:17+0000  feat: cache computed values
 2025-05-26T10:46:18+0000  feat: expose --verbose flag
+2025-05-26T19:06:17+0000  chore: bump dependencies
