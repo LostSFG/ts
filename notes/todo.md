@@ -1526,3 +1526,4 @@
 2025-05-21T21:44:10+0000  feat: support config file overrides
 2025-05-22T00:32:43+0000  style: tidy up imports
 2025-05-22T22:56:33+0000  test: add regression test for #142
+2025-05-26T02:48:42+0000  refactor: extract helper for date parsing
