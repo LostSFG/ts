@@ -763,3 +763,4 @@
 2025-05-22T15:17:40+0000  fix: handle empty response from upstream
 2025-05-25T17:27:25+0000  feat: add retry with backoff
 2025-05-27T05:59:28+0000  feat: support config file overrides
+2025-05-27T17:35:11+0000  docs: add usage examples
