@@ -762,3 +762,4 @@
 2025-05-21T03:02:53+0000  build: pin toolchain version
 2025-05-22T15:17:40+0000  fix: handle empty response from upstream
 2025-05-25T17:27:25+0000  feat: add retry with backoff
+2025-05-27T05:59:28+0000  feat: support config file overrides
