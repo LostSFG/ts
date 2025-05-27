@@ -1528,3 +1528,4 @@
 2025-05-22T22:56:33+0000  test: add regression test for #142
 2025-05-26T02:48:42+0000  refactor: extract helper for date parsing
 2025-05-26T11:58:49+0000  fix: guard against None in serializer
+2025-05-27T14:22:26+0000  chore: remove dead code
