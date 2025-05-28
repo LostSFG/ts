@@ -764,3 +764,4 @@
 2025-05-25T17:27:25+0000  feat: add retry with backoff
 2025-05-27T05:59:28+0000  feat: support config file overrides
 2025-05-27T17:35:11+0000  docs: add usage examples
+2025-05-28T16:01:09+0000  test: add regression test for #142
