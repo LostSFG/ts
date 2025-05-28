@@ -800,3 +800,4 @@
 2025-05-22T07:42:39+0000  test: cover edge case in parser
 2025-05-23T13:01:49+0000  style: tidy up imports
 2025-05-27T16:17:51+0000  refactor: simplify control flow
+2025-05-28T22:30:48+0000  chore: bump dependencies
