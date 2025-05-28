@@ -787,3 +787,4 @@
 2025-05-26T07:31:51+0000  feat: add retry with backoff
 2025-05-26T19:41:49+0000  docs: clarify setup instructions
 2025-05-28T04:32:27+0000  feat: add retry with backoff
+2025-05-28T16:59:18+0000  chore: update lockfile
