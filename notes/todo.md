@@ -766,3 +766,4 @@
 2025-05-27T17:35:11+0000  docs: add usage examples
 2025-05-28T16:01:09+0000  test: add regression test for #142
 2025-05-28T20:56:35+0000  fix: handle empty response from upstream
+2025-05-28T22:32:35+0000  refactor: extract helper for date parsing
