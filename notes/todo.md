@@ -1530,3 +1530,4 @@
 2025-05-26T11:58:49+0000  fix: guard against None in serializer
 2025-05-27T14:22:26+0000  chore: remove dead code
 2025-05-28T11:03:22+0000  feat: expose --verbose flag
+2025-05-29T08:04:33+0000  fix: guard against None in serializer
