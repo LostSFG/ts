@@ -789,3 +789,4 @@
 2025-05-28T04:32:27+0000  feat: add retry with backoff
 2025-05-28T16:59:18+0000  chore: update lockfile
 2025-05-29T03:20:53+0000  chore: remove dead code
+2025-05-29T09:17:13+0000  feat: support config file overrides
