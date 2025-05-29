@@ -803,3 +803,4 @@
 2025-05-28T22:30:48+0000  chore: bump dependencies
 2025-05-29T07:07:38+0000  build: pin toolchain version
 2025-05-29T18:31:54+0000  fix: correct timezone handling
+2025-05-29T19:26:37+0000  chore: remove dead code
