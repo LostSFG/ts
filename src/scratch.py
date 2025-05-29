@@ -1615,3 +1615,4 @@
 2025-05-23T07:42:07+0000  chore: update lockfile
 2025-05-24T03:54:57+0000  docs: clarify setup instructions
 2025-05-28T19:22:03+0000  test: cover edge case in parser
+2025-05-29T17:24:07+0000  fix: guard against None in serializer
