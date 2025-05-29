@@ -790,3 +790,4 @@
 2025-05-28T16:59:18+0000  chore: update lockfile
 2025-05-29T03:20:53+0000  chore: remove dead code
 2025-05-29T09:17:13+0000  feat: support config file overrides
+2025-05-29T16:45:10+0000  docs: add usage examples
