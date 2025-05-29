@@ -1532,3 +1532,4 @@
 2025-05-28T11:03:22+0000  feat: expose --verbose flag
 2025-05-29T08:04:33+0000  fix: guard against None in serializer
 2025-05-29T08:22:14+0000  feat: expose --verbose flag
+2025-05-29T12:20:29+0000  chore: update lockfile
