@@ -1561,3 +1561,4 @@
 2025-05-26T15:49:32+0000  chore: remove dead code
 2025-05-28T06:03:12+0000  feat: support config file overrides
 2025-05-29T03:16:58+0000  refactor: simplify control flow
+2025-05-29T06:29:40+0000  test: cover edge case in parser
