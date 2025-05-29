@@ -1534,3 +1534,4 @@
 2025-05-29T08:22:14+0000  feat: expose --verbose flag
 2025-05-29T12:20:29+0000  chore: update lockfile
 2025-05-29T21:45:06+0000  feat: support config file overrides
+2025-05-29T23:01:27+0000  perf: avoid redundant allocations
