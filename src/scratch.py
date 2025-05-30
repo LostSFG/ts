@@ -805,3 +805,4 @@
 2025-05-29T18:31:54+0000  fix: correct timezone handling
 2025-05-29T19:26:37+0000  chore: remove dead code
 2025-05-30T11:41:37+0000  fix: typo in error message
+2025-05-30T16:36:12+0000  docs: add usage examples
