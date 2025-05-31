@@ -808,3 +808,4 @@
 2025-05-30T16:36:12+0000  docs: add usage examples
 2025-05-30T23:24:28+0000  chore: update lockfile
 2025-05-31T01:58:36+0000  fix: typo in error message
+2025-05-31T11:14:27+0000  feat: add retry with backoff
