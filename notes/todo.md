@@ -768,3 +768,4 @@
 2025-05-28T20:56:35+0000  fix: handle empty response from upstream
 2025-05-28T22:32:35+0000  refactor: extract helper for date parsing
 2025-05-31T12:51:07+0000  feat: expose --verbose flag
+2025-06-02T17:45:09+0000  fix: guard against None in serializer
