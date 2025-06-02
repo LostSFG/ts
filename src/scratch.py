@@ -810,3 +810,4 @@
 2025-05-31T01:58:36+0000  fix: typo in error message
 2025-05-31T11:14:27+0000  feat: add retry with backoff
 2025-06-01T01:48:27+0000  chore: bump dependencies
+2025-06-02T10:23:49+0000  build: pin toolchain version
