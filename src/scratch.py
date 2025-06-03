@@ -1618,3 +1618,4 @@
 2025-05-29T17:24:07+0000  fix: guard against None in serializer
 2025-05-30T11:32:15+0000  feat: add retry with backoff
 2025-06-02T10:36:48+0000  fix: handle empty response from upstream
+2025-06-03T08:27:33+0000  fix: typo in error message
