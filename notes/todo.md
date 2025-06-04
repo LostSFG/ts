@@ -1537,3 +1537,4 @@
 2025-05-29T23:01:27+0000  perf: avoid redundant allocations
 2025-06-03T10:58:04+0000  refactor: simplify control flow
 2025-06-04T17:11:52+0000  chore: update lockfile
+2025-06-04T19:19:01+0000  feat: expose --verbose flag
