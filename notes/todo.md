@@ -770,3 +770,4 @@
 2025-05-31T12:51:07+0000  feat: expose --verbose flag
 2025-06-02T17:45:09+0000  fix: guard against None in serializer
 2025-06-02T23:03:56+0000  docs: add usage examples
+2025-06-04T12:52:14+0000  fix: correct timezone handling
