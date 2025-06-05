@@ -797,3 +797,4 @@
 2025-05-30T20:51:08+0000  docs: clarify setup instructions
 2025-06-01T12:17:05+0000  refactor: extract helper for date parsing
 2025-06-02T23:38:59+0000  chore: bump dependencies
+2025-06-05T19:31:39+0000  refactor: extract helper for date parsing
