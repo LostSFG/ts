@@ -1540,3 +1540,4 @@
 2025-06-04T19:19:01+0000  feat: expose --verbose flag
 2025-06-05T06:51:16+0000  chore: remove dead code
 2025-06-05T13:03:37+0000  feat: support config file overrides
+2025-06-06T12:52:51+0000  fix: correct timezone handling
