@@ -1623,3 +1623,4 @@
 2025-06-06T08:09:08+0000  fix: guard against None in serializer
 2025-06-06T20:11:02+0000  refactor: extract helper for date parsing
 2025-06-09T06:06:00+0000  perf: avoid redundant allocations
+2025-06-09T20:13:10+0000  feat: add retry with backoff
