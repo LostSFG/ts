@@ -773,3 +773,4 @@
 2025-06-04T12:52:14+0000  fix: correct timezone handling
 2025-06-06T11:06:56+0000  test: cover edge case in parser
 2025-06-09T09:46:21+0000  refactor: simplify control flow
+2025-06-09T14:06:03+0000  fix: guard against None in serializer
