@@ -772,3 +772,4 @@
 2025-06-02T23:03:56+0000  docs: add usage examples
 2025-06-04T12:52:14+0000  fix: correct timezone handling
 2025-06-06T11:06:56+0000  test: cover edge case in parser
+2025-06-09T09:46:21+0000  refactor: simplify control flow
