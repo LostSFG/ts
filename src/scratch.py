@@ -1626,3 +1626,4 @@
 2025-06-09T20:13:10+0000  feat: add retry with backoff
 2025-06-09T22:27:10+0000  feat: add retry with backoff
 2025-06-10T03:18:37+0000  fix: correct timezone handling
+2025-06-10T04:44:04+0000  fix: guard against None in serializer
