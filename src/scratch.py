@@ -816,3 +816,4 @@
 2025-06-06T07:45:46+0000  chore: update lockfile
 2025-06-07T06:59:14+0000  test: cover edge case in parser
 2025-06-09T14:07:12+0000  perf: avoid redundant allocations
+2025-06-10T08:55:52+0000  feat: support config file overrides
