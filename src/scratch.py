@@ -821,3 +821,4 @@
 2025-06-11T05:24:54+0000  fix: typo in error message
 2025-06-11T09:10:51+0000  docs: add usage examples
 2025-06-11T16:04:10+0000  refactor: extract helper for date parsing
+2025-06-11T22:55:23+0000  feat: support config file overrides
