@@ -818,3 +818,4 @@
 2025-06-09T14:07:12+0000  perf: avoid redundant allocations
 2025-06-10T08:55:52+0000  feat: support config file overrides
 2025-06-11T03:23:41+0000  chore: remove dead code
+2025-06-11T05:24:54+0000  fix: typo in error message
