@@ -822,3 +822,4 @@
 2025-06-11T09:10:51+0000  docs: add usage examples
 2025-06-11T16:04:10+0000  refactor: extract helper for date parsing
 2025-06-11T22:55:23+0000  feat: support config file overrides
+2025-06-12T13:52:28+0000  test: cover edge case in parser
