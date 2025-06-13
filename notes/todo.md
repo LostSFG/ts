@@ -776,3 +776,4 @@
 2025-06-09T14:06:03+0000  fix: guard against None in serializer
 2025-06-12T14:44:46+0000  chore: bump dependencies
 2025-06-12T18:19:56+0000  build: pin toolchain version
+2025-06-13T05:08:01+0000  chore: bump dependencies
