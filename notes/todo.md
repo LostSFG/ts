@@ -778,3 +778,4 @@
 2025-06-12T18:19:56+0000  build: pin toolchain version
 2025-06-13T05:08:01+0000  chore: bump dependencies
 2025-06-13T18:55:08+0000  feat: expose --verbose flag
+2025-06-13T23:22:15+0000  fix: handle empty response from upstream
