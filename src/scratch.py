@@ -824,3 +824,4 @@
 2025-06-11T22:55:23+0000  feat: support config file overrides
 2025-06-12T13:52:28+0000  test: cover edge case in parser
 2025-06-13T11:20:53+0000  refactor: extract helper for date parsing
+2025-06-13T11:56:26+0000  chore: remove dead code
