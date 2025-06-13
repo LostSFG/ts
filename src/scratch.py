@@ -825,3 +825,4 @@
 2025-06-12T13:52:28+0000  test: cover edge case in parser
 2025-06-13T11:20:53+0000  refactor: extract helper for date parsing
 2025-06-13T11:56:26+0000  chore: remove dead code
+2025-06-13T12:15:31+0000  fix: guard against None in serializer
