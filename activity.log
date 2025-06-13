@@ -804,3 +804,4 @@
 2025-06-07T21:54:53+0000  perf: avoid redundant allocations
 2025-06-11T10:58:13+0000  chore: update lockfile
 2025-06-12T19:46:17+0000  docs: add usage examples
+2025-06-13T02:44:48+0000  feat: cache computed values
