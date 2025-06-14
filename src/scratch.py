@@ -1629,3 +1629,4 @@
 2025-06-10T04:44:04+0000  fix: guard against None in serializer
 2025-06-12T10:54:47+0000  feat: cache computed values
 2025-06-13T23:02:50+0000  feat: cache computed values
+2025-06-14T18:21:28+0000  feat: add retry with backoff
