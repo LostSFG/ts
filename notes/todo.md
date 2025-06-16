@@ -1542,3 +1542,4 @@
 2025-06-05T13:03:37+0000  feat: support config file overrides
 2025-06-06T12:52:51+0000  fix: correct timezone handling
 2025-06-13T04:55:36+0000  feat: cache computed values
+2025-06-16T21:25:22+0000  chore: update lockfile
