@@ -779,3 +779,4 @@
 2025-06-13T05:08:01+0000  chore: bump dependencies
 2025-06-13T18:55:08+0000  feat: expose --verbose flag
 2025-06-13T23:22:15+0000  fix: handle empty response from upstream
+2025-06-16T05:37:52+0000  feat: cache computed values
