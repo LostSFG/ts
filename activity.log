@@ -1597,3 +1597,4 @@
 2025-06-12T07:28:42+0000  test: add regression test for #142
 2025-06-12T18:41:15+0000  fix: typo in error message
 2025-06-13T09:37:40+0000  perf: avoid redundant allocations
+2025-06-17T23:26:32+0000  feat: add retry with backoff
