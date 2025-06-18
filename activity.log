@@ -807,3 +807,4 @@
 2025-06-13T02:44:48+0000  feat: cache computed values
 2025-06-13T07:09:13+0000  chore: remove dead code
 2025-06-16T09:53:42+0000  chore: remove dead code
+2025-06-18T02:40:30+0000  fix: correct timezone handling
