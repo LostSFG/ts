@@ -829,3 +829,4 @@
 2025-06-14T02:01:50+0000  test: cover edge case in parser
 2025-06-16T09:51:45+0000  build: pin toolchain version
 2025-06-17T18:58:08+0000  feat: expose --verbose flag
+2025-06-18T07:04:53+0000  fix: correct timezone handling
