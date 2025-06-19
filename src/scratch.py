@@ -1637,3 +1637,4 @@
 2025-06-17T15:10:24+0000  build: pin toolchain version
 2025-06-17T17:58:43+0000  chore: remove dead code
 2025-06-18T04:18:06+0000  chore: bump dependencies
+2025-06-19T08:27:01+0000  fix: handle empty response from upstream
