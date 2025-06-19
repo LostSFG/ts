@@ -1638,3 +1638,4 @@
 2025-06-17T17:58:43+0000  chore: remove dead code
 2025-06-18T04:18:06+0000  chore: bump dependencies
 2025-06-19T08:27:01+0000  fix: handle empty response from upstream
+2025-06-19T15:07:35+0000  feat: support config file overrides
