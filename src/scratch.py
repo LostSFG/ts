@@ -830,3 +830,4 @@
 2025-06-16T09:51:45+0000  build: pin toolchain version
 2025-06-17T18:58:08+0000  feat: expose --verbose flag
 2025-06-18T07:04:53+0000  fix: correct timezone handling
+2025-06-20T06:07:59+0000  fix: guard against None in serializer
