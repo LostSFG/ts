@@ -1545,3 +1545,4 @@
 2025-06-16T21:25:22+0000  chore: update lockfile
 2025-06-17T17:42:43+0000  fix: correct timezone handling
 2025-06-18T21:01:05+0000  fix: guard against None in serializer
+2025-06-20T04:31:16+0000  docs: add usage examples
