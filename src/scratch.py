@@ -832,3 +832,4 @@
 2025-06-18T07:04:53+0000  fix: correct timezone handling
 2025-06-20T06:07:59+0000  fix: guard against None in serializer
 2025-06-20T15:17:56+0000  build: pin toolchain version
+2025-06-20T21:59:10+0000  chore: remove dead code
