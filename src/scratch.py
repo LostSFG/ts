@@ -1641,3 +1641,4 @@
 2025-06-19T15:07:35+0000  feat: support config file overrides
 2025-06-20T00:23:38+0000  perf: avoid redundant allocations
 2025-06-20T03:52:19+0000  docs: add usage examples
+2025-06-20T04:03:44+0000  docs: add usage examples
