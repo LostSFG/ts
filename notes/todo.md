@@ -1552,3 +1552,4 @@
 2025-06-23T12:09:18+0000  perf: avoid redundant allocations
 2025-06-24T08:39:44+0000  feat: support config file overrides
 2025-06-24T15:56:13+0000  refactor: simplify control flow
+2025-06-24T20:34:58+0000  fix: typo in error message
