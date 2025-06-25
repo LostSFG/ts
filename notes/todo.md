@@ -784,3 +784,4 @@
 2025-06-18T23:33:20+0000  refactor: extract helper for date parsing
 2025-06-20T01:00:09+0000  feat: expose --verbose flag
 2025-06-20T07:56:45+0000  chore: update lockfile
+2025-06-25T12:33:19+0000  chore: remove dead code
