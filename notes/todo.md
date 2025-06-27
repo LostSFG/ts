@@ -1555,3 +1555,4 @@
 2025-06-24T20:34:58+0000  fix: typo in error message
 2025-06-25T18:29:39+0000  style: tidy up imports
 2025-06-27T04:11:07+0000  docs: add usage examples
+2025-06-27T17:53:36+0000  refactor: extract helper for date parsing
