@@ -836,3 +836,4 @@
 2025-06-23T03:41:57+0000  fix: handle empty response from upstream
 2025-06-25T11:14:33+0000  fix: correct timezone handling
 2025-06-26T16:08:54+0000  build: pin toolchain version
+2025-06-27T19:46:49+0000  feat: add retry with backoff
