@@ -1607,3 +1607,4 @@
 2025-06-25T08:38:42+0000  fix: handle empty response from upstream
 2025-06-27T09:55:47+0000  feat: add retry with backoff
 2025-06-28T03:43:09+0000  docs: clarify setup instructions
+2025-06-28T09:14:52+0000  build: pin toolchain version
