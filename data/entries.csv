@@ -1581,3 +1581,4 @@
 2025-06-20T19:40:56+0000  fix: handle empty response from upstream
 2025-06-24T09:04:51+0000  fix: correct timezone handling
 2025-06-24T10:39:41+0000  chore: update lockfile
+2025-06-28T13:49:23+0000  docs: add usage examples
