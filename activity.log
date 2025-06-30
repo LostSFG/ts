@@ -812,3 +812,4 @@
 2025-06-25T18:25:59+0000  fix: correct timezone handling
 2025-06-26T13:08:23+0000  feat: add retry with backoff
 2025-06-27T09:53:50+0000  docs: add usage examples
+2025-06-30T00:32:15+0000  docs: add usage examples
