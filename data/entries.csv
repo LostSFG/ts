@@ -1582,3 +1582,4 @@
 2025-06-24T09:04:51+0000  fix: correct timezone handling
 2025-06-24T10:39:41+0000  chore: update lockfile
 2025-06-28T13:49:23+0000  docs: add usage examples
+2025-06-30T22:14:09+0000  perf: avoid redundant allocations
