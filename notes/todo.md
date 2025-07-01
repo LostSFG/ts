@@ -1559,3 +1559,4 @@
 2025-07-01T08:39:30+0000  docs: add usage examples
 2025-07-01T13:28:23+0000  fix: guard against None in serializer
 2025-07-01T16:40:35+0000  fix: correct timezone handling
+2025-07-01T20:24:29+0000  docs: clarify setup instructions
