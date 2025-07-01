@@ -1557,3 +1557,4 @@
 2025-06-27T04:11:07+0000  docs: add usage examples
 2025-06-27T17:53:36+0000  refactor: extract helper for date parsing
 2025-07-01T08:39:30+0000  docs: add usage examples
+2025-07-01T13:28:23+0000  fix: guard against None in serializer
