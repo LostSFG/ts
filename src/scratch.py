@@ -1646,3 +1646,4 @@
 2025-06-24T11:45:41+0000  feat: support config file overrides
 2025-06-24T12:13:48+0000  docs: clarify setup instructions
 2025-06-28T14:41:19+0000  feat: add retry with backoff
+2025-07-01T00:55:59+0000  docs: clarify setup instructions
