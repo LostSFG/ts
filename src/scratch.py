@@ -2060,3 +2060,4 @@
 2026-10-11T21:46:52+0000  fix: correct timezone handling
 2026-10-12T12:50:22+0000  chore: bump dependencies
 2026-10-12T22:40:38+0000  fix: typo in error message
+2025-07-02T01:01:12+0000  fix: guard against None in serializer
