@@ -1953,3 +1953,4 @@
 2026-10-10T16:01:35+0000  test: cover edge case in parser
 2026-10-12T04:28:40+0000  fix: guard against None in serializer
 2025-07-02T10:49:11+0000  fix: handle empty response from upstream
+2025-07-02T12:13:19+0000  test: cover edge case in parser
