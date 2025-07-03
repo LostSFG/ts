@@ -2015,3 +2015,4 @@
 2026-10-12T23:56:28+0000  test: add regression test for #142
 2025-07-02T10:00:38+0000  build: pin toolchain version
 2025-07-02T14:57:06+0000  feat: add retry with backoff
+2025-07-03T20:47:41+0000  fix: guard against None in serializer
