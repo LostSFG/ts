@@ -1652,3 +1652,4 @@
 2025-07-02T05:30:33+0000  style: tidy up imports
 2025-07-02T22:22:44+0000  fix: correct timezone handling
 2025-07-03T12:00:54+0000  fix: correct timezone handling
+2025-07-03T21:07:45+0000  fix: typo in error message
