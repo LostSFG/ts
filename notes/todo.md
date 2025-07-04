@@ -1956,3 +1956,4 @@
 2025-07-02T12:13:19+0000  test: cover edge case in parser
 2025-07-02T15:53:30+0000  feat: expose --verbose flag
 2025-07-03T10:55:00+0000  refactor: extract helper for date parsing
+2025-07-04T05:08:39+0000  feat: expose --verbose flag
