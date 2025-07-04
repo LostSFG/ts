@@ -1958,3 +1958,4 @@
 2025-07-03T10:55:00+0000  refactor: extract helper for date parsing
 2025-07-04T05:08:39+0000  feat: expose --verbose flag
 2025-07-04T06:37:39+0000  feat: add retry with backoff
+2025-07-04T18:04:00+0000  build: pin toolchain version
