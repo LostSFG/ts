@@ -2060,3 +2060,4 @@
 2025-07-03T08:25:59+0000  feat: cache computed values
 2025-07-03T09:59:48+0000  build: pin toolchain version
 2025-07-06T10:24:49+0000  style: tidy up imports
+2025-07-06T16:18:43+0000  fix: correct timezone handling
