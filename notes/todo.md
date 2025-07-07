@@ -1564,3 +1564,4 @@
 2025-07-03T01:42:53+0000  refactor: extract helper for date parsing
 2025-07-04T14:53:17+0000  chore: bump dependencies
 2025-07-07T03:45:54+0000  perf: avoid redundant allocations
+2025-07-07T12:13:46+0000  feat: expose --verbose flag
