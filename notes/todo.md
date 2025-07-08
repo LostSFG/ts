@@ -1566,3 +1566,4 @@
 2025-07-07T03:45:54+0000  perf: avoid redundant allocations
 2025-07-07T12:13:46+0000  feat: expose --verbose flag
 2025-07-08T18:10:47+0000  test: cover edge case in parser
+2025-07-08T19:18:24+0000  build: pin toolchain version
