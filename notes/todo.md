@@ -1961,3 +1961,4 @@
 2025-07-04T18:04:00+0000  build: pin toolchain version
 2025-07-08T06:24:25+0000  style: tidy up imports
 2025-07-08T15:53:56+0000  docs: clarify setup instructions
+2025-07-08T18:21:17+0000  test: cover edge case in parser
