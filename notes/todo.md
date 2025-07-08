@@ -1962,3 +1962,4 @@
 2025-07-08T06:24:25+0000  style: tidy up imports
 2025-07-08T15:53:56+0000  docs: clarify setup instructions
 2025-07-08T18:21:17+0000  test: cover edge case in parser
+2025-07-08T19:07:37+0000  chore: update lockfile
