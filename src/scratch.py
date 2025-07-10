@@ -2067,3 +2067,4 @@
 2025-07-04T14:07:26+0000  fix: typo in error message
 2025-07-08T19:23:57+0000  perf: avoid redundant allocations
 2025-07-09T10:42:44+0000  refactor: simplify control flow
+2025-07-10T09:15:29+0000  docs: add usage examples
