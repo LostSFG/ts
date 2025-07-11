@@ -1965,3 +1965,4 @@
 2025-07-08T19:07:37+0000  chore: update lockfile
 2025-07-09T11:28:52+0000  fix: guard against None in serializer
 2025-07-09T18:16:59+0000  perf: avoid redundant allocations
+2025-07-11T03:30:14+0000  feat: expose --verbose flag
