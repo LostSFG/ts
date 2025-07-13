@@ -1568,3 +1568,4 @@
 2025-07-08T18:10:47+0000  test: cover edge case in parser
 2025-07-08T19:18:24+0000  build: pin toolchain version
 2025-07-08T22:52:31+0000  fix: typo in error message
+2025-07-13T21:34:24+0000  chore: remove dead code
