@@ -1660,3 +1660,4 @@
 2025-07-11T21:08:37+0000  fix: typo in error message
 2025-07-14T08:03:24+0000  feat: support config file overrides
 2025-07-14T13:15:32+0000  refactor: extract helper for date parsing
+2025-07-14T21:35:24+0000  fix: correct timezone handling
