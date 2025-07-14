@@ -1661,3 +1661,4 @@
 2025-07-14T08:03:24+0000  feat: support config file overrides
 2025-07-14T13:15:32+0000  refactor: extract helper for date parsing
 2025-07-14T21:35:24+0000  fix: correct timezone handling
+2025-07-14T23:55:03+0000  perf: avoid redundant allocations
