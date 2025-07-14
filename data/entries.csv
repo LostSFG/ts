@@ -2027,3 +2027,4 @@
 2025-07-14T08:46:05+0000  chore: bump dependencies
 2025-07-14T15:04:18+0000  test: add regression test for #142
 2025-07-14T15:58:49+0000  fix: guard against None in serializer
+2025-07-14T17:14:36+0000  feat: expose --verbose flag
