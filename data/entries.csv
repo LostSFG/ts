@@ -2024,3 +2024,4 @@
 2025-07-10T17:31:54+0000  fix: guard against None in serializer
 2025-07-11T09:55:49+0000  style: tidy up imports
 2025-07-11T18:29:37+0000  chore: update lockfile
+2025-07-14T08:46:05+0000  chore: bump dependencies
