@@ -1967,3 +1967,4 @@
 2025-07-09T18:16:59+0000  perf: avoid redundant allocations
 2025-07-11T03:30:14+0000  feat: expose --verbose flag
 2025-07-14T05:09:34+0000  fix: correct timezone handling
+2025-07-15T13:44:29+0000  feat: expose --verbose flag
