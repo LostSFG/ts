@@ -1662,3 +1662,4 @@
 2025-07-14T13:15:32+0000  refactor: extract helper for date parsing
 2025-07-14T21:35:24+0000  fix: correct timezone handling
 2025-07-14T23:55:03+0000  perf: avoid redundant allocations
+2025-07-15T07:56:14+0000  chore: bump dependencies
