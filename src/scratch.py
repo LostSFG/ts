@@ -2070,3 +2070,4 @@
 2025-07-10T09:15:29+0000  docs: add usage examples
 2025-07-14T17:20:28+0000  build: pin toolchain version
 2025-07-15T10:05:40+0000  test: cover edge case in parser
+2025-07-15T15:00:31+0000  fix: handle empty response from upstream
