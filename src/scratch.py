@@ -2069,3 +2069,4 @@
 2025-07-09T10:42:44+0000  refactor: simplify control flow
 2025-07-10T09:15:29+0000  docs: add usage examples
 2025-07-14T17:20:28+0000  build: pin toolchain version
+2025-07-15T10:05:40+0000  test: cover edge case in parser
