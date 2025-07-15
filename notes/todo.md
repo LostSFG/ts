@@ -1570,3 +1570,4 @@
 2025-07-08T22:52:31+0000  fix: typo in error message
 2025-07-13T21:34:24+0000  chore: remove dead code
 2025-07-15T07:57:55+0000  feat: cache computed values
+2025-07-15T19:41:30+0000  feat: expose --verbose flag
