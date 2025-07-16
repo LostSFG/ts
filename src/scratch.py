@@ -1663,3 +1663,4 @@
 2025-07-14T21:35:24+0000  fix: correct timezone handling
 2025-07-14T23:55:03+0000  perf: avoid redundant allocations
 2025-07-15T07:56:14+0000  chore: bump dependencies
+2025-07-16T16:25:55+0000  feat: add retry with backoff
