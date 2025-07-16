@@ -1597,3 +1597,4 @@
 2025-07-14T21:04:57+0000  fix: handle empty response from upstream
 2025-07-15T17:58:10+0000  build: pin toolchain version
 2025-07-15T19:08:05+0000  feat: cache computed values
+2025-07-16T03:31:21+0000  test: add regression test for #142
