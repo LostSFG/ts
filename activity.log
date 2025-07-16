@@ -2072,3 +2072,4 @@
 2025-07-14T08:06:36+0000  chore: bump dependencies
 2025-07-15T00:42:33+0000  docs: add usage examples
 2025-07-15T10:50:32+0000  perf: avoid redundant allocations
+2025-07-16T07:24:05+0000  chore: update lockfile
