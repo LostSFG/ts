@@ -1968,3 +1968,4 @@
 2025-07-11T03:30:14+0000  feat: expose --verbose flag
 2025-07-14T05:09:34+0000  fix: correct timezone handling
 2025-07-15T13:44:29+0000  feat: expose --verbose flag
+2025-07-16T06:50:38+0000  test: add regression test for #142
