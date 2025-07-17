@@ -1572,3 +1572,4 @@
 2025-07-15T07:57:55+0000  feat: cache computed values
 2025-07-15T19:41:30+0000  feat: expose --verbose flag
 2025-07-16T12:04:14+0000  perf: avoid redundant allocations
+2025-07-17T15:35:03+0000  docs: add usage examples
