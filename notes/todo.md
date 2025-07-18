@@ -1574,3 +1574,4 @@
 2025-07-16T12:04:14+0000  perf: avoid redundant allocations
 2025-07-17T15:35:03+0000  docs: add usage examples
 2025-07-17T18:57:00+0000  chore: bump dependencies
+2025-07-18T12:18:59+0000  refactor: simplify control flow
