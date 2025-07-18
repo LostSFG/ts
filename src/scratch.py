@@ -1665,3 +1665,4 @@
 2025-07-15T07:56:14+0000  chore: bump dependencies
 2025-07-16T16:25:55+0000  feat: add retry with backoff
 2025-07-16T19:49:58+0000  feat: support config file overrides
+2025-07-18T15:18:38+0000  perf: avoid redundant allocations
