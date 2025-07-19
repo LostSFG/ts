@@ -1576,3 +1576,4 @@
 2025-07-17T18:57:00+0000  chore: bump dependencies
 2025-07-18T12:18:59+0000  refactor: simplify control flow
 2025-07-18T17:38:39+0000  build: pin toolchain version
+2025-07-19T14:11:14+0000  refactor: extract helper for date parsing
