@@ -1666,3 +1666,4 @@
 2025-07-16T16:25:55+0000  feat: add retry with backoff
 2025-07-16T19:49:58+0000  feat: support config file overrides
 2025-07-18T15:18:38+0000  perf: avoid redundant allocations
+2025-07-19T19:46:07+0000  feat: expose --verbose flag
