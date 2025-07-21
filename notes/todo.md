@@ -1578,3 +1578,4 @@
 2025-07-18T17:38:39+0000  build: pin toolchain version
 2025-07-19T14:11:14+0000  refactor: extract helper for date parsing
 2025-07-19T23:24:24+0000  feat: cache computed values
+2025-07-21T04:47:26+0000  docs: add usage examples
