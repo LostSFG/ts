@@ -2076,3 +2076,4 @@
 2025-07-18T08:32:08+0000  feat: add retry with backoff
 2025-07-18T11:11:55+0000  chore: bump dependencies
 2025-07-18T22:19:14+0000  fix: correct timezone handling
+2025-07-21T15:48:24+0000  build: pin toolchain version
