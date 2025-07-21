@@ -1668,3 +1668,4 @@
 2025-07-18T15:18:38+0000  perf: avoid redundant allocations
 2025-07-19T19:46:07+0000  feat: expose --verbose flag
 2025-07-21T10:07:47+0000  perf: avoid redundant allocations
+2025-07-21T11:51:25+0000  docs: add usage examples
