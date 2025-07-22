@@ -1670,3 +1670,4 @@
 2025-07-21T10:07:47+0000  perf: avoid redundant allocations
 2025-07-21T11:51:25+0000  docs: add usage examples
 2025-07-22T13:27:00+0000  style: tidy up imports
+2025-07-22T18:19:11+0000  perf: avoid redundant allocations
