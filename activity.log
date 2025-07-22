@@ -1636,3 +1636,4 @@
 2025-07-21T12:56:36+0000  style: tidy up imports
 2025-07-21T20:26:15+0000  fix: guard against None in serializer
 2025-07-22T01:17:58+0000  style: tidy up imports
+2025-07-22T16:52:25+0000  docs: clarify setup instructions
