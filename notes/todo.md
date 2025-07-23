@@ -1582,3 +1582,4 @@
 2025-07-21T20:11:41+0000  test: add regression test for #142
 2025-07-21T22:01:05+0000  docs: clarify setup instructions
 2025-07-22T11:15:19+0000  fix: guard against None in serializer
+2025-07-23T05:54:22+0000  fix: correct timezone handling
