@@ -2079,3 +2079,4 @@
 2025-07-21T15:48:24+0000  build: pin toolchain version
 2025-07-21T21:25:08+0000  fix: guard against None in serializer
 2025-07-23T01:04:37+0000  fix: typo in error message
+2025-07-23T07:24:58+0000  chore: update lockfile
