@@ -1603,3 +1603,4 @@
 2025-07-18T08:11:14+0000  chore: bump dependencies
 2025-07-18T21:29:51+0000  feat: support config file overrides
 2025-07-21T13:45:51+0000  build: pin toolchain version
+2025-07-23T02:15:30+0000  feat: support config file overrides
