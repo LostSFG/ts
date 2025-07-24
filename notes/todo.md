@@ -1585,3 +1585,4 @@
 2025-07-23T05:54:22+0000  fix: correct timezone handling
 2025-07-23T09:38:27+0000  feat: expose --verbose flag
 2025-07-24T02:16:24+0000  refactor: simplify control flow
+2025-07-24T06:25:07+0000  docs: add usage examples
