@@ -1639,3 +1639,4 @@
 2025-07-22T16:52:25+0000  docs: clarify setup instructions
 2025-07-23T19:06:32+0000  feat: cache computed values
 2025-07-24T07:45:10+0000  feat: expose --verbose flag
+2025-07-24T10:09:45+0000  feat: cache computed values
