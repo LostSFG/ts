@@ -2036,3 +2036,4 @@
 2025-07-22T02:28:35+0000  feat: cache computed values
 2025-07-23T10:09:56+0000  test: cover edge case in parser
 2025-07-24T03:31:54+0000  feat: expose --verbose flag
+2025-07-24T08:58:41+0000  feat: add retry with backoff
