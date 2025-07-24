@@ -2077,3 +2077,4 @@
 2025-07-21T04:55:32+0000  docs: add usage examples
 2025-07-22T01:47:09+0000  docs: add usage examples
 2025-07-23T21:17:29+0000  refactor: extract helper for date parsing
+2025-07-24T06:15:54+0000  feat: support config file overrides
