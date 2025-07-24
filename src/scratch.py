@@ -1674,3 +1674,4 @@
 2025-07-22T19:49:38+0000  fix: handle empty response from upstream
 2025-07-23T04:26:43+0000  chore: bump dependencies
 2025-07-23T09:25:12+0000  docs: clarify setup instructions
+2025-07-24T21:34:22+0000  build: pin toolchain version
