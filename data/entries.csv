@@ -2037,3 +2037,4 @@
 2025-07-23T10:09:56+0000  test: cover edge case in parser
 2025-07-24T03:31:54+0000  feat: expose --verbose flag
 2025-07-24T08:58:41+0000  feat: add retry with backoff
+2025-07-25T00:15:40+0000  fix: guard against None in serializer
