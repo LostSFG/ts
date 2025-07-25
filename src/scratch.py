@@ -2081,3 +2081,4 @@
 2025-07-23T01:04:37+0000  fix: typo in error message
 2025-07-23T07:24:58+0000  chore: update lockfile
 2025-07-25T04:37:46+0000  fix: correct timezone handling
+2025-07-25T16:11:54+0000  refactor: extract helper for date parsing
