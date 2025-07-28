@@ -1974,3 +1974,4 @@
 2025-07-23T09:57:21+0000  feat: add retry with backoff
 2025-07-23T10:27:42+0000  chore: remove dead code
 2025-07-25T00:15:13+0000  feat: add retry with backoff
+2025-07-28T17:15:10+0000  feat: expose --verbose flag
