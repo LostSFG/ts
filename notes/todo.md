@@ -1588,3 +1588,4 @@
 2025-07-24T06:25:07+0000  docs: add usage examples
 2025-07-24T16:30:29+0000  test: cover edge case in parser
 2025-07-25T01:51:41+0000  chore: bump dependencies
+2025-07-28T02:15:45+0000  perf: avoid redundant allocations
