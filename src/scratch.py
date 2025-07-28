@@ -2083,3 +2083,4 @@
 2025-07-25T04:37:46+0000  fix: correct timezone handling
 2025-07-25T16:11:54+0000  refactor: extract helper for date parsing
 2025-07-26T00:54:46+0000  feat: cache computed values
+2025-07-28T10:10:33+0000  chore: bump dependencies
