@@ -1610,3 +1610,4 @@
 2025-07-24T20:32:12+0000  feat: expose --verbose flag
 2025-07-25T12:35:14+0000  docs: clarify setup instructions
 2025-07-28T05:01:27+0000  docs: clarify setup instructions
+2025-07-28T13:19:18+0000  feat: support config file overrides
