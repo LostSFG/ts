@@ -1677,3 +1677,4 @@
 2025-07-24T21:34:22+0000  build: pin toolchain version
 2025-07-28T11:21:41+0000  chore: update lockfile
 2025-07-28T15:19:36+0000  test: add regression test for #142
+2025-07-28T16:02:04+0000  docs: add usage examples
