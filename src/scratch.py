@@ -2085,3 +2085,4 @@
 2025-07-26T00:54:46+0000  feat: cache computed values
 2025-07-28T10:10:33+0000  chore: bump dependencies
 2025-07-29T03:29:18+0000  test: cover edge case in parser
+2025-07-29T10:03:39+0000  test: cover edge case in parser
