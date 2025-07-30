@@ -2086,3 +2086,4 @@
 2025-07-28T10:10:33+0000  chore: bump dependencies
 2025-07-29T03:29:18+0000  test: cover edge case in parser
 2025-07-29T10:03:39+0000  test: cover edge case in parser
+2025-07-30T00:52:59+0000  test: add regression test for #142
