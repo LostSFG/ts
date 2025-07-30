@@ -1615,3 +1615,4 @@
 2025-07-29T22:09:56+0000  feat: support config file overrides
 2025-07-30T13:59:25+0000  refactor: extract helper for date parsing
 2025-07-30T22:15:56+0000  docs: clarify setup instructions
+2025-07-30T23:03:14+0000  chore: update lockfile
