@@ -1976,3 +1976,4 @@
 2025-07-25T00:15:13+0000  feat: add retry with backoff
 2025-07-28T17:15:10+0000  feat: expose --verbose flag
 2025-07-30T07:53:29+0000  docs: add usage examples
+2025-07-31T17:23:55+0000  docs: clarify setup instructions
