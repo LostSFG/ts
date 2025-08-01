@@ -2041,3 +2041,4 @@
 2025-07-26T13:42:53+0000  build: pin toolchain version
 2025-07-29T17:04:35+0000  chore: update lockfile
 2025-07-31T06:18:59+0000  perf: avoid redundant allocations
+2025-08-01T00:21:22+0000  feat: expose --verbose flag
