@@ -1683,3 +1683,4 @@
 2025-07-30T20:14:03+0000  chore: bump dependencies
 2025-07-31T06:51:21+0000  chore: bump dependencies
 2025-08-01T15:24:20+0000  chore: bump dependencies
+2025-08-01T17:33:48+0000  fix: guard against None in serializer
