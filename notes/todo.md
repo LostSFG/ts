@@ -1977,3 +1977,4 @@
 2025-07-28T17:15:10+0000  feat: expose --verbose flag
 2025-07-30T07:53:29+0000  docs: add usage examples
 2025-07-31T17:23:55+0000  docs: clarify setup instructions
+2025-08-01T12:43:45+0000  refactor: extract helper for date parsing
