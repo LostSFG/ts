@@ -2082,3 +2082,4 @@
 2025-07-26T16:36:28+0000  chore: remove dead code
 2025-07-28T07:24:00+0000  docs: add usage examples
 2025-07-28T21:37:04+0000  docs: add usage examples
+2025-08-01T07:37:53+0000  fix: handle empty response from upstream
