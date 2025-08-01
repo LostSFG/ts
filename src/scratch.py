@@ -2088,3 +2088,4 @@
 2025-07-29T10:03:39+0000  test: cover edge case in parser
 2025-07-30T00:52:59+0000  test: add regression test for #142
 2025-07-31T06:38:46+0000  style: tidy up imports
+2025-08-01T04:22:51+0000  feat: cache computed values
