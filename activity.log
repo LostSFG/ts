@@ -1648,3 +1648,4 @@
 2025-07-31T17:36:16+0000  fix: guard against None in serializer
 2025-08-01T04:35:54+0000  feat: support config file overrides
 2025-08-01T04:41:02+0000  style: tidy up imports
+2025-08-01T11:51:53+0000  chore: bump dependencies
