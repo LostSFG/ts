@@ -1685,3 +1685,4 @@
 2025-08-01T15:24:20+0000  chore: bump dependencies
 2025-08-01T17:33:48+0000  fix: guard against None in serializer
 2025-08-01T18:46:50+0000  build: pin toolchain version
+2025-08-01T23:48:16+0000  feat: support config file overrides
