@@ -1592,3 +1592,4 @@
 2025-07-30T04:11:08+0000  chore: bump dependencies
 2025-07-31T21:35:54+0000  style: tidy up imports
 2025-08-01T09:42:58+0000  refactor: extract helper for date parsing
+2025-08-03T03:13:36+0000  fix: typo in error message
