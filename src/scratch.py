@@ -1686,3 +1686,4 @@
 2025-08-01T17:33:48+0000  fix: guard against None in serializer
 2025-08-01T18:46:50+0000  build: pin toolchain version
 2025-08-01T23:48:16+0000  feat: support config file overrides
+2025-08-03T04:22:17+0000  fix: typo in error message
