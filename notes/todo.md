@@ -1594,3 +1594,4 @@
 2025-08-01T09:42:58+0000  refactor: extract helper for date parsing
 2025-08-03T03:13:36+0000  fix: typo in error message
 2025-08-03T04:58:58+0000  fix: guard against None in serializer
+2025-08-04T20:06:38+0000  fix: guard against None in serializer
