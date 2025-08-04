@@ -2090,3 +2090,4 @@
 2025-07-31T06:38:46+0000  style: tidy up imports
 2025-08-01T04:22:51+0000  feat: cache computed values
 2025-08-03T22:23:10+0000  feat: expose --verbose flag
+2025-08-04T21:04:46+0000  perf: avoid redundant allocations
