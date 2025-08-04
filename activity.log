@@ -1651,3 +1651,4 @@
 2025-08-01T11:51:53+0000  chore: bump dependencies
 2025-08-01T21:47:07+0000  docs: clarify setup instructions
 2025-08-04T13:42:28+0000  chore: bump dependencies
+2025-08-04T15:32:08+0000  fix: handle empty response from upstream
