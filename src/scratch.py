@@ -2093,3 +2093,4 @@
 2025-08-04T21:04:46+0000  perf: avoid redundant allocations
 2025-08-04T23:13:47+0000  chore: remove dead code
 2025-08-05T11:33:13+0000  fix: handle empty response from upstream
+2025-08-05T20:46:46+0000  test: add regression test for #142
