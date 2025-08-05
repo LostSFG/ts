@@ -2086,3 +2086,4 @@
 2025-08-01T15:59:30+0000  fix: typo in error message
 2025-08-01T21:38:56+0000  docs: clarify setup instructions
 2025-08-04T14:49:09+0000  fix: guard against None in serializer
+2025-08-05T13:42:14+0000  chore: bump dependencies
