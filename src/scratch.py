@@ -1688,3 +1688,4 @@
 2025-08-01T23:48:16+0000  feat: support config file overrides
 2025-08-03T04:22:17+0000  fix: typo in error message
 2025-08-04T13:59:48+0000  refactor: extract helper for date parsing
+2025-08-05T13:12:23+0000  fix: guard against None in serializer
