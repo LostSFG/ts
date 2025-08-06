@@ -1595,3 +1595,4 @@
 2025-08-03T03:13:36+0000  fix: typo in error message
 2025-08-03T04:58:58+0000  fix: guard against None in serializer
 2025-08-04T20:06:38+0000  fix: guard against None in serializer
+2025-08-06T05:44:02+0000  build: pin toolchain version
