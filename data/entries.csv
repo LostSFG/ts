@@ -1621,3 +1621,4 @@
 2025-08-04T21:12:44+0000  build: pin toolchain version
 2025-08-04T23:46:14+0000  feat: support config file overrides
 2025-08-05T03:58:32+0000  docs: clarify setup instructions
+2025-08-06T14:46:11+0000  fix: typo in error message
