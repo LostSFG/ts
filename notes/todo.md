@@ -1982,3 +1982,4 @@
 2025-08-04T15:59:39+0000  test: cover edge case in parser
 2025-08-04T16:48:07+0000  fix: guard against None in serializer
 2025-08-06T06:37:44+0000  refactor: extract helper for date parsing
+2025-08-06T11:59:46+0000  refactor: simplify control flow
