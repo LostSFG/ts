@@ -1690,3 +1690,4 @@
 2025-08-04T13:59:48+0000  refactor: extract helper for date parsing
 2025-08-05T13:12:23+0000  fix: guard against None in serializer
 2025-08-06T02:34:54+0000  build: pin toolchain version
+2025-08-06T17:50:27+0000  perf: avoid redundant allocations
