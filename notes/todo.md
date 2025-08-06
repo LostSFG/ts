@@ -1981,3 +1981,4 @@
 2025-08-04T10:13:18+0000  fix: correct timezone handling
 2025-08-04T15:59:39+0000  test: cover edge case in parser
 2025-08-04T16:48:07+0000  fix: guard against None in serializer
+2025-08-06T06:37:44+0000  refactor: extract helper for date parsing
