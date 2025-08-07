@@ -2096,3 +2096,4 @@
 2025-08-05T20:46:46+0000  test: add regression test for #142
 2025-08-07T00:27:25+0000  chore: remove dead code
 2025-08-07T05:16:06+0000  fix: handle empty response from upstream
+2025-08-07T07:34:12+0000  feat: cache computed values
