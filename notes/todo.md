@@ -1597,3 +1597,4 @@
 2025-08-04T20:06:38+0000  fix: guard against None in serializer
 2025-08-06T05:44:02+0000  build: pin toolchain version
 2025-08-06T12:40:50+0000  chore: bump dependencies
+2025-08-08T09:52:52+0000  fix: handle empty response from upstream
