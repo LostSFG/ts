@@ -1985,3 +1985,4 @@
 2025-08-06T11:59:46+0000  refactor: simplify control flow
 2025-08-06T13:45:26+0000  refactor: extract helper for date parsing
 2025-08-07T14:21:07+0000  docs: add usage examples
+2025-08-08T10:32:56+0000  fix: correct timezone handling
