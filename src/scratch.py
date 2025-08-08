@@ -1692,3 +1692,4 @@
 2025-08-06T02:34:54+0000  build: pin toolchain version
 2025-08-06T17:50:27+0000  perf: avoid redundant allocations
 2025-08-07T18:53:48+0000  docs: clarify setup instructions
+2025-08-08T00:33:01+0000  chore: remove dead code
