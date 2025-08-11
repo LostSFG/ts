@@ -2088,3 +2088,4 @@
 2025-08-04T14:49:09+0000  fix: guard against None in serializer
 2025-08-05T13:42:14+0000  chore: bump dependencies
 2025-08-08T09:18:27+0000  style: tidy up imports
+2025-08-11T03:48:18+0000  feat: cache computed values
