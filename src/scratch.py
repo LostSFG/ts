@@ -2099,3 +2099,4 @@
 2025-08-07T07:34:12+0000  feat: cache computed values
 2025-08-08T09:19:30+0000  test: add regression test for #142
 2025-08-08T14:27:39+0000  feat: add retry with backoff
+2025-08-11T23:59:23+0000  fix: typo in error message
