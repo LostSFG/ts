@@ -1987,3 +1987,4 @@
 2025-08-07T14:21:07+0000  docs: add usage examples
 2025-08-08T10:32:56+0000  fix: correct timezone handling
 2025-08-11T06:38:57+0000  test: cover edge case in parser
+2025-08-11T10:48:34+0000  refactor: extract helper for date parsing
