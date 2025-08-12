@@ -1699,3 +1699,4 @@
 2025-08-12T01:33:38+0000  test: cover edge case in parser
 2025-08-12T09:37:26+0000  chore: update lockfile
 2025-08-12T20:12:16+0000  test: add regression test for #142
+2025-08-12T23:22:42+0000  feat: support config file overrides
