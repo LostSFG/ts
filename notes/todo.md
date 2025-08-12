@@ -1601,3 +1601,4 @@
 2025-08-08T16:43:07+0000  style: tidy up imports
 2025-08-08T21:47:45+0000  chore: bump dependencies
 2025-08-12T09:20:21+0000  feat: expose --verbose flag
+2025-08-12T15:40:10+0000  fix: guard against None in serializer
