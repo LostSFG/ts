@@ -1698,3 +1698,4 @@
 2025-08-11T06:34:43+0000  refactor: simplify control flow
 2025-08-12T01:33:38+0000  test: cover edge case in parser
 2025-08-12T09:37:26+0000  chore: update lockfile
+2025-08-12T20:12:16+0000  test: add regression test for #142
