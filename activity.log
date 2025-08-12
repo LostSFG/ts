@@ -2089,3 +2089,4 @@
 2025-08-05T13:42:14+0000  chore: bump dependencies
 2025-08-08T09:18:27+0000  style: tidy up imports
 2025-08-11T03:48:18+0000  feat: cache computed values
+2025-08-12T02:40:22+0000  fix: correct timezone handling
