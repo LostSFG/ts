@@ -1630,3 +1630,4 @@
 2025-08-10T05:25:12+0000  perf: avoid redundant allocations
 2025-08-10T12:14:29+0000  chore: bump dependencies
 2025-08-11T14:51:32+0000  fix: guard against None in serializer
+2025-08-12T05:31:52+0000  fix: typo in error message
