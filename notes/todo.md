@@ -1990,3 +1990,4 @@
 2025-08-11T10:48:34+0000  refactor: extract helper for date parsing
 2025-08-11T12:32:47+0000  chore: update lockfile
 2025-08-11T18:40:42+0000  fix: guard against None in serializer
+2025-08-13T05:30:30+0000  docs: add usage examples
