@@ -1992,3 +1992,4 @@
 2025-08-11T18:40:42+0000  fix: guard against None in serializer
 2025-08-13T05:30:30+0000  docs: add usage examples
 2025-08-14T21:03:29+0000  feat: support config file overrides
+2025-08-14T22:53:34+0000  perf: avoid redundant allocations
