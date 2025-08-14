@@ -2091,3 +2091,4 @@
 2025-08-11T03:48:18+0000  feat: cache computed values
 2025-08-12T02:40:22+0000  fix: correct timezone handling
 2025-08-13T06:27:21+0000  perf: avoid redundant allocations
+2025-08-14T12:20:42+0000  feat: support config file overrides
