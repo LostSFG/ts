@@ -1632,3 +1632,4 @@
 2025-08-11T14:51:32+0000  fix: guard against None in serializer
 2025-08-12T05:31:52+0000  fix: typo in error message
 2025-08-12T07:41:25+0000  test: cover edge case in parser
+2025-08-14T08:11:39+0000  feat: add retry with backoff
