@@ -1991,3 +1991,4 @@
 2025-08-11T12:32:47+0000  chore: update lockfile
 2025-08-11T18:40:42+0000  fix: guard against None in serializer
 2025-08-13T05:30:30+0000  docs: add usage examples
+2025-08-14T21:03:29+0000  feat: support config file overrides
