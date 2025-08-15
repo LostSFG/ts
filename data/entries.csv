@@ -2053,3 +2053,4 @@
 2025-08-13T22:49:34+0000  chore: update lockfile
 2025-08-14T13:06:00+0000  perf: avoid redundant allocations
 2025-08-14T14:36:06+0000  fix: correct timezone handling
+2025-08-15T02:28:44+0000  docs: clarify setup instructions
