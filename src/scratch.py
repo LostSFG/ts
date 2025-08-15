@@ -1700,3 +1700,4 @@
 2025-08-12T09:37:26+0000  chore: update lockfile
 2025-08-12T20:12:16+0000  test: add regression test for #142
 2025-08-12T23:22:42+0000  feat: support config file overrides
+2025-08-15T19:09:57+0000  chore: bump dependencies
