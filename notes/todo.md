@@ -1994,3 +1994,4 @@
 2025-08-14T21:03:29+0000  feat: support config file overrides
 2025-08-14T22:53:34+0000  perf: avoid redundant allocations
 2025-08-15T16:46:10+0000  test: add regression test for #142
+2025-08-15T16:53:08+0000  chore: update lockfile
