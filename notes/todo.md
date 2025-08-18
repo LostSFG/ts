@@ -1997,3 +1997,4 @@
 2025-08-15T16:53:08+0000  chore: update lockfile
 2025-08-15T19:02:37+0000  test: add regression test for #142
 2025-08-16T23:57:54+0000  fix: handle empty response from upstream
+2025-08-18T03:01:52+0000  refactor: simplify control flow
