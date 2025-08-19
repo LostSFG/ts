@@ -2057,3 +2057,4 @@
 2025-08-16T01:22:17+0000  refactor: extract helper for date parsing
 2025-08-19T01:01:44+0000  build: pin toolchain version
 2025-08-19T10:19:12+0000  feat: support config file overrides
+2025-08-19T19:57:16+0000  test: add regression test for #142
