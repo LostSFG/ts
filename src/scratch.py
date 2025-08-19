@@ -1702,3 +1702,4 @@
 2025-08-12T23:22:42+0000  feat: support config file overrides
 2025-08-15T19:09:57+0000  chore: bump dependencies
 2025-08-15T21:26:46+0000  fix: correct timezone handling
+2025-08-19T13:37:29+0000  fix: typo in error message
