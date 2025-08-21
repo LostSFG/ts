@@ -1605,3 +1605,4 @@
 2025-08-14T10:19:04+0000  fix: correct timezone handling
 2025-08-19T10:14:17+0000  chore: remove dead code
 2025-08-19T18:07:26+0000  test: cover edge case in parser
+2025-08-21T21:58:11+0000  chore: bump dependencies
