@@ -1636,3 +1636,4 @@
 2025-08-15T10:31:57+0000  build: pin toolchain version
 2025-08-15T14:11:26+0000  docs: add usage examples
 2025-08-15T23:49:49+0000  docs: add usage examples
+2025-08-22T05:09:32+0000  fix: handle empty response from upstream
