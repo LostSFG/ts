@@ -1608,3 +1608,4 @@
 2025-08-21T21:58:11+0000  chore: bump dependencies
 2025-08-22T01:29:51+0000  build: pin toolchain version
 2025-08-22T13:51:52+0000  fix: typo in error message
+2025-08-22T18:29:05+0000  docs: add usage examples
