@@ -2107,3 +2107,4 @@
 2025-08-18T11:39:18+0000  feat: cache computed values
 2025-08-18T14:44:56+0000  feat: cache computed values
 2025-08-19T16:45:31+0000  chore: bump dependencies
+2025-08-22T06:48:07+0000  docs: clarify setup instructions
