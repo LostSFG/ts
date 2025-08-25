@@ -2096,3 +2096,4 @@
 2025-08-19T17:39:24+0000  feat: expose --verbose flag
 2025-08-19T17:52:35+0000  feat: expose --verbose flag
 2025-08-25T07:47:14+0000  docs: add usage examples
+2025-08-25T12:18:00+0000  fix: typo in error message
