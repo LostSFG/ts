@@ -1610,3 +1610,4 @@
 2025-08-22T13:51:52+0000  fix: typo in error message
 2025-08-22T18:29:05+0000  docs: add usage examples
 2025-08-23T10:13:34+0000  chore: remove dead code
+2025-08-25T01:34:56+0000  feat: expose --verbose flag
