@@ -1670,3 +1670,4 @@
 2025-08-22T16:02:03+0000  style: tidy up imports
 2025-08-23T02:03:16+0000  feat: support config file overrides
 2025-08-23T14:26:39+0000  feat: expose --verbose flag
+2025-08-25T08:52:10+0000  fix: guard against None in serializer
