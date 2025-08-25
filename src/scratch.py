@@ -1706,3 +1706,4 @@
 2025-08-20T14:30:12+0000  fix: handle empty response from upstream
 2025-08-21T07:04:34+0000  perf: avoid redundant allocations
 2025-08-23T19:56:35+0000  fix: handle empty response from upstream
+2025-08-25T05:11:55+0000  refactor: extract helper for date parsing
