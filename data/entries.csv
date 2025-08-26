@@ -1639,3 +1639,4 @@
 2025-08-22T05:09:32+0000  fix: handle empty response from upstream
 2025-08-25T11:41:13+0000  fix: guard against None in serializer
 2025-08-25T13:00:39+0000  chore: update lockfile
+2025-08-26T02:08:53+0000  chore: bump dependencies
