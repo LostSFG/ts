@@ -2004,3 +2004,4 @@
 2025-08-19T21:38:23+0000  refactor: simplify control flow
 2025-08-25T07:44:16+0000  refactor: extract helper for date parsing
 2025-08-27T10:38:53+0000  fix: handle empty response from upstream
+2025-08-27T23:51:45+0000  docs: clarify setup instructions
