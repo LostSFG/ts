@@ -1612,3 +1612,4 @@
 2025-08-23T10:13:34+0000  chore: remove dead code
 2025-08-25T01:34:56+0000  feat: expose --verbose flag
 2025-08-26T06:40:03+0000  build: pin toolchain version
+2025-08-27T08:25:25+0000  feat: support config file overrides
