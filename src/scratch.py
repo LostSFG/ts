@@ -2110,3 +2110,4 @@
 2025-08-22T06:48:07+0000  docs: clarify setup instructions
 2025-08-25T01:08:49+0000  feat: add retry with backoff
 2025-08-27T00:31:34+0000  style: tidy up imports
+2025-08-27T02:14:09+0000  docs: clarify setup instructions
