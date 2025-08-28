@@ -2113,3 +2113,4 @@
 2025-08-27T02:14:09+0000  docs: clarify setup instructions
 2025-08-27T03:32:46+0000  style: tidy up imports
 2025-08-28T02:02:13+0000  feat: expose --verbose flag
+2025-08-28T08:53:54+0000  fix: typo in error message
