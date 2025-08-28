@@ -1673,3 +1673,4 @@
 2025-08-25T08:52:10+0000  fix: guard against None in serializer
 2025-08-26T20:10:54+0000  perf: avoid redundant allocations
 2025-08-28T02:05:42+0000  style: tidy up imports
+2025-08-28T08:13:51+0000  build: pin toolchain version
