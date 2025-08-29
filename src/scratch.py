@@ -2115,3 +2115,4 @@
 2025-08-28T02:02:13+0000  feat: expose --verbose flag
 2025-08-28T08:53:54+0000  fix: typo in error message
 2025-08-28T20:53:34+0000  refactor: simplify control flow
+2025-08-29T04:22:08+0000  feat: add retry with backoff
