@@ -2006,3 +2006,4 @@
 2025-08-27T10:38:53+0000  fix: handle empty response from upstream
 2025-08-27T23:51:45+0000  docs: clarify setup instructions
 2025-08-29T00:32:42+0000  docs: clarify setup instructions
+2025-08-29T14:43:21+0000  chore: update lockfile
