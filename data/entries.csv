@@ -2070,3 +2070,4 @@
 2025-08-29T03:55:22+0000  feat: add retry with backoff
 2025-08-29T16:05:57+0000  test: cover edge case in parser
 2025-08-29T16:19:33+0000  chore: bump dependencies
+2025-08-31T13:19:04+0000  build: pin toolchain version
