@@ -1675,3 +1675,4 @@
 2025-08-28T02:05:42+0000  style: tidy up imports
 2025-08-28T08:13:51+0000  build: pin toolchain version
 2025-08-28T13:28:53+0000  feat: expose --verbose flag
+2025-09-01T00:32:01+0000  perf: avoid redundant allocations
