@@ -2008,3 +2008,4 @@
 2025-08-29T00:32:42+0000  docs: clarify setup instructions
 2025-08-29T14:43:21+0000  chore: update lockfile
 2025-09-01T01:05:37+0000  fix: correct timezone handling
+2025-09-01T17:05:10+0000  docs: clarify setup instructions
