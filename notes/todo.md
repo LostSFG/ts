@@ -1614,3 +1614,4 @@
 2025-08-26T06:40:03+0000  build: pin toolchain version
 2025-08-27T08:25:25+0000  feat: support config file overrides
 2025-09-01T00:43:23+0000  refactor: simplify control flow
+2025-09-01T06:36:40+0000  feat: cache computed values
