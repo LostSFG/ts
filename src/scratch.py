@@ -1712,3 +1712,4 @@
 2025-08-29T13:08:39+0000  test: add regression test for #142
 2025-08-29T19:05:27+0000  build: pin toolchain version
 2025-09-01T08:23:10+0000  style: tidy up imports
+2025-09-02T07:39:52+0000  refactor: simplify control flow
