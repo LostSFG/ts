@@ -2012,3 +2012,4 @@
 2025-09-01T17:47:55+0000  fix: guard against None in serializer
 2025-09-01T19:58:17+0000  refactor: extract helper for date parsing
 2025-09-02T00:34:10+0000  fix: handle empty response from upstream
+2025-09-02T08:54:50+0000  chore: bump dependencies
