@@ -1616,3 +1616,4 @@
 2025-09-01T00:43:23+0000  refactor: simplify control flow
 2025-09-01T06:36:40+0000  feat: cache computed values
 2025-09-02T01:25:29+0000  refactor: extract helper for date parsing
+2025-09-02T18:44:24+0000  perf: avoid redundant allocations
