@@ -1683,3 +1683,4 @@
 2025-09-02T03:38:29+0000  chore: remove dead code
 2025-09-02T04:12:09+0000  feat: support config file overrides
 2025-09-03T02:07:24+0000  feat: support config file overrides
+2025-09-03T04:54:16+0000  test: add regression test for #142
