@@ -1647,3 +1647,4 @@
 2025-09-02T05:09:50+0000  feat: support config file overrides
 2025-09-02T09:38:53+0000  refactor: extract helper for date parsing
 2025-09-02T19:22:39+0000  test: cover edge case in parser
+2025-09-03T04:28:05+0000  build: pin toolchain version
