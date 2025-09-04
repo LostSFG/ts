@@ -2121,3 +2121,4 @@
 2025-09-03T04:02:00+0000  fix: correct timezone handling
 2025-09-03T08:11:41+0000  docs: clarify setup instructions
 2025-09-03T09:16:58+0000  docs: add usage examples
+2025-09-04T19:26:14+0000  feat: support config file overrides
