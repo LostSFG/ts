@@ -2124,3 +2124,4 @@
 2025-09-04T19:26:14+0000  feat: support config file overrides
 2025-09-05T00:19:20+0000  test: cover edge case in parser
 2025-09-05T10:00:40+0000  chore: remove dead code
+2025-09-05T18:55:15+0000  chore: bump dependencies
