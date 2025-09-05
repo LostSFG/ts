@@ -1652,3 +1652,4 @@
 2025-09-03T07:52:56+0000  fix: typo in error message
 2025-09-04T03:30:50+0000  style: tidy up imports
 2025-09-04T12:17:39+0000  feat: support config file overrides
+2025-09-05T23:06:37+0000  docs: clarify setup instructions
