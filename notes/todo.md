@@ -2015,3 +2015,4 @@
 2025-09-02T08:54:50+0000  chore: bump dependencies
 2025-09-03T06:54:06+0000  chore: update lockfile
 2025-09-05T05:53:40+0000  style: tidy up imports
+2025-09-05T17:31:22+0000  fix: guard against None in serializer
