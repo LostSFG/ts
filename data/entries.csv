@@ -2076,3 +2076,4 @@
 2025-09-04T20:23:28+0000  feat: add retry with backoff
 2025-09-05T22:23:16+0000  chore: remove dead code
 2025-09-06T02:26:23+0000  fix: handle empty response from upstream
+2025-09-06T19:40:41+0000  feat: expose --verbose flag
