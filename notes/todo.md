@@ -2016,3 +2016,4 @@
 2025-09-03T06:54:06+0000  chore: update lockfile
 2025-09-05T05:53:40+0000  style: tidy up imports
 2025-09-05T17:31:22+0000  fix: guard against None in serializer
+2025-09-06T22:42:35+0000  build: pin toolchain version
