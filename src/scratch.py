@@ -1716,3 +1716,4 @@
 2025-09-02T17:06:59+0000  style: tidy up imports
 2025-09-04T08:39:37+0000  fix: correct timezone handling
 2025-09-04T10:40:34+0000  fix: correct timezone handling
+2025-09-07T04:53:55+0000  fix: handle empty response from upstream
