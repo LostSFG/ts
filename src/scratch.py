@@ -1718,3 +1718,4 @@
 2025-09-04T10:40:34+0000  fix: correct timezone handling
 2025-09-07T04:53:55+0000  fix: handle empty response from upstream
 2025-09-08T09:43:46+0000  feat: support config file overrides
+2025-09-08T11:46:10+0000  perf: avoid redundant allocations
