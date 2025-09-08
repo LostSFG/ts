@@ -2110,3 +2110,4 @@
 2025-09-03T10:15:50+0000  style: tidy up imports
 2025-09-05T12:10:15+0000  docs: add usage examples
 2025-09-05T14:12:02+0000  test: cover edge case in parser
+2025-09-08T04:00:48+0000  fix: correct timezone handling
