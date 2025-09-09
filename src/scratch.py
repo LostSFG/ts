@@ -2130,3 +2130,4 @@
 2025-09-08T05:02:54+0000  chore: bump dependencies
 2025-09-08T18:48:00+0000  docs: clarify setup instructions
 2025-09-09T08:23:41+0000  test: add regression test for #142
+2025-09-09T19:05:30+0000  style: tidy up imports
