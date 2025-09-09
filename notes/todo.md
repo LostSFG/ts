@@ -2018,3 +2018,4 @@
 2025-09-05T17:31:22+0000  fix: guard against None in serializer
 2025-09-06T22:42:35+0000  build: pin toolchain version
 2025-09-08T01:50:54+0000  test: cover edge case in parser
+2025-09-09T02:59:11+0000  feat: support config file overrides
