@@ -2084,3 +2084,4 @@
 2025-09-09T06:54:18+0000  fix: handle empty response from upstream
 2025-09-09T20:27:49+0000  fix: correct timezone handling
 2025-09-09T23:11:51+0000  chore: bump dependencies
+2025-09-09T23:29:44+0000  feat: add retry with backoff
