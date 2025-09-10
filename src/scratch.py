@@ -2133,3 +2133,4 @@
 2025-09-09T19:05:30+0000  style: tidy up imports
 2025-09-10T00:57:01+0000  docs: add usage examples
 2025-09-10T03:43:29+0000  fix: correct timezone handling
+2025-09-10T05:29:48+0000  perf: avoid redundant allocations
