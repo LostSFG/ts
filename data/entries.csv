@@ -2086,3 +2086,4 @@
 2025-09-09T23:11:51+0000  chore: bump dependencies
 2025-09-09T23:29:44+0000  feat: add retry with backoff
 2025-09-10T07:40:03+0000  chore: update lockfile
+2025-09-10T17:31:40+0000  chore: remove dead code
