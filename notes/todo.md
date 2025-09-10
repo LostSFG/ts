@@ -2019,3 +2019,4 @@
 2025-09-06T22:42:35+0000  build: pin toolchain version
 2025-09-08T01:50:54+0000  test: cover edge case in parser
 2025-09-09T02:59:11+0000  feat: support config file overrides
+2025-09-10T05:29:17+0000  docs: clarify setup instructions
