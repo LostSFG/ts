@@ -2115,3 +2115,4 @@
 2025-09-09T21:31:27+0000  style: tidy up imports
 2025-09-10T09:17:41+0000  refactor: simplify control flow
 2025-09-10T23:14:57+0000  fix: typo in error message
+2025-09-11T06:35:23+0000  fix: handle empty response from upstream
