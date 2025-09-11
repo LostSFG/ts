@@ -1723,3 +1723,4 @@
 2025-09-09T18:53:32+0000  feat: add retry with backoff
 2025-09-09T21:38:38+0000  fix: guard against None in serializer
 2025-09-09T22:46:45+0000  chore: remove dead code
+2025-09-11T01:45:58+0000  docs: clarify setup instructions
