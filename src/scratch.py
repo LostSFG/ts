@@ -2139,3 +2139,4 @@
 2025-09-12T09:33:36+0000  fix: handle empty response from upstream
 2025-09-12T10:20:47+0000  feat: support config file overrides
 2025-09-12T10:26:36+0000  refactor: simplify control flow
+2025-09-12T20:06:26+0000  feat: add retry with backoff
