@@ -2021,3 +2021,4 @@
 2025-09-09T02:59:11+0000  feat: support config file overrides
 2025-09-10T05:29:17+0000  docs: clarify setup instructions
 2025-09-11T04:28:30+0000  docs: add usage examples
+2025-09-12T18:48:58+0000  feat: cache computed values
