@@ -1724,3 +1724,4 @@
 2025-09-09T21:38:38+0000  fix: guard against None in serializer
 2025-09-09T22:46:45+0000  chore: remove dead code
 2025-09-11T01:45:58+0000  docs: clarify setup instructions
+2025-09-12T12:47:14+0000  refactor: extract helper for date parsing
