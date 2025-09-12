@@ -2136,3 +2136,4 @@
 2025-09-10T05:29:48+0000  perf: avoid redundant allocations
 2025-09-11T22:58:21+0000  chore: update lockfile
 2025-09-12T07:14:15+0000  style: tidy up imports
+2025-09-12T09:33:36+0000  fix: handle empty response from upstream
