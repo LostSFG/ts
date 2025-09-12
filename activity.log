@@ -1688,3 +1688,4 @@
 2025-09-08T08:47:29+0000  chore: bump dependencies
 2025-09-09T14:39:37+0000  build: pin toolchain version
 2025-09-09T15:01:57+0000  build: pin toolchain version
+2025-09-12T03:38:36+0000  test: cover edge case in parser
