@@ -2141,3 +2141,4 @@
 2025-09-12T10:26:36+0000  refactor: simplify control flow
 2025-09-12T20:06:26+0000  feat: add retry with backoff
 2025-09-13T21:11:03+0000  test: add regression test for #142
+2025-09-14T09:00:08+0000  feat: expose --verbose flag
