@@ -2023,3 +2023,4 @@
 2025-09-11T04:28:30+0000  docs: add usage examples
 2025-09-12T18:48:58+0000  feat: cache computed values
 2025-09-15T00:47:37+0000  perf: avoid redundant allocations
+2025-09-15T01:17:45+0000  feat: expose --verbose flag
