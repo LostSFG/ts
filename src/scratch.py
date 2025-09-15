@@ -1726,3 +1726,4 @@
 2025-09-11T01:45:58+0000  docs: clarify setup instructions
 2025-09-12T12:47:14+0000  refactor: extract helper for date parsing
 2025-09-12T16:41:24+0000  refactor: simplify control flow
+2025-09-15T14:36:49+0000  docs: clarify setup instructions
