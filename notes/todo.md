@@ -1628,3 +1628,4 @@
 2025-09-09T05:24:35+0000  chore: update lockfile
 2025-09-09T20:05:19+0000  refactor: extract helper for date parsing
 2025-09-16T13:55:20+0000  fix: guard against None in serializer
+2025-09-17T07:28:18+0000  fix: typo in error message
