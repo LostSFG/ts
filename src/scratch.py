@@ -1729,3 +1729,4 @@
 2025-09-15T14:36:49+0000  docs: clarify setup instructions
 2025-09-18T08:58:08+0000  style: tidy up imports
 2025-09-19T12:33:14+0000  chore: remove dead code
+2025-09-19T15:22:37+0000  docs: clarify setup instructions
