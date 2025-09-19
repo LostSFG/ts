@@ -2028,3 +2028,4 @@
 2025-09-15T15:41:51+0000  feat: expose --verbose flag
 2025-09-17T12:11:57+0000  feat: support config file overrides
 2025-09-19T01:54:32+0000  chore: remove dead code
+2025-09-19T16:24:01+0000  fix: guard against None in serializer
