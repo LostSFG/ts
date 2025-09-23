@@ -2149,3 +2149,4 @@
 2025-09-23T05:55:43+0000  test: add regression test for #142
 2025-09-23T09:10:59+0000  fix: guard against None in serializer
 2025-09-23T11:57:13+0000  feat: expose --verbose flag
+2025-09-23T13:50:57+0000  refactor: extract helper for date parsing
