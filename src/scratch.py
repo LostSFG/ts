@@ -2150,3 +2150,4 @@
 2025-09-23T09:10:59+0000  fix: guard against None in serializer
 2025-09-23T11:57:13+0000  feat: expose --verbose flag
 2025-09-23T13:50:57+0000  refactor: extract helper for date parsing
+2025-09-23T23:16:29+0000  fix: guard against None in serializer
