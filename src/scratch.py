@@ -2146,3 +2146,4 @@
 2025-09-14T19:22:09+0000  chore: bump dependencies
 2025-09-18T03:43:23+0000  docs: add usage examples
 2025-09-22T08:55:18+0000  perf: avoid redundant allocations
+2025-09-23T05:55:43+0000  test: add regression test for #142
