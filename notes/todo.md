@@ -2032,3 +2032,4 @@
 2025-09-20T04:53:09+0000  style: tidy up imports
 2025-09-22T17:11:02+0000  test: cover edge case in parser
 2025-09-23T09:02:34+0000  test: cover edge case in parser
+2025-09-23T17:45:39+0000  build: pin toolchain version
