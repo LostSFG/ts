@@ -1660,3 +1660,4 @@
 2025-09-19T04:03:00+0000  refactor: extract helper for date parsing
 2025-09-24T02:04:53+0000  fix: typo in error message
 2025-09-24T13:00:20+0000  test: cover edge case in parser
+2025-09-24T16:49:28+0000  fix: correct timezone handling
