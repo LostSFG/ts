@@ -1732,3 +1732,4 @@
 2025-09-19T15:22:37+0000  docs: clarify setup instructions
 2025-09-19T21:48:43+0000  chore: update lockfile
 2025-09-24T16:56:07+0000  fix: typo in error message
+2025-09-25T20:11:42+0000  feat: cache computed values
