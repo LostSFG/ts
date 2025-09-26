@@ -2035,3 +2035,4 @@
 2025-09-23T17:45:39+0000  build: pin toolchain version
 2025-09-23T20:43:03+0000  refactor: extract helper for date parsing
 2025-09-26T06:30:12+0000  feat: cache computed values
+2025-09-26T06:34:13+0000  chore: remove dead code
