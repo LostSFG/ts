@@ -2152,3 +2152,4 @@
 2025-09-23T13:50:57+0000  refactor: extract helper for date parsing
 2025-09-23T23:16:29+0000  fix: guard against None in serializer
 2025-09-26T05:49:01+0000  feat: cache computed values
+2025-09-26T06:36:36+0000  fix: handle empty response from upstream
