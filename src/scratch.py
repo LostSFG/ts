@@ -2154,3 +2154,4 @@
 2025-09-26T05:49:01+0000  feat: cache computed values
 2025-09-26T06:36:36+0000  fix: handle empty response from upstream
 2025-09-26T11:01:16+0000  feat: support config file overrides
+2025-09-27T09:41:28+0000  chore: bump dependencies
