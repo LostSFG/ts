@@ -2132,3 +2132,4 @@
 2025-09-26T08:49:16+0000  fix: guard against None in serializer
 2025-09-26T12:40:19+0000  fix: typo in error message
 2025-09-26T13:06:42+0000  fix: handle empty response from upstream
+2025-09-27T22:41:36+0000  perf: avoid redundant allocations
