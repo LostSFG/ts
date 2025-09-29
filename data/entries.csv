@@ -2105,3 +2105,4 @@
 2025-09-24T15:49:33+0000  fix: correct timezone handling
 2025-09-29T07:25:41+0000  fix: correct timezone handling
 2025-09-29T13:10:50+0000  chore: update lockfile
+2025-09-29T19:01:18+0000  refactor: extract helper for date parsing
