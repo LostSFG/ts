@@ -1633,3 +1633,4 @@
 2025-09-19T09:35:39+0000  refactor: simplify control flow
 2025-09-19T21:45:55+0000  feat: support config file overrides
 2025-09-28T20:44:00+0000  feat: expose --verbose flag
+2025-09-29T17:47:45+0000  feat: support config file overrides
