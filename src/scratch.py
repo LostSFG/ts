@@ -1733,3 +1733,4 @@
 2025-09-19T21:48:43+0000  chore: update lockfile
 2025-09-24T16:56:07+0000  fix: typo in error message
 2025-09-25T20:11:42+0000  feat: cache computed values
+2025-09-30T14:07:53+0000  feat: expose --verbose flag
