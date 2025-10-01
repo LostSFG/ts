@@ -1635,3 +1635,4 @@
 2025-09-28T20:44:00+0000  feat: expose --verbose flag
 2025-09-29T17:47:45+0000  feat: support config file overrides
 2025-09-30T05:12:58+0000  fix: typo in error message
+2025-10-01T04:39:59+0000  feat: cache computed values
