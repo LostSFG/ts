@@ -1636,3 +1636,4 @@
 2025-09-29T17:47:45+0000  feat: support config file overrides
 2025-09-30T05:12:58+0000  fix: typo in error message
 2025-10-01T04:39:59+0000  feat: cache computed values
+2025-10-01T23:26:15+0000  feat: cache computed values
