@@ -1734,3 +1734,4 @@
 2025-09-24T16:56:07+0000  fix: typo in error message
 2025-09-25T20:11:42+0000  feat: cache computed values
 2025-09-30T14:07:53+0000  feat: expose --verbose flag
+2025-10-01T08:49:26+0000  chore: bump dependencies
