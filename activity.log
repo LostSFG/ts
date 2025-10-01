@@ -2135,3 +2135,4 @@
 2025-09-27T22:41:36+0000  perf: avoid redundant allocations
 2025-09-29T02:04:09+0000  docs: clarify setup instructions
 2025-10-01T16:17:29+0000  perf: avoid redundant allocations
+2025-10-01T18:33:17+0000  fix: handle empty response from upstream
