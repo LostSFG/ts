@@ -1663,3 +1663,4 @@
 2025-09-24T16:49:28+0000  fix: correct timezone handling
 2025-09-25T00:00:54+0000  fix: correct timezone handling
 2025-09-30T13:26:18+0000  feat: support config file overrides
+2025-10-01T05:25:13+0000  perf: avoid redundant allocations
