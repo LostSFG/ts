@@ -1704,3 +1704,4 @@
 2025-09-30T09:00:57+0000  fix: guard against None in serializer
 2025-10-01T04:44:39+0000  style: tidy up imports
 2025-10-01T09:15:15+0000  chore: remove dead code
+2025-10-01T13:01:48+0000  test: cover edge case in parser
