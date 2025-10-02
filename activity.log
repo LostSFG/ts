@@ -1707,3 +1707,4 @@
 2025-10-01T13:01:48+0000  test: cover edge case in parser
 2025-10-01T13:22:29+0000  chore: bump dependencies
 2025-10-02T11:11:11+0000  feat: expose --verbose flag
+2025-10-02T13:37:50+0000  fix: guard against None in serializer
