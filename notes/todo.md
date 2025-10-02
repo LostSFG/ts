@@ -1639,3 +1639,4 @@
 2025-10-01T23:26:15+0000  feat: cache computed values
 2025-10-02T02:55:33+0000  test: add regression test for #142
 2025-10-02T10:10:59+0000  style: tidy up imports
+2025-10-02T17:26:01+0000  chore: remove dead code
