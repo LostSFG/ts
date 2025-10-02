@@ -1736,3 +1736,4 @@
 2025-09-30T14:07:53+0000  feat: expose --verbose flag
 2025-10-01T08:49:26+0000  chore: bump dependencies
 2025-10-02T02:06:48+0000  fix: typo in error message
+2025-10-02T17:53:45+0000  feat: expose --verbose flag
