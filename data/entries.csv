@@ -1666,3 +1666,4 @@
 2025-10-01T05:25:13+0000  perf: avoid redundant allocations
 2025-10-02T19:57:53+0000  fix: correct timezone handling
 2025-10-03T11:21:47+0000  refactor: extract helper for date parsing
+2025-10-03T13:31:10+0000  build: pin toolchain version
