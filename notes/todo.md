@@ -1641,3 +1641,4 @@
 2025-10-02T10:10:59+0000  style: tidy up imports
 2025-10-02T17:26:01+0000  chore: remove dead code
 2025-10-03T15:49:04+0000  feat: expose --verbose flag
+2025-10-03T18:13:03+0000  feat: cache computed values
