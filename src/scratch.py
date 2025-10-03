@@ -1738,3 +1738,4 @@
 2025-10-02T02:06:48+0000  fix: typo in error message
 2025-10-02T17:53:45+0000  feat: expose --verbose flag
 2025-10-02T23:03:57+0000  refactor: extract helper for date parsing
+2025-10-03T10:17:08+0000  chore: update lockfile
