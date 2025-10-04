@@ -1709,3 +1709,4 @@
 2025-10-02T11:11:11+0000  feat: expose --verbose flag
 2025-10-02T13:37:50+0000  fix: guard against None in serializer
 2025-10-03T09:10:35+0000  fix: handle empty response from upstream
+2025-10-04T12:27:51+0000  refactor: simplify control flow
