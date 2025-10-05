@@ -2156,3 +2156,4 @@
 2025-09-26T11:01:16+0000  feat: support config file overrides
 2025-09-27T09:41:28+0000  chore: bump dependencies
 2025-10-05T00:40:04+0000  feat: add retry with backoff
+2025-10-05T23:22:21+0000  feat: expose --verbose flag
