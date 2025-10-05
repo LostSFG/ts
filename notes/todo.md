@@ -1643,3 +1643,4 @@
 2025-10-03T15:49:04+0000  feat: expose --verbose flag
 2025-10-03T18:13:03+0000  feat: cache computed values
 2025-10-03T20:42:36+0000  feat: cache computed values
+2025-10-05T09:08:50+0000  feat: add retry with backoff
