@@ -2040,3 +2040,4 @@
 2025-09-30T14:46:07+0000  fix: correct timezone handling
 2025-09-30T21:30:33+0000  refactor: simplify control flow
 2025-10-03T01:06:33+0000  test: cover edge case in parser
+2025-10-06T03:43:35+0000  refactor: extract helper for date parsing
