@@ -2041,3 +2041,4 @@
 2025-09-30T21:30:33+0000  refactor: simplify control flow
 2025-10-03T01:06:33+0000  test: cover edge case in parser
 2025-10-06T03:43:35+0000  refactor: extract helper for date parsing
+2025-10-06T08:22:51+0000  chore: remove dead code
