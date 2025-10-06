@@ -1742,3 +1742,4 @@
 2025-10-04T10:16:56+0000  chore: bump dependencies
 2025-10-05T00:03:12+0000  docs: add usage examples
 2025-10-06T02:10:11+0000  feat: support config file overrides
+2025-10-06T03:56:45+0000  refactor: extract helper for date parsing
