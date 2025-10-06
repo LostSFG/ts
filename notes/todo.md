@@ -2042,3 +2042,4 @@
 2025-10-03T01:06:33+0000  test: cover edge case in parser
 2025-10-06T03:43:35+0000  refactor: extract helper for date parsing
 2025-10-06T08:22:51+0000  chore: remove dead code
+2025-10-06T12:56:16+0000  docs: add usage examples
