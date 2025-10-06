@@ -2158,3 +2158,4 @@
 2025-10-05T00:40:04+0000  feat: add retry with backoff
 2025-10-05T23:22:21+0000  feat: expose --verbose flag
 2025-10-06T05:51:55+0000  fix: guard against None in serializer
+2025-10-06T17:59:08+0000  test: add regression test for #142
