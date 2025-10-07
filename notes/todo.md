@@ -1645,3 +1645,4 @@
 2025-10-03T20:42:36+0000  feat: cache computed values
 2025-10-05T09:08:50+0000  feat: add retry with backoff
 2025-10-06T06:27:24+0000  build: pin toolchain version
+2025-10-07T01:36:39+0000  perf: avoid redundant allocations
