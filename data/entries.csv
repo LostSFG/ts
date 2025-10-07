@@ -1671,3 +1671,4 @@
 2025-10-04T18:23:46+0000  feat: expose --verbose flag
 2025-10-05T00:08:43+0000  docs: add usage examples
 2025-10-05T07:14:48+0000  chore: remove dead code
+2025-10-07T17:18:32+0000  chore: bump dependencies
