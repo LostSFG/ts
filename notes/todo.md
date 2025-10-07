@@ -1647,3 +1647,4 @@
 2025-10-06T06:27:24+0000  build: pin toolchain version
 2025-10-07T01:36:39+0000  perf: avoid redundant allocations
 2025-10-07T22:35:06+0000  fix: guard against None in serializer
+2025-10-07T22:55:23+0000  test: add regression test for #142
