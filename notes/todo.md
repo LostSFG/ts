@@ -1648,3 +1648,4 @@
 2025-10-07T01:36:39+0000  perf: avoid redundant allocations
 2025-10-07T22:35:06+0000  fix: guard against None in serializer
 2025-10-07T22:55:23+0000  test: add regression test for #142
+2025-10-08T01:32:31+0000  feat: cache computed values
