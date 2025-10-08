@@ -1650,3 +1650,4 @@
 2025-10-07T22:55:23+0000  test: add regression test for #142
 2025-10-08T01:32:31+0000  feat: cache computed values
 2025-10-08T04:09:53+0000  style: tidy up imports
+2025-10-08T18:24:10+0000  docs: clarify setup instructions
