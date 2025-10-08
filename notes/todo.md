@@ -1651,3 +1651,4 @@
 2025-10-08T01:32:31+0000  feat: cache computed values
 2025-10-08T04:09:53+0000  style: tidy up imports
 2025-10-08T18:24:10+0000  docs: clarify setup instructions
+2025-10-08T20:13:23+0000  feat: support config file overrides
