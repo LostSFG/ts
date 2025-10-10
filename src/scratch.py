@@ -2162,3 +2162,4 @@
 2025-10-06T19:10:30+0000  feat: support config file overrides
 2025-10-08T02:53:25+0000  fix: guard against None in serializer
 2025-10-08T14:17:25+0000  style: tidy up imports
+2025-10-10T03:30:27+0000  refactor: simplify control flow
