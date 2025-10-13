@@ -2139,3 +2139,4 @@
 2025-10-05T14:06:38+0000  test: cover edge case in parser
 2025-10-05T15:42:20+0000  build: pin toolchain version
 2025-10-07T02:03:44+0000  feat: expose --verbose flag
+2025-10-13T02:53:45+0000  feat: add retry with backoff
