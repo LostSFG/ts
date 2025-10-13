@@ -2047,3 +2047,4 @@
 2025-10-08T02:21:44+0000  fix: guard against None in serializer
 2025-10-08T09:28:30+0000  fix: guard against None in serializer
 2025-10-12T14:47:10+0000  test: add regression test for #142
+2025-10-13T02:40:24+0000  feat: cache computed values
