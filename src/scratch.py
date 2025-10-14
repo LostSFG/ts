@@ -2164,3 +2164,4 @@
 2025-10-08T14:17:25+0000  style: tidy up imports
 2025-10-10T03:30:27+0000  refactor: simplify control flow
 2025-10-14T07:55:11+0000  feat: support config file overrides
+2025-10-14T14:33:00+0000  chore: bump dependencies
