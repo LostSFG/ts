@@ -1653,3 +1653,4 @@
 2025-10-08T18:24:10+0000  docs: clarify setup instructions
 2025-10-08T20:13:23+0000  feat: support config file overrides
 2025-10-10T13:42:03+0000  fix: correct timezone handling
+2025-10-14T04:51:23+0000  feat: cache computed values
