@@ -1745,3 +1745,4 @@
 2025-10-06T03:56:45+0000  refactor: extract helper for date parsing
 2025-10-08T17:45:59+0000  chore: bump dependencies
 2025-10-13T01:03:24+0000  chore: bump dependencies
+2025-10-14T18:26:43+0000  fix: handle empty response from upstream
