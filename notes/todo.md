@@ -2050,3 +2050,4 @@
 2025-10-13T02:40:24+0000  feat: cache computed values
 2025-10-13T13:15:52+0000  docs: add usage examples
 2025-10-15T10:53:20+0000  feat: expose --verbose flag
+2025-10-15T18:49:54+0000  docs: clarify setup instructions
