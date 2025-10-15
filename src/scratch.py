@@ -2165,3 +2165,4 @@
 2025-10-10T03:30:27+0000  refactor: simplify control flow
 2025-10-14T07:55:11+0000  feat: support config file overrides
 2025-10-14T14:33:00+0000  chore: bump dependencies
+2025-10-15T15:37:28+0000  test: add regression test for #142
