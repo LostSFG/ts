@@ -2118,3 +2118,4 @@
 2025-10-08T06:53:38+0000  refactor: extract helper for date parsing
 2025-10-08T20:54:17+0000  perf: avoid redundant allocations
 2025-10-15T01:40:34+0000  chore: remove dead code
+2025-10-15T16:22:51+0000  chore: bump dependencies
