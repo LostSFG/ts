@@ -1658,3 +1658,4 @@
 2025-10-15T21:15:43+0000  style: tidy up imports
 2025-10-16T09:23:02+0000  test: add regression test for #142
 2025-10-16T22:29:10+0000  chore: remove dead code
+2025-10-16T23:25:58+0000  fix: correct timezone handling
