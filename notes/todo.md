@@ -1660,3 +1660,4 @@
 2025-10-16T22:29:10+0000  chore: remove dead code
 2025-10-16T23:25:58+0000  fix: correct timezone handling
 2025-10-17T14:00:37+0000  fix: guard against None in serializer
+2025-10-17T20:16:10+0000  fix: typo in error message
