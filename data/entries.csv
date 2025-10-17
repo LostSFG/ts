@@ -2122,3 +2122,4 @@
 2025-10-16T20:34:20+0000  chore: remove dead code
 2025-10-16T21:25:56+0000  test: cover edge case in parser
 2025-10-17T13:15:06+0000  docs: add usage examples
+2025-10-17T18:24:48+0000  feat: expose --verbose flag
