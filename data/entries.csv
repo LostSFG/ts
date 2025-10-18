@@ -1679,3 +1679,4 @@
 2025-10-17T03:10:57+0000  refactor: simplify control flow
 2025-10-17T03:41:56+0000  feat: support config file overrides
 2025-10-17T09:56:50+0000  fix: correct timezone handling
+2025-10-18T09:25:15+0000  feat: cache computed values
