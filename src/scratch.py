@@ -1748,3 +1748,4 @@
 2025-10-14T18:26:43+0000  fix: handle empty response from upstream
 2025-10-16T03:18:02+0000  chore: update lockfile
 2025-10-16T06:05:52+0000  feat: support config file overrides
+2025-10-18T16:39:54+0000  refactor: extract helper for date parsing
