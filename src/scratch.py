@@ -2168,3 +2168,4 @@
 2025-10-15T15:37:28+0000  test: add regression test for #142
 2025-10-16T18:15:02+0000  feat: expose --verbose flag
 2025-10-17T03:22:36+0000  perf: avoid redundant allocations
+2025-10-19T01:39:11+0000  style: tidy up imports
