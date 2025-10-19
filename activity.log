@@ -2144,3 +2144,4 @@
 2025-10-14T21:35:03+0000  chore: update lockfile
 2025-10-16T01:24:01+0000  chore: update lockfile
 2025-10-19T10:03:42+0000  perf: avoid redundant allocations
+2025-10-19T21:51:13+0000  feat: add retry with backoff
