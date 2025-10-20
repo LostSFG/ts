@@ -1681,3 +1681,4 @@
 2025-10-17T09:56:50+0000  fix: correct timezone handling
 2025-10-18T09:25:15+0000  feat: cache computed values
 2025-10-20T03:01:07+0000  fix: correct timezone handling
+2025-10-20T17:10:02+0000  build: pin toolchain version
