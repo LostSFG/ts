@@ -1662,3 +1662,4 @@
 2025-10-17T14:00:37+0000  fix: guard against None in serializer
 2025-10-17T20:16:10+0000  fix: typo in error message
 2025-10-18T03:56:13+0000  build: pin toolchain version
+2025-10-20T13:25:22+0000  feat: add retry with backoff
