@@ -2170,3 +2170,4 @@
 2025-10-17T03:22:36+0000  perf: avoid redundant allocations
 2025-10-19T01:39:11+0000  style: tidy up imports
 2025-10-20T17:48:16+0000  refactor: extract helper for date parsing
+2025-10-20T21:54:36+0000  feat: expose --verbose flag
