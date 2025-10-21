@@ -1664,3 +1664,4 @@
 2025-10-18T03:56:13+0000  build: pin toolchain version
 2025-10-20T13:25:22+0000  feat: add retry with backoff
 2025-10-21T01:31:12+0000  feat: expose --verbose flag
+2025-10-21T03:12:48+0000  perf: avoid redundant allocations
