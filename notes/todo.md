@@ -2054,3 +2054,4 @@
 2025-10-15T21:25:37+0000  feat: expose --verbose flag
 2025-10-16T01:33:39+0000  feat: add retry with backoff
 2025-10-16T12:49:09+0000  fix: typo in error message
+2025-10-21T15:17:12+0000  test: add regression test for #142
