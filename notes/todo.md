@@ -1667,3 +1667,4 @@
 2025-10-21T03:12:48+0000  perf: avoid redundant allocations
 2025-10-21T13:20:35+0000  chore: update lockfile
 2025-10-21T13:39:59+0000  chore: update lockfile
+2025-10-21T18:37:31+0000  feat: expose --verbose flag
