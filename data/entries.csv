@@ -2124,3 +2124,4 @@
 2025-10-17T13:15:06+0000  docs: add usage examples
 2025-10-17T18:24:48+0000  feat: expose --verbose flag
 2025-10-19T23:12:35+0000  build: pin toolchain version
+2025-10-21T17:09:51+0000  chore: update lockfile
