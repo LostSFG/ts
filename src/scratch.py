@@ -1751,3 +1751,4 @@
 2025-10-18T16:39:54+0000  refactor: extract helper for date parsing
 2025-10-20T06:14:09+0000  chore: update lockfile
 2025-10-21T00:30:10+0000  feat: cache computed values
+2025-10-21T00:32:01+0000  chore: remove dead code
