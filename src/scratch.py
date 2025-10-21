@@ -1750,3 +1750,4 @@
 2025-10-16T06:05:52+0000  feat: support config file overrides
 2025-10-18T16:39:54+0000  refactor: extract helper for date parsing
 2025-10-20T06:14:09+0000  chore: update lockfile
+2025-10-21T00:30:10+0000  feat: cache computed values
