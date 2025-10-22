@@ -1682,3 +1682,4 @@
 2025-10-18T09:25:15+0000  feat: cache computed values
 2025-10-20T03:01:07+0000  fix: correct timezone handling
 2025-10-20T17:10:02+0000  build: pin toolchain version
+2025-10-22T15:43:25+0000  feat: support config file overrides
