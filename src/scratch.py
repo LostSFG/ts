@@ -2172,3 +2172,4 @@
 2025-10-20T17:48:16+0000  refactor: extract helper for date parsing
 2025-10-20T21:54:36+0000  feat: expose --verbose flag
 2025-10-21T00:30:06+0000  feat: support config file overrides
+2025-10-22T18:11:12+0000  test: cover edge case in parser
