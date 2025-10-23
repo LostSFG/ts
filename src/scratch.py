@@ -2174,3 +2174,4 @@
 2025-10-21T00:30:06+0000  feat: support config file overrides
 2025-10-22T18:11:12+0000  test: cover edge case in parser
 2025-10-23T03:58:41+0000  docs: clarify setup instructions
+2025-10-23T15:24:52+0000  feat: add retry with backoff
