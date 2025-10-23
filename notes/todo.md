@@ -2055,3 +2055,4 @@
 2025-10-16T01:33:39+0000  feat: add retry with backoff
 2025-10-16T12:49:09+0000  fix: typo in error message
 2025-10-21T15:17:12+0000  test: add regression test for #142
+2025-10-23T11:00:07+0000  chore: bump dependencies
