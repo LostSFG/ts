@@ -1683,3 +1683,4 @@
 2025-10-20T03:01:07+0000  fix: correct timezone handling
 2025-10-20T17:10:02+0000  build: pin toolchain version
 2025-10-22T15:43:25+0000  feat: support config file overrides
+2025-10-24T13:26:12+0000  refactor: extract helper for date parsing
