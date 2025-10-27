@@ -2150,3 +2150,4 @@
 2025-10-22T01:17:21+0000  perf: avoid redundant allocations
 2025-10-27T15:18:49+0000  feat: expose --verbose flag
 2025-10-27T21:36:20+0000  fix: correct timezone handling
+2025-10-27T21:52:57+0000  chore: remove dead code
