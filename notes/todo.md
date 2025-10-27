@@ -1669,3 +1669,4 @@
 2025-10-21T13:39:59+0000  chore: update lockfile
 2025-10-21T18:37:31+0000  feat: expose --verbose flag
 2025-10-27T05:28:09+0000  chore: update lockfile
+2025-10-27T09:13:59+0000  chore: remove dead code
