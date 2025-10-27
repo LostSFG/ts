@@ -1752,3 +1752,4 @@
 2025-10-20T06:14:09+0000  chore: update lockfile
 2025-10-21T00:30:10+0000  feat: cache computed values
 2025-10-21T00:32:01+0000  chore: remove dead code
+2025-10-27T05:23:43+0000  test: add regression test for #142
