@@ -1730,3 +1730,4 @@
 2025-10-23T20:25:25+0000  docs: add usage examples
 2025-10-23T22:46:23+0000  style: tidy up imports
 2025-10-27T08:09:15+0000  docs: add usage examples
+2025-10-27T20:12:02+0000  feat: add retry with backoff
