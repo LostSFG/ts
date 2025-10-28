@@ -2058,3 +2058,4 @@
 2025-10-23T11:00:07+0000  chore: bump dependencies
 2025-10-27T23:35:34+0000  chore: remove dead code
 2025-10-28T16:56:58+0000  docs: add usage examples
+2025-10-28T22:20:20+0000  docs: clarify setup instructions
