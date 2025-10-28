@@ -2177,3 +2177,4 @@
 2025-10-23T15:24:52+0000  feat: add retry with backoff
 2025-10-27T15:16:00+0000  chore: remove dead code
 2025-10-28T04:06:53+0000  chore: bump dependencies
+2025-10-28T04:34:11+0000  refactor: simplify control flow
