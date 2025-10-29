@@ -1755,3 +1755,4 @@
 2025-10-27T05:23:43+0000  test: add regression test for #142
 2025-10-29T02:00:50+0000  fix: typo in error message
 2025-10-29T03:09:01+0000  test: cover edge case in parser
+2025-10-29T03:44:19+0000  refactor: simplify control flow
