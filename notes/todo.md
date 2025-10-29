@@ -2059,3 +2059,4 @@
 2025-10-27T23:35:34+0000  chore: remove dead code
 2025-10-28T16:56:58+0000  docs: add usage examples
 2025-10-28T22:20:20+0000  docs: clarify setup instructions
+2025-10-29T11:25:07+0000  feat: add retry with backoff
