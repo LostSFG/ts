@@ -1757,3 +1757,4 @@
 2025-10-29T03:09:01+0000  test: cover edge case in parser
 2025-10-29T03:44:19+0000  refactor: simplify control flow
 2025-10-29T05:39:43+0000  style: tidy up imports
+2025-10-29T23:38:40+0000  chore: update lockfile
