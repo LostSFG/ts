@@ -2131,3 +2131,4 @@
 2025-10-23T18:28:57+0000  feat: support config file overrides
 2025-10-26T01:02:36+0000  refactor: simplify control flow
 2025-10-26T21:57:38+0000  perf: avoid redundant allocations
+2025-10-30T12:32:03+0000  test: add regression test for #142
