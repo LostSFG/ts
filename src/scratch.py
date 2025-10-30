@@ -1758,3 +1758,4 @@
 2025-10-29T03:44:19+0000  refactor: simplify control flow
 2025-10-29T05:39:43+0000  style: tidy up imports
 2025-10-29T23:38:40+0000  chore: update lockfile
+2025-10-30T03:13:41+0000  perf: avoid redundant allocations
