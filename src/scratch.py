@@ -1759,3 +1759,4 @@
 2025-10-29T05:39:43+0000  style: tidy up imports
 2025-10-29T23:38:40+0000  chore: update lockfile
 2025-10-30T03:13:41+0000  perf: avoid redundant allocations
+2025-10-30T11:48:41+0000  chore: update lockfile
