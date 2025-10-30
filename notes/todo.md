@@ -1673,3 +1673,4 @@
 2025-10-29T14:03:59+0000  fix: guard against None in serializer
 2025-10-29T20:07:13+0000  test: cover edge case in parser
 2025-10-30T10:49:39+0000  chore: remove dead code
+2025-10-30T20:18:20+0000  docs: clarify setup instructions
