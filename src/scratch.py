@@ -2182,3 +2182,4 @@
 2025-10-29T11:23:49+0000  build: pin toolchain version
 2025-10-30T04:16:44+0000  feat: support config file overrides
 2025-10-30T18:58:39+0000  feat: expose --verbose flag
+2025-10-31T10:23:04+0000  fix: typo in error message
