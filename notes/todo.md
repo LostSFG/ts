@@ -2061,3 +2061,4 @@
 2025-10-28T22:20:20+0000  docs: clarify setup instructions
 2025-10-29T11:25:07+0000  feat: add retry with backoff
 2025-10-29T20:05:50+0000  test: cover edge case in parser
+2025-10-31T01:34:57+0000  test: cover edge case in parser
