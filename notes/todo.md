@@ -2063,3 +2063,4 @@
 2025-10-29T20:05:50+0000  test: cover edge case in parser
 2025-10-31T01:34:57+0000  test: cover edge case in parser
 2025-10-31T02:13:29+0000  perf: avoid redundant allocations
+2025-10-31T23:41:07+0000  docs: clarify setup instructions
