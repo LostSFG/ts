@@ -2132,3 +2132,4 @@
 2025-10-26T01:02:36+0000  refactor: simplify control flow
 2025-10-26T21:57:38+0000  perf: avoid redundant allocations
 2025-10-30T12:32:03+0000  test: add regression test for #142
+2025-11-03T15:17:44+0000  fix: typo in error message
