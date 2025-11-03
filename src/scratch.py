@@ -1762,3 +1762,4 @@
 2025-10-30T11:48:41+0000  chore: update lockfile
 2025-10-30T21:31:54+0000  style: tidy up imports
 2025-11-03T11:16:58+0000  style: tidy up imports
+2025-11-03T20:11:33+0000  feat: add retry with backoff
