@@ -2186,3 +2186,4 @@
 2025-10-31T15:22:40+0000  docs: add usage examples
 2025-11-03T20:11:19+0000  test: cover edge case in parser
 2025-11-05T13:27:10+0000  feat: add retry with backoff
+2025-11-05T14:25:51+0000  fix: handle empty response from upstream
