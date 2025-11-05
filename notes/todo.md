@@ -2064,3 +2064,4 @@
 2025-10-31T01:34:57+0000  test: cover edge case in parser
 2025-10-31T02:13:29+0000  perf: avoid redundant allocations
 2025-10-31T23:41:07+0000  docs: clarify setup instructions
+2025-11-05T16:50:38+0000  fix: handle empty response from upstream
