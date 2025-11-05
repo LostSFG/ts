@@ -2154,3 +2154,4 @@
 2025-10-29T18:16:17+0000  docs: clarify setup instructions
 2025-10-30T11:58:06+0000  chore: update lockfile
 2025-10-30T20:29:12+0000  fix: correct timezone handling
+2025-11-05T16:45:07+0000  chore: remove dead code
