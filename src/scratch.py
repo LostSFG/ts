@@ -1765,3 +1765,4 @@
 2025-11-03T20:11:33+0000  feat: add retry with backoff
 2025-11-04T04:04:44+0000  test: cover edge case in parser
 2025-11-05T08:06:23+0000  feat: support config file overrides
+2025-11-06T13:04:35+0000  feat: expose --verbose flag
