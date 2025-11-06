@@ -1735,3 +1735,4 @@
 2025-10-30T06:57:05+0000  test: cover edge case in parser
 2025-10-30T07:01:08+0000  feat: expose --verbose flag
 2025-11-04T19:30:15+0000  feat: expose --verbose flag
+2025-11-06T11:23:41+0000  chore: bump dependencies
