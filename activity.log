@@ -1737,3 +1737,4 @@
 2025-11-04T19:30:15+0000  feat: expose --verbose flag
 2025-11-06T11:23:41+0000  chore: bump dependencies
 2025-11-06T18:46:48+0000  fix: correct timezone handling
+2025-11-07T16:24:54+0000  perf: avoid redundant allocations
