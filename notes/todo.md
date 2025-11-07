@@ -2066,3 +2066,4 @@
 2025-10-31T23:41:07+0000  docs: clarify setup instructions
 2025-11-05T16:50:38+0000  fix: handle empty response from upstream
 2025-11-06T23:47:28+0000  feat: add retry with backoff
+2025-11-07T10:04:33+0000  docs: add usage examples
