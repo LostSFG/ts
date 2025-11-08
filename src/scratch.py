@@ -2189,3 +2189,4 @@
 2025-11-05T14:25:51+0000  fix: handle empty response from upstream
 2025-11-07T09:23:39+0000  perf: avoid redundant allocations
 2025-11-07T17:09:44+0000  feat: support config file overrides
+2025-11-08T09:49:29+0000  perf: avoid redundant allocations
