@@ -2137,3 +2137,4 @@
 2025-11-05T14:35:49+0000  chore: remove dead code
 2025-11-05T18:09:47+0000  feat: add retry with backoff
 2025-11-07T22:11:29+0000  docs: clarify setup instructions
+2025-11-10T01:36:28+0000  feat: add retry with backoff
