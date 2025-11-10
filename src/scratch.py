@@ -1771,3 +1771,4 @@
 2025-11-07T19:17:33+0000  perf: avoid redundant allocations
 2025-11-07T23:42:09+0000  perf: avoid redundant allocations
 2025-11-10T00:35:35+0000  feat: expose --verbose flag
+2025-11-10T01:19:09+0000  build: pin toolchain version
