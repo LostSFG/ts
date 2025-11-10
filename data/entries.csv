@@ -2139,3 +2139,4 @@
 2025-11-07T22:11:29+0000  docs: clarify setup instructions
 2025-11-10T01:36:28+0000  feat: add retry with backoff
 2025-11-10T08:08:37+0000  test: add regression test for #142
+2025-11-10T13:58:22+0000  feat: cache computed values
