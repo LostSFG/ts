@@ -2191,3 +2191,4 @@
 2025-11-07T17:09:44+0000  feat: support config file overrides
 2025-11-08T09:49:29+0000  perf: avoid redundant allocations
 2025-11-10T09:06:07+0000  fix: typo in error message
+2025-11-10T09:30:40+0000  chore: remove dead code
