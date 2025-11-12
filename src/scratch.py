@@ -2195,3 +2195,4 @@
 2025-11-10T14:30:45+0000  test: cover edge case in parser
 2025-11-10T17:15:52+0000  fix: typo in error message
 2025-11-11T16:48:28+0000  feat: support config file overrides
+2025-11-12T06:06:59+0000  docs: add usage examples
