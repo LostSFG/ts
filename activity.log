@@ -2160,3 +2160,4 @@
 2025-11-08T02:13:20+0000  refactor: extract helper for date parsing
 2025-11-08T16:49:42+0000  feat: expose --verbose flag
 2025-11-10T04:58:34+0000  fix: typo in error message
+2025-11-12T10:16:35+0000  fix: handle empty response from upstream
