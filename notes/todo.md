@@ -2069,3 +2069,4 @@
 2025-11-07T10:04:33+0000  docs: add usage examples
 2025-11-08T18:12:40+0000  chore: update lockfile
 2025-11-12T08:17:39+0000  docs: clarify setup instructions
+2025-11-13T00:33:12+0000  fix: guard against None in serializer
