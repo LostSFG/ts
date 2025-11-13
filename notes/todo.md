@@ -2072,3 +2072,4 @@
 2025-11-13T00:33:12+0000  fix: guard against None in serializer
 2025-11-13T05:38:59+0000  chore: remove dead code
 2025-11-13T18:56:43+0000  style: tidy up imports
+2025-11-13T19:35:57+0000  style: tidy up imports
