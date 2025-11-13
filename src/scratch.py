@@ -2197,3 +2197,4 @@
 2025-11-11T16:48:28+0000  feat: support config file overrides
 2025-11-12T06:06:59+0000  docs: add usage examples
 2025-11-12T11:13:52+0000  fix: guard against None in serializer
+2025-11-13T16:27:03+0000  test: add regression test for #142
