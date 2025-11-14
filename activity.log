@@ -1742,3 +1742,4 @@
 2025-11-10T15:58:28+0000  refactor: extract helper for date parsing
 2025-11-11T03:07:56+0000  test: cover edge case in parser
 2025-11-13T18:27:15+0000  build: pin toolchain version
+2025-11-14T18:31:57+0000  test: add regression test for #142
