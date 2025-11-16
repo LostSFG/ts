@@ -1775,3 +1775,4 @@
 2025-11-10T01:59:45+0000  feat: expose --verbose flag
 2025-11-10T08:41:36+0000  chore: remove dead code
 2025-11-11T13:08:27+0000  chore: update lockfile
+2025-11-16T07:43:39+0000  refactor: simplify control flow
