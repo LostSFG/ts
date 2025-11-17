@@ -1687,3 +1687,4 @@
 2025-11-13T11:02:31+0000  test: add regression test for #142
 2025-11-13T21:47:35+0000  fix: correct timezone handling
 2025-11-16T23:47:04+0000  fix: correct timezone handling
+2025-11-17T06:28:33+0000  fix: typo in error message
