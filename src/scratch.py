@@ -1780,3 +1780,4 @@
 2025-11-19T02:37:49+0000  test: cover edge case in parser
 2025-11-19T09:35:04+0000  feat: cache computed values
 2025-11-19T18:06:35+0000  chore: remove dead code
+2025-11-19T23:32:47+0000  fix: handle empty response from upstream
