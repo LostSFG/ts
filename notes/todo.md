@@ -2075,3 +2075,4 @@
 2025-11-13T19:35:57+0000  style: tidy up imports
 2025-11-19T00:23:54+0000  refactor: simplify control flow
 2025-11-19T08:31:11+0000  test: cover edge case in parser
+2025-11-19T12:31:45+0000  feat: cache computed values
