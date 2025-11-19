@@ -2074,3 +2074,4 @@
 2025-11-13T18:56:43+0000  style: tidy up imports
 2025-11-13T19:35:57+0000  style: tidy up imports
 2025-11-19T00:23:54+0000  refactor: simplify control flow
+2025-11-19T08:31:11+0000  test: cover edge case in parser
