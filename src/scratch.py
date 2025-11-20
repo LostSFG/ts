@@ -2202,3 +2202,4 @@
 2025-11-19T20:47:30+0000  build: pin toolchain version
 2025-11-20T01:49:13+0000  test: cover edge case in parser
 2025-11-20T11:50:41+0000  feat: support config file overrides
+2025-11-20T14:24:25+0000  fix: guard against None in serializer
