@@ -2150,3 +2150,4 @@
 2025-11-18T22:01:59+0000  docs: clarify setup instructions
 2025-11-19T07:53:13+0000  fix: handle empty response from upstream
 2025-11-19T16:03:31+0000  chore: update lockfile
+2025-11-20T12:26:46+0000  feat: cache computed values
