@@ -1781,3 +1781,4 @@
 2025-11-19T09:35:04+0000  feat: cache computed values
 2025-11-19T18:06:35+0000  chore: remove dead code
 2025-11-19T23:32:47+0000  fix: handle empty response from upstream
+2025-11-20T00:48:37+0000  feat: add retry with backoff
