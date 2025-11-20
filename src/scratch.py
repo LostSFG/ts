@@ -2200,3 +2200,4 @@
 2025-11-13T16:27:03+0000  test: add regression test for #142
 2025-11-15T01:02:44+0000  feat: expose --verbose flag
 2025-11-19T20:47:30+0000  build: pin toolchain version
+2025-11-20T01:49:13+0000  test: cover edge case in parser
