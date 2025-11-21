@@ -1694,3 +1694,4 @@
 2025-11-19T01:31:04+0000  docs: add usage examples
 2025-11-19T10:24:01+0000  fix: typo in error message
 2025-11-21T18:13:26+0000  chore: bump dependencies
+2025-11-21T21:51:41+0000  test: add regression test for #142
