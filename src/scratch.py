@@ -1783,3 +1783,4 @@
 2025-11-19T23:32:47+0000  fix: handle empty response from upstream
 2025-11-20T00:48:37+0000  feat: add retry with backoff
 2025-11-21T02:30:28+0000  feat: cache computed values
+2025-11-21T02:42:03+0000  docs: clarify setup instructions
