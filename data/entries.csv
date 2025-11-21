@@ -2152,3 +2152,4 @@
 2025-11-19T16:03:31+0000  chore: update lockfile
 2025-11-20T12:26:46+0000  feat: cache computed values
 2025-11-20T20:43:00+0000  feat: cache computed values
+2025-11-21T05:50:54+0000  refactor: extract helper for date parsing
