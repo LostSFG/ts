@@ -1749,3 +1749,4 @@
 2025-11-19T19:16:04+0000  test: cover edge case in parser
 2025-11-20T19:55:57+0000  refactor: simplify control flow
 2025-11-21T00:20:57+0000  chore: bump dependencies
+2025-11-21T15:20:40+0000  refactor: extract helper for date parsing
