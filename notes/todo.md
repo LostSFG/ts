@@ -1696,3 +1696,4 @@
 2025-11-21T18:13:26+0000  chore: bump dependencies
 2025-11-21T21:51:41+0000  test: add regression test for #142
 2025-11-23T05:04:21+0000  fix: correct timezone handling
+2025-11-23T17:04:28+0000  docs: add usage examples
