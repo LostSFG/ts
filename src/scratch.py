@@ -1784,3 +1784,4 @@
 2025-11-20T00:48:37+0000  feat: add retry with backoff
 2025-11-21T02:30:28+0000  feat: cache computed values
 2025-11-21T02:42:03+0000  docs: clarify setup instructions
+2025-11-24T08:47:42+0000  test: cover edge case in parser
