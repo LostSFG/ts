@@ -1708,3 +1708,4 @@
 2025-11-19T05:44:50+0000  fix: typo in error message
 2025-11-23T19:22:05+0000  test: cover edge case in parser
 2025-11-24T16:39:42+0000  refactor: extract helper for date parsing
+2025-11-24T18:50:03+0000  refactor: simplify control flow
