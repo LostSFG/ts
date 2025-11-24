@@ -2204,3 +2204,4 @@
 2025-11-20T11:50:41+0000  feat: support config file overrides
 2025-11-20T14:24:25+0000  fix: guard against None in serializer
 2025-11-24T07:35:12+0000  chore: bump dependencies
+2025-11-24T07:38:49+0000  fix: correct timezone handling
