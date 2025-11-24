@@ -2172,3 +2172,4 @@
 2025-11-21T16:42:45+0000  style: tidy up imports
 2025-11-21T18:47:40+0000  feat: expose --verbose flag
 2025-11-24T09:13:36+0000  feat: cache computed values
+2025-11-24T23:36:53+0000  feat: support config file overrides
