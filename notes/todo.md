@@ -1698,3 +1698,4 @@
 2025-11-23T05:04:21+0000  fix: correct timezone handling
 2025-11-23T17:04:28+0000  docs: add usage examples
 2025-11-24T23:35:42+0000  fix: typo in error message
+2025-11-25T17:42:15+0000  fix: handle empty response from upstream
