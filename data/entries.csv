@@ -1710,3 +1710,4 @@
 2025-11-24T16:39:42+0000  refactor: extract helper for date parsing
 2025-11-24T18:50:03+0000  refactor: simplify control flow
 2025-11-25T02:46:43+0000  test: cover edge case in parser
+2025-11-25T04:21:48+0000  chore: remove dead code
