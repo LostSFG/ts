@@ -2206,3 +2206,4 @@
 2025-11-24T07:35:12+0000  chore: bump dependencies
 2025-11-24T07:38:49+0000  fix: correct timezone handling
 2025-11-24T17:23:31+0000  chore: remove dead code
+2025-11-25T04:10:35+0000  docs: clarify setup instructions
