@@ -1786,3 +1786,4 @@
 2025-11-21T02:42:03+0000  docs: clarify setup instructions
 2025-11-24T08:47:42+0000  test: cover edge case in parser
 2025-11-25T04:03:26+0000  fix: typo in error message
+2025-11-25T10:57:18+0000  fix: handle empty response from upstream
