@@ -1789,3 +1789,4 @@
 2025-11-25T10:57:18+0000  fix: handle empty response from upstream
 2025-11-25T11:59:03+0000  refactor: simplify control flow
 2025-11-26T03:35:56+0000  feat: expose --verbose flag
+2025-11-26T08:30:10+0000  feat: expose --verbose flag
