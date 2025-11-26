@@ -2154,3 +2154,4 @@
 2025-11-20T20:43:00+0000  feat: cache computed values
 2025-11-21T05:50:54+0000  refactor: extract helper for date parsing
 2025-11-24T14:33:38+0000  feat: add retry with backoff
+2025-11-26T16:28:00+0000  refactor: simplify control flow
