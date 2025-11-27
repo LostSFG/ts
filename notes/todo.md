@@ -1703,3 +1703,4 @@
 2025-11-25T23:32:34+0000  refactor: simplify control flow
 2025-11-26T05:42:50+0000  style: tidy up imports
 2025-11-26T09:17:29+0000  refactor: extract helper for date parsing
+2025-11-27T09:13:44+0000  build: pin toolchain version
