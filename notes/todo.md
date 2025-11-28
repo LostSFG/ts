@@ -1704,3 +1704,4 @@
 2025-11-26T05:42:50+0000  style: tidy up imports
 2025-11-26T09:17:29+0000  refactor: extract helper for date parsing
 2025-11-27T09:13:44+0000  build: pin toolchain version
+2025-11-28T04:31:36+0000  perf: avoid redundant allocations
