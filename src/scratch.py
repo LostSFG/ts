@@ -1792,3 +1792,4 @@
 2025-11-26T08:30:10+0000  feat: expose --verbose flag
 2025-11-27T15:58:05+0000  fix: guard against None in serializer
 2025-11-28T07:55:32+0000  feat: add retry with backoff
+2025-11-28T15:39:20+0000  feat: add retry with backoff
