@@ -1751,3 +1751,4 @@
 2025-11-21T00:20:57+0000  chore: bump dependencies
 2025-11-21T15:20:40+0000  refactor: extract helper for date parsing
 2025-11-26T23:08:41+0000  feat: expose --verbose flag
+2025-11-28T12:54:04+0000  chore: bump dependencies
