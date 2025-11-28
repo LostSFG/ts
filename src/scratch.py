@@ -2210,3 +2210,4 @@
 2025-11-26T04:17:36+0000  chore: bump dependencies
 2025-11-26T20:53:27+0000  style: tidy up imports
 2025-11-28T00:05:41+0000  docs: clarify setup instructions
+2025-11-28T14:42:51+0000  feat: add retry with backoff
