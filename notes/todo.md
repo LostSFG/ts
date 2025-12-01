@@ -1705,3 +1705,4 @@
 2025-11-26T09:17:29+0000  refactor: extract helper for date parsing
 2025-11-27T09:13:44+0000  build: pin toolchain version
 2025-11-28T04:31:36+0000  perf: avoid redundant allocations
+2025-12-01T20:32:00+0000  chore: remove dead code
