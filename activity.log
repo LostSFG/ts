@@ -2176,3 +2176,4 @@
 2025-11-26T18:56:31+0000  chore: bump dependencies
 2025-11-28T16:17:23+0000  chore: update lockfile
 2025-11-28T23:01:02+0000  perf: avoid redundant allocations
+2025-12-01T00:47:34+0000  fix: correct timezone handling
