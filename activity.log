@@ -1756,3 +1756,4 @@
 2025-12-01T06:37:42+0000  fix: guard against None in serializer
 2025-12-01T17:30:32+0000  docs: clarify setup instructions
 2025-12-02T15:52:52+0000  refactor: simplify control flow
+2025-12-02T16:03:54+0000  chore: remove dead code
