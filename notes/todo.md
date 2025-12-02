@@ -2089,3 +2089,4 @@
 2025-11-28T00:59:01+0000  fix: typo in error message
 2025-11-28T13:46:43+0000  docs: clarify setup instructions
 2025-11-28T21:08:44+0000  refactor: extract helper for date parsing
+2025-12-02T19:44:32+0000  refactor: simplify control flow
