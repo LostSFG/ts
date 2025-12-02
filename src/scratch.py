@@ -1796,3 +1796,4 @@
 2025-11-28T17:24:43+0000  docs: clarify setup instructions
 2025-12-01T02:48:22+0000  style: tidy up imports
 2025-12-01T22:18:39+0000  test: cover edge case in parser
+2025-12-02T21:31:57+0000  docs: clarify setup instructions
