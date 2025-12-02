@@ -1715,3 +1715,4 @@
 2025-11-26T14:36:45+0000  chore: bump dependencies
 2025-11-27T03:15:26+0000  feat: add retry with backoff
 2025-11-27T08:49:01+0000  test: cover edge case in parser
+2025-12-02T17:55:20+0000  feat: cache computed values
