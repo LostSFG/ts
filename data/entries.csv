@@ -2160,3 +2160,4 @@
 2025-11-27T19:52:30+0000  chore: remove dead code
 2025-11-28T07:51:00+0000  feat: support config file overrides
 2025-11-28T09:30:21+0000  style: tidy up imports
+2025-12-02T13:05:23+0000  build: pin toolchain version
