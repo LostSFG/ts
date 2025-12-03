@@ -1706,3 +1706,4 @@
 2025-11-27T09:13:44+0000  build: pin toolchain version
 2025-11-28T04:31:36+0000  perf: avoid redundant allocations
 2025-12-01T20:32:00+0000  chore: remove dead code
+2025-12-03T00:52:38+0000  feat: expose --verbose flag
