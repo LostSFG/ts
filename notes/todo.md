@@ -1708,3 +1708,4 @@
 2025-12-01T20:32:00+0000  chore: remove dead code
 2025-12-03T00:52:38+0000  feat: expose --verbose flag
 2025-12-03T14:42:07+0000  refactor: extract helper for date parsing
+2025-12-03T22:32:25+0000  chore: remove dead code
