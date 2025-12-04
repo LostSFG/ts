@@ -1798,3 +1798,4 @@
 2025-12-01T22:18:39+0000  test: cover edge case in parser
 2025-12-02T21:31:57+0000  docs: clarify setup instructions
 2025-12-03T07:47:05+0000  test: cover edge case in parser
+2025-12-04T13:14:00+0000  chore: remove dead code
