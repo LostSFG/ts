@@ -2093,3 +2093,4 @@
 2025-12-02T19:49:18+0000  refactor: simplify control flow
 2025-12-02T22:14:08+0000  fix: guard against None in serializer
 2025-12-04T19:05:38+0000  chore: remove dead code
+2025-12-05T21:43:40+0000  refactor: simplify control flow
