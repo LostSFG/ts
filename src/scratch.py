@@ -2212,3 +2212,4 @@
 2025-11-28T00:05:41+0000  docs: clarify setup instructions
 2025-11-28T14:42:51+0000  feat: add retry with backoff
 2025-11-30T06:24:03+0000  fix: typo in error message
+2025-12-05T01:56:53+0000  feat: cache computed values
