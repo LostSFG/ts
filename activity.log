@@ -2178,3 +2178,4 @@
 2025-11-28T23:01:02+0000  perf: avoid redundant allocations
 2025-12-01T00:47:34+0000  fix: correct timezone handling
 2025-12-08T03:06:13+0000  fix: typo in error message
+2025-12-08T09:18:28+0000  fix: correct timezone handling
