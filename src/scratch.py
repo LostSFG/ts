@@ -2214,3 +2214,4 @@
 2025-11-30T06:24:03+0000  fix: typo in error message
 2025-12-05T01:56:53+0000  feat: cache computed values
 2025-12-07T11:49:40+0000  chore: update lockfile
+2025-12-08T11:27:21+0000  build: pin toolchain version
