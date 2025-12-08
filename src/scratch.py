@@ -1800,3 +1800,4 @@
 2025-12-03T07:47:05+0000  test: cover edge case in parser
 2025-12-04T13:14:00+0000  chore: remove dead code
 2025-12-05T15:39:53+0000  fix: guard against None in serializer
+2025-12-08T02:12:40+0000  build: pin toolchain version
