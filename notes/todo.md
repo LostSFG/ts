@@ -1713,3 +1713,4 @@
 2025-12-05T05:25:46+0000  fix: guard against None in serializer
 2025-12-05T11:29:48+0000  refactor: extract helper for date parsing
 2025-12-05T17:44:45+0000  fix: correct timezone handling
+2025-12-08T22:13:37+0000  chore: update lockfile
