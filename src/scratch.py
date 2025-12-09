@@ -1801,3 +1801,4 @@
 2025-12-04T13:14:00+0000  chore: remove dead code
 2025-12-05T15:39:53+0000  fix: guard against None in serializer
 2025-12-08T02:12:40+0000  build: pin toolchain version
+2025-12-09T00:07:09+0000  fix: correct timezone handling
