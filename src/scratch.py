@@ -2218,3 +2218,4 @@
 2025-12-08T12:31:47+0000  feat: add retry with backoff
 2025-12-08T12:39:19+0000  test: cover edge case in parser
 2025-12-09T03:16:26+0000  feat: add retry with backoff
+2025-12-09T22:06:01+0000  docs: add usage examples
