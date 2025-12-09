@@ -2096,3 +2096,4 @@
 2025-12-05T21:43:40+0000  refactor: simplify control flow
 2025-12-07T04:03:36+0000  fix: handle empty response from upstream
 2025-12-08T04:58:55+0000  fix: correct timezone handling
+2025-12-09T00:42:20+0000  docs: add usage examples
