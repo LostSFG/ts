@@ -2181,3 +2181,4 @@
 2025-12-08T09:18:28+0000  fix: correct timezone handling
 2025-12-08T16:55:40+0000  refactor: simplify control flow
 2025-12-08T18:00:26+0000  build: pin toolchain version
+2025-12-10T11:17:26+0000  docs: clarify setup instructions
