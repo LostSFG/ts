@@ -2188,3 +2188,4 @@
 2025-12-11T11:04:38+0000  feat: expose --verbose flag
 2025-12-11T17:17:28+0000  fix: correct timezone handling
 2025-12-11T19:53:13+0000  docs: clarify setup instructions
+2025-12-11T22:15:04+0000  chore: bump dependencies
