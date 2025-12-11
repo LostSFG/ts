@@ -2184,3 +2184,4 @@
 2025-12-10T11:17:26+0000  docs: clarify setup instructions
 2025-12-10T14:18:43+0000  chore: remove dead code
 2025-12-11T00:25:15+0000  fix: correct timezone handling
+2025-12-11T06:43:13+0000  fix: typo in error message
