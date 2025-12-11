@@ -1715,3 +1715,4 @@
 2025-12-05T17:44:45+0000  fix: correct timezone handling
 2025-12-08T22:13:37+0000  chore: update lockfile
 2025-12-09T14:21:04+0000  docs: add usage examples
+2025-12-11T00:56:58+0000  feat: add retry with backoff
