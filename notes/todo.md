@@ -2098,3 +2098,4 @@
 2025-12-08T04:58:55+0000  fix: correct timezone handling
 2025-12-09T00:42:20+0000  docs: add usage examples
 2025-12-09T09:11:36+0000  test: add regression test for #142
+2025-12-11T22:17:06+0000  refactor: extract helper for date parsing
