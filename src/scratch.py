@@ -1805,3 +1805,4 @@
 2025-12-09T09:13:06+0000  feat: cache computed values
 2025-12-09T11:14:35+0000  test: cover edge case in parser
 2025-12-09T17:44:34+0000  refactor: simplify control flow
+2025-12-12T00:03:10+0000  feat: support config file overrides
