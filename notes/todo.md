@@ -2100,3 +2100,4 @@
 2025-12-09T09:11:36+0000  test: add regression test for #142
 2025-12-11T22:17:06+0000  refactor: extract helper for date parsing
 2025-12-12T11:10:52+0000  fix: typo in error message
+2025-12-12T14:27:31+0000  perf: avoid redundant allocations
