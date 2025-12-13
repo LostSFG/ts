@@ -2101,3 +2101,4 @@
 2025-12-11T22:17:06+0000  refactor: extract helper for date parsing
 2025-12-12T11:10:52+0000  fix: typo in error message
 2025-12-12T14:27:31+0000  perf: avoid redundant allocations
+2025-12-13T20:40:43+0000  build: pin toolchain version
