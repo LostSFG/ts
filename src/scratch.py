@@ -2222,3 +2222,4 @@
 2025-12-10T00:53:05+0000  fix: correct timezone handling
 2025-12-10T15:13:37+0000  chore: bump dependencies
 2025-12-11T08:10:17+0000  refactor: simplify control flow
+2025-12-13T23:27:28+0000  docs: add usage examples
