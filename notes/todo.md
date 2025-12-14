@@ -2104,3 +2104,4 @@
 2025-12-13T20:40:43+0000  build: pin toolchain version
 2025-12-14T09:17:56+0000  feat: expose --verbose flag
 2025-12-14T19:38:05+0000  feat: add retry with backoff
+2025-12-14T23:32:57+0000  fix: handle empty response from upstream
