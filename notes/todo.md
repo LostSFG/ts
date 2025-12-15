@@ -1716,3 +1716,4 @@
 2025-12-08T22:13:37+0000  chore: update lockfile
 2025-12-09T14:21:04+0000  docs: add usage examples
 2025-12-11T00:56:58+0000  feat: add retry with backoff
+2025-12-15T11:00:40+0000  feat: cache computed values
