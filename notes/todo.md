@@ -2106,3 +2106,4 @@
 2025-12-14T19:38:05+0000  feat: add retry with backoff
 2025-12-14T23:32:57+0000  fix: handle empty response from upstream
 2025-12-15T01:08:46+0000  refactor: extract helper for date parsing
+2025-12-15T17:19:11+0000  fix: correct timezone handling
