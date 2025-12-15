@@ -1806,3 +1806,4 @@
 2025-12-09T11:14:35+0000  test: cover edge case in parser
 2025-12-09T17:44:34+0000  refactor: simplify control flow
 2025-12-12T00:03:10+0000  feat: support config file overrides
+2025-12-15T14:27:16+0000  perf: avoid redundant allocations
