@@ -2107,3 +2107,4 @@
 2025-12-14T23:32:57+0000  fix: handle empty response from upstream
 2025-12-15T01:08:46+0000  refactor: extract helper for date parsing
 2025-12-15T17:19:11+0000  fix: correct timezone handling
+2025-12-16T04:08:40+0000  chore: bump dependencies
