@@ -2193,3 +2193,4 @@
 2025-12-15T06:25:16+0000  fix: typo in error message
 2025-12-15T10:27:08+0000  test: cover edge case in parser
 2025-12-16T04:39:26+0000  refactor: simplify control flow
+2025-12-16T08:59:46+0000  fix: typo in error message
