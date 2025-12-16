@@ -1807,3 +1807,4 @@
 2025-12-09T17:44:34+0000  refactor: simplify control flow
 2025-12-12T00:03:10+0000  feat: support config file overrides
 2025-12-15T14:27:16+0000  perf: avoid redundant allocations
+2025-12-16T15:39:47+0000  refactor: simplify control flow
