@@ -1718,3 +1718,4 @@
 2025-12-11T00:56:58+0000  feat: add retry with backoff
 2025-12-15T11:00:40+0000  feat: cache computed values
 2025-12-18T05:43:15+0000  test: add regression test for #142
+2025-12-18T19:17:53+0000  docs: add usage examples
