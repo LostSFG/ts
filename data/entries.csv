@@ -2176,3 +2176,4 @@
 2025-12-17T17:46:32+0000  chore: update lockfile
 2025-12-18T00:31:39+0000  style: tidy up imports
 2025-12-18T17:59:11+0000  fix: typo in error message
+2025-12-21T04:14:37+0000  fix: handle empty response from upstream
