@@ -2225,3 +2225,4 @@
 2025-12-13T23:27:28+0000  docs: add usage examples
 2025-12-15T02:22:31+0000  fix: correct timezone handling
 2025-12-16T17:14:14+0000  style: tidy up imports
+2025-12-22T09:58:38+0000  feat: support config file overrides
