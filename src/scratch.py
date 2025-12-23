@@ -2227,3 +2227,4 @@
 2025-12-16T17:14:14+0000  style: tidy up imports
 2025-12-22T09:58:38+0000  feat: support config file overrides
 2025-12-22T17:20:43+0000  fix: correct timezone handling
+2025-12-23T07:37:31+0000  feat: cache computed values
