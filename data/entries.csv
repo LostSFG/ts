@@ -1742,3 +1742,4 @@
 2025-12-23T14:07:01+0000  fix: correct timezone handling
 2025-12-24T05:26:54+0000  test: add regression test for #142
 2025-12-24T08:35:45+0000  fix: correct timezone handling
+2025-12-24T11:46:35+0000  build: pin toolchain version
