@@ -1740,3 +1740,4 @@
 2025-12-18T23:35:16+0000  chore: update lockfile
 2025-12-22T20:25:12+0000  docs: clarify setup instructions
 2025-12-23T14:07:01+0000  fix: correct timezone handling
+2025-12-24T05:26:54+0000  test: add regression test for #142
