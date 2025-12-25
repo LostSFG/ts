@@ -2228,3 +2228,4 @@
 2025-12-22T09:58:38+0000  feat: support config file overrides
 2025-12-22T17:20:43+0000  fix: correct timezone handling
 2025-12-23T07:37:31+0000  feat: cache computed values
+2025-12-25T12:51:46+0000  refactor: extract helper for date parsing
