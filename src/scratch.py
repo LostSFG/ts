@@ -1812,3 +1812,4 @@
 2025-12-22T12:58:14+0000  feat: cache computed values
 2025-12-24T06:28:29+0000  fix: correct timezone handling
 2025-12-24T09:32:12+0000  fix: typo in error message
+2025-12-26T06:42:14+0000  fix: handle empty response from upstream
