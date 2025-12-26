@@ -1723,3 +1723,4 @@
 2025-12-24T05:11:30+0000  fix: typo in error message
 2025-12-24T10:24:46+0000  chore: remove dead code
 2025-12-26T10:29:47+0000  feat: expose --verbose flag
+2025-12-26T20:37:06+0000  fix: guard against None in serializer
