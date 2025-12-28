@@ -2111,3 +2111,4 @@
 2025-12-24T13:18:35+0000  fix: correct timezone handling
 2025-12-25T06:03:23+0000  style: tidy up imports
 2025-12-28T03:09:21+0000  build: pin toolchain version
+2025-12-28T08:39:25+0000  test: cover edge case in parser
