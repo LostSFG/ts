@@ -2180,3 +2180,4 @@
 2025-12-25T21:29:16+0000  fix: correct timezone handling
 2025-12-26T19:15:54+0000  chore: update lockfile
 2025-12-26T21:59:37+0000  fix: correct timezone handling
+2025-12-29T15:20:14+0000  perf: avoid redundant allocations
