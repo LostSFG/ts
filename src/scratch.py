@@ -2230,3 +2230,4 @@
 2025-12-23T07:37:31+0000  feat: cache computed values
 2025-12-25T12:51:46+0000  refactor: extract helper for date parsing
 2025-12-26T21:59:43+0000  refactor: simplify control flow
+2025-12-29T01:28:09+0000  perf: avoid redundant allocations
