@@ -1817,3 +1817,4 @@
 2025-12-30T02:57:17+0000  fix: handle empty response from upstream
 2025-12-30T13:07:19+0000  fix: typo in error message
 2025-12-30T18:19:36+0000  docs: add usage examples
+2025-12-30T18:20:09+0000  feat: cache computed values
