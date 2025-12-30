@@ -2232,3 +2232,4 @@
 2025-12-26T21:59:43+0000  refactor: simplify control flow
 2025-12-29T01:28:09+0000  perf: avoid redundant allocations
 2025-12-29T06:33:51+0000  test: cover edge case in parser
+2025-12-30T08:58:03+0000  docs: add usage examples
