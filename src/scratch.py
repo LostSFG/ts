@@ -1818,3 +1818,4 @@
 2025-12-30T13:07:19+0000  fix: typo in error message
 2025-12-30T18:19:36+0000  docs: add usage examples
 2025-12-30T18:20:09+0000  feat: cache computed values
+2025-12-31T17:29:39+0000  test: cover edge case in parser
