@@ -2235,3 +2235,4 @@
 2025-12-30T08:58:03+0000  docs: add usage examples
 2025-12-30T09:57:17+0000  test: add regression test for #142
 2025-12-30T14:40:50+0000  docs: clarify setup instructions
+2025-12-31T07:39:05+0000  refactor: simplify control flow
