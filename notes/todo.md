@@ -2118,3 +2118,4 @@
 2025-12-30T07:57:09+0000  docs: clarify setup instructions
 2025-12-30T08:31:04+0000  feat: support config file overrides
 2025-12-30T16:33:54+0000  refactor: simplify control flow
+2025-12-31T12:00:23+0000  docs: add usage examples
