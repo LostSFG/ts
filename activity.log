@@ -2203,3 +2203,4 @@
 2025-12-25T21:58:50+0000  fix: typo in error message
 2025-12-28T10:53:58+0000  docs: clarify setup instructions
 2025-12-30T04:39:31+0000  feat: cache computed values
+2025-12-31T10:11:02+0000  feat: support config file overrides
