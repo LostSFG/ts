@@ -2119,3 +2119,4 @@
 2025-12-30T08:31:04+0000  feat: support config file overrides
 2025-12-30T16:33:54+0000  refactor: simplify control flow
 2025-12-31T12:00:23+0000  docs: add usage examples
+2026-01-01T03:39:15+0000  fix: correct timezone handling
