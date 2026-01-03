@@ -1822,3 +1822,4 @@
 2026-01-02T00:30:33+0000  docs: add usage examples
 2026-01-02T01:21:43+0000  test: cover edge case in parser
 2026-01-02T03:37:59+0000  feat: add retry with backoff
+2026-01-03T19:23:52+0000  fix: correct timezone handling
