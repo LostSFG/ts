@@ -1726,3 +1726,4 @@
 2025-12-26T20:37:06+0000  fix: guard against None in serializer
 2025-12-30T21:08:50+0000  refactor: simplify control flow
 2025-12-31T01:53:37+0000  refactor: simplify control flow
+2026-01-05T09:14:43+0000  chore: bump dependencies
