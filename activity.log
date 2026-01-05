@@ -1782,3 +1782,4 @@
 2026-01-02T00:35:43+0000  fix: guard against None in serializer
 2026-01-02T06:42:11+0000  test: add regression test for #142
 2026-01-03T02:24:31+0000  chore: update lockfile
+2026-01-05T12:04:20+0000  fix: typo in error message
