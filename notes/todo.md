@@ -1729,3 +1729,4 @@
 2026-01-05T09:14:43+0000  chore: bump dependencies
 2026-01-05T15:28:40+0000  feat: expose --verbose flag
 2026-01-07T10:15:40+0000  fix: correct timezone handling
+2026-01-07T14:11:50+0000  feat: expose --verbose flag
