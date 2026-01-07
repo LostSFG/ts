@@ -1825,3 +1825,4 @@
 2026-01-03T19:23:52+0000  fix: correct timezone handling
 2026-01-03T21:32:42+0000  fix: correct timezone handling
 2026-01-06T19:06:07+0000  feat: add retry with backoff
+2026-01-07T11:43:58+0000  feat: expose --verbose flag
