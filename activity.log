@@ -1784,3 +1784,4 @@
 2026-01-03T02:24:31+0000  chore: update lockfile
 2026-01-05T12:04:20+0000  fix: typo in error message
 2026-01-07T16:47:24+0000  perf: avoid redundant allocations
+2026-01-07T22:29:17+0000  feat: support config file overrides
