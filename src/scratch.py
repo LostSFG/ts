@@ -1827,3 +1827,4 @@
 2026-01-06T19:06:07+0000  feat: add retry with backoff
 2026-01-07T11:43:58+0000  feat: expose --verbose flag
 2026-01-08T05:15:30+0000  fix: handle empty response from upstream
+2026-01-08T12:02:05+0000  fix: guard against None in serializer
