@@ -1731,3 +1731,4 @@
 2026-01-07T10:15:40+0000  fix: correct timezone handling
 2026-01-07T14:11:50+0000  feat: expose --verbose flag
 2026-01-08T18:16:35+0000  feat: add retry with backoff
+2026-01-09T16:26:47+0000  test: add regression test for #142
