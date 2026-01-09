@@ -1829,3 +1829,4 @@
 2026-01-08T05:15:30+0000  fix: handle empty response from upstream
 2026-01-08T12:02:05+0000  fix: guard against None in serializer
 2026-01-09T07:47:04+0000  refactor: simplify control flow
+2026-01-09T12:17:01+0000  fix: handle empty response from upstream
