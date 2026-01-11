@@ -1734,3 +1734,4 @@
 2026-01-09T16:26:47+0000  test: add regression test for #142
 2026-01-09T17:09:52+0000  chore: remove dead code
 2026-01-11T14:07:23+0000  feat: support config file overrides
+2026-01-11T17:05:43+0000  fix: guard against None in serializer
