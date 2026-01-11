@@ -1759,3 +1759,4 @@
 2026-01-08T04:14:32+0000  feat: add retry with backoff
 2026-01-09T01:32:43+0000  feat: cache computed values
 2026-01-11T15:02:52+0000  fix: guard against None in serializer
+2026-01-11T22:02:38+0000  refactor: extract helper for date parsing
