@@ -1831,3 +1831,4 @@
 2026-01-09T07:47:04+0000  refactor: simplify control flow
 2026-01-09T12:17:01+0000  fix: handle empty response from upstream
 2026-01-12T01:56:05+0000  test: add regression test for #142
+2026-01-12T15:22:30+0000  perf: avoid redundant allocations
