@@ -1832,3 +1832,4 @@
 2026-01-09T12:17:01+0000  fix: handle empty response from upstream
 2026-01-12T01:56:05+0000  test: add regression test for #142
 2026-01-12T15:22:30+0000  perf: avoid redundant allocations
+2026-01-12T18:22:09+0000  feat: support config file overrides
