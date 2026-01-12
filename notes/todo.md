@@ -1737,3 +1737,4 @@
 2026-01-11T17:05:43+0000  fix: guard against None in serializer
 2026-01-12T01:52:59+0000  build: pin toolchain version
 2026-01-12T02:41:50+0000  fix: correct timezone handling
+2026-01-12T18:21:29+0000  feat: expose --verbose flag
