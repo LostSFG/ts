@@ -1789,3 +1789,4 @@
 2026-01-08T05:26:57+0000  fix: handle empty response from upstream
 2026-01-08T18:36:11+0000  style: tidy up imports
 2026-01-12T02:25:31+0000  refactor: simplify control flow
+2026-01-12T19:25:44+0000  build: pin toolchain version
