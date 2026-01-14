@@ -1834,3 +1834,4 @@
 2026-01-12T15:22:30+0000  perf: avoid redundant allocations
 2026-01-12T18:22:09+0000  feat: support config file overrides
 2026-01-12T20:16:52+0000  test: cover edge case in parser
+2026-01-14T01:32:55+0000  test: add regression test for #142
