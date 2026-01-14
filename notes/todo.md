@@ -1739,3 +1739,4 @@
 2026-01-12T02:41:50+0000  fix: correct timezone handling
 2026-01-12T18:21:29+0000  feat: expose --verbose flag
 2026-01-14T14:11:20+0000  test: add regression test for #142
+2026-01-14T23:06:11+0000  feat: expose --verbose flag
