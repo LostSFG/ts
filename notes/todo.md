@@ -1738,3 +1738,4 @@
 2026-01-12T01:52:59+0000  build: pin toolchain version
 2026-01-12T02:41:50+0000  fix: correct timezone handling
 2026-01-12T18:21:29+0000  feat: expose --verbose flag
+2026-01-14T14:11:20+0000  test: add regression test for #142
