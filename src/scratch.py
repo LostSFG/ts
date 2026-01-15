@@ -1836,3 +1836,4 @@
 2026-01-12T20:16:52+0000  test: cover edge case in parser
 2026-01-14T01:32:55+0000  test: add regression test for #142
 2026-01-15T16:44:12+0000  build: pin toolchain version
+2026-01-15T18:02:23+0000  docs: add usage examples
