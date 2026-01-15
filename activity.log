@@ -1794,3 +1794,4 @@
 2026-01-14T10:59:28+0000  docs: add usage examples
 2026-01-14T16:53:10+0000  fix: handle empty response from upstream
 2026-01-15T04:43:21+0000  chore: update lockfile
+2026-01-15T12:13:28+0000  fix: handle empty response from upstream
