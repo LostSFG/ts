@@ -1837,3 +1837,4 @@
 2026-01-14T01:32:55+0000  test: add regression test for #142
 2026-01-15T16:44:12+0000  build: pin toolchain version
 2026-01-15T18:02:23+0000  docs: add usage examples
+2026-01-16T21:29:16+0000  chore: bump dependencies
