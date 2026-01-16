@@ -1741,3 +1741,4 @@
 2026-01-14T14:11:20+0000  test: add regression test for #142
 2026-01-14T23:06:11+0000  feat: expose --verbose flag
 2026-01-15T05:15:33+0000  feat: support config file overrides
+2026-01-16T04:01:47+0000  chore: remove dead code
