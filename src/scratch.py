@@ -1838,3 +1838,4 @@
 2026-01-15T16:44:12+0000  build: pin toolchain version
 2026-01-15T18:02:23+0000  docs: add usage examples
 2026-01-16T21:29:16+0000  chore: bump dependencies
+2026-01-19T14:10:41+0000  feat: support config file overrides
