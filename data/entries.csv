@@ -1765,3 +1765,4 @@
 2026-01-19T06:50:25+0000  docs: clarify setup instructions
 2026-01-19T15:30:38+0000  fix: guard against None in serializer
 2026-01-19T19:06:22+0000  chore: remove dead code
+2026-01-20T07:51:32+0000  chore: bump dependencies
