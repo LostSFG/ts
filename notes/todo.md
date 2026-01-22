@@ -1745,3 +1745,4 @@
 2026-01-16T13:43:18+0000  test: cover edge case in parser
 2026-01-19T02:53:50+0000  fix: guard against None in serializer
 2026-01-19T06:53:36+0000  docs: clarify setup instructions
+2026-01-22T09:47:40+0000  build: pin toolchain version
