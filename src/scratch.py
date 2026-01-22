@@ -1840,3 +1840,4 @@
 2026-01-16T21:29:16+0000  chore: bump dependencies
 2026-01-19T14:10:41+0000  feat: support config file overrides
 2026-01-20T21:38:34+0000  chore: bump dependencies
+2026-01-22T14:49:05+0000  feat: support config file overrides
