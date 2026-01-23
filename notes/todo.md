@@ -1746,3 +1746,4 @@
 2026-01-19T02:53:50+0000  fix: guard against None in serializer
 2026-01-19T06:53:36+0000  docs: clarify setup instructions
 2026-01-22T09:47:40+0000  build: pin toolchain version
+2026-01-23T19:37:29+0000  chore: update lockfile
