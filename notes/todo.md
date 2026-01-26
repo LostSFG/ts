@@ -1747,3 +1747,4 @@
 2026-01-19T06:53:36+0000  docs: clarify setup instructions
 2026-01-22T09:47:40+0000  build: pin toolchain version
 2026-01-23T19:37:29+0000  chore: update lockfile
+2026-01-26T03:05:34+0000  docs: add usage examples
