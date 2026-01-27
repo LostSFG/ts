@@ -1750,3 +1750,4 @@
 2026-01-26T03:05:34+0000  docs: add usage examples
 2026-01-27T03:17:29+0000  test: cover edge case in parser
 2026-01-27T16:09:09+0000  feat: add retry with backoff
+2026-01-27T16:55:58+0000  perf: avoid redundant allocations
