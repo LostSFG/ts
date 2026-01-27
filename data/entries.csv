@@ -1770,3 +1770,4 @@
 2026-01-25T03:00:43+0000  perf: avoid redundant allocations
 2026-01-25T07:59:21+0000  fix: typo in error message
 2026-01-27T01:16:41+0000  fix: correct timezone handling
+2026-01-27T13:37:49+0000  chore: remove dead code
