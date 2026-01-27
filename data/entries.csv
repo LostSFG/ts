@@ -1771,3 +1771,4 @@
 2026-01-25T07:59:21+0000  fix: typo in error message
 2026-01-27T01:16:41+0000  fix: correct timezone handling
 2026-01-27T13:37:49+0000  chore: remove dead code
+2026-01-27T18:09:11+0000  feat: add retry with backoff
