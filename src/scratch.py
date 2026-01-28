@@ -1842,3 +1842,4 @@
 2026-01-20T21:38:34+0000  chore: bump dependencies
 2026-01-22T14:49:05+0000  feat: support config file overrides
 2026-01-26T16:26:29+0000  test: cover edge case in parser
+2026-01-28T11:08:25+0000  docs: add usage examples
