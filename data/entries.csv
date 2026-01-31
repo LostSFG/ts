@@ -1774,3 +1774,4 @@
 2026-01-27T18:09:11+0000  feat: add retry with backoff
 2026-01-30T11:55:30+0000  refactor: extract helper for date parsing
 2026-01-30T14:05:48+0000  style: tidy up imports
+2026-01-31T07:20:10+0000  chore: bump dependencies
