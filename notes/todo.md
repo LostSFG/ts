@@ -1753,3 +1753,4 @@
 2026-01-27T16:55:58+0000  perf: avoid redundant allocations
 2026-01-27T22:32:25+0000  test: add regression test for #142
 2026-01-30T09:46:17+0000  feat: expose --verbose flag
+2026-02-02T00:40:55+0000  test: cover edge case in parser
