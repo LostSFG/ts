@@ -1845,3 +1845,4 @@
 2026-01-28T11:08:25+0000  docs: add usage examples
 2026-01-28T23:03:13+0000  feat: support config file overrides
 2026-01-30T02:14:51+0000  refactor: simplify control flow
+2026-02-02T01:58:09+0000  test: cover edge case in parser
