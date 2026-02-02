@@ -1814,3 +1814,4 @@
 2026-01-31T00:59:28+0000  refactor: simplify control flow
 2026-01-31T13:14:57+0000  chore: bump dependencies
 2026-02-01T13:05:06+0000  fix: correct timezone handling
+2026-02-02T00:13:39+0000  chore: remove dead code
