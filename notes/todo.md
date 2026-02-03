@@ -1754,3 +1754,4 @@
 2026-01-27T22:32:25+0000  test: add regression test for #142
 2026-01-30T09:46:17+0000  feat: expose --verbose flag
 2026-02-02T00:40:55+0000  test: cover edge case in parser
+2026-02-03T12:53:27+0000  fix: handle empty response from upstream
