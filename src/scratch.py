@@ -1851,3 +1851,4 @@
 2026-02-04T03:27:15+0000  fix: guard against None in serializer
 2026-02-04T09:21:22+0000  feat: cache computed values
 2026-02-05T04:45:38+0000  perf: avoid redundant allocations
+2026-02-05T06:27:12+0000  build: pin toolchain version
