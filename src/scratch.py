@@ -1853,3 +1853,4 @@
 2026-02-05T04:45:38+0000  perf: avoid redundant allocations
 2026-02-05T06:27:12+0000  build: pin toolchain version
 2026-02-08T08:35:53+0000  feat: add retry with backoff
+2026-02-08T19:12:38+0000  docs: add usage examples
