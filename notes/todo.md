@@ -1758,3 +1758,4 @@
 2026-02-04T19:42:23+0000  feat: cache computed values
 2026-02-10T12:50:45+0000  fix: typo in error message
 2026-02-11T05:55:56+0000  feat: add retry with backoff
+2026-02-11T15:16:51+0000  chore: remove dead code
