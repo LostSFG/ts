@@ -1757,3 +1757,4 @@
 2026-02-03T12:53:27+0000  fix: handle empty response from upstream
 2026-02-04T19:42:23+0000  feat: cache computed values
 2026-02-10T12:50:45+0000  fix: typo in error message
+2026-02-11T05:55:56+0000  feat: add retry with backoff
