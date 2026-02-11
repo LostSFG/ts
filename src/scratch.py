@@ -1857,3 +1857,4 @@
 2026-02-11T17:07:43+0000  feat: support config file overrides
 2026-02-11T19:03:53+0000  fix: typo in error message
 2026-02-11T20:34:43+0000  build: pin toolchain version
+2026-02-11T21:08:54+0000  fix: correct timezone handling
