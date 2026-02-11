@@ -1856,3 +1856,4 @@
 2026-02-08T19:12:38+0000  docs: add usage examples
 2026-02-11T17:07:43+0000  feat: support config file overrides
 2026-02-11T19:03:53+0000  fix: typo in error message
+2026-02-11T20:34:43+0000  build: pin toolchain version
