@@ -1761,3 +1761,4 @@
 2026-02-11T15:16:51+0000  chore: remove dead code
 2026-02-13T00:08:20+0000  chore: bump dependencies
 2026-02-13T08:28:05+0000  chore: remove dead code
+2026-02-13T15:46:47+0000  perf: avoid redundant allocations
