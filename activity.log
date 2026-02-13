@@ -1825,3 +1825,4 @@
 2026-02-10T07:27:00+0000  docs: add usage examples
 2026-02-10T15:26:27+0000  fix: correct timezone handling
 2026-02-12T22:23:02+0000  feat: add retry with backoff
+2026-02-13T09:51:05+0000  perf: avoid redundant allocations
