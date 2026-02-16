@@ -1862,3 +1862,4 @@
 2026-02-13T11:37:17+0000  fix: correct timezone handling
 2026-02-13T22:27:30+0000  docs: add usage examples
 2026-02-15T11:44:21+0000  docs: clarify setup instructions
+2026-02-16T09:56:13+0000  feat: add retry with backoff
