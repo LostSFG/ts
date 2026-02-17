@@ -1830,3 +1830,4 @@
 2026-02-16T00:00:44+0000  feat: add retry with backoff
 2026-02-16T02:27:52+0000  chore: update lockfile
 2026-02-16T02:47:34+0000  build: pin toolchain version
+2026-02-17T10:52:28+0000  feat: expose --verbose flag
