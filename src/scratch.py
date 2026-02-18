@@ -1863,3 +1863,4 @@
 2026-02-13T22:27:30+0000  docs: add usage examples
 2026-02-15T11:44:21+0000  docs: clarify setup instructions
 2026-02-16T09:56:13+0000  feat: add retry with backoff
+2026-02-18T11:54:33+0000  refactor: extract helper for date parsing
