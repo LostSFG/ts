@@ -1806,3 +1806,4 @@
 2026-02-18T15:42:19+0000  build: pin toolchain version
 2026-02-18T19:07:28+0000  build: pin toolchain version
 2026-02-18T19:12:25+0000  fix: guard against None in serializer
+2026-02-19T05:42:42+0000  fix: guard against None in serializer
