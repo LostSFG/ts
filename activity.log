@@ -1832,3 +1832,4 @@
 2026-02-16T02:47:34+0000  build: pin toolchain version
 2026-02-17T10:52:28+0000  feat: expose --verbose flag
 2026-02-17T16:32:25+0000  docs: add usage examples
+2026-02-19T15:58:29+0000  docs: clarify setup instructions
