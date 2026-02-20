@@ -1866,3 +1866,4 @@
 2026-02-18T11:54:33+0000  refactor: extract helper for date parsing
 2026-02-19T03:56:48+0000  chore: update lockfile
 2026-02-19T19:03:01+0000  chore: update lockfile
+2026-02-20T19:18:41+0000  feat: expose --verbose flag
