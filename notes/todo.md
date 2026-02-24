@@ -1769,3 +1769,4 @@
 2026-02-23T18:47:02+0000  perf: avoid redundant allocations
 2026-02-23T19:04:24+0000  feat: support config file overrides
 2026-02-24T19:24:25+0000  chore: bump dependencies
+2026-02-24T20:14:12+0000  docs: clarify setup instructions
