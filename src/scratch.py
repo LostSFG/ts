@@ -1868,3 +1868,4 @@
 2026-02-19T19:03:01+0000  chore: update lockfile
 2026-02-20T19:18:41+0000  feat: expose --verbose flag
 2026-02-20T21:30:23+0000  test: cover edge case in parser
+2026-02-24T14:35:26+0000  fix: correct timezone handling
