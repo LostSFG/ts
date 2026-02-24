@@ -1768,3 +1768,4 @@
 2026-02-23T07:17:50+0000  refactor: extract helper for date parsing
 2026-02-23T18:47:02+0000  perf: avoid redundant allocations
 2026-02-23T19:04:24+0000  feat: support config file overrides
+2026-02-24T19:24:25+0000  chore: bump dependencies
