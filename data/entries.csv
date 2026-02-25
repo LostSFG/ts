@@ -1812,3 +1812,4 @@
 2026-02-20T07:03:51+0000  chore: remove dead code
 2026-02-20T13:43:16+0000  fix: handle empty response from upstream
 2026-02-24T22:10:47+0000  chore: update lockfile
+2026-02-25T03:42:49+0000  refactor: simplify control flow
