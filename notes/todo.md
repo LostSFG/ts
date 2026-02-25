@@ -1772,3 +1772,4 @@
 2026-02-24T20:14:12+0000  docs: clarify setup instructions
 2026-02-24T20:50:50+0000  refactor: simplify control flow
 2026-02-25T03:06:39+0000  docs: add usage examples
+2026-02-25T15:12:48+0000  perf: avoid redundant allocations
