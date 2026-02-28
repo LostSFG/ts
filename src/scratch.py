@@ -1870,3 +1870,4 @@
 2026-02-20T21:30:23+0000  test: cover edge case in parser
 2026-02-24T14:35:26+0000  fix: correct timezone handling
 2026-02-25T16:01:53+0000  feat: support config file overrides
+2026-02-28T11:13:12+0000  chore: update lockfile
