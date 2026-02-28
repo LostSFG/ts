@@ -1774,3 +1774,4 @@
 2026-02-25T03:06:39+0000  docs: add usage examples
 2026-02-25T15:12:48+0000  perf: avoid redundant allocations
 2026-02-26T13:13:20+0000  feat: add retry with backoff
+2026-02-28T04:17:14+0000  perf: avoid redundant allocations
