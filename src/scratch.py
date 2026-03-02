@@ -1871,3 +1871,4 @@
 2026-02-24T14:35:26+0000  fix: correct timezone handling
 2026-02-25T16:01:53+0000  feat: support config file overrides
 2026-02-28T11:13:12+0000  chore: update lockfile
+2026-03-02T05:11:01+0000  build: pin toolchain version
