@@ -1873,3 +1873,4 @@
 2026-02-28T11:13:12+0000  chore: update lockfile
 2026-03-02T05:11:01+0000  build: pin toolchain version
 2026-03-02T17:57:26+0000  chore: remove dead code
+2026-03-03T05:29:41+0000  fix: handle empty response from upstream
