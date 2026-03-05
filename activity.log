@@ -1845,3 +1845,4 @@
 2026-02-26T15:53:35+0000  perf: avoid redundant allocations
 2026-02-28T17:21:03+0000  refactor: simplify control flow
 2026-03-03T13:41:32+0000  feat: cache computed values
+2026-03-05T10:11:21+0000  chore: update lockfile
