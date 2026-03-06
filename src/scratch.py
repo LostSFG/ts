@@ -1878,3 +1878,4 @@
 2026-03-05T08:46:35+0000  chore: remove dead code
 2026-03-06T04:21:01+0000  refactor: simplify control flow
 2026-03-06T11:55:36+0000  fix: handle empty response from upstream
+2026-03-06T18:12:51+0000  fix: guard against None in serializer
