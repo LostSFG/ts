@@ -1822,3 +1822,4 @@
 2026-03-05T03:46:33+0000  refactor: simplify control flow
 2026-03-05T05:46:10+0000  style: tidy up imports
 2026-03-05T19:51:15+0000  feat: expose --verbose flag
+2026-03-06T01:24:22+0000  perf: avoid redundant allocations
