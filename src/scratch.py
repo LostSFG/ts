@@ -1880,3 +1880,4 @@
 2026-03-06T11:55:36+0000  fix: handle empty response from upstream
 2026-03-06T18:12:51+0000  fix: guard against None in serializer
 2026-03-07T06:33:41+0000  docs: clarify setup instructions
+2026-03-07T23:25:44+0000  docs: add usage examples
