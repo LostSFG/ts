@@ -1826,3 +1826,4 @@
 2026-03-06T11:59:29+0000  docs: clarify setup instructions
 2026-03-06T23:34:52+0000  chore: update lockfile
 2026-03-09T04:34:18+0000  style: tidy up imports
+2026-03-09T11:56:25+0000  feat: expose --verbose flag
