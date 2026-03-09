@@ -1848,3 +1848,4 @@
 2026-03-05T10:11:21+0000  chore: update lockfile
 2026-03-06T12:59:03+0000  fix: guard against None in serializer
 2026-03-06T20:55:01+0000  fix: guard against None in serializer
+2026-03-09T23:59:30+0000  docs: clarify setup instructions
