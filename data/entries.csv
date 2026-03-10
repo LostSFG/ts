@@ -1828,3 +1828,4 @@
 2026-03-09T04:34:18+0000  style: tidy up imports
 2026-03-09T11:56:25+0000  feat: expose --verbose flag
 2026-03-10T00:41:33+0000  test: cover edge case in parser
+2026-03-10T02:02:36+0000  fix: handle empty response from upstream
