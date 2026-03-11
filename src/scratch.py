@@ -1882,3 +1882,4 @@
 2026-03-07T06:33:41+0000  docs: clarify setup instructions
 2026-03-07T23:25:44+0000  docs: add usage examples
 2026-03-10T00:53:46+0000  fix: typo in error message
+2026-03-11T03:13:44+0000  build: pin toolchain version
