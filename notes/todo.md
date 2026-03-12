@@ -1778,3 +1778,4 @@
 2026-03-04T20:23:19+0000  test: add regression test for #142
 2026-03-09T16:39:35+0000  fix: typo in error message
 2026-03-12T06:45:19+0000  feat: add retry with backoff
+2026-03-12T15:00:19+0000  build: pin toolchain version
