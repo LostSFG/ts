@@ -1856,3 +1856,4 @@
 2026-03-12T13:41:10+0000  refactor: extract helper for date parsing
 2026-03-13T20:35:37+0000  docs: add usage examples
 2026-03-16T04:58:14+0000  feat: cache computed values
+2026-03-16T16:12:48+0000  feat: cache computed values
