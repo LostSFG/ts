@@ -1884,3 +1884,4 @@
 2026-03-10T00:53:46+0000  fix: typo in error message
 2026-03-11T03:13:44+0000  build: pin toolchain version
 2026-03-12T17:01:11+0000  fix: handle empty response from upstream
+2026-03-17T13:00:20+0000  docs: clarify setup instructions
