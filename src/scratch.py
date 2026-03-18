@@ -1888,3 +1888,4 @@
 2026-03-17T16:02:55+0000  feat: support config file overrides
 2026-03-18T03:26:20+0000  refactor: simplify control flow
 2026-03-18T05:51:20+0000  docs: add usage examples
+2026-03-18T10:35:52+0000  fix: typo in error message
