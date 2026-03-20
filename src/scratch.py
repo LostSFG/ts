@@ -1891,3 +1891,4 @@
 2026-03-18T10:35:52+0000  fix: typo in error message
 2026-03-18T22:28:49+0000  chore: bump dependencies
 2026-03-18T23:50:06+0000  feat: cache computed values
+2026-03-20T22:51:42+0000  test: cover edge case in parser
