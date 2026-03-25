@@ -1789,3 +1789,4 @@
 2026-03-22T14:01:39+0000  chore: update lockfile
 2026-03-24T05:50:16+0000  fix: handle empty response from upstream
 2026-03-24T16:15:11+0000  chore: bump dependencies
+2026-03-25T07:52:31+0000  test: cover edge case in parser
