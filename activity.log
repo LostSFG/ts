@@ -1863,3 +1863,4 @@
 2026-03-20T23:38:51+0000  feat: cache computed values
 2026-03-24T06:45:03+0000  fix: guard against None in serializer
 2026-03-25T00:36:06+0000  refactor: simplify control flow
+2026-03-25T15:04:30+0000  refactor: simplify control flow
