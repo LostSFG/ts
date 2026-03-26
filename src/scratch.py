@@ -1893,3 +1893,4 @@
 2026-03-18T23:50:06+0000  feat: cache computed values
 2026-03-20T22:51:42+0000  test: cover edge case in parser
 2026-03-22T02:29:12+0000  perf: avoid redundant allocations
+2026-03-26T22:25:42+0000  chore: remove dead code
