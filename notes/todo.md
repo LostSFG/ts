@@ -1794,3 +1794,4 @@
 2026-03-27T15:14:30+0000  chore: update lockfile
 2026-03-28T05:01:10+0000  docs: add usage examples
 2026-03-30T12:21:49+0000  test: add regression test for #142
+2026-03-30T13:15:59+0000  docs: clarify setup instructions
