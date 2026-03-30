@@ -1897,3 +1897,4 @@
 2026-03-30T08:49:38+0000  perf: avoid redundant allocations
 2026-03-30T11:04:48+0000  fix: correct timezone handling
 2026-03-30T17:58:25+0000  test: cover edge case in parser
+2026-03-30T18:13:13+0000  docs: clarify setup instructions
