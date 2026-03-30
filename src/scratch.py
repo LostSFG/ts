@@ -1896,3 +1896,4 @@
 2026-03-26T22:25:42+0000  chore: remove dead code
 2026-03-30T08:49:38+0000  perf: avoid redundant allocations
 2026-03-30T11:04:48+0000  fix: correct timezone handling
+2026-03-30T17:58:25+0000  test: cover edge case in parser
