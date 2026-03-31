@@ -1867,3 +1867,4 @@
 2026-03-30T11:25:47+0000  fix: correct timezone handling
 2026-03-31T07:47:06+0000  fix: correct timezone handling
 2026-03-31T09:15:29+0000  chore: update lockfile
+2026-03-31T15:32:08+0000  feat: add retry with backoff
