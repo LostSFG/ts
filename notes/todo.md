@@ -1800,3 +1800,4 @@
 2026-04-01T07:05:37+0000  perf: avoid redundant allocations
 2026-04-01T11:07:15+0000  feat: support config file overrides
 2026-04-01T12:51:41+0000  feat: expose --verbose flag
+2026-04-01T20:37:17+0000  test: cover edge case in parser
