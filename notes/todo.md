@@ -1798,3 +1798,4 @@
 2026-03-31T08:29:03+0000  build: pin toolchain version
 2026-03-31T20:12:37+0000  refactor: simplify control flow
 2026-04-01T07:05:37+0000  perf: avoid redundant allocations
+2026-04-01T11:07:15+0000  feat: support config file overrides
