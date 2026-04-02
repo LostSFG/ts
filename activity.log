@@ -1874,3 +1874,4 @@
 2026-04-01T21:01:50+0000  feat: expose --verbose flag
 2026-04-02T02:03:21+0000  docs: add usage examples
 2026-04-02T06:26:11+0000  feat: add retry with backoff
+2026-04-02T08:56:32+0000  chore: remove dead code
