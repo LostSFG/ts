@@ -1900,3 +1900,4 @@
 2026-03-30T18:13:13+0000  docs: clarify setup instructions
 2026-03-31T02:41:43+0000  style: tidy up imports
 2026-03-31T19:40:43+0000  feat: support config file overrides
+2026-04-02T16:41:38+0000  test: cover edge case in parser
