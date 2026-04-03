@@ -1801,3 +1801,4 @@
 2026-04-01T11:07:15+0000  feat: support config file overrides
 2026-04-01T12:51:41+0000  feat: expose --verbose flag
 2026-04-01T20:37:17+0000  test: cover edge case in parser
+2026-04-03T11:10:08+0000  test: add regression test for #142
