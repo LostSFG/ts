@@ -1803,3 +1803,4 @@
 2026-04-01T20:37:17+0000  test: cover edge case in parser
 2026-04-03T11:10:08+0000  test: add regression test for #142
 2026-04-04T07:44:32+0000  style: tidy up imports
+2026-04-04T17:00:02+0000  docs: clarify setup instructions
