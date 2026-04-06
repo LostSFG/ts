@@ -1878,3 +1878,4 @@
 2026-04-02T21:36:14+0000  chore: update lockfile
 2026-04-04T11:20:06+0000  test: cover edge case in parser
 2026-04-06T01:04:44+0000  perf: avoid redundant allocations
+2026-04-06T05:49:01+0000  perf: avoid redundant allocations
