@@ -1805,3 +1805,4 @@
 2026-04-04T07:44:32+0000  style: tidy up imports
 2026-04-04T17:00:02+0000  docs: clarify setup instructions
 2026-04-06T11:53:39+0000  refactor: simplify control flow
+2026-04-06T15:34:53+0000  test: add regression test for #142
