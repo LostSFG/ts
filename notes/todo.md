@@ -1807,3 +1807,4 @@
 2026-04-06T11:53:39+0000  refactor: simplify control flow
 2026-04-06T15:34:53+0000  test: add regression test for #142
 2026-04-07T14:27:53+0000  feat: add retry with backoff
+2026-04-08T07:36:40+0000  chore: remove dead code
