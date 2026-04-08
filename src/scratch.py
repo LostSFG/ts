@@ -1906,3 +1906,4 @@
 2026-04-06T06:06:36+0000  feat: cache computed values
 2026-04-07T10:28:02+0000  style: tidy up imports
 2026-04-07T20:35:07+0000  style: tidy up imports
+2026-04-08T12:07:01+0000  fix: handle empty response from upstream
