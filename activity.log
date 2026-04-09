@@ -1885,3 +1885,4 @@
 2026-04-08T03:26:21+0000  feat: support config file overrides
 2026-04-08T14:04:00+0000  feat: expose --verbose flag
 2026-04-08T19:19:55+0000  feat: support config file overrides
+2026-04-09T11:05:53+0000  fix: guard against None in serializer
