@@ -1887,3 +1887,4 @@
 2026-04-08T19:19:55+0000  feat: support config file overrides
 2026-04-09T11:05:53+0000  fix: guard against None in serializer
 2026-04-10T01:44:29+0000  chore: bump dependencies
+2026-04-10T17:36:16+0000  chore: remove dead code
