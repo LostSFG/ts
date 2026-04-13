@@ -1910,3 +1910,4 @@
 2026-04-08T14:45:17+0000  fix: typo in error message
 2026-04-10T13:54:43+0000  feat: expose --verbose flag
 2026-04-13T15:13:23+0000  fix: typo in error message
+2026-04-13T21:31:04+0000  fix: correct timezone handling
