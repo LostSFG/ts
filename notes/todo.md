@@ -1814,3 +1814,4 @@
 2026-04-13T00:26:43+0000  feat: support config file overrides
 2026-04-13T09:55:48+0000  feat: cache computed values
 2026-04-13T12:42:34+0000  test: cover edge case in parser
+2026-04-13T23:09:40+0000  fix: typo in error message
