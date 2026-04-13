@@ -1813,3 +1813,4 @@
 2026-04-12T04:56:11+0000  perf: avoid redundant allocations
 2026-04-13T00:26:43+0000  feat: support config file overrides
 2026-04-13T09:55:48+0000  feat: cache computed values
+2026-04-13T12:42:34+0000  test: cover edge case in parser
