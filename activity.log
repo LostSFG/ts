@@ -1892,3 +1892,4 @@
 2026-04-12T22:16:43+0000  refactor: extract helper for date parsing
 2026-04-13T13:13:52+0000  chore: remove dead code
 2026-04-13T15:22:21+0000  docs: clarify setup instructions
+2026-04-14T04:01:13+0000  refactor: simplify control flow
