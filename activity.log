@@ -1894,3 +1894,4 @@
 2026-04-13T15:22:21+0000  docs: clarify setup instructions
 2026-04-14T04:01:13+0000  refactor: simplify control flow
 2026-04-15T03:47:24+0000  chore: remove dead code
+2026-04-15T07:48:16+0000  feat: support config file overrides
