@@ -1896,3 +1896,4 @@
 2026-04-15T03:47:24+0000  chore: remove dead code
 2026-04-15T07:48:16+0000  feat: support config file overrides
 2026-04-16T00:33:36+0000  feat: expose --verbose flag
+2026-04-16T07:29:07+0000  feat: cache computed values
