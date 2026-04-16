@@ -1816,3 +1816,4 @@
 2026-04-13T12:42:34+0000  test: cover edge case in parser
 2026-04-13T23:09:40+0000  fix: typo in error message
 2026-04-16T17:58:34+0000  fix: typo in error message
+2026-04-16T18:11:36+0000  test: add regression test for #142
