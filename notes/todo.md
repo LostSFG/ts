@@ -1817,3 +1817,4 @@
 2026-04-13T23:09:40+0000  fix: typo in error message
 2026-04-16T17:58:34+0000  fix: typo in error message
 2026-04-16T18:11:36+0000  test: add regression test for #142
+2026-04-17T03:48:56+0000  feat: expose --verbose flag
