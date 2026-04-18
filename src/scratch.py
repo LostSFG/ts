@@ -1916,3 +1916,4 @@
 2026-04-16T05:31:27+0000  fix: guard against None in serializer
 2026-04-16T05:46:07+0000  refactor: extract helper for date parsing
 2026-04-16T19:30:31+0000  fix: typo in error message
+2026-04-18T16:02:32+0000  feat: expose --verbose flag
