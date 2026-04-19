@@ -1917,3 +1917,4 @@
 2026-04-16T05:46:07+0000  refactor: extract helper for date parsing
 2026-04-16T19:30:31+0000  fix: typo in error message
 2026-04-18T16:02:32+0000  feat: expose --verbose flag
+2026-04-19T12:07:55+0000  fix: handle empty response from upstream
