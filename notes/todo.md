@@ -1820,3 +1820,4 @@
 2026-04-17T03:48:56+0000  feat: expose --verbose flag
 2026-04-19T17:28:15+0000  docs: clarify setup instructions
 2026-04-20T01:49:45+0000  feat: expose --verbose flag
+2026-04-20T02:33:24+0000  fix: handle empty response from upstream
