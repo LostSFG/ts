@@ -1819,3 +1819,4 @@
 2026-04-16T18:11:36+0000  test: add regression test for #142
 2026-04-17T03:48:56+0000  feat: expose --verbose flag
 2026-04-19T17:28:15+0000  docs: clarify setup instructions
+2026-04-20T01:49:45+0000  feat: expose --verbose flag
