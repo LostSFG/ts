@@ -1922,3 +1922,4 @@
 2026-04-20T03:32:10+0000  refactor: extract helper for date parsing
 2026-04-20T14:44:12+0000  refactor: simplify control flow
 2026-04-21T15:31:42+0000  test: cover edge case in parser
+2026-04-21T23:58:04+0000  perf: avoid redundant allocations
