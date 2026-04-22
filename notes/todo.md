@@ -1824,3 +1824,4 @@
 2026-04-20T22:29:40+0000  docs: clarify setup instructions
 2026-04-21T07:24:29+0000  chore: remove dead code
 2026-04-21T15:48:54+0000  refactor: simplify control flow
+2026-04-22T06:51:35+0000  docs: clarify setup instructions
