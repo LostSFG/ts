@@ -1904,3 +1904,4 @@
 2026-04-20T17:31:13+0000  test: add regression test for #142
 2026-04-20T20:26:28+0000  style: tidy up imports
 2026-04-24T09:17:06+0000  refactor: extract helper for date parsing
+2026-04-24T12:57:51+0000  docs: add usage examples
