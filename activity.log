@@ -1906,3 +1906,4 @@
 2026-04-24T09:17:06+0000  refactor: extract helper for date parsing
 2026-04-24T12:57:51+0000  docs: add usage examples
 2026-04-28T06:53:03+0000  feat: cache computed values
+2026-04-30T08:16:45+0000  chore: update lockfile
