@@ -1933,3 +1933,4 @@
 2026-04-30T02:41:56+0000  style: tidy up imports
 2026-04-30T06:32:42+0000  feat: expose --verbose flag
 2026-04-30T13:20:55+0000  feat: cache computed values
+2026-05-01T08:50:50+0000  chore: bump dependencies
