@@ -1834,3 +1834,4 @@
 2026-04-30T12:31:26+0000  fix: correct timezone handling
 2026-04-30T13:03:28+0000  docs: clarify setup instructions
 2026-05-01T23:34:36+0000  fix: correct timezone handling
+2026-05-04T07:06:03+0000  feat: support config file overrides
