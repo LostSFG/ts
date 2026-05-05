@@ -1837,3 +1837,4 @@
 2026-05-04T07:06:03+0000  feat: support config file overrides
 2026-05-04T11:10:44+0000  docs: clarify setup instructions
 2026-05-04T23:22:00+0000  perf: avoid redundant allocations
+2026-05-05T09:48:45+0000  test: add regression test for #142
