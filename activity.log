@@ -1909,3 +1909,4 @@
 2026-04-30T08:16:45+0000  chore: update lockfile
 2026-05-01T21:05:39+0000  perf: avoid redundant allocations
 2026-05-07T03:48:38+0000  refactor: extract helper for date parsing
+2026-05-07T04:21:23+0000  docs: add usage examples
