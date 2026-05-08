@@ -1938,3 +1938,4 @@
 2026-05-07T03:39:49+0000  refactor: simplify control flow
 2026-05-07T05:30:52+0000  style: tidy up imports
 2026-05-07T23:59:28+0000  chore: update lockfile
+2026-05-08T02:52:31+0000  refactor: extract helper for date parsing
