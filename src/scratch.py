@@ -1940,3 +1940,4 @@
 2026-05-07T23:59:28+0000  chore: update lockfile
 2026-05-08T02:52:31+0000  refactor: extract helper for date parsing
 2026-05-08T17:33:59+0000  build: pin toolchain version
+2026-05-10T04:47:23+0000  perf: avoid redundant allocations
