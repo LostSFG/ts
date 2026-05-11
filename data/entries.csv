@@ -1877,3 +1877,4 @@
 2026-05-08T07:10:14+0000  docs: add usage examples
 2026-05-11T00:09:34+0000  fix: guard against None in serializer
 2026-05-11T15:12:22+0000  fix: guard against None in serializer
+2026-05-11T18:34:27+0000  docs: clarify setup instructions
