@@ -1944,3 +1944,4 @@
 2026-05-10T06:44:36+0000  feat: support config file overrides
 2026-05-10T21:31:51+0000  feat: support config file overrides
 2026-05-13T02:24:39+0000  feat: add retry with backoff
+2026-05-13T14:58:44+0000  feat: expose --verbose flag
