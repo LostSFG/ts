@@ -1943,3 +1943,4 @@
 2026-05-10T04:47:23+0000  perf: avoid redundant allocations
 2026-05-10T06:44:36+0000  feat: support config file overrides
 2026-05-10T21:31:51+0000  feat: support config file overrides
+2026-05-13T02:24:39+0000  feat: add retry with backoff
