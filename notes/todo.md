@@ -1843,3 +1843,4 @@
 2026-05-11T00:52:39+0000  test: add regression test for #142
 2026-05-11T07:51:51+0000  test: add regression test for #142
 2026-05-13T07:54:00+0000  perf: avoid redundant allocations
+2026-05-14T17:43:59+0000  chore: remove dead code
