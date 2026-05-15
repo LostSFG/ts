@@ -1882,3 +1882,4 @@
 2026-05-11T22:53:45+0000  feat: cache computed values
 2026-05-13T07:31:13+0000  fix: typo in error message
 2026-05-14T05:09:44+0000  fix: correct timezone handling
+2026-05-15T00:47:26+0000  refactor: extract helper for date parsing
