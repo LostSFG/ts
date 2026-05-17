@@ -1848,3 +1848,4 @@
 2026-05-15T07:26:36+0000  chore: bump dependencies
 2026-05-16T12:24:21+0000  chore: bump dependencies
 2026-05-16T21:48:47+0000  test: add regression test for #142
+2026-05-17T19:15:48+0000  chore: remove dead code
