@@ -1850,3 +1850,4 @@
 2026-05-16T21:48:47+0000  test: add regression test for #142
 2026-05-17T19:15:48+0000  chore: remove dead code
 2026-05-18T14:17:08+0000  test: cover edge case in parser
+2026-05-18T21:43:33+0000  test: cover edge case in parser
