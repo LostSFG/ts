@@ -1946,3 +1946,4 @@
 2026-05-13T02:24:39+0000  feat: add retry with backoff
 2026-05-13T14:58:44+0000  feat: expose --verbose flag
 2026-05-16T04:24:03+0000  test: cover edge case in parser
+2026-05-18T04:17:23+0000  fix: typo in error message
