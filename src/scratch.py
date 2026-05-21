@@ -1948,3 +1948,4 @@
 2026-05-16T04:24:03+0000  test: cover edge case in parser
 2026-05-18T04:17:23+0000  fix: typo in error message
 2026-05-18T16:15:36+0000  perf: avoid redundant allocations
+2026-05-21T07:40:07+0000  fix: guard against None in serializer
