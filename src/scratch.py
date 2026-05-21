@@ -1949,3 +1949,4 @@
 2026-05-18T04:17:23+0000  fix: typo in error message
 2026-05-18T16:15:36+0000  perf: avoid redundant allocations
 2026-05-21T07:40:07+0000  fix: guard against None in serializer
+2026-05-21T14:33:41+0000  feat: add retry with backoff
