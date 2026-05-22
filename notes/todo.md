@@ -1856,3 +1856,4 @@
 2026-05-20T03:04:06+0000  perf: avoid redundant allocations
 2026-05-21T00:34:18+0000  fix: correct timezone handling
 2026-05-21T15:52:45+0000  chore: update lockfile
+2026-05-22T03:42:44+0000  feat: expose --verbose flag
