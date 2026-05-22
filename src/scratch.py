@@ -1951,3 +1951,4 @@
 2026-05-21T07:40:07+0000  fix: guard against None in serializer
 2026-05-21T14:33:41+0000  feat: add retry with backoff
 2026-05-22T14:43:39+0000  style: tidy up imports
+2026-05-22T17:00:27+0000  feat: add retry with backoff
