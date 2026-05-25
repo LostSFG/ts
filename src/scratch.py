@@ -1953,3 +1953,4 @@
 2026-05-22T14:43:39+0000  style: tidy up imports
 2026-05-22T17:00:27+0000  feat: add retry with backoff
 2026-05-23T19:46:35+0000  chore: update lockfile
+2026-05-25T15:06:13+0000  build: pin toolchain version
