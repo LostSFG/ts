@@ -1933,3 +1933,4 @@
 2026-05-25T03:19:13+0000  refactor: extract helper for date parsing
 2026-05-25T11:54:09+0000  fix: guard against None in serializer
 2026-05-25T13:22:47+0000  docs: add usage examples
+2026-05-25T17:42:44+0000  feat: add retry with backoff
