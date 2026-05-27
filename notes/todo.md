@@ -1860,3 +1860,4 @@
 2026-05-25T09:11:30+0000  perf: avoid redundant allocations
 2026-05-26T07:41:20+0000  docs: add usage examples
 2026-05-27T07:25:24+0000  feat: add retry with backoff
+2026-05-27T10:44:59+0000  chore: bump dependencies
