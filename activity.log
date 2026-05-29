@@ -1941,3 +1941,4 @@
 2026-05-28T11:29:06+0000  style: tidy up imports
 2026-05-28T20:27:42+0000  docs: clarify setup instructions
 2026-05-29T04:54:31+0000  refactor: simplify control flow
+2026-05-29T07:51:46+0000  feat: cache computed values
