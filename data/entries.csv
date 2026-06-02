@@ -1897,3 +1897,4 @@
 2026-05-28T18:40:14+0000  fix: guard against None in serializer
 2026-05-29T08:36:07+0000  feat: expose --verbose flag
 2026-05-29T21:19:26+0000  fix: correct timezone handling
+2026-06-02T13:16:26+0000  refactor: extract helper for date parsing
