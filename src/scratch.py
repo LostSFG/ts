@@ -1955,3 +1955,4 @@
 2026-05-23T19:46:35+0000  chore: update lockfile
 2026-05-25T15:06:13+0000  build: pin toolchain version
 2026-06-01T04:51:41+0000  build: pin toolchain version
+2026-06-02T14:53:00+0000  refactor: simplify control flow
