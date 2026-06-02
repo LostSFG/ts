@@ -1946,3 +1946,4 @@
 2026-05-29T14:57:45+0000  refactor: simplify control flow
 2026-05-29T20:06:46+0000  test: add regression test for #142
 2026-05-29T21:57:28+0000  feat: cache computed values
+2026-06-02T09:04:35+0000  chore: remove dead code
