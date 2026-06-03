@@ -1899,3 +1899,4 @@
 2026-05-29T21:19:26+0000  fix: correct timezone handling
 2026-06-02T13:16:26+0000  refactor: extract helper for date parsing
 2026-06-03T17:56:24+0000  docs: clarify setup instructions
+2026-06-03T23:58:03+0000  feat: support config file overrides
