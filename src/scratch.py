@@ -1956,3 +1956,4 @@
 2026-05-25T15:06:13+0000  build: pin toolchain version
 2026-06-01T04:51:41+0000  build: pin toolchain version
 2026-06-02T14:53:00+0000  refactor: simplify control flow
+2026-06-04T18:46:37+0000  perf: avoid redundant allocations
