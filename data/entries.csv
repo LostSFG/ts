@@ -1900,3 +1900,4 @@
 2026-06-02T13:16:26+0000  refactor: extract helper for date parsing
 2026-06-03T17:56:24+0000  docs: clarify setup instructions
 2026-06-03T23:58:03+0000  feat: support config file overrides
+2026-06-04T01:28:13+0000  perf: avoid redundant allocations
