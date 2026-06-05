@@ -1948,3 +1948,4 @@
 2026-05-29T21:57:28+0000  feat: cache computed values
 2026-06-02T09:04:35+0000  chore: remove dead code
 2026-06-02T14:19:59+0000  docs: add usage examples
+2026-06-05T22:11:51+0000  test: cover edge case in parser
