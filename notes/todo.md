@@ -1863,3 +1863,4 @@
 2026-05-27T10:44:59+0000  chore: bump dependencies
 2026-05-28T16:57:52+0000  feat: add retry with backoff
 2026-05-29T17:04:13+0000  feat: cache computed values
+2026-06-05T12:13:50+0000  build: pin toolchain version
