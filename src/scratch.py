@@ -1960,3 +1960,4 @@
 2026-06-05T11:44:36+0000  style: tidy up imports
 2026-06-06T07:34:42+0000  test: cover edge case in parser
 2026-06-07T23:21:30+0000  fix: guard against None in serializer
+2026-06-08T07:00:33+0000  fix: typo in error message
