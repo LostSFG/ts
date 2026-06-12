@@ -1966,3 +1966,4 @@
 2026-06-12T03:35:07+0000  fix: correct timezone handling
 2026-06-12T08:55:57+0000  feat: support config file overrides
 2026-06-12T16:00:11+0000  chore: remove dead code
+2026-06-12T19:40:28+0000  docs: clarify setup instructions
