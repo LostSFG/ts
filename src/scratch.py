@@ -1964,3 +1964,4 @@
 2026-06-11T21:00:21+0000  refactor: simplify control flow
 2026-06-11T23:00:52+0000  docs: add usage examples
 2026-06-12T03:35:07+0000  fix: correct timezone handling
+2026-06-12T08:55:57+0000  feat: support config file overrides
