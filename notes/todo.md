@@ -1865,3 +1865,4 @@
 2026-05-29T17:04:13+0000  feat: cache computed values
 2026-06-05T12:13:50+0000  build: pin toolchain version
 2026-06-09T03:52:08+0000  refactor: extract helper for date parsing
+2026-06-12T09:14:04+0000  perf: avoid redundant allocations
