@@ -1869,3 +1869,4 @@
 2026-06-12T10:06:28+0000  build: pin toolchain version
 2026-06-12T14:35:01+0000  feat: add retry with backoff
 2026-06-13T16:31:45+0000  chore: bump dependencies
+2026-06-13T23:29:40+0000  test: add regression test for #142
