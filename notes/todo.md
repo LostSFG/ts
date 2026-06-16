@@ -1871,3 +1871,4 @@
 2026-06-13T16:31:45+0000  chore: bump dependencies
 2026-06-13T23:29:40+0000  test: add regression test for #142
 2026-06-16T12:21:50+0000  refactor: simplify control flow
+2026-06-16T16:20:51+0000  refactor: simplify control flow
