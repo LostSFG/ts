@@ -1969,3 +1969,4 @@
 2026-06-12T19:40:28+0000  docs: clarify setup instructions
 2026-06-13T10:43:04+0000  chore: remove dead code
 2026-06-15T03:50:13+0000  style: tidy up imports
+2026-06-18T06:54:35+0000  feat: expose --verbose flag
