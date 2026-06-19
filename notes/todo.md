@@ -1873,3 +1873,4 @@
 2026-06-16T12:21:50+0000  refactor: simplify control flow
 2026-06-16T16:20:51+0000  refactor: simplify control flow
 2026-06-18T14:17:54+0000  feat: support config file overrides
+2026-06-19T05:09:12+0000  chore: remove dead code
