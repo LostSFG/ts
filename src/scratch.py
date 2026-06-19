@@ -1971,3 +1971,4 @@
 2026-06-15T03:50:13+0000  style: tidy up imports
 2026-06-18T06:54:35+0000  feat: expose --verbose flag
 2026-06-18T13:20:44+0000  test: cover edge case in parser
+2026-06-19T19:49:28+0000  perf: avoid redundant allocations
