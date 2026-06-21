@@ -1875,3 +1875,4 @@
 2026-06-18T14:17:54+0000  feat: support config file overrides
 2026-06-19T05:09:12+0000  chore: remove dead code
 2026-06-19T12:39:04+0000  fix: handle empty response from upstream
+2026-06-21T14:36:31+0000  fix: typo in error message
