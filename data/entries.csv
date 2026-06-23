@@ -1914,3 +1914,4 @@
 2026-06-18T20:03:31+0000  feat: support config file overrides
 2026-06-22T17:04:06+0000  docs: add usage examples
 2026-06-22T17:58:52+0000  refactor: extract helper for date parsing
+2026-06-23T20:24:11+0000  feat: cache computed values
