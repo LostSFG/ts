@@ -1877,3 +1877,4 @@
 2026-06-19T12:39:04+0000  fix: handle empty response from upstream
 2026-06-21T14:36:31+0000  fix: typo in error message
 2026-06-21T23:57:52+0000  fix: correct timezone handling
+2026-06-23T19:38:45+0000  fix: handle empty response from upstream
