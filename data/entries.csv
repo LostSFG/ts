@@ -1918,3 +1918,4 @@
 2026-06-24T08:21:19+0000  fix: correct timezone handling
 2026-06-26T07:46:30+0000  feat: cache computed values
 2026-06-26T08:11:51+0000  test: add regression test for #142
+2026-06-26T21:07:00+0000  chore: remove dead code
