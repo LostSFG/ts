@@ -1880,3 +1880,4 @@
 2026-06-23T19:38:45+0000  fix: handle empty response from upstream
 2026-06-25T21:27:40+0000  fix: typo in error message
 2026-06-26T00:24:26+0000  fix: typo in error message
+2026-06-27T20:44:03+0000  chore: remove dead code
