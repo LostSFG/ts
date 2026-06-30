@@ -1882,3 +1882,4 @@
 2026-06-26T00:24:26+0000  fix: typo in error message
 2026-06-27T20:44:03+0000  chore: remove dead code
 2026-06-28T04:47:07+0000  test: cover edge case in parser
+2026-06-30T14:51:38+0000  refactor: extract helper for date parsing
