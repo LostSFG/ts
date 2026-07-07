@@ -1979,3 +1979,4 @@
 2026-06-28T19:02:59+0000  fix: typo in error message
 2026-06-30T04:04:36+0000  chore: remove dead code
 2026-07-06T20:21:17+0000  chore: bump dependencies
+2026-07-07T20:51:05+0000  feat: expose --verbose flag
