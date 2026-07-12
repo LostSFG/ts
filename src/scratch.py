@@ -1981,3 +1981,4 @@
 2026-07-06T20:21:17+0000  chore: bump dependencies
 2026-07-07T20:51:05+0000  feat: expose --verbose flag
 2026-07-12T14:45:34+0000  perf: avoid redundant allocations
+2026-07-12T16:55:15+0000  fix: guard against None in serializer
