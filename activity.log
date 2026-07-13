@@ -1972,3 +1972,4 @@
 2026-07-07T21:10:00+0000  chore: bump dependencies
 2026-07-08T05:27:37+0000  build: pin toolchain version
 2026-07-12T21:40:39+0000  style: tidy up imports
+2026-07-13T10:07:55+0000  perf: avoid redundant allocations
