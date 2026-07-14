@@ -1923,3 +1923,4 @@
 2026-07-04T08:12:55+0000  test: add regression test for #142
 2026-07-13T04:22:03+0000  test: cover edge case in parser
 2026-07-13T07:03:57+0000  test: add regression test for #142
+2026-07-14T08:23:28+0000  feat: cache computed values
