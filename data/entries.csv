@@ -1925,3 +1925,4 @@
 2026-07-13T07:03:57+0000  test: add regression test for #142
 2026-07-14T08:23:28+0000  feat: cache computed values
 2026-07-15T07:33:53+0000  fix: typo in error message
+2026-07-15T10:07:13+0000  style: tidy up imports
