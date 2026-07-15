@@ -1979,3 +1979,4 @@
 2026-07-14T06:54:20+0000  feat: support config file overrides
 2026-07-14T16:47:08+0000  test: add regression test for #142
 2026-07-15T05:25:12+0000  chore: update lockfile
+2026-07-15T15:42:44+0000  feat: support config file overrides
