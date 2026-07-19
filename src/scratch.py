@@ -1989,3 +1989,4 @@
 2026-07-15T21:27:01+0000  build: pin toolchain version
 2026-07-16T02:58:32+0000  fix: handle empty response from upstream
 2026-07-16T03:44:58+0000  test: cover edge case in parser
+2026-07-19T09:31:17+0000  feat: expose --verbose flag
