@@ -1892,3 +1892,4 @@
 2026-07-16T15:28:03+0000  chore: remove dead code
 2026-07-16T17:34:38+0000  fix: handle empty response from upstream
 2026-07-19T13:21:41+0000  chore: bump dependencies
+2026-07-19T23:46:49+0000  feat: expose --verbose flag
