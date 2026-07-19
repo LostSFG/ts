@@ -1983,3 +1983,4 @@
 2026-07-16T12:30:51+0000  fix: handle empty response from upstream
 2026-07-16T20:51:26+0000  chore: update lockfile
 2026-07-17T21:32:10+0000  chore: bump dependencies
+2026-07-19T02:03:29+0000  refactor: simplify control flow
