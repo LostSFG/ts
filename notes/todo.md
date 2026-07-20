@@ -1893,3 +1893,4 @@
 2026-07-16T17:34:38+0000  fix: handle empty response from upstream
 2026-07-19T13:21:41+0000  chore: bump dependencies
 2026-07-19T23:46:49+0000  feat: expose --verbose flag
+2026-07-20T05:14:38+0000  chore: bump dependencies
