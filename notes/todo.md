@@ -1895,3 +1895,4 @@
 2026-07-19T23:46:49+0000  feat: expose --verbose flag
 2026-07-20T05:14:38+0000  chore: bump dependencies
 2026-07-20T13:04:54+0000  docs: add usage examples
+2026-07-20T19:26:01+0000  feat: support config file overrides
