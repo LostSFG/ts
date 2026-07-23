@@ -1898,3 +1898,4 @@
 2026-07-20T19:26:01+0000  feat: support config file overrides
 2026-07-21T07:08:14+0000  refactor: extract helper for date parsing
 2026-07-22T15:37:33+0000  test: add regression test for #142
+2026-07-23T07:51:48+0000  chore: bump dependencies
