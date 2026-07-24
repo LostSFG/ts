@@ -1900,3 +1900,4 @@
 2026-07-22T15:37:33+0000  test: add regression test for #142
 2026-07-23T07:51:48+0000  chore: bump dependencies
 2026-07-24T03:14:43+0000  feat: cache computed values
+2026-07-24T03:34:17+0000  chore: remove dead code
