@@ -1991,3 +1991,4 @@
 2026-07-16T03:44:58+0000  test: cover edge case in parser
 2026-07-19T09:31:17+0000  feat: expose --verbose flag
 2026-07-23T01:47:37+0000  docs: add usage examples
+2026-07-29T09:50:08+0000  chore: update lockfile
