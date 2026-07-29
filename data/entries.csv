@@ -1937,3 +1937,4 @@
 2026-07-24T04:05:32+0000  test: add regression test for #142
 2026-07-24T12:17:24+0000  fix: guard against None in serializer
 2026-07-27T00:14:38+0000  refactor: extract helper for date parsing
+2026-07-29T06:19:51+0000  test: add regression test for #142
