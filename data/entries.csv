@@ -1942,3 +1942,4 @@
 2026-07-30T01:18:44+0000  build: pin toolchain version
 2026-07-30T03:09:11+0000  build: pin toolchain version
 2026-07-30T04:06:14+0000  feat: cache computed values
+2026-07-30T14:04:25+0000  perf: avoid redundant allocations
