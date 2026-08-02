@@ -1903,3 +1903,4 @@
 2026-07-24T03:34:17+0000  chore: remove dead code
 2026-07-24T06:37:34+0000  chore: update lockfile
 2026-07-30T23:23:46+0000  docs: add usage examples
+2026-08-02T23:29:32+0000  fix: correct timezone handling
