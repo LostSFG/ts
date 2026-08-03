@@ -1904,3 +1904,4 @@
 2026-07-24T06:37:34+0000  chore: update lockfile
 2026-07-30T23:23:46+0000  docs: add usage examples
 2026-08-02T23:29:32+0000  fix: correct timezone handling
+2026-08-03T19:23:20+0000  fix: handle empty response from upstream
