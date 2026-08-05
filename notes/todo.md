@@ -1905,3 +1905,4 @@
 2026-07-30T23:23:46+0000  docs: add usage examples
 2026-08-02T23:29:32+0000  fix: correct timezone handling
 2026-08-03T19:23:20+0000  fix: handle empty response from upstream
+2026-08-05T16:49:46+0000  test: add regression test for #142
