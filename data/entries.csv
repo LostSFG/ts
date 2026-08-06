@@ -1947,3 +1947,4 @@
 2026-07-31T19:39:14+0000  feat: expose --verbose flag
 2026-07-31T21:53:28+0000  fix: typo in error message
 2026-08-05T00:04:30+0000  chore: update lockfile
+2026-08-06T15:55:33+0000  chore: bump dependencies
