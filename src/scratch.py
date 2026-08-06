@@ -1999,3 +1999,4 @@
 2026-07-31T17:22:22+0000  fix: guard against None in serializer
 2026-07-31T19:07:57+0000  fix: handle empty response from upstream
 2026-08-03T10:38:00+0000  chore: bump dependencies
+2026-08-06T07:11:44+0000  docs: add usage examples
