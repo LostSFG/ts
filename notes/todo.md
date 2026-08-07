@@ -1906,3 +1906,4 @@
 2026-08-02T23:29:32+0000  fix: correct timezone handling
 2026-08-03T19:23:20+0000  fix: handle empty response from upstream
 2026-08-05T16:49:46+0000  test: add regression test for #142
+2026-08-07T06:02:33+0000  fix: guard against None in serializer
