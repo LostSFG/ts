@@ -1908,3 +1908,4 @@
 2026-08-05T16:49:46+0000  test: add regression test for #142
 2026-08-07T06:02:33+0000  fix: guard against None in serializer
 2026-08-07T10:46:05+0000  fix: guard against None in serializer
+2026-08-10T10:28:14+0000  chore: remove dead code
