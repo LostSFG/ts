@@ -1952,3 +1952,4 @@
 2026-08-07T15:41:04+0000  test: cover edge case in parser
 2026-08-07T20:33:29+0000  style: tidy up imports
 2026-08-07T21:52:46+0000  chore: update lockfile
+2026-08-10T02:40:43+0000  fix: guard against None in serializer
