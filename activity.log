@@ -1999,3 +1999,4 @@
 2026-08-10T15:18:26+0000  docs: add usage examples
 2026-08-10T17:30:13+0000  feat: cache computed values
 2026-08-11T00:54:56+0000  feat: expose --verbose flag
+2026-08-11T03:34:38+0000  feat: support config file overrides
