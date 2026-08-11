@@ -2001,3 +2001,4 @@
 2026-08-03T10:38:00+0000  chore: bump dependencies
 2026-08-06T07:11:44+0000  docs: add usage examples
 2026-08-11T04:56:40+0000  test: add regression test for #142
+2026-08-11T09:08:21+0000  fix: typo in error message
