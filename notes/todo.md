@@ -1910,3 +1910,4 @@
 2026-08-07T10:46:05+0000  fix: guard against None in serializer
 2026-08-10T10:28:14+0000  chore: remove dead code
 2026-08-10T11:41:53+0000  chore: update lockfile
+2026-08-12T09:46:47+0000  refactor: extract helper for date parsing
