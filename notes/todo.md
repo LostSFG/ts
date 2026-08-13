@@ -1911,3 +1911,4 @@
 2026-08-10T10:28:14+0000  chore: remove dead code
 2026-08-10T11:41:53+0000  chore: update lockfile
 2026-08-12T09:46:47+0000  refactor: extract helper for date parsing
+2026-08-13T12:45:12+0000  test: add regression test for #142
