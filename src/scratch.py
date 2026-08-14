@@ -2004,3 +2004,4 @@
 2026-08-11T09:08:21+0000  fix: typo in error message
 2026-08-12T02:47:25+0000  build: pin toolchain version
 2026-08-13T03:36:47+0000  docs: clarify setup instructions
+2026-08-14T17:01:10+0000  build: pin toolchain version
