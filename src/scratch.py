@@ -2006,3 +2006,4 @@
 2026-08-13T03:36:47+0000  docs: clarify setup instructions
 2026-08-14T17:01:10+0000  build: pin toolchain version
 2026-08-18T00:53:34+0000  fix: correct timezone handling
+2026-08-18T23:21:15+0000  feat: add retry with backoff
