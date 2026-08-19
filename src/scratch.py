@@ -2008,3 +2008,4 @@
 2026-08-18T00:53:34+0000  fix: correct timezone handling
 2026-08-18T23:21:15+0000  feat: add retry with backoff
 2026-08-19T10:11:46+0000  style: tidy up imports
+2026-08-19T16:32:48+0000  chore: remove dead code
