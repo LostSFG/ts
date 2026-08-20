@@ -2009,3 +2009,4 @@
 2026-08-18T23:21:15+0000  feat: add retry with backoff
 2026-08-19T10:11:46+0000  style: tidy up imports
 2026-08-19T16:32:48+0000  chore: remove dead code
+2026-08-20T09:29:59+0000  refactor: simplify control flow
