@@ -2012,3 +2012,4 @@
 2026-08-20T09:29:59+0000  refactor: simplify control flow
 2026-08-20T16:10:03+0000  fix: handle empty response from upstream
 2026-08-20T18:39:56+0000  feat: add retry with backoff
+2026-08-20T20:13:23+0000  refactor: extract helper for date parsing
