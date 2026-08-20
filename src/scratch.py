@@ -2010,3 +2010,4 @@
 2026-08-19T10:11:46+0000  style: tidy up imports
 2026-08-19T16:32:48+0000  chore: remove dead code
 2026-08-20T09:29:59+0000  refactor: simplify control flow
+2026-08-20T16:10:03+0000  fix: handle empty response from upstream
