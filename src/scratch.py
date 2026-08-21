@@ -2014,3 +2014,4 @@
 2026-08-20T18:39:56+0000  feat: add retry with backoff
 2026-08-20T20:13:23+0000  refactor: extract helper for date parsing
 2026-08-21T13:12:10+0000  docs: add usage examples
+2026-08-21T17:12:38+0000  fix: typo in error message
