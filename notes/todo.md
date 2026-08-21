@@ -1915,3 +1915,4 @@
 2026-08-15T08:54:58+0000  feat: cache computed values
 2026-08-18T07:58:07+0000  docs: clarify setup instructions
 2026-08-19T10:20:41+0000  test: cover edge case in parser
+2026-08-21T23:20:51+0000  fix: handle empty response from upstream
