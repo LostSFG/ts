@@ -1962,3 +1962,4 @@
 2026-08-19T02:09:38+0000  fix: typo in error message
 2026-08-19T19:00:46+0000  feat: add retry with backoff
 2026-08-23T12:54:17+0000  feat: expose --verbose flag
+2026-08-24T04:42:09+0000  chore: bump dependencies
