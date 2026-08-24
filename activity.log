@@ -2014,3 +2014,4 @@
 2026-08-18T11:09:46+0000  test: add regression test for #142
 2026-08-18T19:19:46+0000  feat: cache computed values
 2026-08-24T05:10:51+0000  feat: expose --verbose flag
+2026-08-24T17:27:45+0000  perf: avoid redundant allocations
