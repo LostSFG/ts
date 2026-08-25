@@ -1917,3 +1917,4 @@
 2026-08-19T10:20:41+0000  test: cover edge case in parser
 2026-08-21T23:20:51+0000  fix: handle empty response from upstream
 2026-08-24T11:59:14+0000  chore: remove dead code
+2026-08-25T05:03:41+0000  fix: correct timezone handling
