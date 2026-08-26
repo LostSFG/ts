@@ -1918,3 +1918,4 @@
 2026-08-21T23:20:51+0000  fix: handle empty response from upstream
 2026-08-24T11:59:14+0000  chore: remove dead code
 2026-08-25T05:03:41+0000  fix: correct timezone handling
+2026-08-26T01:39:46+0000  feat: support config file overrides
