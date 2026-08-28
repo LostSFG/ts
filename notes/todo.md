@@ -1921,3 +1921,4 @@
 2026-08-26T01:39:46+0000  feat: support config file overrides
 2026-08-26T14:07:17+0000  refactor: simplify control flow
 2026-08-28T10:44:29+0000  style: tidy up imports
+2026-08-28T19:59:54+0000  test: cover edge case in parser
