@@ -2022,3 +2022,4 @@
 2026-08-28T11:45:53+0000  docs: add usage examples
 2026-08-28T18:35:45+0000  chore: bump dependencies
 2026-08-29T14:38:15+0000  chore: remove dead code
+2026-09-01T11:36:38+0000  refactor: extract helper for date parsing
