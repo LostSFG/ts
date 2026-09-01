@@ -2018,3 +2018,4 @@
 2026-08-26T14:30:06+0000  feat: add retry with backoff
 2026-08-26T19:44:46+0000  fix: correct timezone handling
 2026-08-27T18:39:58+0000  chore: bump dependencies
+2026-09-01T20:17:14+0000  fix: guard against None in serializer
