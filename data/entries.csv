@@ -1970,3 +1970,4 @@
 2026-09-01T19:38:31+0000  docs: add usage examples
 2026-09-02T20:26:08+0000  style: tidy up imports
 2026-09-03T13:39:38+0000  test: add regression test for #142
+2026-09-03T20:42:08+0000  chore: update lockfile
