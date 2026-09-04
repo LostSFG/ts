@@ -1925,3 +1925,4 @@
 2026-09-02T01:05:59+0000  refactor: simplify control flow
 2026-09-02T04:35:00+0000  refactor: extract helper for date parsing
 2026-09-02T14:26:53+0000  build: pin toolchain version
+2026-09-04T18:24:40+0000  feat: add retry with backoff
