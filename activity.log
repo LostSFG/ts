@@ -2022,3 +2022,4 @@
 2026-09-02T22:05:29+0000  style: tidy up imports
 2026-09-03T14:45:48+0000  fix: correct timezone handling
 2026-09-05T07:21:31+0000  chore: remove dead code
+2026-09-05T15:23:13+0000  fix: typo in error message
