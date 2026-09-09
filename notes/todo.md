@@ -1929,3 +1929,4 @@
 2026-09-05T04:26:09+0000  feat: cache computed values
 2026-09-09T03:39:46+0000  refactor: simplify control flow
 2026-09-09T03:55:04+0000  refactor: extract helper for date parsing
+2026-09-09T08:39:33+0000  docs: clarify setup instructions
