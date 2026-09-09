@@ -1973,3 +1973,4 @@
 2026-09-03T20:42:08+0000  chore: update lockfile
 2026-09-05T10:44:10+0000  style: tidy up imports
 2026-09-09T09:21:51+0000  fix: guard against None in serializer
+2026-09-09T11:08:45+0000  feat: add retry with backoff
