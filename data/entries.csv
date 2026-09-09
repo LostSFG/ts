@@ -1972,3 +1972,4 @@
 2026-09-03T13:39:38+0000  test: add regression test for #142
 2026-09-03T20:42:08+0000  chore: update lockfile
 2026-09-05T10:44:10+0000  style: tidy up imports
+2026-09-09T09:21:51+0000  fix: guard against None in serializer
