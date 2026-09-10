@@ -2026,3 +2026,4 @@
 2026-09-02T18:05:19+0000  chore: remove dead code
 2026-09-09T09:50:04+0000  fix: handle empty response from upstream
 2026-09-09T13:10:59+0000  docs: clarify setup instructions
+2026-09-10T08:09:38+0000  chore: remove dead code
