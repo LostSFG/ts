@@ -1930,3 +1930,4 @@
 2026-09-09T03:39:46+0000  refactor: simplify control flow
 2026-09-09T03:55:04+0000  refactor: extract helper for date parsing
 2026-09-09T08:39:33+0000  docs: clarify setup instructions
+2026-09-10T11:24:06+0000  docs: clarify setup instructions
