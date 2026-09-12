@@ -1976,3 +1976,4 @@
 2026-09-09T11:08:45+0000  feat: add retry with backoff
 2026-09-09T11:18:43+0000  feat: expose --verbose flag
 2026-09-10T12:49:02+0000  feat: cache computed values
+2026-09-12T04:54:39+0000  chore: remove dead code
