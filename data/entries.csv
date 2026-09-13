@@ -1977,3 +1977,4 @@
 2026-09-09T11:18:43+0000  feat: expose --verbose flag
 2026-09-10T12:49:02+0000  feat: cache computed values
 2026-09-12T04:54:39+0000  chore: remove dead code
+2026-09-13T07:59:32+0000  feat: support config file overrides
