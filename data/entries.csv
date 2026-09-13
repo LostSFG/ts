@@ -1980,3 +1980,4 @@
 2026-09-13T07:59:32+0000  feat: support config file overrides
 2026-09-13T17:44:24+0000  docs: add usage examples
 2026-09-13T19:22:16+0000  refactor: simplify control flow
+2026-09-13T20:28:03+0000  fix: guard against None in serializer
