@@ -1933,3 +1933,4 @@
 2026-09-10T11:24:06+0000  docs: clarify setup instructions
 2026-09-12T18:49:44+0000  chore: update lockfile
 2026-09-15T17:43:59+0000  style: tidy up imports
+2026-09-16T20:25:03+0000  fix: guard against None in serializer
