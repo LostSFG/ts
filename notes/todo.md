@@ -1937,3 +1937,4 @@
 2026-09-18T04:28:48+0000  perf: avoid redundant allocations
 2026-09-18T18:01:23+0000  perf: avoid redundant allocations
 2026-09-18T23:16:19+0000  feat: cache computed values
+2026-09-19T06:11:01+0000  docs: add usage examples
