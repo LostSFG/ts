@@ -2030,3 +2030,4 @@
 2026-09-16T03:42:07+0000  test: cover edge case in parser
 2026-09-16T07:49:22+0000  refactor: extract helper for date parsing
 2026-09-18T23:44:22+0000  build: pin toolchain version
+2026-09-21T12:47:15+0000  fix: guard against None in serializer
