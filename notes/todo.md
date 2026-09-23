@@ -1939,3 +1939,4 @@
 2026-09-18T23:16:19+0000  feat: cache computed values
 2026-09-19T06:11:01+0000  docs: add usage examples
 2026-09-21T14:38:23+0000  docs: add usage examples
+2026-09-23T06:45:56+0000  feat: add retry with backoff
