@@ -2039,3 +2039,4 @@
 2026-09-23T08:46:28+0000  feat: add retry with backoff
 2026-09-23T16:27:57+0000  feat: add retry with backoff
 2026-09-24T20:55:06+0000  docs: add usage examples
+2026-09-25T15:14:54+0000  fix: typo in error message
