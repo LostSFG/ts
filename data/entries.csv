@@ -1997,3 +1997,4 @@
 2026-09-23T21:57:21+0000  refactor: extract helper for date parsing
 2026-09-24T02:40:24+0000  fix: handle empty response from upstream
 2026-09-24T21:40:10+0000  test: add regression test for #142
+2026-09-27T08:59:38+0000  chore: remove dead code
