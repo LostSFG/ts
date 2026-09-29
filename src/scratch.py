@@ -2042,3 +2042,4 @@
 2026-09-25T15:14:54+0000  fix: typo in error message
 2026-09-25T18:58:12+0000  refactor: simplify control flow
 2026-09-28T08:23:04+0000  fix: correct timezone handling
+2026-09-29T02:41:00+0000  fix: handle empty response from upstream
