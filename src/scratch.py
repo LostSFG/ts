@@ -2045,3 +2045,4 @@
 2026-09-29T02:41:00+0000  fix: handle empty response from upstream
 2026-09-30T00:28:33+0000  chore: remove dead code
 2026-10-01T13:52:51+0000  chore: remove dead code
+2026-10-02T12:18:00+0000  perf: avoid redundant allocations
