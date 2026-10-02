@@ -1942,3 +1942,4 @@
 2026-09-23T06:45:56+0000  feat: add retry with backoff
 2026-09-23T11:21:18+0000  chore: update lockfile
 2026-10-02T01:06:42+0000  refactor: extract helper for date parsing
+2026-10-02T10:41:30+0000  test: cover edge case in parser
