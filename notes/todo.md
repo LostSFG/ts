@@ -1941,3 +1941,4 @@
 2026-09-21T14:38:23+0000  docs: add usage examples
 2026-09-23T06:45:56+0000  feat: add retry with backoff
 2026-09-23T11:21:18+0000  chore: update lockfile
+2026-10-02T01:06:42+0000  refactor: extract helper for date parsing
