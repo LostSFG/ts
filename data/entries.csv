@@ -2004,3 +2004,4 @@
 2026-09-29T03:01:36+0000  chore: remove dead code
 2026-09-29T09:46:14+0000  feat: add retry with backoff
 2026-10-02T07:25:43+0000  docs: clarify setup instructions
+2026-10-02T12:33:46+0000  feat: add retry with backoff
