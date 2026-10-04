@@ -2046,3 +2046,4 @@
 2026-09-29T19:21:59+0000  fix: guard against None in serializer
 2026-09-29T22:30:55+0000  chore: update lockfile
 2026-10-02T01:46:37+0000  feat: add retry with backoff
+2026-10-04T08:03:20+0000  test: add regression test for #142
