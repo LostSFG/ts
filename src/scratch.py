@@ -2050,3 +2050,4 @@
 2026-10-04T05:07:24+0000  feat: support config file overrides
 2026-10-05T05:17:14+0000  chore: update lockfile
 2026-10-05T07:10:04+0000  chore: remove dead code
+2026-10-06T23:05:58+0000  perf: avoid redundant allocations
