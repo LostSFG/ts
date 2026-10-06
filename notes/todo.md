@@ -1946,3 +1946,4 @@
 2026-10-02T14:03:53+0000  feat: support config file overrides
 2026-10-02T19:25:34+0000  fix: handle empty response from upstream
 2026-10-05T03:05:56+0000  test: add regression test for #142
+2026-10-06T09:43:44+0000  test: cover edge case in parser
