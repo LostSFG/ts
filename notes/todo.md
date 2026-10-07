@@ -1948,3 +1948,4 @@
 2026-10-05T03:05:56+0000  test: add regression test for #142
 2026-10-06T09:43:44+0000  test: cover edge case in parser
 2026-10-06T21:41:15+0000  perf: avoid redundant allocations
+2026-10-07T04:38:48+0000  fix: typo in error message
