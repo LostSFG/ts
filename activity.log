@@ -2049,3 +2049,4 @@
 2026-10-04T08:03:20+0000  test: add regression test for #142
 2026-10-06T21:32:44+0000  test: add regression test for #142
 2026-10-07T13:33:48+0000  fix: typo in error message
+2026-10-08T08:43:58+0000  perf: avoid redundant allocations
