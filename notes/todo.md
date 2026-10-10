@@ -1950,3 +1950,4 @@
 2026-10-06T21:41:15+0000  perf: avoid redundant allocations
 2026-10-07T04:38:48+0000  fix: typo in error message
 2026-10-10T01:47:36+0000  style: tidy up imports
+2026-10-10T16:01:35+0000  test: cover edge case in parser
